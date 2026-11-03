@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+<title id="title">Hexokinase changes conformation when glucose binds</title><desc id="desc">Adapted from the Week 8 lecture illustration. An open enzyme conformation closes around glucose, illustrating induced fit and substrate specificity.</desc>
+<style>.t{font-family:Arial,Helvetica,sans-serif;fill:#172033}.h{font-size:27px;font-weight:700}.m{font-size:20px;font-weight:700}.s{font-size:17px;fill:#475569}.enzyme{fill:#dbeafe;stroke:#1d4ed8;stroke-width:4}.active{fill:#fef3c7;stroke:#d97706;stroke-width:3}.glucose{fill:#dc2626;stroke:#991b1b;stroke-width:3}.arrow{stroke:#475569;stroke-width:4;fill:none;marker-end:url(#a)}</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#475569"/></marker></defs>
+<rect width="1100" height="430" fill="#fff" rx="24"/><text x="42" y="48" class="t h">Lecture visual: hexokinase illustrates induced fit</text>
+<g transform="translate(70 95)">
+<path class="enzyme" d="M20,190 C15,95 85,20 190,25 C265,28 318,80 330,135 C310,128 286,125 263,126 C224,128 197,151 185,182 C170,221 127,248 83,237 C48,228 26,211 20,190Z"/>
+<path class="active" d="M240,112 C267,104 291,108 312,126 C289,136 272,151 263,172 C250,155 241,136 240,112Z"/><text x="169" y="280" text-anchor="middle" class="t m">Open hexokinase</text><text x="169" y="308" text-anchor="middle" class="t s">active site accessible</text>
+<circle class="glucose" cx="420" cy="150" r="28"/><text x="420" y="156" text-anchor="middle" fill="white" font-family="Arial" font-size="16" font-weight="700">Glc</text><line class="arrow" x1="350" y1="150" x2="382" y2="150"/><line class="arrow" x1="458" y1="150" x2="500" y2="150"/>
+<path class="enzyme" d="M520,190 C514,95 586,20 690,25 C780,29 847,90 848,166 C826,140 799,128 766,128 C723,128 693,154 678,185 C660,223 615,248 571,237 C542,229 524,211 520,190Z"/>
+<path class="active" d="M725,115 C757,112 788,127 809,151 C790,176 761,188 728,183 C709,168 700,141 725,115Z"/><circle class="glucose" cx="764" cy="151" r="22"/>
+<text x="684" y="280" text-anchor="middle" class="t m">Glucose-bound hexokinase</text><text x="684" y="308" text-anchor="middle" class="t s">enzyme and substrate change conformation</text>
+<rect x="850" y="70" width="160" height="185" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/><text x="930" y="105" text-anchor="middle" class="t m">Key point</text><text x="930" y="139" text-anchor="middle" class="t s">multiple weak</text><text x="930" y="164" text-anchor="middle" class="t s">interactions</text><text x="930" y="197" text-anchor="middle" class="t s">position catalytic</text><text x="930" y="222" text-anchor="middle" class="t s">groups correctly</text>
+</g></svg>
