@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "study-guides/"
+    - "practice/"
+
+website:
+  title: "Biochemistry of the Cell — Part II"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: study-guides/index.qmd
+        text: Weekly Study Guides
+      - href: practice/index.qmd
+        text: Practice Questions
+  page-footer:
+    center: "MBB201 — Biochemistry of the Cell, Part II"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    css: styles.css
+
+execute:
+  freeze: auto

@@ -1,0 +1,546 @@
+---
+title: "Week 9 Practice — Glycolysis, Pyruvate, and the Citric Acid Cycle"
+---
+
+**Format:** 30 multiple-choice questions plus constructed-response questions covering every Week 9 learning objective. Answers are hidden initially.
+
+# Part A — Multiple Choice
+
+### Question 1 — Polysaccharides
+Which statement correctly distinguishes glycogen from amylopectin?
+
+- **A.** Glycogen contains fructose instead of glucose.
+- **B.** Glycogen is more highly branched.
+- **C.** Glycogen has only β(1→4) bonds.
+- **D.** Glycogen is found only in plants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Glycogen and amylopectin both contain α(1→4) chains and α(1→6) branches, but glycogen is more highly branched.
+:::
+
+### Question 2 — Amylose
+Amylose is best described as:
+
+- **A.** a linear glucose polymer with α(1→4) linkages
+- **B.** a branched glucose polymer with β(1→6) linkages
+- **C.** an animal storage lipid
+- **D.** a polymer of fructose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 3 — Glycolysis location
+Glycolysis occurs primarily in the:
+
+- **A.** mitochondrial matrix
+- **B.** intermembrane space
+- **C.** cytosol
+- **D.** nucleus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 4 — Net glycolysis
+One glucose molecule yields, net:
+
+- **A.** 2 ATP, 2 NADH, 2 pyruvate
+- **B.** 4 ATP, 4 NADH, 1 pyruvate
+- **C.** 2 ATP, 0 NADH, 2 acetyl-CoA
+- **D.** 0 ATP, 2 FADH2, 6 CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 5 — ATP investment
+How many ATP molecules are invested during early glycolysis per glucose?
+
+- **A.** 0
+- **B.** 1
+- **C.** 2
+- **D.** 4
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 6 — Reaction 1
+The first glycolytic reaction converts glucose to:
+
+- **A.** fructose-6-phosphate
+- **B.** glucose-6-phosphate
+- **C.** glyceraldehyde-3-phosphate
+- **D.** pyruvate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 7 — Liver glucokinase
+Why is liver glucose not necessarily phosphorylated immediately when blood glucose is low?
+
+- **A.** Liver cells lack ATP.
+- **B.** Glucokinase can be sequestered in the nucleus.
+- **C.** GLUT2 transports only phosphorylated glucose.
+- **D.** Hexokinase is permanently inactive in liver.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 8 — Reaction 2
+Phosphoglucose isomerase catalyzes:
+
+- **A.** glucose → glucose-6-phosphate
+- **B.** glucose-6-phosphate → fructose-6-phosphate
+- **C.** fructose-6-phosphate → fructose-1,6-bisphosphate
+- **D.** PEP → pyruvate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 9 — Why isomerize?
+The reaction-2 isomerization helps prepare the six-carbon sugar for:
+
+- **A.** direct entry into the CAC
+- **B.** cleavage into two phosphorylated three-carbon molecules
+- **C.** release as CO2
+- **D.** conversion into glycogen without phosphorylation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 10 — Reaction 3
+Reaction 3 produces:
+
+- **A.** fructose-1,6-bisphosphate
+- **B.** pyruvate
+- **C.** acetyl-CoA
+- **D.** lactate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 11 — Reactions 4–5
+The key net result of reactions 4 and 5 is formation of:
+
+- **A.** one glyceraldehyde-3-phosphate
+- **B.** two glyceraldehyde-3-phosphate molecules
+- **C.** two acetyl-CoA molecules
+- **D.** six CO2 molecules
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 12 — Reaction 6 redox
+In reaction 6, NAD+ is:
+
+- **A.** oxidized to NADH
+- **B.** reduced to NADH
+- **C.** converted to FADH2
+- **D.** hydrolyzed to ADP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 13 — Reaction 6 substrate
+During reaction 6, glyceraldehyde-3-phosphate is:
+
+- **A.** reduced
+- **B.** oxidized
+- **C.** decarboxylated
+- **D.** converted to glucose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 14 — High-energy intermediate
+The high-transfer-potential product formed in reaction 6 is:
+
+- **A.** glucose-6-phosphate
+- **B.** 1,3-bisphosphoglycerate
+- **C.** fructose-6-phosphate
+- **D.** lactate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 15 — Substrate-level phosphorylation
+Substrate-level phosphorylation means:
+
+- **A.** ATP phosphorylates the substrate
+- **B.** phosphate is transferred directly from a high-energy substrate to ADP
+- **C.** oxygen directly phosphorylates ADP
+- **D.** ATP synthase transfers electrons to ADP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 16 — Reaction 7 net ATP
+After reaction 7 has occurred for both three-carbon intermediates, the net ATP yield so far is:
+
+- **A.** −2
+- **B.** 0
+- **C.** +2
+- **D.** +4
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Two ATP have now been generated, but two were invested earlier.
+:::
+
+### Question 17 — PEP
+Phosphoenolpyruvate is important because it:
+
+- **A.** has high phosphate-transfer potential
+- **B.** is the final electron acceptor
+- **C.** is a six-carbon sugar
+- **D.** is produced by PDH
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 18 — Final glycolysis ATP
+How does glycolysis achieve a net gain of 2 ATP?
+
+- **A.** 2 are made and none are used.
+- **B.** 6 are made and 4 are used.
+- **C.** 4 are made and 2 are used.
+- **D.** 2 GTP are converted to ATP.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 19 — Aerobic pyruvate
+Under aerobic conditions, pyruvate is transported into the:
+
+- **A.** nucleus
+- **B.** mitochondrial matrix
+- **C.** lysosome
+- **D.** Golgi apparatus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 20 — PDH products
+Per pyruvate, the pyruvate dehydrogenase complex produces:
+
+- **A.** 1 acetyl-CoA, 1 CO2, 1 NADH
+- **B.** 2 acetyl-CoA, 2 ATP, 1 FADH2
+- **C.** 1 lactate, 1 NAD+, 1 ATP
+- **D.** 2 CO2, 3 NADH, 1 GTP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 21 — PDH per glucose
+Per glucose, PDH generates:
+
+- **A.** 1 NADH and 1 CO2
+- **B.** 2 NADH and 2 CO2
+- **C.** 6 NADH and 4 CO2
+- **D.** 2 FADH2 and 2 GTP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 22 — Acetyl-CoA
+Which statement is correct?
+
+- **A.** Acetyl-CoA can be converted directly back to pyruvate by reversing PDH.
+- **B.** Acetyl-CoA is a two-carbon carrier that enters the CAC.
+- **C.** Acetyl-CoA is produced only from carbohydrate.
+- **D.** Acetyl-CoA is the final product of glycolysis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 23 — CAC products
+One turn of the CAC produces:
+
+- **A.** 3 NADH, 1 FADH2, 1 GTP, 2 CO2
+- **B.** 2 NADH, 2 FADH2, 2 ATP, 1 CO2
+- **C.** 1 NADH, 3 ATP, 2 pyruvate
+- **D.** 6 NADH, 2 FADH2, 4 CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 24 — CAC turns per glucose
+The CAC turns how many times per glucose?
+
+- **A.** 1
+- **B.** 2
+- **C.** 3
+- **D.** 6
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 25 — Total NADH
+By the end of glycolysis, PDH, and two CAC turns, the lecture totals:
+
+- **A.** 2 NADH
+- **B.** 6 NADH
+- **C.** 10 NADH
+- **D.** 12 NADH
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 26 — Total CO2
+By the end of PDH and the CAC, how many CO2 have been released per glucose?
+
+- **A.** 2
+- **B.** 4
+- **C.** 6
+- **D.** 8
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 27 — Anaplerosis
+An anaplerotic reaction:
+
+- **A.** removes all intermediates from the CAC
+- **B.** replenishes CAC intermediates
+- **C.** converts NADH directly to ATP
+- **D.** prevents amino acids from entering metabolism
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 28 — Lactate formation
+In oxygen-limited muscle, pyruvate is converted to lactate mainly to:
+
+- **A.** produce CO2
+- **B.** regenerate NAD+
+- **C.** generate FADH2
+- **D.** produce acetyl-CoA
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 29 — Anaerobic ATP
+In the absence of sufficient oxygen, glycolysis can still provide:
+
+- **A.** net 2 ATP per glucose
+- **B.** 38 ATP per glucose
+- **C.** 0 ATP per glucose
+- **D.** 6 GTP per glucose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 30 — Cori cycle
+In the Cori cycle, lactate produced by muscle is transported mainly to the:
+
+- **A.** kidney, where it becomes acetyl-CoA
+- **B.** liver, where it can be converted back to glucose
+- **C.** brain, where it becomes glycogen
+- **D.** pancreas, where it becomes insulin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+# Part B — Constructed Response
+
+### Question 31 — Three nutritional polysaccharides
+Name amylose, amylopectin, and glycogen and distinguish their branching patterns.
+
+::: {.callout-tip collapse="true" title="Answer"}
+All three are glucose polymers. Amylose is mainly linear with α(1→4) linkages. Amylopectin has α(1→4) chains with α(1→6) branch points. Glycogen has the same general linkage types as amylopectin but is more highly branched.
+:::
+
+### Question 32 — Glycosidic bonds
+What covalent linkages connect glucose in the three storage polysaccharides emphasized in lecture?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The chains use α(1→4) glycosidic bonds; branch points in amylopectin and glycogen use α(1→6) bonds.
+:::
+
+### Question 33 — Glycolysis net result
+State the net ATP, NADH, and pyruvate yield per glucose.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Net **2 ATP, 2 NADH, and 2 pyruvate**.
+:::
+
+### Question 34 — Three stages
+Describe the three conceptual stages of glycolysis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+An energy-investment/trapping stage phosphorylates and rearranges glucose; a cleavage stage generates two three-carbon intermediates; an energy-payoff stage oxidizes those intermediates and generates NADH and ATP.
+:::
+
+### Question 35 — Reaction 1
+Give substrate, enzyme, and product for glycolysis reaction 1.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Substrate: **glucose**. Enzyme: **hexokinase**; in liver the lecture emphasizes **glucokinase/hexokinase IV**. Product: **glucose-6-phosphate**.
+:::
+
+### Question 36 — Liver regulation
+Why does the liver not necessarily phosphorylate small amounts of incoming glucose immediately, and when does phosphorylation increase?
+
+::: {.callout-tip collapse="true" title="Answer"}
+At lower glucose levels, glucokinase can be sequestered in the nucleus, allowing free glucose to equilibrate through GLUT2 rather than being trapped immediately. As intracellular/nuclear glucose rises, glucokinase is released to the cytosol and phosphorylates excess glucose, helping retain it in the liver cell.
+:::
+
+### Question 37 — Reaction 2
+Why is glucose-6-phosphate isomerized to fructose-6-phosphate?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Moving the carbonyl prepares the six-carbon sugar for a second phosphorylation and for later cleavage into two phosphorylated three-carbon molecules.
+:::
+
+### Question 38 — Reaction 3
+What happens in reaction 3?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Fructose-6-phosphate is phosphorylated using ATP to form **fructose-1,6-bisphosphate**, completing the principal energy-investment phase.
+:::
+
+### Question 39 — Reactions 4–5
+What is the key net outcome of reactions 4 and 5?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The six-carbon fructose-1,6-bisphosphate is converted into **two molecules of glyceraldehyde-3-phosphate**.
+:::
+
+### Question 40 — Reaction 6
+List the three major metabolic consequences emphasized for reaction 6.
+
+::: {.callout-tip collapse="true" title="Answer"}
+NAD+ is reduced to NADH; glyceraldehyde-3-phosphate is oxidized; and a high-transfer-potential intermediate, 1,3-bisphosphoglycerate, is generated, setting up ATP production by substrate-level phosphorylation.
+:::
+
+### Question 41 — Reaction 7
+Why is the net ATP yield still zero after reaction 7?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Two ATP were invested earlier. Reaction 7 occurs twice per glucose and produces two ATP, exactly paying back the two invested ATP, so the net yield at that point is zero.
+:::
+
+### Question 42 — Net 2 ATP
+How does glycolysis end with a net synthesis of 2 ATP?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Two ATP are invested early. Two ATP are produced at reaction 7 and two more at reaction 10, for four produced total. Four produced minus two invested gives a net gain of two.
+:::
+
+### Question 43 — Three fates of pyruvate
+Name three broad metabolic fates of pyruvate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Aerobic conversion to acetyl-CoA in mitochondria; reduction to lactate in oxygen-limited animal tissues; and fermentation to products such as ethanol in other organisms.
+:::
+
+### Question 44 — Aerobic pyruvate
+What happens to pyruvate under aerobic conditions?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It is transported into the mitochondrial matrix and oxidatively decarboxylated by the pyruvate dehydrogenase complex to form acetyl-CoA, CO2, and NADH.
+:::
+
+### Question 45 — PDH stoichiometry
+What does PDH produce per glucose?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Because there are two pyruvates per glucose, PDH produces **2 acetyl-CoA, 2 CO2, and 2 NADH**.
+:::
+
+### Question 46 — Acetyl-CoA
+Explain the role of acetyl-CoA in the CAC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Acetyl-CoA carries a two-carbon acetyl group with high transfer potential into the CAC. Those carbons enter the cycle, while the cycle captures energy mainly in NADH and FADH2 and releases carbon as CO2.
+:::
+
+### Question 47 — One CAC turn
+List the products of one CAC turn.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**3 NADH, 1 FADH2, 1 GTP, and 2 CO2** per acetyl-CoA.
+:::
+
+### Question 48 — Overall stoichiometry
+Give the lecture's totals from one glucose through the end of the CAC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**10 NADH, 2 FADH2, 4 ATP equivalents (2 ATP + 2 GTP), and 6 CO2.**
+:::
+
+### Question 49 — Anaplerotic reaction
+What is an anaplerotic reaction?
+
+::: {.callout-tip collapse="true" title="Answer"}
+A reaction that replenishes a CAC intermediate that has been withdrawn for another cellular purpose, helping keep the cycle supplied.
+:::
+
+### Question 50 — Lactate
+Under what condition is pyruvate converted to lactate, and why?
+
+::: {.callout-tip collapse="true" title="Answer"}
+When oxygen is limiting and NADH cannot be efficiently reoxidized through the ETC, pyruvate is reduced to lactate so NADH can be oxidized back to NAD+. This regenerates the NAD+ required for glycolysis reaction 6.
+:::
+
+### Question 51 — Cori cycle
+Describe the Cori cycle.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Muscle converts glucose to lactate during anaerobic glycolysis. Lactate enters the bloodstream and travels to the liver, where it is converted back to glucose. Glucose can then return to the circulation and be reused by muscle.
+:::
+
+# Part C — Integrated Practice
+
+### Question 52 — Carbon accounting
+Why does everything after glycolysis reaction 4 need to be counted twice per glucose?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Because the six-carbon glucose has been split into two three-carbon molecules. Both molecules pass through the remaining payoff reactions.
+:::
+
+### Question 53 — Redox and ATP
+Why is reaction 6 important even though it does not directly make ATP?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It captures electrons in NADH and creates 1,3-bisphosphoglycerate, whose high transfer potential drives ATP formation in reaction 7.
+:::
+
+### Question 54 — Anaerobic logic
+If lactate dehydrogenase were blocked during intense oxygen-limited exercise, which glycolytic requirement would become limiting?
+
+::: {.callout-tip collapse="true" title="Answer"}
+**NAD+** would become limiting. Without lactate formation, NADH could not be efficiently reoxidized to regenerate NAD+, causing glycolysis to stall at the glyceraldehyde-3-phosphate dehydrogenase step.
+:::
+
+### Question 55 — Pathway synthesis
+Trace one glucose molecule from glucose through the end of the CAC in one sentence.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Glucose is split by glycolysis into two pyruvates, each pyruvate is converted by PDH to acetyl-CoA, and the two acetyl-CoA molecules drive two CAC turns that release the remaining carbons as CO2 while producing NADH, FADH2, and GTP.
+:::

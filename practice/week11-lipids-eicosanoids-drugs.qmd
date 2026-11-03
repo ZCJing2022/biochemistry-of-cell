@@ -1,0 +1,514 @@
+---
+title: "Week 11 Practice — Lipids, Eicosanoids, and Drug Action"
+---
+
+**Format:** 30 multiple-choice questions plus constructed-response questions covering every Week 11 learning objective. Answers are hidden initially.
+
+# Part A — Multiple Choice
+
+### Question 1 — White adipose tissue
+The principal characteristic emphasized for white adipose tissue is:
+
+- **A.** constitutive thermogenesis through UCP1
+- **B.** storage of triacylglycerols plus endocrine functions
+- **C.** synthesis of thromboxane A2
+- **D.** production of all eicosanoids
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 2 — Brown adipose tissue
+Brown adipose tissue is especially adapted for:
+
+- **A.** thermogenesis
+- **B.** glycogen storage only
+- **C.** DNA replication
+- **D.** protein secretion
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Brown adipocytes are rich in mitochondria containing uncoupling protein/thermogenin.
+:::
+
+### Question 3 — Beige adipose tissue
+The lecture's defining feature of beige adipose tissue is:
+
+- **A.** permanent absence of mitochondria
+- **B.** inducible thermogenesis
+- **C.** inability to store lipids
+- **D.** constitutive COX-2 expression
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 4 — Cis double bond
+A cis double bond in a fatty-acid chain tends to:
+
+- **A.** straighten the chain
+- **B.** introduce a bend and reduce tight packing
+- **C.** convert the fatty acid into a carbohydrate
+- **D.** eliminate all hydrophobic character
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 5 — Essential fatty acid
+A fatty acid is called essential when:
+
+- **A.** it is found only in mitochondria
+- **B.** animals require it but cannot synthesize enough of it and must obtain it from diet
+- **C.** it contains no double bonds
+- **D.** it can be made from acetyl-CoA in unlimited amounts
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 6 — Essential fatty acids
+Which pair is emphasized as essential in the lecture?
+
+- **A.** palmitate and stearate
+- **B.** linoleic acid and α-linolenic acid
+- **C.** arachidonic acid and cholesterol
+- **D.** oleic acid and palmitoleic acid
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 7 — Omega numbering
+Omega numbering begins at the:
+
+- **A.** carboxyl carbon
+- **B.** methyl end
+- **C.** first carbonyl carbon
+- **D.** phosphate group
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 8 — Omega-3
+An omega-3 fatty acid has its first double bond:
+
+- **A.** three carbons from the methyl end
+- **B.** three carbons from the carboxyl end
+- **C.** six carbons from the methyl end
+- **D.** at carbon 20 only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 9 — Eicosanoid
+An eicosanoid is best described as:
+
+- **A.** a 20-carbon signaling molecule derived from polyunsaturated fatty acids
+- **B.** a storage polysaccharide
+- **C.** a membrane protein
+- **D.** an enzyme that makes ATP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 10 — Eicosanoid categories
+Which is a subcategory of eicosanoids?
+
+- **A.** prostaglandins
+- **B.** thromboxanes
+- **C.** leukotrienes
+- **D.** all of the above
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+:::
+
+### Question 11 — Precursor
+The immediate fatty-acid precursor emphasized for the prostaglandin/TxA2 pathway is:
+
+- **A.** palmitate
+- **B.** arachidonic acid
+- **C.** acetate
+- **D.** cholesterol
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 12 — Arachidonic acid release
+Arachidonic acid is released from membrane phospholipids by:
+
+- **A.** phospholipase A2
+- **B.** ATP synthase
+- **C.** lactate dehydrogenase
+- **D.** hexokinase
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 13 — PGHS product
+PGH synthase converts arachidonic acid into:
+
+- **A.** PGH2
+- **B.** acetyl-CoA
+- **C.** NADH
+- **D.** linoleic acid
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 14 — Cell specificity
+Why does one cell not necessarily make every eicosanoid shown in a pathway diagram?
+
+- **A.** Different cells express different downstream enzymes.
+- **B.** Arachidonic acid exists only in platelets.
+- **C.** COX-1 is found only in liver.
+- **D.** PGH2 cannot be converted further.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 15 — PGHS isoforms
+The two major PGH synthase isoforms discussed are:
+
+- **A.** COX-1 and COX-2
+- **B.** COX-2 and COX-3 only
+- **C.** PLA2 and PGH2
+- **D.** TxA2 and PGE2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 16 — COX-1
+COX-1 is generally described in the lecture as:
+
+- **A.** inducible only during inflammation
+- **B.** constitutively expressed and involved in housekeeping functions
+- **C.** present only in platelets
+- **D.** activated by aspirin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 17 — COX-2
+COX-2 is generally:
+
+- **A.** induced in selected tissues by inflammatory stimuli
+- **B.** absent from inflammatory responses
+- **C.** a membrane phospholipid
+- **D.** the final product of the pathway
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 18 — NSAID mechanism
+Common NSAIDs reduce prostaglandin production primarily by:
+
+- **A.** preventing arachidonic acid from accessing the COX active site
+- **B.** destroying membrane phospholipids
+- **C.** increasing phospholipase A2 activity
+- **D.** stimulating TxA2 synthesis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 19 — Aspirin
+Aspirin differs from several other common NSAIDs because it:
+
+- **A.** binds covalently to COX
+- **B.** is not able to inhibit COX
+- **C.** activates platelet aggregation
+- **D.** functions only as an antagonist at opioid receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 20 — Reversible NSAID
+Ibuprofen is contrasted with aspirin because ibuprofen binds COX:
+
+- **A.** covalently and irreversibly
+- **B.** noncovalently/reversibly
+- **C.** only after conversion to TxA2
+- **D.** only in platelets lacking nuclei
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 21 — Thromboxane
+Platelet TxA2 promotes:
+
+- **A.** platelet aggregation and vasoconstriction
+- **B.** ATP synthesis
+- **C.** glucose uptake into liver
+- **D.** DNA repair
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 22 — Low-dose aspirin
+Why can low-dose aspirin have a prolonged antiplatelet effect?
+
+- **A.** Platelets have no nucleus and cannot readily replace covalently inhibited COX.
+- **B.** Aspirin remains permanently in plasma.
+- **C.** Platelets synthesize extra TxA2 after aspirin.
+- **D.** Aspirin activates COX-2 selectively.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 23 — COX-2-selective inhibitor
+The intended advantage of a COX-2-selective inhibitor is to:
+
+- **A.** inhibit inflammatory COX-2 while sparing more COX-1 housekeeping activity
+- **B.** inhibit all eicosanoid synthesis permanently
+- **C.** increase platelet TxA2
+- **D.** activate phospholipase A2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 24 — Acetaminophen
+In this lecture, acetaminophen is distinguished from NSAIDs because it:
+
+- **A.** strongly blocks peripheral COX at injury sites
+- **B.** does not act as a typical peripheral COX inhibitor and does not reduce local swelling effectively
+- **C.** is a covalent COX inhibitor
+- **D.** increases inflammation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 25 — Bioavailability
+Bioavailability is used here to describe:
+
+- **A.** the amount of drug in circulation available to reach its target
+- **B.** the number of drug receptors in the genome
+- **C.** the lethal dose only
+- **D.** the amount of ATP produced by a drug
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 26 — Half-life
+Drug half-life is the time required for:
+
+- **A.** all drug molecules to disappear
+- **B.** blood concentration to fall to one-half of its starting value
+- **C.** the therapeutic index to double
+- **D.** receptor number to fall by half
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 27 — Drug oxidation
+Oxidation of a drug by cytochrome P450 often:
+
+- **A.** increases water solubility and facilitates further metabolism/excretion
+- **B.** guarantees a higher half-life
+- **C.** prevents all conjugation
+- **D.** converts the drug into a lipid
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 28 — Therapeutic index
+A common therapeutic index is:
+
+- **A.** ED50/TD50
+- **B.** TD50/ED50
+- **C.** Km/Vmax
+- **D.** dose × half-life
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 29 — Safer margin
+If two drugs are equally effective, a therapeutic index of 1000 generally indicates:
+
+- **A.** a narrower safety margin than a TI of 10
+- **B.** a wider separation between effective and toxic doses than a TI of 10
+- **C.** the drug is ineffective
+- **D.** the drug is an antagonist
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 30 — Agonist and antagonist
+Which pairing is correct?
+
+- **A.** Agonist binds and activates; antagonist binds without activating and blocks agonist action.
+- **B.** Agonist blocks; antagonist always activates.
+- **C.** Both always activate equally.
+- **D.** Neither binds receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+# Part B — Constructed Response by Learning Objective
+
+### Question 31 — Adipose tissue
+Distinguish white, brown, and beige adipose tissue.
+
+::: {.callout-tip collapse="true" title="Answer"}
+White adipose tissue is specialized mainly for TAG storage and also has endocrine functions. Brown adipose tissue is constitutively thermogenic and rich in mitochondria containing uncoupling protein. Beige adipocytes can acquire thermogenic properties in an inducible manner.
+:::
+
+### Question 32 — Essential fatty acids
+What are the essential fatty acids emphasized in the lecture, and why are they essential?
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Linoleic acid** and **α-linolenic acid**. They are required for normal physiology but cannot be synthesized adequately by animals, so they must be obtained from the diet.
+:::
+
+### Question 33 — Omega definition
+How are omega-3 and omega-6 fatty acids defined?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Count from the methyl/omega end of the fatty acid. In an omega-3 fatty acid the first double bond begins at carbon 3; in an omega-6 fatty acid it begins at carbon 6.
+:::
+
+### Question 34 — Eicosanoids
+What are eicosanoids?
+
+::: {.callout-tip collapse="true" title="Answer"}
+They are 20-carbon signaling molecules derived from oxidation of polyunsaturated fatty acids. They include prostaglandins, thromboxanes, leukotrienes, and lipoxins and participate in inflammation, pain, fever, clotting, and other local physiological responses.
+:::
+
+### Question 35 — Four stages
+Describe the four stages of the prostaglandin/TxA2 pathway used in the lecture.
+
+::: {.callout-tip collapse="true" title="Answer"}
+1. Arachidonic acid is released from membrane phospholipid by phospholipase A2.  
+2. Arachidonic acid binds PGH synthase/COX-1 or COX-2.  
+3. PGHS converts arachidonic acid to PGH2.  
+4. Cell-specific downstream enzymes convert PGH2 into particular eicosanoids such as prostaglandins or TxA2.
+:::
+
+### Question 36 — Precursor
+What precursor molecule is emphasized for these prostaglandins and TxA2?
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Arachidonic acid**, commonly stored as part of membrane phospholipids.
+:::
+
+### Question 37 — PGHS isoforms
+Name the two PGHS isoforms.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**COX-1 and COX-2.**
+:::
+
+### Question 38 — Isoform characteristics
+Give the fundamental distinction between COX-1 and COX-2 used in the course.
+
+::: {.callout-tip collapse="true" title="Answer"}
+COX-1 is generally constitutive and supports housekeeping prostaglandin functions. COX-2 is more inducible and associated strongly with inflammatory responses in selected tissues.
+:::
+
+### Question 39 — NSAID binding
+How do common NSAIDs reduce eicosanoid synthesis?
+
+::: {.callout-tip collapse="true" title="Answer"}
+They bind in or block access to the COX substrate-binding channel, preventing arachidonic acid from being converted to PGH2. Because both COX-1 and COX-2 can be inhibited, both housekeeping and inflammatory prostaglandin pathways may be affected.
+:::
+
+### Question 40 — Aspirin covalency
+What is distinctive about aspirin binding to PGHS?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Aspirin **covalently acetylates** an active-site serine in COX, producing persistent inhibition of that enzyme molecule rather than simple reversible occupancy.
+:::
+
+### Question 41 — Low-dose aspirin
+Explain why low-dose aspirin can reduce heart-attack and stroke risk and why ordinary reversible NSAIDs do not have the same persistent platelet effect.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Platelets use COX to produce TxA2, which promotes aggregation. Aspirin covalently inhibits platelet COX. Because platelets lack nuclei, they cannot readily synthesize replacement enzyme, so inhibition persists for the platelet's lifetime. Reversible NSAIDs dissociate and therefore do not create the same long-lasting inhibition.
+:::
+
+### Question 42 — COX-2 selectivity
+Why can a COX-2-selective inhibitor be useful?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It aims to reduce inflammatory COX-2-derived prostaglandins while sparing more COX-1-dependent housekeeping functions such as gastric protection. The lecture also notes that such selectivity does not eliminate all clinical risks.
+:::
+
+### Question 43 — Acetaminophen
+Why is acetaminophen not treated as an NSAID in this course, and why does it not reduce swelling at an injury site?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It does not inhibit peripheral COX enzymes at the injury site in the typical NSAID manner. Therefore it can reduce pain and fever but does not effectively suppress the local prostaglandin-dependent inflammatory swelling emphasized in the lecture.
+:::
+
+### Question 44 — Bioavailability
+Define bioavailability as used in the lecture.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The amount or concentration of drug remaining in circulation and available to reach its target. Metabolism and excretion reduce it over time.
+:::
+
+### Question 45 — Therapeutic index
+How is therapeutic index calculated and interpreted?
+
+::: {.callout-tip collapse="true" title="Answer"}
+A common form is $TI=TD_{50}/ED_{50}$, or $LD_{50}/ED_{50}$ when lethality is the toxic endpoint. A larger TI generally means a wider margin between effective and toxic doses.
+:::
+
+### Question 46 — Agonist/antagonist
+Define agonist and antagonist.
+
+::: {.callout-tip collapse="true" title="Answer"}
+An agonist binds a receptor and activates it to elicit a response. An antagonist binds without activating and blocks or reduces activation by agonists.
+:::
+
+# Part C — Integrated Practice
+
+### Question 47 — Platelet prediction
+A platelet is exposed briefly to aspirin and then washed free of drug. Predict TxA2 production over the following hours.
+
+::: {.callout-tip collapse="true" title="Answer"}
+TxA2 production remains strongly reduced because aspirin covalently inhibited the platelet COX enzyme, and the anucleate platelet cannot readily replace it by new transcription and protein synthesis.
+:::
+
+### Question 48 — COX-2 inhibitor
+A drug is too bulky to fit the narrower COX-1 substrate channel but fits COX-2. What is the intended pharmacological consequence?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Preferential COX-2 inhibition should reduce inflammatory prostaglandin production while preserving more COX-1 housekeeping activity.
+:::
+
+### Question 49 — TI calculation
+Drug A has an ED50 of 5 mg and TD50 of 500 mg. Calculate its therapeutic index.
+
+::: {.callout-tip collapse="true" title="Answer"}
+$TI=500/5=100$.
+:::
+
+### Question 50 — Metabolism and bioavailability
+A second drug strongly inhibits the cytochrome P450 enzyme that normally metabolizes Drug X. What may happen to Drug X bioavailability?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Drug X may remain in circulation longer and at higher concentration because its metabolic clearance is slowed. Its bioavailability and effective exposure may therefore increase.
+:::
