@@ -1,0 +1,711 @@
+---
+title: "Practice Exam 2 — Part II (Weeks 8–12)"
+toc-depth: 2
+toc-title: "Practice Exam Contents"
+---
+
+# Exam Instructions
+
+**Recommended time: 120 minutes.**
+
+This practice examination deliberately mixes material from **Weeks 8–12** and emphasizes application and prediction.
+
+- **Section A:** 38 multiple-choice questions
+- **Section B:** 5 mixed Assignment-Style / Integrated problems
+- Try each item before opening its answer.
+- Each answer is hidden initially; click **Answer** to reveal it.
+- Questions are presented in mixed order rather than week-by-week.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+**Week 10**
+
+A mutation makes the inner mitochondrial membrane freely permeable to H+. Which immediate consequence is most likely?
+
+- **A.** The proton-motive force collapses.
+- **B.** The CAC stops because acetyl-CoA cannot form.
+- **C.** Oxygen can no longer accept electrons chemically.
+- **D.** Complex II begins pumping extra protons.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. The proton-motive force collapses.**
+:::
+
+### Question 2
+
+**Week 8**
+
+If the substrate concentration equals Km, the reaction velocity is:
+
+- **A.** Vmax
+- **B.** Vmax/2
+- **C.** 2Vmax
+- **D.** zero
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Vmax/2**
+:::
+
+### Question 3
+
+**Week 12**
+
+A Ras mutant remains GTP-bound because it cannot hydrolyze GTP efficiently. The most likely result is:
+
+- **A.** prolonged downstream signaling
+- **B.** permanent Ras inactivation
+- **C.** immediate RTK dephosphorylation
+- **D.** inhibition of Sos binding to GDP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. prolonged downstream signaling**
+:::
+
+### Question 4
+
+**Week 9**
+
+Which glycolytic intermediate is produced immediately after cleavage/rearrangement so that the payoff reactions occur twice?
+
+- **A.** glucose-6-phosphate
+- **B.** glyceraldehyde-3-phosphate
+- **C.** acetyl-CoA
+- **D.** citrate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. glyceraldehyde-3-phosphate**
+:::
+
+### Question 5
+
+**Week 11**
+
+A drug has ED50 = 10 mg and TD50 = 500 mg. Its therapeutic index is:
+
+- **A.** 0.02
+- **B.** 5
+- **C.** 50
+- **D.** 5000
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. 50**
+
+$TI=TD_{50}/ED_{50}=500/10=50$.
+:::
+
+### Question 6
+
+**Week 8**
+
+Which statement about $\Delta G^{\circ\prime}$ and $\Delta G$ is correct?
+
+- **A.** They are always identical.
+- **B.** $\Delta G$ depends on actual cellular conditions and concentrations.
+- **C.** $\Delta G^{\circ\prime}$ measures enzyme speed.
+- **D.** $\Delta G$ is used only for irreversible reactions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. $\Delta G$ depends on actual cellular conditions and concentrations.**
+:::
+
+### Question 7
+
+**Week 11**
+
+A cis double bond in a fatty-acid tail generally:
+
+- **A.** increases straight packing
+- **B.** introduces a kink and reduces tight packing
+- **C.** eliminates hydrophobicity
+- **D.** converts the fatty acid into an eicosanoid automatically
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. introduces a kink and reduces tight packing**
+:::
+
+### Question 8
+
+**Week 12**
+
+Which signaling mode is best illustrated by a hormone released into blood and acting on a distant target cell?
+
+- **A.** Paracrine
+- **B.** Endocrine
+- **C.** Juxtacrine
+- **D.** Contact-dependent only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Endocrine**
+:::
+
+### Question 9
+
+**Week 9**
+
+The first ATP-producing glycolytic step is driven by:
+
+- **A.** transfer of phosphate from 1,3-bisphosphoglycerate to ADP
+- **B.** oxidative phosphorylation
+- **C.** transfer of phosphate from ATP to glucose
+- **D.** conversion of pyruvate to acetyl-CoA
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. transfer of phosphate from 1,3-bisphosphoglycerate to ADP**
+:::
+
+### Question 10
+
+**Week 10**
+
+Cytochromes differ from NADH because cytochromes typically transfer:
+
+- **A.** one electron at a time
+- **B.** two ATP molecules at a time
+- **C.** one proton but no electron
+- **D.** acetyl groups
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. one electron at a time**
+:::
+
+### Question 11
+
+**Week 11**
+
+The enzyme that releases arachidonic acid from a membrane phospholipid is:
+
+- **A.** phospholipase A2
+- **B.** COX-2
+- **C.** thromboxane synthase
+- **D.** cytochrome P450
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. phospholipase A2**
+:::
+
+### Question 12
+
+**Week 8**
+
+Which change most directly makes an organic molecule more reduced?
+
+- **A.** Loss of C–H bonds
+- **B.** Gain of C–H bonds
+- **C.** Gain of oxygen bonds only
+- **D.** Loss of all carbon atoms
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Gain of C–H bonds**
+:::
+
+### Question 13
+
+**Week 12**
+
+Which protein directly connects an activated RTK to Sos in the pathway emphasized?
+
+- **A.** Grb2
+- **B.** GAP
+- **C.** ERK
+- **D.** MEK
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. Grb2**
+:::
+
+### Question 14
+
+**Week 9**
+
+Why is glucose phosphorylated soon after it enters a cell?
+
+- **A.** To make it cross GLUT transporters more rapidly
+- **B.** To trap it intracellularly and prepare it for metabolism
+- **C.** To convert it directly into acetyl-CoA
+- **D.** To release CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. To trap it intracellularly and prepare it for metabolism**
+:::
+
+### Question 15
+
+**Week 10**
+
+Which mitochondrial compartment contains the highest H+ concentration during active oxidative phosphorylation?
+
+- **A.** Matrix
+- **B.** Intermembrane space
+- **C.** Nucleus
+- **D.** Crista lumen is not distinct from matrix
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Intermembrane space**
+:::
+
+### Question 16
+
+**Week 11**
+
+Which statement best distinguishes acetaminophen from a typical NSAID in this course?
+
+- **A.** It strongly suppresses peripheral inflammation at injury sites.
+- **B.** It is analgesic and antipyretic but is not treated as a typical peripheral COX inhibitor.
+- **C.** It covalently blocks platelet COX like aspirin.
+- **D.** It is a COX-2-selective anti-inflammatory drug.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. It is analgesic and antipyretic but is not treated as a typical peripheral COX inhibitor.**
+:::
+
+### Question 17
+
+**Week 8**
+
+A catalyst changes which property of a reaction?
+
+- **A.** Equilibrium constant
+- **B.** Activation-energy barrier
+- **C.** Overall $\Delta G$
+- **D.** Final equilibrium ratio
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Activation-energy barrier**
+:::
+
+### Question 18
+
+**Week 12**
+
+Protein phosphatases:
+
+- **A.** add phosphate groups
+- **B.** remove phosphate groups
+- **C.** exchange GDP for GTP
+- **D.** activate all receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. remove phosphate groups**
+:::
+
+### Question 19
+
+**Week 9**
+
+Which statement about acetyl-CoA is correct?
+
+- **A.** It can directly reverse the PDH reaction to form pyruvate.
+- **B.** It carries a two-carbon acetyl group into the CAC.
+- **C.** It is formed only from glucose.
+- **D.** It is the terminal product of the CAC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. It carries a two-carbon acetyl group into the CAC.**
+:::
+
+### Question 20
+
+**Week 10**
+
+Which ATP synthase state most strongly favors ATP formation from bound ADP and Pi?
+
+- **A.** Open
+- **B.** Loose
+- **C.** Tight
+- **D.** Reduced
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. Tight**
+:::
+
+### Question 21
+
+**Week 11**
+
+Which downstream eicosanoid is especially important in platelet aggregation?
+
+- **A.** Thromboxane A2
+- **B.** Linoleic acid
+- **C.** Glucuronic acid
+- **D.** NADH
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. Thromboxane A2**
+:::
+
+### Question 22
+
+**Week 8**
+
+Why can removal of a reaction product drive a pathway forward?
+
+- **A.** It changes enzyme identity.
+- **B.** It changes actual concentrations and therefore the actual $\Delta G$.
+- **C.** It changes the standard free energy permanently.
+- **D.** It removes activation energy.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. It changes actual concentrations and therefore the actual $\Delta G$.**
+:::
+
+### Question 23
+
+**Week 12**
+
+A GPCR is characterized structurally by:
+
+- **A.** seven transmembrane segments
+- **B.** one transmembrane helix and intrinsic tyrosine kinase activity
+- **C.** no membrane-spanning region
+- **D.** a covalent GTP group
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. seven transmembrane segments**
+:::
+
+### Question 24
+
+**Week 9**
+
+At the end of glycolysis reaction 7, the net ATP yield is still zero because:
+
+- **A.** ATP is never made before reaction 10
+- **B.** two ATP have been made but two were invested earlier
+- **C.** all ATP is converted to GTP
+- **D.** pyruvate consumes two ATP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. two ATP have been made but two were invested earlier**
+:::
+
+### Question 25
+
+**Week 10**
+
+Which statement about Complex IV is correct?
+
+- **A.** It transfers electrons ultimately to oxygen.
+- **B.** It is the only complex that does not pump H+.
+- **C.** It produces pyruvate.
+- **D.** It reduces NAD+ to NADH.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. It transfers electrons ultimately to oxygen.**
+:::
+
+### Question 26
+
+**Week 11**
+
+Which enzyme isoform is more strongly associated with inducible inflammatory responses?
+
+- **A.** COX-1
+- **B.** COX-2
+- **C.** PLA2 only
+- **D.** thromboxane synthase only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. COX-2**
+:::
+
+### Question 27
+
+**Week 8**
+
+If reaction A has $\Delta G=+6$ kJ/mol and reaction B has $\Delta G=-15$ kJ/mol, the coupled process has:
+
+- **A.** $\Delta G=+21$ kJ/mol
+- **B.** $\Delta G=-9$ kJ/mol
+- **C.** $\Delta G=+9$ kJ/mol
+- **D.** $\Delta G=-21$ kJ/mol
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. $\Delta G=-9$ kJ/mol**
+:::
+
+### Question 28
+
+**Week 12**
+
+Which molecule is the monomeric GTPase in the RTK pathway?
+
+- **A.** Ras
+- **B.** Grb2
+- **C.** Raf
+- **D.** ERK
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. Ras**
+:::
+
+### Question 29
+
+**Week 9**
+
+The Cori cycle links:
+
+- **A.** muscle lactate production with liver glucose production
+- **B.** liver lactate production with mitochondrial oxygen production
+- **C.** glycogen synthesis with ATP synthase
+- **D.** fatty-acid oxidation with platelet signaling
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. muscle lactate production with liver glucose production**
+:::
+
+### Question 30
+
+**Week 10**
+
+Thermogenin is most abundant in:
+
+- **A.** brown adipose tissue
+- **B.** white blood cells
+- **C.** hepatocyte nuclei
+- **D.** red blood cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. brown adipose tissue**
+:::
+
+### Question 31
+
+**Week 11**
+
+An antagonist:
+
+- **A.** binds and activates a receptor
+- **B.** binds without activating and reduces agonist action
+- **C.** always increases receptor number
+- **D.** must be an enzyme inhibitor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. binds without activating and reduces agonist action**
+:::
+
+### Question 32
+
+**Week 8**
+
+Which unit is appropriate for Vmax?
+
+- **A.** mM
+- **B.** μmol/min
+- **C.** kJ/mol
+- **D.** no units
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. μmol/min**
+:::
+
+### Question 33
+
+**Week 12**
+
+Activated Ras stimulates Raf mainly by:
+
+- **A.** phosphorylating Raf directly
+- **B.** binding Raf and promoting its activation
+- **C.** converting Raf-bound GDP to GTP
+- **D.** removing phosphate from Raf
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. binding Raf and promoting its activation**
+
+Ras is a GTPase, not a protein kinase.
+:::
+
+### Question 34
+
+**Week 9**
+
+Which molecule has the high phosphate-transfer potential that drives the final ATP-producing glycolytic reaction?
+
+- **A.** PEP
+- **B.** glucose
+- **C.** citrate
+- **D.** lactate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. PEP**
+:::
+
+### Question 35
+
+**Week 10**
+
+Which statement best describes the role of the F0 portion of ATP synthase?
+
+- **A.** It contains the membrane pathway for H+ movement.
+- **B.** It contains the final oxygen-binding site of Complex IV.
+- **C.** It carries acetyl groups.
+- **D.** It synthesizes NADH in the matrix.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. It contains the membrane pathway for H+ movement.**
+:::
+
+### Question 36
+
+**Week 11**
+
+Bioavailability, as used in this course, refers most directly to:
+
+- **A.** the drug concentration available in circulation to reach its target
+- **B.** the drug's receptor sequence
+- **C.** the fraction of COX-1 in platelets
+- **D.** the number of metabolites in the liver
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. the drug concentration available in circulation to reach its target**
+:::
+
+### Question 37
+
+**Week 8**
+
+NAD+ becomes NADH when NAD+ is:
+
+- **A.** oxidized
+- **B.** reduced
+- **C.** hydrolyzed
+- **D.** phosphorylated
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. reduced**
+:::
+
+### Question 38
+
+**Week 12**
+
+Which step comes immediately downstream of activated Raf in the pathway studied?
+
+- **A.** Raf phosphorylates MEK.
+- **B.** Raf hydrolyzes Ras-bound GTP.
+- **C.** Raf recruits Grb2.
+- **D.** Raf phosphorylates the extracellular ligand.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. Raf phosphorylates MEK.**
+:::
+
+# Section B — Integrated Short Answer
+
+### Integrated Problem 1
+
+**Weeks covered:** 8, 9
+
+A hepatocyte experiences a rise in blood glucose after a meal.
+
+a. What transporter emphasized in the lecture allows glucose exchange in liver cells?  
+b. How does liver glucokinase regulation change as glucose rises?  
+c. What is the first phosphorylated glycolytic product?  
+d. Why does phosphorylation help retain glucose inside the cell?  
+e. Explain why the first phosphorylation is an example of coupling an unfavorable process to ATP hydrolysis.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. GLUT2.  
+b. As glucose rises, glucokinase is released from nuclear sequestration and becomes more available in the cytosol.  
+c. Glucose-6-phosphate.  
+d. Glucose-6-phosphate is not transported through GLUT2 like free glucose, so phosphorylation traps the carbon intracellularly.  
+e. Phosphorylation of glucose is driven by transfer of phosphate from ATP; coupling to ATP hydrolysis makes the overall process thermodynamically favorable.
+:::
+
+### Integrated Problem 2
+
+**Weeks covered:** 9, 10
+
+A mitochondrial preparation is supplied with pyruvate, ADP, Pi, and oxygen.
+
+a. What complex converts pyruvate to acetyl-CoA?  
+b. Name the reduced electron carriers generated by PDH/CAC that feed the ETC.  
+c. Which side of the inner membrane becomes enriched in H+?  
+d. Which molecular machine uses that gradient to synthesize ATP?  
+e. Predict what happens if oxygen is removed.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. Pyruvate dehydrogenase complex.  
+b. NADH and FADH2.  
+c. Intermembrane-space side.  
+d. ATP synthase.  
+e. Electron flow backs up, proton pumping declines, the proton-motive force dissipates, and oxidative ATP production falls sharply.
+:::
+
+### Integrated Problem 3
+
+**Weeks covered:** 11, 12
+
+A drug blocks an inflammatory receptor upstream of a kinase pathway.
+
+a. Define an antagonist.  
+b. How could antagonism reduce signaling even if the receptor itself remains present?  
+c. If the pathway normally activates a protein kinase, what chemical modification might be reduced downstream?  
+d. Name the enzyme class that reverses that modification.  
+e. Why could a local inflammatory mediator also be described as a paracrine signal?
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. A ligand that binds a receptor without activating it and blocks or reduces agonist action.  
+b. Occupying the receptor prevents the activating ligand from producing the receptor conformational change.  
+c. Protein phosphorylation.  
+d. Protein phosphatase.  
+e. It acts over a short distance on nearby cells through extracellular fluid.
+:::
+
+### Integrated Problem 4
+
+**Weeks covered:** 10, 11
+
+Compare thermogenin-mediated uncoupling with ordinary ATP synthesis.
+
+a. What is the normal path of H+ return?  
+b. What is the thermogenin path?  
+c. What happens to ATP yield per amount of fuel oxidized?  
+d. What happens to heat generation?  
+e. Which adipose tissue is specialized for this process?  
+f. Which adipose tissue is specialized mainly for TAG storage?
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. H+ returns through ATP synthase.  
+b. H+ returns through thermogenin/UCP1 without driving ATP synthase.  
+c. ATP yield decreases.  
+d. Heat generation increases.  
+e. Brown adipose tissue.  
+f. White adipose tissue.
+:::
+
+### Integrated Problem 5
+
+**Weeks covered:** 11, 12
+
+A patient takes low-dose aspirin while platelets are responding to a vascular injury.
+
+a. What platelet-derived eicosanoid promotes aggregation?  
+b. What precursor fatty acid is used to make it?  
+c. Which enzyme isoform target is covalently inhibited by aspirin in platelets?  
+d. Why does inhibition persist after aspirin is cleared?  
+e. If another platelet receptor were activated through a GTPase pathway, what nucleotide-bound state would represent an ON GTPase?
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. Thromboxane A2.  
+b. Arachidonic acid.  
+c. Platelet COX, predominantly COX-1 in this course context.  
+d. Aspirin covalently modifies the enzyme and platelets lack nuclei, so they cannot readily synthesize replacement COX.  
+e. GTP-bound.
+:::
+
+# Coverage Check
+
+| Week | Core emphasis represented |
+|---:|---|
+| 8 | $\Delta G$, coupling, redox, catalysis, Vmax/Km |
+| 9 | Glucose trapping, glycolysis, PDH, CAC, Cori cycle |
+| 10 | ETC, H+ gradient, ATP synthase, uncoupling |
+| 11 | Fatty-acid structure, eicosanoids, NSAIDs, drug principles |
+| 12 | Signaling modes, kinases/phosphatases, GPCR, RTK/Ras–MAP |
+
+# Coverage Reminder
+
+This exam deliberately emphasizes application and prediction across all five Part II weeks.
