@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Week 8 conceptual roadmap</title><desc id="desc">A visual sequence from metabolism through free energy, coupling, redox, enzymes, kinetics, and electron carriers.</desc>
+<style>.text{font-family:Arial,Helvetica,sans-serif;fill:#172033}.small{font-size:19px}.label{font-size:22px;font-weight:700}.sub{font-size:16px;fill:#4b5563}.box{rx:18;ry:18;stroke-width:2}.arrow{stroke:#6b7280;stroke-width:3;fill:none;marker-end:url(#a)}</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6b7280"/></marker></defs>
+<rect width="1200" height="300" fill="#f8fafc" rx="24"/>
+<text x="55" y="50" class="text label">Week 8: one connected story</text><text x="55" y="78" class="text sub">Lecture 8 + Tutorial 5 + Alberts Chapters 3–4</text>
+<g transform="translate(45 115)">
+<rect class="box" x="0" y="0" width="150" height="95" fill="#e0f2fe" stroke="#0284c7"/><text x="75" y="38" text-anchor="middle" class="text label">Metabolism</text><text x="75" y="66" text-anchor="middle" class="text sub">catabolism ↔ anabolism</text>
+<line class="arrow" x1="155" y1="48" x2="195" y2="48"/>
+<rect class="box" x="200" y="0" width="150" height="95" fill="#ede9fe" stroke="#7c3aed"/><text x="275" y="38" text-anchor="middle" class="text label">Free energy</text><text x="275" y="66" text-anchor="middle" class="text sub">ΔG and direction</text>
+<line class="arrow" x1="355" y1="48" x2="395" y2="48"/>
+<rect class="box" x="400" y="0" width="150" height="95" fill="#fef3c7" stroke="#d97706"/><text x="475" y="38" text-anchor="middle" class="text label">Coupling</text><text x="475" y="66" text-anchor="middle" class="text sub">ATP + product pull</text>
+<line class="arrow" x1="555" y1="48" x2="595" y2="48"/>
+<rect class="box" x="600" y="0" width="150" height="95" fill="#dcfce7" stroke="#16a34a"/><text x="675" y="38" text-anchor="middle" class="text label">Redox</text><text x="675" y="66" text-anchor="middle" class="text sub">electron transfer</text>
+<line class="arrow" x1="755" y1="48" x2="795" y2="48"/>
+<rect class="box" x="800" y="0" width="150" height="95" fill="#fee2e2" stroke="#dc2626"/><text x="875" y="38" text-anchor="middle" class="text label">Enzymes</text><text x="875" y="66" text-anchor="middle" class="text sub">activation barrier</text>
+<line class="arrow" x1="955" y1="48" x2="995" y2="48"/>
+<rect class="box" x="1000" y="0" width="150" height="95" fill="#cffafe" stroke="#0891b2"/><text x="1075" y="32" text-anchor="middle" class="text label">Kinetics</text><text x="1075" y="58" text-anchor="middle" class="text sub">Vmax • Km</text><text x="1075" y="80" text-anchor="middle" class="text sub">NAD+ / NADH</text>
+</g></svg>

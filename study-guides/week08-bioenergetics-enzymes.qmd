@@ -11,6 +11,11 @@ The main chain for this week is:
 
 **metabolism → free energy → reaction direction → coupling → redox → enzymes → activation energy → reaction rate → Vmax and Km → NAD+/NADH**
 
+<figure class="study-visual study-visual-wide">
+<img src="../assets/week08/week08-roadmap.svg" alt="Week 8 conceptual roadmap connecting metabolism, free energy, coupling, redox, enzymes, kinetics, and NAD plus NADH.">
+<figcaption><strong>Visual roadmap.</strong> Use this as the organizing map for the week: each topic leads into the next rather than standing alone. <span class="visual-source">Source synthesis: Week 8 lecture; Tutorial 5; Alberts Chapters 3–4.</span></figcaption>
+</figure>
+
 ## 1. Metabolism: the whole network
 
 **Metabolism** means the complete set of chemical processes that occur continuously in a living cell or organism.
@@ -82,6 +87,11 @@ At $\Delta G=0$ the system is at **equilibrium**:
 
 A living cell is maintained away from equilibrium. At equilibrium, there is no net chemical driving force available to sustain metabolism.
 
+<figure class="study-visual">
+<img src="../assets/week08/week08-deltaG.svg" alt="Three-panel diagram showing negative delta G as exergonic, zero delta G as equilibrium, and positive delta G as endergonic.">
+<figcaption><strong>How to read ΔG.</strong> First decide whether the process is thermodynamically favored; only then ask how fast it proceeds. <span class="visual-source">Lecture slides 8:7–8:8; Tutorial 5 Gibbs free-energy review; Alberts Chapter 3, Free Energy and Catalysis.</span></figcaption>
+</figure>
+
 ## 4. ΔG versus ΔG°′
 
 These two quantities answer different questions.
@@ -120,6 +130,11 @@ $$
 continual use of B by the next step lowers the concentration of B. This “pulls” the reaction toward B and can make the actual $\Delta G$ favorable.
 
 This is why pathway direction cannot be understood from $\Delta G^{\circ\prime}$ alone.
+
+<figure class="study-visual study-visual-wide">
+<img src="../assets/week08/week08-coupling.svg" alt="Diagram showing two methods for driving metabolic pathways forward: coupling an unfavorable reaction to ATP hydrolysis and rapidly removing a reaction product.">
+<figcaption><strong>Two ways to drive a pathway forward.</strong> The left panel mirrors the lecture's ATP–glucose coupling example; the right panel shows the product-removal logic used for sequential metabolic reactions. <span class="visual-source">Lecture slides 8:9–8:10; Tutorial 5 coupling exercise; Alberts Chapter 3.</span></figcaption>
+</figure>
 
 ## 6. ATP is an activated carrier
 
@@ -178,6 +193,11 @@ Conceptually:
 
 Do not describe NADH as “energy itself.” It is an activated carrier whose electrons can be transferred through later reactions.
 
+<figure class="study-visual study-visual-wide">
+<img src="../assets/week08/week08-redox.svg" alt="Diagram showing a fuel molecule losing electrons to NAD plus, producing NADH, with electrons later passed toward oxygen.">
+<figcaption><strong>Redox handoff.</strong> Oxidation and reduction always occur together: fuel loses electrons, NAD+ accepts them, and NADH carries them onward. <span class="visual-source">Lecture slides 8:14–8:17 and 8:28; Tutorial 5 redox/electron-carrier review; Alberts Chapter 3.</span></figcaption>
+</figure>
+
 ## 9. Enzymes and catalysis
 
 An **enzyme** is a biological catalyst, usually a protein.
@@ -222,6 +242,11 @@ Enzymes do **not** change:
 - the final equilibrium ratio of reactants to products.
 
 They accelerate both forward and reverse reactions toward equilibrium.
+
+<figure class="study-visual">
+<img src="../assets/week08/week08-activation-energy.svg" alt="Reaction-energy diagram comparing a high uncatalyzed activation barrier with a lower enzyme-catalyzed barrier while overall delta G remains unchanged.">
+<figcaption><strong>Thermodynamics versus kinetics.</strong> The enzyme lowers the transition-state barrier but leaves the reactant-to-product free-energy difference unchanged. <span class="visual-source">Lecture slide 8:22; Tutorial 5 enzyme-catalysis review; Alberts Chapter 4, How Proteins Work.</span></figcaption>
+</figure>
 
 ## 11. Enzyme binding and induced fit
 
@@ -276,6 +301,15 @@ Therefore:
 For this course, remember the operational definition first: **Km is the substrate concentration that gives half-maximal velocity.**
 
 A lower Km often corresponds to an enzyme reaching substantial activity at a lower substrate concentration, but Km should not automatically be treated as a universal synonym for binding affinity.
+
+<figure class="study-visual">
+<img src="../assets/week08/week08-michaelis-menten.svg" alt="Michaelis-Menten saturation curve labeling Vmax and Km, where Km is the substrate concentration at half Vmax.">
+<figcaption><strong>Read the saturation curve.</strong> Vmax is a rate; Km is the substrate concentration at one-half Vmax. <span class="visual-source">Lecture slides 8:23–8:26; Tutorial 5 Km review; Alberts Chapter 4 enzyme context.</span></figcaption>
+</figure>
+
+::: {.callout-note title="Exam reading habit"}
+When you see an enzyme-kinetics graph, identify the **axes first**. Then locate the plateau (Vmax), take one-half of that rate, and read down to the substrate axis to obtain Km.
+:::
 
 ## 15. Connecting thermodynamics and kinetics
 
