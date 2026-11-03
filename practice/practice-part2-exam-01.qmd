@@ -1,0 +1,717 @@
+---
+title: "Practice Exam 1 — Part II (Weeks 8–12)"
+toc-depth: 2
+toc-title: "Practice Exam Contents"
+---
+
+# Exam Instructions
+
+**Recommended time: 120 minutes.**
+
+This practice examination deliberately mixes material from **Weeks 8–12**.
+
+- **Section A:** 38 multiple-choice questions
+- **Section B:** 5 mixed Assignment-Style / Integrated problems
+- Try each item before opening its answer.
+- Each answer is hidden initially; click **Answer** to reveal it.
+- Questions are presented in mixed order rather than week-by-week.
+
+# Section A — Multiple Choice
+
+### Question 1
+
+**Week 9**
+
+Which statement best describes the net yield of glycolysis per glucose?
+
+- **A.** 2 ATP, 2 NADH, 2 pyruvate
+- **B.** 4 ATP, 2 FADH2, 2 acetyl-CoA
+- **C.** 2 ATP, 6 NADH, 6 CO2
+- **D.** 4 ATP, 0 NADH, 1 pyruvate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. 2 ATP, 2 NADH, 2 pyruvate**
+
+Two ATP are invested and four are generated, giving a net gain of two.
+:::
+
+### Question 2
+
+**Week 12**
+
+Which statement correctly describes a GEF acting on Ras?
+
+- **A.** It accelerates GTP hydrolysis.
+- **B.** It promotes GDP release so GTP can bind.
+- **C.** It dephosphorylates Ras.
+- **D.** It converts Ras into a protein kinase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. It promotes GDP release so GTP can bind.**
+
+A GEF promotes the ON transition by allowing GDP–GTP exchange.
+:::
+
+### Question 3
+
+**Week 10**
+
+Which ETC complex does **not** pump protons?
+
+- **A.** Complex I
+- **B.** Complex II
+- **C.** Complex III
+- **D.** Complex IV
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Complex II**
+:::
+
+### Question 4
+
+**Week 8**
+
+A reaction has $\Delta G<0$ but proceeds very slowly without an enzyme. The best explanation is:
+
+- **A.** The reaction is endergonic.
+- **B.** The reaction has a high activation-energy barrier.
+- **C.** The reaction is already at equilibrium.
+- **D.** The enzyme must make $\Delta G$ more negative.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. The reaction has a high activation-energy barrier.**
+
+Thermodynamic favorability does not determine reaction speed.
+:::
+
+### Question 5
+
+**Week 11**
+
+Which fatty acids are emphasized as essential in the lecture?
+
+- **A.** Palmitic and stearic acids
+- **B.** Linoleic and α-linolenic acids
+- **C.** Oleic and arachidonic acids
+- **D.** Palmitoleic and oleic acids
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Linoleic and α-linolenic acids**
+:::
+
+### Question 6
+
+**Week 9**
+
+In glycolysis, which reaction generates NADH?
+
+- **A.** Glucose → glucose-6-phosphate
+- **B.** Fructose-6-phosphate → fructose-1,6-bisphosphate
+- **C.** Glyceraldehyde-3-phosphate → 1,3-bisphosphoglycerate
+- **D.** PEP → pyruvate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. Glyceraldehyde-3-phosphate → 1,3-bisphosphoglycerate**
+:::
+
+### Question 7
+
+**Week 12**
+
+Phosphorylation of a signaling protein:
+
+- **A.** always activates it
+- **B.** always inhibits it
+- **C.** can activate or inhibit it depending on the protein
+- **D.** cannot change its conformation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. can activate or inhibit it depending on the protein**
+:::
+
+### Question 8
+
+**Week 10**
+
+The final electron acceptor in the mitochondrial ETC is:
+
+- **A.** NAD+
+- **B.** FAD
+- **C.** O2
+- **D.** CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. O2**
+:::
+
+### Question 9
+
+**Week 11**
+
+Aspirin differs from many other common NSAIDs because aspirin:
+
+- **A.** activates COX-2
+- **B.** covalently acetylates COX
+- **C.** never affects platelets
+- **D.** stimulates thromboxane synthesis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. covalently acetylates COX**
+:::
+
+### Question 10
+
+**Week 8**
+
+For a Michaelis–Menten enzyme, Km is:
+
+- **A.** the enzyme concentration at Vmax
+- **B.** the substrate concentration at half Vmax
+- **C.** the reaction free-energy change
+- **D.** the activation energy
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. the substrate concentration at half Vmax**
+:::
+
+### Question 11
+
+**Week 9**
+
+One turn of the citric acid cycle produces:
+
+- **A.** 3 NADH, 1 FADH2, 1 GTP, 2 CO2
+- **B.** 2 NADH, 2 FADH2, 2 ATP, 1 CO2
+- **C.** 1 NADH, 1 ATP, 1 pyruvate
+- **D.** 6 NADH, 2 FADH2, 4 CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. 3 NADH, 1 FADH2, 1 GTP, 2 CO2**
+:::
+
+### Question 12
+
+**Week 10**
+
+During active electron transport, protons are pumped:
+
+- **A.** matrix → intermembrane space
+- **B.** intermembrane space → matrix
+- **C.** cytosol → nucleus
+- **D.** matrix → cytosol
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. matrix → intermembrane space**
+:::
+
+### Question 13
+
+**Week 12**
+
+An activated RTK creates phosphotyrosine sites that primarily:
+
+- **A.** act as docking sites for signaling proteins
+- **B.** generate ATP directly
+- **C.** hydrolyze GTP
+- **D.** transport the ligand into the nucleus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. act as docking sites for signaling proteins**
+:::
+
+### Question 14
+
+**Week 11**
+
+The immediate precursor emphasized for prostaglandins and thromboxane A2 is:
+
+- **A.** cholesterol
+- **B.** arachidonic acid
+- **C.** palmitate
+- **D.** acetyl-CoA
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. arachidonic acid**
+:::
+
+### Question 15
+
+**Week 8**
+
+Which process is oxidation?
+
+- **A.** Gain of electrons
+- **B.** Loss of electrons
+- **C.** Gain of ATP only
+- **D.** Addition of phosphate only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Loss of electrons**
+:::
+
+### Question 16
+
+**Week 9**
+
+Why is lactate formed in oxygen-limited muscle?
+
+- **A.** To generate FADH2
+- **B.** To regenerate NAD+
+- **C.** To produce acetyl-CoA
+- **D.** To release CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. To regenerate NAD+**
+:::
+
+### Question 17
+
+**Week 10**
+
+The proton-motive force is best described as:
+
+- **A.** ATP stored in the matrix
+- **B.** an electrochemical H+ gradient
+- **C.** the oxidation state of cytochrome c
+- **D.** the free energy of glucose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. an electrochemical H+ gradient**
+:::
+
+### Question 18
+
+**Week 12**
+
+Which sequence correctly describes the MAP kinase cascade covered in lecture?
+
+- **A.** Ras → ERK → MEK → Raf
+- **B.** Raf → MEK → ERK
+- **C.** Sos → ERK → Raf
+- **D.** Grb2 → Ras → Sos
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Raf → MEK → ERK**
+:::
+
+### Question 19
+
+**Week 11**
+
+Omega numbering begins at the:
+
+- **A.** carboxyl end
+- **B.** methyl end
+- **C.** phosphate group
+- **D.** first carbonyl group
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. methyl end**
+:::
+
+### Question 20
+
+**Week 8**
+
+An enzyme accelerates a reaction primarily by:
+
+- **A.** changing the equilibrium constant
+- **B.** lowering activation energy
+- **C.** making $\Delta G$ more negative
+- **D.** increasing product free energy
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. lowering activation energy**
+:::
+
+### Question 21
+
+**Week 9**
+
+Per glucose, pyruvate dehydrogenase produces:
+
+- **A.** 2 acetyl-CoA, 2 CO2, 2 NADH
+- **B.** 1 acetyl-CoA, 1 CO2, 1 NADH
+- **C.** 2 acetyl-CoA, 4 CO2, 6 NADH
+- **D.** 2 lactate, 2 NAD+, 2 ATP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. 2 acetyl-CoA, 2 CO2, 2 NADH**
+:::
+
+### Question 22
+
+**Week 11**
+
+Which statement best describes COX-1?
+
+- **A.** It is generally inducible only during inflammation.
+- **B.** It is generally constitutive and supports housekeeping functions.
+- **C.** It is found only in platelets.
+- **D.** It is activated irreversibly by aspirin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. It is generally constitutive and supports housekeeping functions.**
+:::
+
+### Question 23
+
+**Week 10**
+
+FADH2-linked electrons support less proton pumping than NADH-linked electrons because FADH2 electrons:
+
+- **A.** bypass Complex I by entering at Complex II
+- **B.** bypass Complex IV
+- **C.** cannot enter the ETC
+- **D.** are transferred directly to ATP synthase
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. bypass Complex I by entering at Complex II**
+:::
+
+### Question 24
+
+**Week 12**
+
+Ras is active when bound to:
+
+- **A.** GDP
+- **B.** GTP
+- **C.** ATP
+- **D.** ADP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. GTP**
+:::
+
+### Question 25
+
+**Week 8**
+
+If $\Delta G=0$, the reaction is:
+
+- **A.** strongly exergonic
+- **B.** at equilibrium
+- **C.** necessarily stopped
+- **D.** endergonic
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. at equilibrium**
+
+Forward and reverse reactions can continue, but there is no net change.
+:::
+
+### Question 26
+
+**Week 9**
+
+An anaplerotic reaction:
+
+- **A.** replenishes CAC intermediates
+- **B.** blocks the CAC
+- **C.** converts oxygen to water
+- **D.** produces lactate from pyruvate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. replenishes CAC intermediates**
+:::
+
+### Question 27
+
+**Week 11**
+
+The intended advantage of a COX-2-selective inhibitor is to:
+
+- **A.** preserve more COX-1 housekeeping activity while reducing inflammation
+- **B.** permanently inhibit platelet COX-1
+- **C.** increase thromboxane production
+- **D.** activate phospholipase A2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. preserve more COX-1 housekeeping activity while reducing inflammation**
+:::
+
+### Question 28
+
+**Week 10**
+
+In ATP synthase, the state that binds ADP and Pi is the:
+
+- **A.** open state
+- **B.** loose state
+- **C.** tight state
+- **D.** oxidized state
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. loose state**
+:::
+
+### Question 29
+
+**Week 12**
+
+A GAP acting on Ras promotes:
+
+- **A.** GDP release
+- **B.** GTP hydrolysis
+- **C.** receptor dimerization
+- **D.** RTK autophosphorylation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. GTP hydrolysis**
+:::
+
+### Question 30
+
+**Week 8**
+
+NADH is best described as:
+
+- **A.** the oxidized form of an electron carrier
+- **B.** the reduced form of an electron carrier
+- **C.** an enzyme active site
+- **D.** a membrane receptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. the reduced form of an electron carrier**
+:::
+
+### Question 31
+
+**Week 11**
+
+Why does low-dose aspirin have a prolonged effect on platelets?
+
+- **A.** Platelets store aspirin permanently.
+- **B.** Platelets lack nuclei and cannot readily replace covalently inhibited COX.
+- **C.** Aspirin activates COX-2 for days.
+- **D.** Platelets convert aspirin into thromboxane.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Platelets lack nuclei and cannot readily replace covalently inhibited COX.**
+:::
+
+### Question 32
+
+**Week 10**
+
+Thermogenin increases heat production by:
+
+- **A.** blocking proton return to the matrix
+- **B.** allowing proton return without ATP synthase
+- **C.** inhibiting all electron transport
+- **D.** converting ATP directly into NADH
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. allowing proton return without ATP synthase**
+:::
+
+### Question 33
+
+**Week 9**
+
+Why do glycolytic reactions after the cleavage stage occur twice per glucose?
+
+- **A.** Two ATP molecules are consumed.
+- **B.** One six-carbon sugar has become two three-carbon intermediates.
+- **C.** Two oxygen molecules are required.
+- **D.** Two mitochondria are involved.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. One six-carbon sugar has become two three-carbon intermediates.**
+:::
+
+### Question 34
+
+**Week 12**
+
+Which signaling type requires direct cell-cell contact?
+
+- **A.** Endocrine
+- **B.** Paracrine
+- **C.** Contact-dependent / juxtacrine
+- **D.** Neuronal
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. Contact-dependent / juxtacrine**
+:::
+
+### Question 35
+
+**Week 8**
+
+A reaction has $\Delta G=+8$ kJ/mol and is coupled to one with $\Delta G=-20$ kJ/mol. The combined $\Delta G$ is:
+
+- **A.** +28 kJ/mol
+- **B.** +12 kJ/mol
+- **C.** -12 kJ/mol
+- **D.** -28 kJ/mol
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C. -12 kJ/mol**
+:::
+
+### Question 36
+
+**Week 11**
+
+A therapeutic index of 200 compared with one of 5 generally indicates:
+
+- **A.** a wider margin between effective and toxic doses
+- **B.** a narrower margin between effective and toxic doses
+- **C.** lower receptor affinity
+- **D.** a shorter half-life
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. a wider margin between effective and toxic doses**
+:::
+
+### Question 37
+
+**Week 10**
+
+Which ATP synthase conformation is most closely associated with ATP release?
+
+- **A.** Open
+- **B.** Loose
+- **C.** Tight
+- **D.** Reduced
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A. Open**
+:::
+
+### Question 38
+
+**Week 12**
+
+Which protein is the GEF for Ras in the pathway covered in lecture?
+
+- **A.** Raf
+- **B.** Sos
+- **C.** ERK
+- **D.** GAP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B. Sos**
+:::
+
+# Section B — Integrated Short Answer
+
+### Integrated Problem 1
+
+**Weeks covered:** 8, 9
+
+A muscle cell is actively using glucose during intense exercise.
+
+a. State the net ATP and NADH yield of glycolysis per glucose.  
+b. Identify the glycolytic reaction that produces NADH.  
+c. Explain why glycolysis would eventually stop if NAD+ were not regenerated.  
+d. Explain how lactate formation solves this problem.  
+e. Distinguish the thermodynamic question answered by $\Delta G$ from the kinetic role of the glycolytic enzymes.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. Net 2 ATP and 2 NADH per glucose.  
+b. The glyceraldehyde-3-phosphate dehydrogenase step.  
+c. NAD+ is required as an electron acceptor in that oxidation step; without regeneration it becomes limiting.  
+d. Lactate dehydrogenase transfers electrons from NADH to pyruvate, regenerating NAD+.  
+e. $\Delta G$ describes reaction favorability/direction under the stated conditions; enzymes lower activation barriers and increase reaction rates without changing the reaction's overall $\Delta G$.
+:::
+
+### Integrated Problem 2
+
+**Weeks covered:** 9, 10
+
+Starting with one glucose molecule, trace the flow of reducing equivalents into oxidative phosphorylation.
+
+a. How many NADH are produced by glycolysis, PDH, and two CAC turns in total?  
+b. How many FADH2 are produced by two CAC turns?  
+c. Which ETC entry point is used by NADH-derived electrons?  
+d. Why do FADH2-derived electrons support less proton pumping?  
+e. State the final electron acceptor.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. 10 NADH total.  
+b. 2 FADH2.  
+c. NADH-derived electrons enter through Complex I.  
+d. FADH2-derived electrons enter at Complex II and bypass proton-pumping Complex I.  
+e. O2.
+:::
+
+### Integrated Problem 3
+
+**Weeks covered:** 10, 11
+
+Brown adipose tissue is rich in mitochondria and thermogenin.
+
+a. Where is thermogenin located?  
+b. What gradient normally powers ATP synthase?  
+c. What happens to proton flow when thermogenin is active?  
+d. Predict the effect on ATP production.  
+e. Predict the effect on heat production.  
+f. Explain why this makes brown adipose tissue different from white adipose tissue.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. Inner mitochondrial membrane.  
+b. The electrochemical proton gradient/proton-motive force.  
+c. Protons return toward the matrix through thermogenin rather than only through ATP synthase.  
+d. ATP production decreases relative to the amount of fuel oxidized.  
+e. Heat production increases.  
+f. Brown adipose tissue is specialized for thermogenesis, whereas white adipose tissue is specialized mainly for triacylglycerol storage and endocrine functions.
+:::
+
+### Integrated Problem 4
+
+**Weeks covered:** 11, 12
+
+A local tissue injury releases inflammatory mediators and activates nearby cells.
+
+a. Which intercellular signaling mode best describes local action over short distances?  
+b. Name the fatty-acid precursor used to generate the prostaglandins emphasized in Week 11.  
+c. Which enzyme releases this precursor from membrane phospholipids?  
+d. Explain how an NSAID reduces prostaglandin formation.  
+e. If a separate extracellular signal activates an RTK, what happens immediately after receptor activation to create intracellular docking sites?
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. Paracrine signaling.  
+b. Arachidonic acid.  
+c. Phospholipase A2.  
+d. NSAIDs block access of arachidonic acid to the COX/PGH synthase active site, reducing PGH2 and downstream prostaglandin production.  
+e. The activated RTK undergoes trans-autophosphorylation on cytosolic tyrosines, creating phosphotyrosine docking sites.
+:::
+
+### Integrated Problem 5
+
+**Weeks covered:** 8, 12
+
+A signaling pathway activates an enzyme through phosphorylation.
+
+a. Define an enzyme.  
+b. Explain why phosphorylation can change enzyme activity.  
+c. What enzyme class adds the phosphate?  
+d. What enzyme class removes it?  
+e. Why does phosphorylation not necessarily mean activation?  
+f. Relate this reversible switch to the Ras GDP/GTP switch.
+
+::: {.callout-tip collapse="true" title="Answer"}
+a. A biological catalyst that increases reaction rate without being consumed.  
+b. Phosphorylation changes charge and often conformation, which can alter catalytic activity or interactions.  
+c. Protein kinase.  
+d. Protein phosphatase.  
+e. The effect depends on the specific protein and phosphorylation site; it may activate or inhibit.  
+f. Both are reversible molecular-switch systems: phosphorylation/dephosphorylation switches many proteins, while GTP binding/GTP hydrolysis switches Ras between ON and OFF states.
+:::
+
+# Coverage Check
+
+| Week | Core emphasis represented |
+|---:|---|
+| 8 | Free energy, coupling, redox, enzymes, Km/Vmax |
+| 9 | Glycolysis, PDH, CAC, lactate, anaplerosis |
+| 10 | ETC, proton pumping, ATP synthase, uncoupling |
+| 11 | Fatty acids, eicosanoids, COX/NSAIDs, pharmacology |
+| 12 | Signaling modes, phosphorylation, GPCR/RTK, Ras–MAP |
+
+# Coverage Reminder
+
+This exam intentionally mixes all five Part II weeks rather than presenting them chronologically.
