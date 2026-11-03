@@ -216,9 +216,11 @@ The GTP can be converted to ATP.
 <figcaption><strong>One CAC turn.</strong> <span class="visual-source">Lecture 9:25; Tutorial 6:4.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w09-textbook-cac.jpg" alt="Original Alberts textbook citric acid cycle figure showing acetyl-CoA entry, oxidation steps, electron carriers, GTP and carbon dioxide products.">
-<figcaption><strong>Original textbook figure — citric acid cycle.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 13 PDF p. 14, Fig. 13–12. Permission status: pending.</span></figcaption>
+<figure class="study-visual source-original-visual source-figure-compact" id="source-cac">
+<a class="source-figure-link" href="../assets/source-figures/w09-textbook-cac-hires.svg" target="_blank" rel="noopener" aria-label="Enlarge Alberts Figure 13–12 in a new tab">
+<img src="../assets/source-figures/w09-textbook-cac-hires.svg" alt="Alberts Figure 13–12 showing acetyl-CoA entry, the eight steps of the citric acid cycle, carbon counts, and NADH, FADH2, GTP and carbon dioxide products." loading="lazy" decoding="async">
+</a>
+<figcaption><strong>Original textbook figure — citric acid cycle.</strong> Vector artwork extracted from the chapter PDF. <a href="../assets/source-figures/w09-textbook-cac-hires.svg" target="_blank" rel="noopener">Enlarge figure</a>.<span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Fig. 13–12, printed p. 458 (Chapter 13 PDF p. 14). Permission status: pending.</span></figcaption>
 </figure>
 
 ## 14. Stoichiometry per glucose through the CAC
