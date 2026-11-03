@@ -15,6 +15,11 @@ Under limited oxygen:
 
 **pyruvate → lactate → NAD+ regeneration → Cori cycle**
 
+<figure class="study-visual">
+<img src="../assets/week09/week09-roadmap.svg" alt="Week 9 roadmap from glucose through glycolysis, PDH, the citric acid cycle, and electron carriers.">
+<figcaption><strong>Visual roadmap.</strong> <span class="visual-source">Lecture 9; Tutorial 6; Alberts Chapter 13.</span></figcaption>
+</figure>
+
 ## 1. Nutritional polysaccharides
 
 The lecture emphasizes three glucose polymers:
@@ -42,6 +47,11 @@ The pathway is often divided into three conceptual stages:
 1. **Energy-investment / trapping stage**
 2. **Cleavage into two three-carbon intermediates**
 3. **Energy-payoff stage**
+
+<figure class="study-visual">
+<img src="../assets/week09/week09-glycolysis-accounting.svg" alt="Glycolysis summary showing ATP investment, cleavage, payoff, and net products.">
+<figcaption><strong>Glycolysis accounting.</strong> <span class="visual-source">Lecture 9:6–9:20; Alberts Chapter 13.</span></figcaption>
+</figure>
 
 ## 3. Reaction 1: phosphorylation of glucose
 
@@ -164,6 +174,11 @@ Per glucose, because glycolysis produces 2 pyruvates:
 
 This reaction is treated as **irreversible** in the lecture: acetyl-CoA cannot simply be converted back into pyruvate.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week09/week09-pdh.svg" alt="Course visual showing pyruvate entering the mitochondrial matrix and being converted by PDH to acetyl-CoA, carbon dioxide, and NADH.">
+<figcaption><strong>Course visual — aerobic fate of pyruvate.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:2 and Lecture 9:22.</span></figcaption>
+</figure>
+
 ## 12. Acetyl-CoA as a metabolic hub
 
 Coenzyme A contains a reactive thiol group that carries the two-carbon acetyl group through a high-energy thioester linkage.
@@ -196,6 +211,11 @@ One turn of the CAC per acetyl-CoA produces:
 
 The GTP can be converted to ATP.
 
+<figure class="study-visual">
+<img src="../assets/week09/week09-cac-yield.svg" alt="Four cards showing the products of one citric acid cycle turn: three NADH, one FADH2, one GTP, and two carbon dioxide.">
+<figcaption><strong>One CAC turn.</strong> <span class="visual-source">Lecture 9:25; Tutorial 6:4.</span></figcaption>
+</figure>
+
 ## 14. Stoichiometry per glucose through the CAC
 
 ### Glycolysis
@@ -225,6 +245,11 @@ The GTP can be converted to ATP.
 
 All six carbons originally present in glucose have now been released as CO2.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week09/week09-tutorial-total.svg" alt="Per-glucose accounting table for glycolysis, PDH and two citric acid cycle turns.">
+<figcaption><strong>Course visual — full per-glucose accounting.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:5 and Lecture 9:26.</span></figcaption>
+</figure>
+
 ## 15. Anaplerotic reactions
 
 CAC intermediates can be withdrawn for biosynthesis.
@@ -245,6 +270,11 @@ Lactate dehydrogenase solves this problem:
 
 The key purpose is therefore **not** to make additional ATP directly. It is to regenerate NAD+ so glycolysis can continue producing its net 2 ATP per glucose.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week09/week09-tutorial-lactate.svg" alt="Flow diagram showing low oxygen causing NADH accumulation and lactate formation regenerating NAD plus so glycolysis can continue.">
+<figcaption><strong>Course visual — why lactate keeps glycolysis running.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:7 and Lecture 9:31.</span></figcaption>
+</figure>
+
 ## 17. The Cori cycle
 
 In exercising muscle:
@@ -258,6 +288,11 @@ The liver takes up lactate and converts it back into glucose through gluconeogen
 That glucose can return to the circulation and be used again by muscle.
 
 This muscle–liver exchange is the **Cori cycle**.
+
+<figure class="study-visual">
+<img src="../assets/week09/week09-cori.svg" alt="Cori cycle diagram showing muscle lactate traveling to liver, conversion to glucose, and glucose returning to muscle.">
+<figcaption><strong>The Cori cycle.</strong> <span class="visual-source">Lecture 9:32; Tutorial 6:8.</span></figcaption>
+</figure>
 
 ## 18. Week 9 learning-objective checklist
 

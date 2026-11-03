@@ -11,6 +11,11 @@ The main chain is:
 
 **NADH/FADH2 → electron-transport chain → proton pumping → proton-motive force → ATP synthase → ATP**
 
+<figure class="study-visual">
+<img src="../assets/week10/week10-roadmap.svg" alt="Week 10 roadmap from reduced electron carriers through the ETC, proton gradient, ATP synthase and ATP.">
+<figcaption><strong>Visual roadmap.</strong> <span class="visual-source">Lecture 10; Tutorial 6; Alberts Chapter 14.</span></figcaption>
+</figure>
+
 ## 1. Mitochondrial structure
 
 Know four regions:
@@ -43,6 +48,11 @@ The ETC pumps protons **from the matrix into the intermembrane space**.
 
 The matrix contains enzymes for pyruvate oxidation and the citric acid cycle and is the compartment from which protons are pumped during electron transport.
 
+<figure class="study-visual">
+<img src="../assets/week10/week10-mito.svg" alt="Four cards identifying the outer membrane, intermembrane space, inner membrane and matrix of mitochondria.">
+<figcaption><strong>Mitochondrial compartments.</strong> <span class="visual-source">Lecture 10:4–5; Tutorial 6:9.</span></figcaption>
+</figure>
+
 ## 2. Electron carriers
 
 ### NADH
@@ -62,6 +72,11 @@ Cytochromes contain heme groups whose iron cycles between oxidation states.
 A cytochrome carries **1 electron at a time**.
 
 This distinction is a frequent exam target.
+
+<figure class="study-visual">
+<img src="../assets/week10/week10-carriers.svg" alt="Comparison showing NADH carrying two electrons, FADH2 one or two, and cytochromes one electron.">
+<figcaption><strong>Electron-carrier comparison.</strong> <span class="visual-source">Lecture 10:7–8; Tutorial 6:10.</span></figcaption>
+</figure>
 
 ## 3. Electron flow down the ETC
 
@@ -97,6 +112,11 @@ Direction:
 **matrix → intermembrane space**
 
 Complex II is especially important to remember because it transfers electrons from FADH2-derived pathways without directly pumping protons.
+
+<figure class="study-visual course-source-visual">
+<img src="../assets/week10/week10-course-pumps.svg" alt="Course-style electron transport chain showing electron flow through complexes I, III and IV with proton pumping, and Complex II as the FADH2 entry point.">
+<figcaption><strong>Course visual — electron flow pays for proton pumping.</strong> <span class="visual-source">Faithful adaptation of Lecture 10:13–18 and Tutorial 6:13.</span></figcaption>
+</figure>
 
 ## 6. Proton-motive force
 
@@ -156,9 +176,19 @@ The catalytic sites cycle through three states:
 
 Rotation forces each catalytic β subunit to move sequentially through these conformations.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week10/week10-states.svg" alt="Three cards showing loose, tight and open catalytic conformations of ATP synthase.">
+<figcaption><strong>Course visual — L, T and O states.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:15 and Lecture 10:24.</span></figcaption>
+</figure>
+
 The core idea is mechanical coupling:
 
 **proton flow → rotation → conformational change → ATP synthesis/release**
+
+<figure class="study-visual">
+<img src="../assets/week10/week10-atpsynthase.svg" alt="Flow diagram showing proton flow through F0, rotation of the gamma shaft, beta-subunit conformational changes and ATP production.">
+<figcaption><strong>ATP synthase as a rotary machine.</strong> <span class="visual-source">Lecture 10:20–24; Alberts Chapter 14.</span></figcaption>
+</figure>
 
 ## 10. Substrates for ATP synthesis
 
@@ -209,6 +239,11 @@ Therefore:
 - more energy is released as **heat**.
 
 This is the biochemical basis of non-shivering thermogenesis in brown adipose tissue.
+
+<figure class="study-visual">
+<img src="../assets/week10/week10-thermogenin.svg" alt="Comparison of coupled respiration through ATP synthase and uncoupled proton return through thermogenin, producing more heat and less ATP.">
+<figcaption><strong>Thermogenin: uncoupling on purpose.</strong> <span class="visual-source">Lecture 10:28–31; Tutorial 6:16.</span></figcaption>
+</figure>
 
 ## 14. Week 10 learning-objective checklist
 
