@@ -142,6 +142,11 @@ For example, platelets contain thromboxane synthase and convert PGH2 to **thromb
 <figcaption><strong>Course visual — four stages of eicosanoid synthesis.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:23 and Lecture 11:7–8.</span></figcaption>
 </figure>
 
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w11-lecture-eicosanoids.jpg" alt="Original Week 11 lecture slide showing the four stages from membrane phospholipid and arachidonic acid through COX to prostaglandins and thromboxane.">
+<figcaption><strong>Original lecture graphic — eicosanoid synthesis pathway.</strong> <span class="visual-source">Source: Week 11 lecture, <em>Chapter 15 MBB201-11 — Lipids</em>, PDF p. 7. Permission status: pending.</span></figcaption>
+</figure>
+
 ## 8. COX-1 and COX-2
 
 ### COX-1
@@ -268,6 +273,11 @@ TI = \frac{LD_{50}}{ED_{50}}
 $$
 
 A larger therapeutic index generally indicates a wider margin between effective and toxic doses.
+
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w11-tutorial-ti.jpg" alt="Original Tutorial 7 graphic illustrating therapeutic index and the separation between effective and toxic dose ranges.">
+<figcaption><strong>Original tutorial graphic — therapeutic index.</strong> <span class="visual-source">Source: Tutorial 7, PDF p. 4. Permission status: pending.</span></figcaption>
+</figure>
 
 <figure class="study-visual">
 <img src="../assets/week11/week11-pk.svg" alt="Drug exposure flow showing dose, bioavailability, metabolism, excretion, half-life and therapeutic index.">

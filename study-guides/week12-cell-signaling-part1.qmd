@@ -66,6 +66,11 @@ This requires physical contact.
 <figcaption><strong>Four signaling modes.</strong> <span class="visual-source">Lecture 12:3–4; Tutorial 7:6.</span></figcaption>
 </figure>
 
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w12-textbook-signaling.jpg" alt="Original Alberts textbook figure comparing endocrine, paracrine, neuronal, and contact-dependent signaling.">
+<figcaption><strong>Original textbook figure — four types of intercellular signaling.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 16 PDF p. 3, Fig. 16–3. Permission status: pending.</span></figcaption>
+</figure>
+
 ## 3. Receptor location
 
 Most hydrophilic signaling molecules cannot cross the lipid bilayer and therefore bind **cell-surface receptors**.
@@ -302,6 +307,11 @@ ERK/MAP kinase can then phosphorylate downstream proteins and alter cell behavio
 <figure class="study-visual course-source-visual">
 <img src="../assets/week12/week12-course-rasmap.svg" alt="Course-style Ras-MAP pathway from phosphorylated RTK through Grb2, Sos, Ras, Raf and MEK to ERK.">
 <figcaption><strong>Course visual — Ras–MAP kinase pathway.</strong> <span class="visual-source">Faithful adaptation of Lecture 12:19–21 and Tutorial 7:15.</span></figcaption>
+</figure>
+
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w12-tutorial-rasmap.jpg" alt="Original Tutorial 7 slide showing the Ras to Raf to MEK to ERK MAP kinase signaling sequence.">
+<figcaption><strong>Original tutorial graphic — Ras–MAP kinase pathway.</strong> <span class="visual-source">Source: Tutorial 7, PDF p. 15. Permission status: pending.</span></figcaption>
 </figure>
 
 ## 19. Signaling must be turned off
