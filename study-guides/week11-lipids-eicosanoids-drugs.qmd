@@ -274,11 +274,6 @@ $$
 
 A larger therapeutic index generally indicates a wider margin between effective and toxic doses.
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w11-tutorial-ti.jpg" alt="Original Tutorial 7 graphic illustrating therapeutic index and the separation between effective and toxic dose ranges.">
-<figcaption><strong>Original tutorial graphic — therapeutic index.</strong> <span class="visual-source">Source: Tutorial 7, PDF p. 4. Permission status: pending.</span></figcaption>
-</figure>
-
 <figure class="study-visual">
 <img src="../assets/week11/week11-pk.svg" alt="Drug exposure flow showing dose, bioavailability, metabolism, excretion, half-life and therapeutic index.">
 <figcaption><strong>Drug exposure and safety.</strong> <span class="visual-source">Lecture 11:19–23; Tutorial 7:3–4.</span></figcaption>

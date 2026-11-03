@@ -66,11 +66,6 @@ This requires physical contact.
 <figcaption><strong>Four signaling modes.</strong> <span class="visual-source">Lecture 12:3–4; Tutorial 7:6.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w12-textbook-signaling.jpg" alt="Original Alberts textbook figure comparing endocrine, paracrine, neuronal, and contact-dependent signaling.">
-<figcaption><strong>Original textbook figure — four types of intercellular signaling.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 16 PDF p. 3, Fig. 16–3. Permission status: pending.</span></figcaption>
-</figure>
-
 ## 3. Receptor location
 
 Most hydrophilic signaling molecules cannot cross the lipid bilayer and therefore bind **cell-surface receptors**.
