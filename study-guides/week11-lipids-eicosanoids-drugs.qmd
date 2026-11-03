@@ -7,6 +7,11 @@ subtitle: "Adipose tissue, essential fatty acids, prostaglandins, NSAIDs, aspiri
 
 The Week 11 lecture is the authority for scope. Alberts Chapters 11 and 15 provide relevant membrane and intracellular context, but several examinable topics—eicosanoids, NSAIDs, aspirin, acetaminophen, bioavailability, therapeutic index, agonists, and antagonists—come specifically from the lecture and tutorial material.
 
+<figure class="study-visual">
+<img src="../assets/week11/week11-roadmap.svg" alt="Week 11 roadmap connecting adipose tissue, fatty acids, arachidonic acid, COX enzymes, eicosanoids and drug action.">
+<figcaption><strong>Visual roadmap.</strong> <span class="visual-source">Lecture 11; Tutorial 6.</span></figcaption>
+</figure>
+
 ## 1. White, brown, and beige adipose tissue
 
 ### White adipose tissue
@@ -31,6 +36,11 @@ Brown adipocytes arise from a lineage distinct from ordinary white adipocytes.
 Beige adipocytes can develop thermogenic properties in response to appropriate stimulation.
 
 The lecture emphasizes **inducible thermogenesis** as their defining feature.
+
+<figure class="study-visual">
+<img src="../assets/week11/week11-adipose.svg" alt="Comparison of white, brown and beige adipose tissue.">
+<figcaption><strong>Three kinds of adipose tissue.</strong> <span class="visual-source">Lecture 11:2; Tutorial 6:19.</span></figcaption>
+</figure>
 
 ## 2. Fatty-acid structure
 
@@ -62,6 +72,11 @@ Omega nomenclature counts from the **methyl (omega) end** of the fatty acid.
 - **omega-6:** the first double bond begins at carbon 6 from the methyl end.
 
 Do not count from the carboxyl end when assigning omega numbers.
+
+<figure class="study-visual">
+<img src="../assets/week11/week11-omega.svg" alt="Summary of linoleic acid, alpha-linolenic acid, omega numbering and cis double-bond effects.">
+<figcaption><strong>Essential fatty acids and omega numbering.</strong> <span class="visual-source">Lecture 11:3–4; Tutorial 6:20.</span></figcaption>
+</figure>
 
 ## 5. Eicosanoids
 
@@ -122,6 +137,11 @@ Different cells therefore make different downstream products.
 
 For example, platelets contain thromboxane synthase and convert PGH2 to **thromboxane A2 (TxA2)**.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week11/week11-course-fourstages.svg" alt="Four-stage course visual showing arachidonic-acid release, PGH synthase binding, PGH2 production and cell-specific eicosanoid synthesis.">
+<figcaption><strong>Course visual — four stages of eicosanoid synthesis.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:23 and Lecture 11:7–8.</span></figcaption>
+</figure>
+
 ## 8. COX-1 and COX-2
 
 ### COX-1
@@ -141,6 +161,11 @@ COX-2 is generally:
 - associated with inflammatory pain, fever, and swelling.
 
 The two isoforms are related but have structural differences in the substrate-access channel.
+
+<figure class="study-visual">
+<img src="../assets/week11/week11-cox.svg" alt="Comparison of COX-1 housekeeping roles and inducible COX-2 inflammatory roles.">
+<figcaption><strong>COX-1 versus COX-2.</strong> <span class="visual-source">Lecture 11:8–9; Tutorial 6:24.</span></figcaption>
+</figure>
 
 ## 9. NSAIDs
 
@@ -162,6 +187,11 @@ This distinguishes aspirin from several other common NSAIDs that bind reversibly
 
 Because covalent inhibition persists after free aspirin has disappeared, enzyme function does not return simply by aspirin dissociation.
 
+<figure class="study-visual">
+<img src="../assets/week11/week11-aspirin.svg" alt="Comparison of covalent aspirin inhibition with reversible binding of other NSAIDs.">
+<figcaption><strong>Aspirin versus other NSAIDs.</strong> <span class="visual-source">Lecture 11:13–15; Tutorial 6:25.</span></figcaption>
+</figure>
+
 ## 11. Low-dose aspirin and platelets
 
 Platelets produce **TxA2**, which promotes platelet aggregation and contributes to blood clot formation.
@@ -173,6 +203,11 @@ The crucial course point is that platelets lack nuclei and cannot readily replac
 Thus a brief exposure to aspirin can have a prolonged antiplatelet effect.
 
 Ordinary reversible NSAIDs do not produce the same persistent platelet inhibition.
+
+<figure class="study-visual course-source-visual">
+<img src="../assets/week11/week11-course-lowdose.svg" alt="Course-style sequence from aspirin inhibition of platelet COX-1 to lower PGH2, lower thromboxane A2, lower aggregation and lower clot risk.">
+<figcaption><strong>Course visual — low-dose aspirin prevents clots.</strong> <span class="visual-source">Faithful adaptation of Lecture 11:17 and Tutorial 6:28.</span></figcaption>
+</figure>
 
 ## 12. Why a COX-2-selective inhibitor can be useful
 
@@ -233,6 +268,11 @@ TI = \frac{LD_{50}}{ED_{50}}
 $$
 
 A larger therapeutic index generally indicates a wider margin between effective and toxic doses.
+
+<figure class="study-visual">
+<img src="../assets/week11/week11-pk.svg" alt="Drug exposure flow showing dose, bioavailability, metabolism, excretion, half-life and therapeutic index.">
+<figcaption><strong>Drug exposure and safety.</strong> <span class="visual-source">Lecture 11:19–23; Tutorial 7:3–4.</span></figcaption>
+</figure>
 
 ## 18. Agonists and antagonists
 
