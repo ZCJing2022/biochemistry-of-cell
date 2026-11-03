@@ -118,9 +118,11 @@ Complex II is especially important to remember because it transfers electrons fr
 <figcaption><strong>Course visual — electron flow pays for proton pumping.</strong> <span class="visual-source">Faithful adaptation of Lecture 10:13–18 and Tutorial 6:13.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w10-textbook-etc.jpg" alt="Original Alberts textbook respiratory-chain figure showing electron flow through inner-membrane complexes and proton pumping.">
-<figcaption><strong>Original textbook figure — respiratory chain and proton pumping.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 14 PDF p. 11, Fig. 14–14. Permission status: pending.</span></figcaption>
+<figure class="study-visual source-original-visual source-figure-compact" id="source-respiratory-chain">
+<a class="source-figure-link" href="../assets/source-figures/w10-textbook-etc-hires.svg" target="_blank" rel="noopener" aria-label="Enlarge Alberts Figure 14–14 panel A in a new tab">
+<img src="../assets/source-figures/w10-textbook-etc-hires.svg" alt="Alberts Figure 14–14 panel A showing NADH-derived electron flow through three proton-pumping respiratory complexes, ubiquinone, cytochrome c and oxygen reduction. Complex II is not depicted in this source panel." loading="lazy" decoding="async">
+</a>
+<figcaption><strong>Original textbook figure — respiratory chain and proton pumping.</strong> Vector extraction of panel A only; Complex II is not shown in this panel. <a href="../assets/source-figures/w10-textbook-etc-hires.svg" target="_blank" rel="noopener">Enlarge figure</a>.<span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Fig. 14–14A, printed p. 483 (Chapter 14 PDF p. 11). Permission status: pending.</span></figcaption>
 </figure>
 
 ## 6. Proton-motive force
