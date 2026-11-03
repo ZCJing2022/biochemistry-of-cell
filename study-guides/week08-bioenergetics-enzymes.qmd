@@ -136,9 +136,11 @@ This is why pathway direction cannot be understood from $\Delta G^{\circ\prime}$
 <figcaption><strong>Two ways to drive a pathway forward.</strong> The left panel mirrors the lecture's ATP–glucose coupling example; the right panel shows the product-removal logic used for sequential metabolic reactions. <span class="visual-source">Lecture slides 8:9–8:10; Tutorial 5 coupling exercise; Alberts Chapter 3.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w08-textbook-coupling.jpg" alt="Original Alberts textbook figure showing reaction coupling through an activated carrier and favorable combined free-energy change.">
-<figcaption><strong>Original textbook figure — reaction coupling.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 3 PDF p. 12, Fig. 3–17. Permission status: pending.</span></figcaption>
+<figure class="study-visual source-original-visual source-figure-compact" id="source-coupling">
+<a class="source-figure-link" href="../assets/source-figures/w08-textbook-coupling-hires.svg" target="_blank" rel="noopener" aria-label="Enlarge Alberts Figure 3–17 in a new tab">
+<img src="../assets/source-figures/w08-textbook-coupling-hires.svg" alt="Alberts Figure 3–17: the energetically favorable C-to-D reaction drives the unfavorable X-to-Y reaction through coupling." loading="lazy" decoding="async">
+</a>
+<figcaption><strong>Original textbook figure — reaction coupling.</strong> Vector artwork extracted from the chapter PDF, not an enlarged screenshot. <a href="../assets/source-figures/w08-textbook-coupling-hires.svg" target="_blank" rel="noopener">Enlarge figure</a>.<span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Fig. 3–17, printed p. 96 (Chapter 3 PDF p. 12). Permission status: pending.</span></figcaption>
 </figure>
 
 ## 6. ATP is an activated carrier
