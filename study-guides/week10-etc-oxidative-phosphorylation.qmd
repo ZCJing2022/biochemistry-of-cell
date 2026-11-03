@@ -118,6 +118,11 @@ Complex II is especially important to remember because it transfers electrons fr
 <figcaption><strong>Course visual — electron flow pays for proton pumping.</strong> <span class="visual-source">Faithful adaptation of Lecture 10:13–18 and Tutorial 6:13.</span></figcaption>
 </figure>
 
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w10-textbook-etc.jpg" alt="Original Alberts textbook respiratory-chain figure showing electron flow through inner-membrane complexes and proton pumping.">
+<figcaption><strong>Original textbook figure — respiratory chain and proton pumping.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 14 PDF p. 11, Fig. 14–14. Permission status: pending.</span></figcaption>
+</figure>
+
 ## 6. Proton-motive force
 
 Pumping H+ creates an electrochemical gradient across the inner mitochondrial membrane.
@@ -130,6 +135,11 @@ It has two components:
 - an **electrical gradient** — charge separation across the membrane.
 
 The inner membrane must be sufficiently impermeable to protons for this stored energy to be maintained.
+
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w10-lecture-pmf.jpg" alt="Original Week 10 lecture slide illustrating the proton-motive force across the inner mitochondrial membrane.">
+<figcaption><strong>Original lecture graphic — proton-motive force.</strong> <span class="visual-source">Source: Week 10 lecture, <em>Chapter 14 MBB201-10 — Electron Transport Chain</em>, PDF p. 14. Permission status: pending.</span></figcaption>
+</figure>
 
 ## 7. Chemiosmotic coupling
 
