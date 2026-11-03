@@ -19,3 +19,8 @@ Each practice exam is designed for a **two-hour sitting** and mixes Weeks 8–12
 1. [Practice Exam 1 — Part II (Weeks 8–12)](practice-part2-exam-01.qmd)
 2. [Practice Exam 2 — Part II (Weeks 8–12)](practice-part2-exam-02.qmd)
 3. [Practice Exam 3 — Part II (Weeks 8–12)](practice-part2-exam-03.qmd)
+
+
+## Learning-objective coverage
+
+[Open the complete objective-to-question map](learning-objective-coverage.qmd). All **78** source objectives have worked weekly questions and assessed locations in **each** of the three 120-minute exams. Weekly banks contain 35 MCQs plus objective-led and integrated responses. Each exam has 38 MCQs, five integrated problems and 100 marks.

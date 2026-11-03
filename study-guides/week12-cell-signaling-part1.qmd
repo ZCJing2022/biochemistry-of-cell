@@ -304,11 +304,6 @@ ERK/MAP kinase can then phosphorylate downstream proteins and alter cell behavio
 <figcaption><strong>Course visual — Ras–MAP kinase pathway.</strong> <span class="visual-source">Faithful adaptation of Lecture 12:19–21 and Tutorial 7:15.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w12-tutorial-rasmap.jpg" alt="Original Tutorial 7 slide showing the Ras to Raf to MEK to ERK MAP kinase signaling sequence.">
-<figcaption><strong>Original tutorial graphic — Ras–MAP kinase pathway.</strong> <span class="visual-source">Source: Tutorial 7, PDF p. 15. Permission status: pending.</span></figcaption>
-</figure>
-
 ## 19. Signaling must be turned off
 
 Pathways are reversible and regulated.

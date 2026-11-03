@@ -1,709 +1,909 @@
 ---
 title: "Practice Exam 3 — Part II (Weeks 8–12)"
+subtitle: "Application and prediction · Complete learning-objective coverage"
 toc-depth: 2
 toc-title: "Practice Exam Contents"
 ---
 
+<!-- objective-coverage-v2 -->
+
 # Exam Instructions
 
-**Recommended time: 120 minutes.**
+**Time: 120 minutes. Total: 100 marks.** All 78 items in the supplied Week 8–12 Learning Objectives are assessed in this exam, through 38 mixed-order MCQs and five structured integrated problems. Complete every subpart; naming a topic alone is not a complete answer to an explanation or comparison prompt.
 
-This practice examination deliberately mixes material from **Weeks 8–12** and emphasizes synthesis across pathways.
+Allocate **42 minutes to Section A**, **68 minutes to Section B**, and **10 minutes to checking**. Timing is a design budget, not a student-pilot measurement. Use brief explanations, labeled sequences and compact accounting tables rather than long essays. A basic calculator is sufficient. Pharmacology questions assess course mechanisms, not clinical recommendations.
 
-- **Section A:** 38 multiple-choice questions
-- **Section B:** 5 mixed Assignment-Style / Integrated problems
-- Try each item before opening its answer.
-- Each answer is hidden initially; click **Answer** to reveal it.
-- Questions are presented in mixed order rather than week-by-week.
+Answers are hidden initially. Each question has an Answer arrow. Objective tags and sources are inside the answers so the MCQ order is not a week-by-week checklist. The [coverage map](learning-objective-coverage.qmd) is for checking after the attempt.
 
 # Section A — Multiple Choice
 
-### Question 1
+**38 questions × 1 mark = 38 marks. Choose one best answer.**
 
-**Week 8**
+### Question 1 {#q01}
 
-A reaction with a positive $\Delta G$ can proceed forward in a cell if:
+Which expression/function summary explains the rationale for distinguishing the two isoforms?
 
-- **A.** it is coupled to a sufficiently favorable reaction
-- **B.** an enzyme changes its equilibrium constant
-- **C.** activation energy becomes positive
-- **D.** NADH is absent
+- **A.** Both are exclusively platelet proteins with identical expression in every condition.
+- **B.** COX-1 is generally constitutive with housekeeping roles; COX-2 is inducible in selected cells during inflammation.
+- **C.** COX-1 is a lipid product; COX-2 is a glucose transporter.
+- **D.** COX-1 occurs only during inflammation; COX-2 has no role in pain or swelling.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. it is coupled to a sufficiently favorable reaction**
+**Correct answer: B.** COX-1 is generally constitutive with housekeeping roles; COX-2 is inducible in selected cells during inflammation.
+
+The course's broad distinction is housekeeping versus inducible inflammatory roles, which makes nonselective inhibition consequential in more than one pathway context.
+
+**Objectives:** W11-08. **Source:** Week 11 objectives, item 8; Lecture 11:8–11:9.
 :::
 
-### Question 2
+### Question 2 {#q02}
 
-**Week 9**
+A hydrophilic signal usually needs a surface receptor. Which three classes does the lecture identify?
 
-Which glycolytic step uses phosphoglucose isomerase?
-
-- **A.** glucose → glucose-6-phosphate
-- **B.** glucose-6-phosphate → fructose-6-phosphate
-- **C.** fructose-6-phosphate → fructose-1,6-bisphosphate
-- **D.** PEP → pyruvate
+- **A.** Ras, Raf and MEK as the three surface receptor classes.
+- **B.** G-protein-coupled, enzyme-linked and ion-channel-linked receptors.
+- **C.** Kinases, phosphatases and cytochromes.
+- **D.** NADH, FADH2 and GTP as membrane receptor proteins.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. glucose-6-phosphate → fructose-6-phosphate**
+**Correct answer: B.** G-protein-coupled, enzyme-linked and ion-channel-linked receptors.
+
+The lecture distinguishes these three classes from intracellular receptors used by some small hydrophobic signals.
+
+**Objectives:** W12-02. **Source:** Week 12 objectives, item 2; Lecture 12:5; Tutorial 7.
 :::
 
-### Question 3
+### Question 3 {#q03}
 
-**Week 10**
+Which statement correctly applies OIL RIG to electron transfer?
 
-Which statement about the inner mitochondrial membrane is correct?
-
-- **A.** It is freely permeable to H+.
-- **B.** It contains the ETC and ATP synthase.
-- **C.** It contains no proteins.
-- **D.** It is the primary site of glycolysis.
+- **A.** The donor is oxidized by losing electrons; the acceptor is reduced by gaining them.
+- **B.** Both partners are reduced because electrons remain in the system.
+- **C.** The donor is reduced and the acceptor oxidized.
+- **D.** Oxidation and reduction occur independently without any electron acceptor.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. It contains the ETC and ATP synthase.**
+**Correct answer: A.** The donor is oxidized by losing electrons; the acceptor is reduced by gaining them.
+
+Oxidation is loss and reduction is gain. A transfer couples oxidation of one partner to reduction of the other.
+
+**Objectives:** W08-09, W08-10. **Source:** Week 8 objectives, item 9; Lecture 8:14–8:16; Week 8 objectives, item 10; Lecture 8:14–8:16.
 :::
 
-### Question 4
+### Question 4 {#q04}
 
-**Week 11**
+A diagram shows complexes I–IV. Which annotation should be added to the proton-pumping arrows?
 
-Which statement best describes an eicosanoid?
-
-- **A.** A 20-carbon signaling molecule derived from polyunsaturated fatty acids
-- **B.** A glucose-storage polymer
-- **C.** A mitochondrial electron carrier
-- **D.** A receptor tyrosine kinase
+- **A.** Only II pumps protons, and it pumps directly into the cytosol.
+- **B.** All four pump from intermembrane space to matrix; ATP synthase then pumps outward to make ATP.
+- **C.** I and II pump inward, while III and IV phosphorylate ADP without proton movement.
+- **D.** I, III and IV pump from matrix to intermembrane space; II does not pump; ATP-synthase return is toward the matrix.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. A 20-carbon signaling molecule derived from polyunsaturated fatty acids**
+**Correct answer: D.** I, III and IV pump from matrix to intermembrane space; II does not pump; ATP-synthase return is toward the matrix.
+
+The lecture distinguishes complexes I, III and IV from non-pumping II and separates pumping from ATP-synthase-mediated return.
+
+**Objectives:** W10-06. **Source:** Week 10 objectives, item 6; Lecture 10:14–10:18.
 :::
 
-### Question 5
+### Question 5 {#q05}
 
-**Week 12**
+After cleavage and rearrangement, which molecules feed into reaction 6?
 
-Which receptor class has intrinsic tyrosine kinase activity in the pathway emphasized?
-
-- **A.** GPCR
-- **B.** RTK
-- **C.** ion-channel-linked receptor
-- **D.** intracellular steroid receptor only
+- **A.** Two glucose-6-phosphates from one three-carbon molecule.
+- **B.** Two molecules of glyceraldehyde-3-phosphate from one six-carbon substrate.
+- **C.** One glyceraldehyde-3-phosphate and one acetyl-CoA.
+- **D.** Two pyruvates plus two CO2 before any oxidation reaction.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. RTK**
+**Correct answer: B.** Two molecules of glyceraldehyde-3-phosphate from one six-carbon substrate.
+
+The lecture combines the cleavage and rearrangement to focus on two equivalent three-carbon molecules entering the payoff sequence.
+
+**Objectives:** W09-09. **Source:** Week 9 objectives, item 9; Lecture 9:13.
 :::
 
-### Question 6
+### Question 6 {#q06}
 
-**Week 8**
+A protein lets protons return without driving ATP synthase. Which interpretation fits the thermogenin example?
 
-Which statement correctly compares Km and Vmax?
-
-- **A.** Both have concentration units.
-- **B.** Km has concentration units; Vmax has rate units.
-- **C.** Km has rate units; Vmax has concentration units.
-- **D.** Neither has units.
+- **A.** An inner-membrane uncoupling protein in brown fat that permits proton return, lowering ATP capture and increasing heat.
+- **B.** A proton pump that makes the gradient larger while preventing all proton return.
+- **C.** A matrix enzyme that directly converts lactate to ATP.
+- **D.** An oxygen-producing protein in the outer mitochondrial membrane.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Km has concentration units; Vmax has rate units.**
+**Correct answer: A.** An inner-membrane uncoupling protein in brown fat that permits proton return, lowering ATP capture and increasing heat.
+
+Thermogenin provides an alternative proton-return route; it dissipates gradient energy as heat rather than capturing all of it through ATP synthase.
+
+**Objectives:** W10-09. **Source:** Week 10 objectives, item 9; Lecture 10, thermogenin slides; Tutorial 6.
 :::
 
-### Question 7
+### Question 7 {#q07}
 
-**Week 9**
+Which description distinguishes eicosanoids from stored triacylglycerols and protein receptors?
 
-Glycogen differs from amylopectin mainly because glycogen:
-
-- **A.** is composed of fructose
-- **B.** is more highly branched
-- **C.** contains only β linkages
-- **D.** lacks α(1→6) branch points
+- **A.** Twenty-carbon signaling molecules derived from oxidation of polyunsaturated fatty acids.
+- **B.** Six-carbon glucose polymers used only for storage.
+- **C.** Large proteins that directly phosphorylate ADP in mitochondria.
+- **D.** Seven-pass membrane proteins that bind GDP.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. is more highly branched**
+**Correct answer: A.** Twenty-carbon signaling molecules derived from oxidation of polyunsaturated fatty acids.
+
+Eicosanoids are lipid-derived signals; the detailed course example is the prostaglandin/TxA2 branch.
+
+**Objectives:** W11-04. **Source:** Week 11 objectives, item 4; Lecture 11:5.
 :::
 
-### Question 8
+### Question 8 {#q08}
 
-**Week 10**
+Which result should be entered in a per-glucose glycolysis accounting table?
 
-Which complex accepts electrons from FADH2-linked pathways and does not pump H+?
-
-- **A.** I
-- **B.** II
-- **C.** III
-- **D.** IV
+- **A.** 2 GTP, 2 FADH2 and 6 CO2.
+- **B.** 4 ATP net, 2 NADH and 2 acetyl-CoA.
+- **C.** 2 ATP net, 2 NADH and 2 pyruvate.
+- **D.** 2 ATP net, 1 NADH and 1 pyruvate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. II**
+**Correct answer: C.** 2 ATP net, 2 NADH and 2 pyruvate.
+
+Two ATP are invested and four produced; two three-carbon molecules proceed through the payoff stage, giving two NADH and two pyruvates per glucose.
+
+**Objectives:** W09-03. **Source:** Week 9 objectives, item 3; Lecture 9:6, 9:18–9:20; Tutorial 6.
 :::
 
-### Question 9
+### Question 9 {#q09}
 
-**Week 11**
+Which statement keeps the seven-pass receptor distinct from the GDP/GTP-binding switch that works with it?
 
-COX-2 is generally described as:
-
-- **A.** a constitutive housekeeping isoform only
-- **B.** an inducible isoform associated strongly with inflammation
-- **C.** the precursor of arachidonic acid
-- **D.** a platelet receptor
+- **A.** The GPCR itself is Ras, and both receptors have intrinsic tyrosine kinase activity.
+- **B.** Both are protein kinases whose state is set only by phosphorylation, not bound nucleotide.
+- **C.** Ras has three subunits, while a GPCR-associated G protein is one membrane-spanning helix; both are GDP-ON.
+- **D.** A heterotrimeric G protein works with a GPCR; Ras is monomeric. Both use GTP-ON/GDP-OFF switching, but only the former is a three-subunit complex.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. an inducible isoform associated strongly with inflammation**
+**Correct answer: D.** A heterotrimeric G protein works with a GPCR; Ras is monomeric. Both use GTP-ON/GDP-OFF switching, but only the former is a three-subunit complex.
+
+The lecture compares a switching subunit of a heterotrimeric G protein with an individual small GTPase; the receptor and G protein are not the same object.
+
+**Objectives:** W12-05, W12-06, W12-07. **Source:** Week 12 objectives, item 5; Lecture 12:10–12:12; Tutorial 7; Week 12 objectives, item 6; Lecture 12:10–12:11; Week 12 objectives, item 7; Lecture 12:11.
 :::
 
-### Question 10
+### Question 10 {#q10}
 
-**Week 12**
+Which proposed project is a metabolomics investigation rather than a genome or protein study?
 
-The OFF state of Ras is:
-
-- **A.** Ras–GTP
-- **B.** Ras–GDP
-- **C.** phosphorylated Ras only
-- **D.** Ras bound to ATP
+- **A.** Determining only the three-dimensional structures of proteins.
+- **B.** Systematic identification and quantification of small-molecule metabolites at a specified time.
+- **C.** Sequencing all DNA bases, regardless of metabolite concentrations.
+- **D.** Measuring only the maximum rate of one purified enzyme.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Ras–GDP**
+**Correct answer: B.** Systematic identification and quantification of small-molecule metabolites at a specified time.
+
+The lecture defines the metabolome as the small-molecule metabolic products of a biological system at a point in time.
+
+**Objectives:** W08-03. **Source:** Week 8 objectives, item 3; Lecture 8:2.
 :::
 
-### Question 11
+### Question 11 {#q11}
 
-**Week 8**
+Which correction should replace “Omega-6 means six double bonds counted from the carboxyl end”?
 
-Which statement about enzymes is correct?
-
-- **A.** They are consumed stoichiometrically by each reaction.
-- **B.** They accelerate both forward and reverse reactions toward equilibrium.
-- **C.** They shift equilibrium toward products.
-- **D.** They make all endergonic reactions exergonic.
+- **A.** The labels count the total number of double bonds from either end.
+- **B.** They identify the third or sixth phosphate attached to the carboxyl group.
+- **C.** They identify only chain length and say nothing about a double bond's position.
+- **D.** The first double bond begins at carbon 3 or 6, respectively, counting from the methyl end.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. They accelerate both forward and reverse reactions toward equilibrium.**
+**Correct answer: D.** The first double bond begins at carbon 3 or 6, respectively, counting from the methyl end.
+
+Omega notation counts from the terminal methyl end and specifies the first double-bond position, not the total number of double bonds.
+
+**Objectives:** W11-03. **Source:** Week 11 objectives, item 3; Lecture 11:4; Tutorial 6.
 :::
 
-### Question 12
+### Question 12 {#q12}
 
-**Week 9**
+Which note would correctly label a linear starch, a branched starch and the more highly branched animal storage polymer?
 
-The pyruvate dehydrogenase reaction is treated in this course as:
-
-- **A.** readily reversible
-- **B.** irreversible
-- **C.** independent of NAD+
-- **D.** a cytosolic fermentation reaction
+- **A.** Amylose and glycogen are linear animal polymers; amylopectin contains fructose. All links are peptide bonds.
+- **B.** Amylose is linear plant starch; amylopectin is branched plant starch; glycogen is more highly branched animal storage. Chains use α(1→4), branches α(1→6) glycosidic bonds.
+- **C.** All three are plant polymers with identical branching; their chains use β(1→6) and their branches α(1→4).
+- **D.** Glycogen is less branched than amylopectin; amylose is a branched lipid. All three use ester bonds between glucose units.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. irreversible**
+**Correct answer: B.** Amylose is linear plant starch; amylopectin is branched plant starch; glycogen is more highly branched animal storage. Chains use α(1→4), branches α(1→6) glycosidic bonds.
+
+All three use glucose; the lecture distinguishes origin, branching and α-glycosidic linkage positions.
+
+**Objectives:** W09-01, W09-02. **Source:** Week 9 objectives, item 1; Lecture 9:4; Week 9 objectives, item 2; Lecture 9:4.
 :::
 
-### Question 13
+### Question 13 {#q13}
 
-**Week 10**
+A classmate uses ΔG to claim a reaction must finish within a second. Which replacement statement is justified?
 
-Which carrier transfers one electron at a time?
-
-- **A.** NADH
-- **B.** cytochrome
-- **C.** FADH2 only in two-electron form
-- **D.** ATP
+- **A.** The forward reaction is thermodynamically favored, but its speed is not specified.
+- **B.** The forward reaction must be rapid because negative free energy removes every barrier.
+- **C.** The reaction is at equilibrium because energy can be released.
+- **D.** The enzyme must change the reactant-to-product free-energy difference before it can proceed.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. cytochrome**
+**Correct answer: A.** The forward reaction is thermodynamically favored, but its speed is not specified.
+
+ΔG gives the energetic change and favored direction under stated conditions; a negative value does not eliminate the activation barrier.
+
+**Objectives:** W08-05. **Source:** Week 8 objectives, item 5; Lecture 8:7–8:8.
 :::
 
-### Question 14
+### Question 14 {#q14}
 
-**Week 11**
+What should a student label on a diagram of heme-iron oxidation and reduction?
 
-Which pathway order is correct?
-
-- **A.** PGH2 → arachidonic acid → membrane phospholipid
-- **B.** membrane phospholipid → arachidonic acid → PGH2 → specific eicosanoid
-- **C.** arachidonic acid → phospholipid → COX-1
-- **D.** TxA2 → arachidonic acid → PGH2
+- **A.** Two-electron transfer with no change in iron oxidation state.
+- **B.** Proton transport without any electron transfer.
+- **C.** One-electron transfer through cycling of the heme iron between Fe3+ and Fe2+.
+- **D.** Simultaneous transfer of an entire NADH molecule and two phosphates.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. membrane phospholipid → arachidonic acid → PGH2 → specific eicosanoid**
+**Correct answer: C.** One-electron transfer through cycling of the heme iron between Fe3+ and Fe2+.
+
+The heme iron gains or loses one electron; cytochromes are the one-electron carriers emphasized in lecture.
+
+**Objectives:** W10-03. **Source:** Week 10 objectives, item 3; Lecture 10:8.
 :::
 
-### Question 15
+### Question 15 {#q15}
 
-**Week 12**
+Which correction should replace “Every phosphorylated protein is ON”?
 
-Which statement about an RTK is correct?
-
-- **A.** Its ligand is itself a tyrosine kinase.
-- **B.** Its cytosolic domain has tyrosine kinase activity.
-- **C.** It has seven transmembrane helices.
-- **D.** It is a monomeric GTPase.
+- **A.** Phosphorylation always inhibits all downstream signaling.
+- **B.** Phosphorylation always activates every protein by the same mechanism.
+- **C.** Changing charge and conformation can activate OR inhibit, depending on the protein and site.
+- **D.** Phosphate addition has no possible effect on protein interactions.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Its cytosolic domain has tyrosine kinase activity.**
+**Correct answer: C.** Changing charge and conformation can activate OR inhibit, depending on the protein and site.
+
+The lecture explicitly warns that phosphorylation can turn a protein on or off; the modification alone does not establish direction.
+
+**Objectives:** W12-03. **Source:** Week 12 objectives, item 3; Lecture 12:9.
 :::
 
-### Question 16
+### Question 16 {#q16}
 
-**Week 8**
+Which statement identifies both receptor activation and activation of its associated G protein?
 
-When NAD+ accepts electrons during fuel oxidation, NAD+ is:
-
-- **A.** oxidized
-- **B.** reduced
-- **C.** phosphorylated
-- **D.** hydrolyzed
+- **A.** The ligand phosphorylates Ras directly without any receptor conformational change.
+- **B.** Ligand changes receptor conformation; the receptor promotes GDP–GTP exchange on the G protein, which rearranges/dissociates and engages an effector.
+- **C.** The G protein becomes active only after hydrolyzing GTP to GDP before it can bind an effector.
+- **D.** The receptor releases oxygen, converting GTP to ATP on a cytochrome.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. reduced**
+**Correct answer: B.** Ligand changes receptor conformation; the receptor promotes GDP–GTP exchange on the G protein, which rearranges/dissociates and engages an effector.
+
+The active receptor helps turn the G-protein switch on; GTP hydrolysis later turns that switch off.
+
+**Objectives:** W12-08. **Source:** Week 12 objectives, item 8; Lecture 12:12–12:13; Alberts Ch. 16.
 :::
 
-### Question 17
+### Question 17 {#q17}
 
-**Week 9**
+Which explanation links reaction 2 to the later formation of two phosphorylated three-carbon units?
 
-The two ATP invested in glycolysis are recovered first when:
-
-- **A.** 1,3-BPG transfers phosphate to ADP
-- **B.** glucose is phosphorylated
-- **C.** pyruvate becomes acetyl-CoA
-- **D.** citrate is oxidized
+- **A.** It reverses the first phosphorylation so glucose can leave through GLUT2.
+- **B.** It directly makes the first ATP and releases two CO2.
+- **C.** It forms fructose-6-phosphate and prepares C1 for phosphorylation and the molecule for later cleavage.
+- **D.** It converts the six-carbon substrate directly into acetyl-CoA.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. 1,3-BPG transfers phosphate to ADP**
+**Correct answer: C.** It forms fructose-6-phosphate and prepares C1 for phosphorylation and the molecule for later cleavage.
+
+The lecture emphasizes preparation for the second phosphorylation and subsequent cleavage, not direct energy capture at this step.
+
+**Objectives:** W09-07. **Source:** Week 9 objectives, item 7; Lecture 9:11.
 :::
 
-### Question 18
+### Question 18 {#q18}
 
-**Week 10**
+A diagram needs two labels above the arachidonic-acid-to-PGH2 step. Which pair belongs there?
 
-Which component of ATP synthase contains the catalytic head?
-
-- **A.** F0
-- **B.** F1
-- **C.** Complex II
-- **D.** cytochrome c
+- **A.** NAD+ and NADH.
+- **B.** Raf and MEK.
+- **C.** PGH2 and TxA2.
+- **D.** COX-1 and COX-2.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. F1**
+**Correct answer: D.** COX-1 and COX-2.
+
+COX-1 and COX-2 are the enzyme isoforms; PGH2 and TxA2 are different molecules in the pathway.
+
+**Objectives:** W11-07. **Source:** Week 11 objectives, item 7; Lecture 11:8–11:9.
 :::
 
-### Question 19
+### Question 19 {#q19}
 
-**Week 11**
+Which note correctly distinguishes electrons held by the reduced carrier from electrons transferred in one step?
 
-Aspirin reduces platelet aggregation mainly by reducing synthesis of:
-
-- **A.** TxA2
-- **B.** linoleic acid
-- **C.** NADH
-- **D.** glucose-6-phosphate
+- **A.** NADH transfers only one electron; fully reduced FADH2 contains no electrons.
+- **B.** FADH2 transfers phosphate to cytochromes instead of transferring electrons.
+- **C.** Both must always transfer four electrons together and cannot connect to cytochromes.
+- **D.** NADH transfers two electrons together; reduced flavin holds two but can participate in one- or two-electron transfer, bridging single-electron carriers.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. TxA2**
+**Correct answer: D.** NADH transfers two electrons together; reduced flavin holds two but can participate in one- or two-electron transfer, bridging single-electron carriers.
+
+The lecture's “one or two” describes flavin transfer flexibility; fully reduced FADH2 is still a two-electron-reduced carrier.
+
+**Objectives:** W10-02. **Source:** Week 10 objectives, item 2; Lecture 10:7; Tutorial 6.
 :::
 
-### Question 20
+### Question 20 {#q20}
 
-**Week 12**
+Two cells have different substrate/product concentrations for the same reaction. Which statement distinguishes actual from standard free-energy change?
 
-Which protein phosphorylates ERK/MAP kinase?
-
-- **A.** Ras
-- **B.** MEK
-- **C.** Grb2
-- **D.** Sos
+- **A.** ΔG reflects actual concentrations and conditions; ΔG°′ refers to defined biochemical standard conditions.
+- **B.** ΔG°′ changes whenever more enzyme is added, while ΔG never depends on concentration.
+- **C.** A positive ΔG°′ guarantees positive ΔG at every possible cellular concentration.
+- **D.** ΔG is the activation barrier and ΔG°′ is the reaction rate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. MEK**
+**Correct answer: A.** ΔG reflects actual concentrations and conditions; ΔG°′ refers to defined biochemical standard conditions.
+
+Changing actual concentrations can change ΔG without changing the standard free-energy value.
+
+**Objectives:** W08-06. **Source:** Week 8 objectives, item 6; Lecture 8:7, 8:10.
 :::
 
-### Question 21
+### Question 21 {#q21}
 
-**Week 8**
+Which molecule should fill the gap between membrane phospholipid and COX/PGHS?
 
-Which term describes a reaction with $\Delta G>0$?
-
-- **A.** Exergonic
-- **B.** Endergonic
-- **C.** Equilibrated
-- **D.** Catalytic
+- **A.** Ras–GTP.
+- **B.** Pyruvate.
+- **C.** Arachidonic acid.
+- **D.** Glyceraldehyde-3-phosphate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Endergonic**
+**Correct answer: C.** Arachidonic acid.
+
+Arachidonic acid is released from membrane phospholipid and then serves as PGHS substrate; PGH2 is a later product.
+
+**Objectives:** W11-06. **Source:** Week 11 objectives, item 6; Lecture 11:5–11:7.
 :::
 
-### Question 22
+### Question 22 {#q22}
 
-**Week 9**
+Which role should be assigned to the phosphotyrosine sites before Grb2/Sos and Ras signaling proceeds?
 
-By the end of glycolysis, PDH, and two CAC turns, how many CO2 are released per glucose?
-
-- **A.** 2
-- **B.** 4
-- **C.** 6
-- **D.** 8
+- **A.** They are a store of glucose for glycolysis.
+- **B.** They act as the terminal electron acceptor in respiration.
+- **C.** They directly turn GDP into GTP by adding phosphate to free GDP.
+- **D.** They create docking sites for intracellular signaling proteins.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: C. 6**
+**Correct answer: D.** They create docking sites for intracellular signaling proteins.
+
+The docking sites recruit pathway components; Grb2 is the adaptor used in the Ras–MAP example.
+
+**Objectives:** W12-11. **Source:** Week 12 objectives, item 11; Lecture 12:16, 12:20.
 :::
 
-### Question 23
+### Question 23 {#q23}
 
-**Week 10**
+Which notes correctly distinguish substrate binding, ATP formation and ATP release in the three states?
 
-Which description best fits chemiosmotic coupling?
-
-- **A.** Electron transfer directly phosphorylates ADP.
-- **B.** Electron transfer builds a proton gradient that later powers ATP synthesis.
-- **C.** ATP synthase pumps electrons into the intermembrane space.
-- **D.** The CAC directly rotates ATP synthase.
+- **A.** Loose binds glucose; Tight makes NADH; Open cleaves glucose.
+- **B.** Loose binds ADP + Pi; Tight forms ATP; Open releases ATP.
+- **C.** Loose releases ATP; Tight binds oxygen; Open oxidizes NADH.
+- **D.** Loose forms CO2; Tight pumps protons outward; Open forms pyruvate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Electron transfer builds a proton gradient that later powers ATP synthesis.**
+**Correct answer: B.** Loose binds ADP + Pi; Tight forms ATP; Open releases ATP.
+
+The stationary catalytic units change conformation as the rotor turns; they do not rotate together as one rigid αβ wheel.
+
+**Objectives:** W10-08. **Source:** Week 10 objectives, item 8; Lecture 10:21–10:24; Tutorial 6.
 :::
 
-### Question 24
+### Question 24 {#q24}
 
-**Week 11**
+Which reaction should be placed before phosphoglucose isomerase in a glycolysis outline?
 
-Which feature best distinguishes an agonist from an antagonist?
-
-- **A.** An agonist binds and activates the receptor.
-- **B.** An agonist always binds covalently.
-- **C.** An antagonist always destroys the receptor.
-- **D.** An antagonist cannot bind receptors.
+- **A.** Fructose-6-phosphate → fructose-1,6-bisphosphate, catalyzed by lactate dehydrogenase.
+- **B.** Glucose → glucose-6-phosphate, catalyzed by hexokinase; the liver form emphasized is glucokinase/hexokinase IV, using ATP.
+- **C.** Glucose-6-phosphate → fructose-6-phosphate, catalyzed by ATP synthase.
+- **D.** Glucose → pyruvate, catalyzed by PDH, using GTP.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. An agonist binds and activates the receptor.**
+**Correct answer: B.** Glucose → glucose-6-phosphate, catalyzed by hexokinase; the liver form emphasized is glucokinase/hexokinase IV, using ATP.
+
+The first phosphorylation uses ATP and traps glucose as glucose-6-phosphate; isomerization is a later step.
+
+**Objectives:** W09-05. **Source:** Week 9 objectives, item 5; Lecture 9:8–9:9.
 :::
 
-### Question 25
+### Question 25 {#q25}
 
-**Week 12**
+A report lists G for a cellular state. What kind of information is that quantity intended to express?
 
-Which statement about a G protein and Ras is correct?
-
-- **A.** Both are active in their GTP-bound state.
-- **B.** Both are protein kinases.
-- **C.** Both are active in their GDP-bound state.
-- **D.** Neither hydrolyzes GTP.
+- **A.** The total number of enzymes in the cell.
+- **B.** The number of substrate molecules converted per second.
+- **C.** The substrate concentration at half-maximal rate.
+- **D.** The energy capable of doing useful work under the stated conditions.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. Both are active in their GTP-bound state.**
+**Correct answer: D.** The energy capable of doing useful work under the stated conditions.
+
+G concerns usable energy; reaction rate, enzyme abundance and Km answer different questions.
+
+**Objectives:** W08-04. **Source:** Week 8 objectives, item 4; Lecture 8:7 (PDF p. 9).
 :::
 
-### Question 26
+### Question 26 {#q26}
 
-**Week 8**
+Which event links favorable electron transfer to later ATP formation?
 
-Which observation most directly indicates enzyme saturation?
-
-- **A.** Rate continues increasing linearly with substrate forever.
-- **B.** Rate approaches a plateau as substrate rises.
-- **C.** $\Delta G$ reaches zero immediately.
-- **D.** Enzyme concentration becomes zero.
+- **A.** The ETC transfers a phosphate from NADH directly to ADP.
+- **B.** The energy turns pyruvate back into glucose without any membrane gradient.
+- **C.** Energy drives proton pumping across the inner membrane; the stored gradient later powers ATP synthase.
+- **D.** The energy is stored only in a higher concentration of CO2.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Rate approaches a plateau as substrate rises.**
+**Correct answer: C.** Energy drives proton pumping across the inner membrane; the stored gradient later powers ATP synthase.
+
+Redox energy is converted into an electrochemical proton gradient before that gradient is used for ATP synthesis.
+
+**Objectives:** W10-04. **Source:** Week 10 objectives, item 4; Lecture 10:9–10:16.
 :::
 
-### Question 27
+### Question 27 {#q27}
 
-**Week 9**
+Why is receptor binding alone insufficient to call a drug an agonist?
 
-What is the main metabolic purpose of the CAC in the context of cellular respiration?
-
-- **A.** Generate most ATP directly
-- **B.** Generate reduced electron carriers for the ETC
-- **C.** Convert oxygen to water
-- **D.** Produce glucose from lactate
+- **A.** An agonist never binds receptors; an antagonist always activates them.
+- **B.** Both terms mean irreversible enzyme inhibition, independent of any receptor.
+- **C.** An agonist binds and activates; an antagonist binds without activating and blocks or reduces agonist action.
+- **D.** An antagonist is simply any ligand that binds more slowly than an agonist.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Generate reduced electron carriers for the ETC**
+**Correct answer: C.** An agonist binds and activates; an antagonist binds without activating and blocks or reduces agonist action.
+
+The difference is activation of the response, not just binding.
+
+**Objectives:** W11-16. **Source:** Week 11 objectives, item 16; Lecture 11, agonist/antagonist slides; Tutorial 7.
 :::
 
-### Question 28
+### Question 28 {#q28}
 
-**Week 10**
+Which summary distinguishes exergonic, endergonic and equilibrium without confusing “no net change” with “no reactions”?
 
-The open conformation of ATP synthase has especially low affinity for:
-
-- **A.** nucleotides and therefore permits ATP release
-- **B.** oxygen and therefore permits respiration
-- **C.** protons and therefore blocks H+ flow
-- **D.** glucose and therefore permits glycolysis
+- **A.** Negative: exergonic; positive: equilibrium; zero: forward reactions occur alone.
+- **B.** Negative: exergonic; positive: endergonic; zero: equilibrium with equal forward and reverse rates.
+- **C.** Negative: endergonic; positive: exergonic; zero: all molecular reactions stop.
+- **D.** Negative: rapid; positive: slow; zero: reactants have been completely exhausted.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. nucleotides and therefore permits ATP release**
+**Correct answer: B.** Negative: exergonic; positive: endergonic; zero: equilibrium with equal forward and reverse rates.
+
+The signs classify thermodynamic direction, not speed; equilibrium is dynamic even though there is no net change.
+
+**Objectives:** W08-07. **Source:** Week 8 objectives, item 7; Lecture 8:8.
 :::
 
-### Question 29
+### Question 29 {#q29}
 
-**Week 11**
+Which correction should replace “An RTK is a receptor whose ligand must be a tyrosine kinase”?
 
-Why can ordinary nonselective NSAIDs irritate the stomach?
-
-- **A.** They may inhibit COX-1-derived protective prostaglandins.
-- **B.** They increase gastric TxA2 synthesis.
-- **C.** They activate phospholipase A2.
-- **D.** They increase essential fatty-acid synthesis.
+- **A.** A ligand-binding, single-pass transmembrane receptor with intrinsic tyrosine kinase activity in its cytosolic region.
+- **B.** A seven-pass receptor whose extracellular ligand is always ATP synthase.
+- **C.** A soluble monomeric GTPase with no receptor domain.
+- **D.** A phosphatase that removes every tyrosine from a protein.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. They may inhibit COX-1-derived protective prostaglandins.**
+**Correct answer: A.** A ligand-binding, single-pass transmembrane receptor with intrinsic tyrosine kinase activity in its cytosolic region.
+
+RTK names the receptor's own kinase activity, not the identity of its ligand.
+
+**Objectives:** W12-09. **Source:** Week 12 objectives, item 9; Lecture 12:14–12:15.
 :::
 
-### Question 30
+### Question 30 {#q30}
 
-**Week 12**
+Which conversion follows formation of fructose-6-phosphate and prepares the sugar for cleavage?
 
-Which sequence correctly places Grb2 and Sos relative to Ras activation?
-
-- **A.** RTK → Grb2 → Sos → Ras-GTP
-- **B.** RTK → Ras → Grb2 → Sos
-- **C.** Sos → RTK → Grb2 → Ras-GDP
-- **D.** Ras → Sos → Grb2 → RTK
+- **A.** ATP phosphorylates fructose-6-phosphate to fructose-1,6-bisphosphate.
+- **B.** Glucose-6-phosphate loses phosphate and becomes free glucose.
+- **C.** ADP receives phosphate from PEP and forms ATP.
+- **D.** NADH reduces pyruvate to lactate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. RTK → Grb2 → Sos → Ras-GTP**
+**Correct answer: A.** ATP phosphorylates fructose-6-phosphate to fructose-1,6-bisphosphate.
+
+The sequence is phosphorylation, isomerization and a second phosphorylation; by this point two ATP have been invested.
+
+**Objectives:** W09-08. **Source:** Week 9 objectives, item 8; Lecture 9:12.
 :::
 
-### Question 31
+### Question 31 {#q31}
 
-**Week 8**
+A review sheet divides glycolysis into three sections. Which section sequence is appropriate?
 
-A molecule that loses electrons is:
-
-- **A.** reduced
-- **B.** oxidized
-- **C.** phosphorylated
-- **D.** hydrolyzed
+- **A.** Energy investment and preparation → cleavage into two three-carbon units → energy payoff.
+- **B.** Acetyl-CoA production → CAC → Cori cycle.
+- **C.** Energy payoff → storage-polymer synthesis → cleavage of pyruvate into glucose.
+- **D.** Electron transport → oxygen reduction → ATP synthase rotation.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. oxidized**
+**Correct answer: A.** Energy investment and preparation → cleavage into two three-carbon units → energy payoff.
+
+The pathway first invests energy, then splits the six-carbon substrate, then captures energy from the two three-carbon molecules.
+
+**Objectives:** W09-04. **Source:** Week 9 objectives, item 4; Lecture 9:6–9:13.
 :::
 
-### Question 32
+### Question 32 {#q32}
 
-**Week 9**
+Which description would be incomplete if it mentioned pH but ignored electrical potential?
 
-Which statement correctly describes anaerobic glycolysis in muscle?
-
-- **A.** Lactate formation directly produces extra ATP.
-- **B.** Lactate formation regenerates NAD+ so glycolysis can continue.
-- **C.** Lactate formation produces oxygen.
-- **D.** Lactate formation converts acetyl-CoA to pyruvate.
+- **A.** Only the quantity of glucose outside mitochondria.
+- **B.** The NADH concentration with no role for a membrane or charge separation.
+- **C.** Only the ATP concentration inside the matrix.
+- **D.** The chemical H+ gradient together with the transmembrane electrical potential.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. Lactate formation regenerates NAD+ so glycolysis can continue.**
+**Correct answer: D.** The chemical H+ gradient together with the transmembrane electrical potential.
+
+Both concentration and electrical components contribute to the electrochemical gradient.
+
+**Objectives:** W10-05. **Source:** Week 10 objectives, item 5; Lecture 10:14.
 :::
 
-### Question 33
+### Question 33 {#q33}
 
-**Week 10**
+A pathway needs to add and later remove phosphate on a target protein. Which assignment is correct?
 
-An uncoupler increases heat generation because it:
-
-- **A.** allows stored proton-gradient energy to dissipate without ATP capture
-- **B.** blocks all proton movement
-- **C.** stops fuel oxidation completely
-- **D.** makes Complex II pump twice as many protons
+- **A.** A kinase removes phosphate; a phosphatase adds phosphate.
+- **B.** Both enzymes are necessarily membrane receptors with seven helices.
+- **C.** Both enzymes exchange GDP for GTP without modifying phosphate groups.
+- **D.** A kinase adds phosphate; a phosphatase removes phosphate.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. allows stored proton-gradient energy to dissipate without ATP capture**
+**Correct answer: D.** A kinase adds phosphate; a phosphatase removes phosphate.
+
+Kinases phosphorylate and phosphatases dephosphorylate; the effect on target activity depends on that target.
+
+**Objectives:** W12-04. **Source:** Week 12 objectives, item 4; Lecture 12:9.
 :::
 
-### Question 34
+### Question 34 {#q34}
 
-**Week 11**
+Which statement defines the dietary requirement rather than merely saying a fatty acid is useful?
 
-Which pair correctly matches a drug principle with its definition?
-
-- **A.** Half-life — time for blood concentration to fall by half
-- **B.** Bioavailability — dose causing toxicity in half the population
-- **C.** Therapeutic index — receptor-binding affinity
-- **D.** Agonist — receptor blocker with no activation
+- **A.** Cholesterol and glucose: both are essential fatty acids made only by platelets.
+- **B.** Arachidonic acid and ATP: both are omega-3 fatty acids that activate every receptor.
+- **C.** Linoleic and α-linolenic acids: animals require them but cannot synthesize them adequately for that requirement.
+- **D.** Palmitate and stearate: they are essential because they contain no double bonds.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. Half-life — time for blood concentration to fall by half**
+**Correct answer: C.** Linoleic and α-linolenic acids: animals require them but cannot synthesize them adequately for that requirement.
+
+The lecture identifies linoleic and linolenic acids and ties essentiality to the need for dietary supply.
+
+**Objectives:** W11-02. **Source:** Week 11 objectives, item 2; Lecture 11:4.
 :::
 
-### Question 35
+### Question 35 {#q35}
 
-**Week 12**
+Which correction should replace “An enzyme is consumed to force the equilibrium toward products”?
 
-If a protein phosphatase removes an activating phosphate from MEK, the most likely effect is:
-
-- **A.** reduced ERK activation
-- **B.** increased Ras-GTP formation directly
-- **C.** increased RTK dimerization
-- **D.** increased ligand secretion
+- **A.** Catalysis means supplying the overall free energy that every reaction lacks.
+- **B.** An enzyme catalyzes a specific reaction, is recycled, and increases rate without changing the equilibrium position.
+- **C.** An enzyme is consumed in every turnover and changes the equilibrium constant.
+- **D.** Catalysts make all positive-ΔG reactions negative-ΔG reactions without coupling.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. reduced ERK activation**
+**Correct answer: B.** An enzyme catalyzes a specific reaction, is recycled, and increases rate without changing the equilibrium position.
+
+The enzyme assists the reaction repeatedly and lowers its barrier; it does not change the overall reactant/product free-energy difference.
+
+**Objectives:** W08-11, W08-12. **Source:** Week 8 objectives, item 11; Lecture 8:18; Week 8 objectives, item 12; Lecture 8:18, 8:22.
 :::
 
-### Question 36
+### Question 36 {#q36}
 
-**Week 8**
+Which set of pathway destinations correctly distinguishes pyruvate fates without treating muscle as an ethanol-producing tissue?
 
-Which is an activated electron carrier emphasized in this course?
-
-- **A.** NADH
-- **B.** glucose
-- **C.** CO2
-- **D.** water
+- **A.** Acetyl-CoA in aerobic metabolism; lactate in animal tissues; ethanol and CO2 in alcoholic fermentation in organisms such as yeast.
+- **B.** Glycogen in the mitochondrial matrix; oxygen in muscle; phospholipid in yeast, all as direct one-step products.
+- **C.** CO2 alone in glycolysis; ATP alone in lactate formation; NADH alone in the Cori cycle.
+- **D.** Lactate aerobically only; acetyl-CoA by reversing PDH; ethanol as the normal human muscle route.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. NADH**
+**Correct answer: A.** Acetyl-CoA in aerobic metabolism; lactate in animal tissues; ethanol and CO2 in alcoholic fermentation in organisms such as yeast.
+
+The principal human contrast is acetyl-CoA versus lactate; alcoholic fermentation is a distinct example in other organisms.
+
+**Objectives:** W09-13. **Source:** Week 9 objectives, item 13; Lecture 9, pyruvate-fates figure; Alberts Ch. 13.
 :::
 
-### Question 37
+### Question 37 {#q37}
 
-**Week 9**
+A student labels biosynthesis “catabolism” and fuel breakdown “anabolism.” Which correction is needed?
 
-Which statement about anaplerotic reactions is correct?
-
-- **A.** They replenish CAC intermediates removed for biosynthesis.
-- **B.** They prevent amino-acid carbon skeletons from entering metabolism.
-- **C.** They directly pump H+ across the inner membrane.
-- **D.** They convert all acetyl-CoA back to pyruvate.
+- **A.** Catabolism and anabolism are unrelated processes that cannot share intermediates.
+- **B.** Catabolism builds molecules; anabolism breaks them down and always consumes ATP.
+- **C.** Catabolism breaks molecules down; anabolism builds larger molecules and generally needs energy input.
+- **D.** Both terms mean measuring small metabolites rather than carrying out reactions.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A. They replenish CAC intermediates removed for biosynthesis.**
+**Correct answer: C.** Catabolism breaks molecules down; anabolism builds larger molecules and generally needs energy input.
+
+Breakdown can supply energy and smaller building blocks for biosynthesis; the two directions are linked rather than synonymous.
+
+**Objectives:** W08-01, W08-02. **Source:** Week 8 objectives, item 1; Lecture 8:1, 8:16; Alberts Ch. 3; Week 8 objectives, item 2; Alberts Ch. 3.
 :::
 
-### Question 38
+### Question 38 {#q38}
 
-**Week 10**
+Which list correctly names the four intercellular modes shown on lecture slide 12:3, in the order blood, local fluid, neuron, physical contact?
 
-Which two chemical substrates must be available to ATP synthase in the matrix?
-
-- **A.** NADH and O2
-- **B.** ADP and Pi
-- **C.** glucose and pyruvate
-- **D.** FADH2 and CO2
+- **A.** Endocrine; paracrine; neuronal; contact-dependent/juxtacrine.
+- **B.** Paracrine; endocrine; contact-dependent; neuronal.
+- **C.** Neuronal; contact-dependent; endocrine; paracrine.
+- **D.** Contact-dependent; neuronal; paracrine; endocrine.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B. ADP and Pi**
+**Correct answer: A.** Endocrine; paracrine; neuronal; contact-dependent/juxtacrine.
+
+The objective sheet says “intracellular,” but slide 12:3 explicitly presents these as intercellular modes; the assessment follows that source figure.
+
+**Objectives:** W12-01. **Source:** Week 12 objectives, item 1; Lecture 12:3; Tutorial 7.
 :::
 
 # Section B — Integrated Short Answer
 
-### Integrated Problem 1
+**62 marks. Answer all five problems and every subpart.**
 
-**Weeks covered:** 8, 9, 10
+### Integrated Problem 1 — Glucose, enzymes and pathway direction {#p1}
 
-A cell oxidizes glucose completely under aerobic conditions.
+**16 marks · Suggested time: 15 minutes.**
 
-a. What does a negative $\Delta G$ tell you about an individual reaction step?  
-b. What role do enzymes play in those steps?  
-c. How many NADH are generated through glycolysis + PDH + two CAC turns according to the course accounting?  
-d. What happens to the electrons from those NADH molecules in mitochondria?  
-e. Explain how their energy ultimately contributes to ATP synthesis.
+<span id="p1a"></span>
 
-::: {.callout-tip collapse="true" title="Answer"}
-a. The step is thermodynamically favorable in the direction written under the stated conditions.  
-b. Enzymes lower activation-energy barriers and speed the reactions without changing overall $\Delta G$ or equilibrium.  
-c. 10 NADH.  
-d. NADH donates electrons to the ETC beginning at Complex I.  
-e. Electron transfer powers proton pumping, creating a proton-motive force; H+ return through ATP synthase drives ATP formation from ADP + Pi.
-:::
+**(a) [4 marks]** Glucose rises after feeding in the liver model used in lecture. Explain the changes in glucokinase location and glucose retention, then describe the binding-to-product-release cycle of an active enzyme.
 
-### Integrated Problem 2
+<span id="p1b"></span>
 
-**Weeks covered:** 9, 10
+**(b) [3 marks]** Use the lecture's +13.8 and −30.5 kJ/mol standard values to calculate the coupled value. Then explain why consumption of fructose-6-phosphate by reaction 3 helps reaction 2 proceed.
 
-Compare aerobic metabolism with oxygen-limited muscle metabolism.
+<span id="p1c"></span>
 
-a. What is the fate of pyruvate aerobically?  
-b. What is its fate when oxygen is limiting?  
-c. What electron carrier is regenerated by lactate formation?  
-d. Why does oxygen availability affect NADH reoxidation in mitochondria?  
-e. Which molecule is the final ETC electron acceptor?
+**(c) [2 marks]** Two reaction profiles share the same endpoints but have different peaks. Explain which enzyme effect this illustrates and identify the state represented by each peak.
+
+<span id="p1d"></span>
+
+**(d) [4 marks]** In an oxygen-limited muscle model, the NAD+ pool becomes depleted. Explain why reaction 6 stalls, what products it normally supplies, and why adding an ATP-producing enzyme for reaction 7 alone cannot solve the problem.
+
+<span id="p1e"></span>
+
+**(e) [3 marks]** A ledger records −2 ATP in investment, +2 at reaction 7 and +2 at reaction 10. Explain each entry and compute both intermediate and final balances.
+
 
 ::: {.callout-tip collapse="true" title="Answer"}
-a. Pyruvate enters mitochondria and is converted by PDH to acetyl-CoA.  
-b. Pyruvate is reduced to lactate.  
-c. NAD+ is regenerated.  
-d. The ETC depends on oxygen as the terminal electron acceptor; without oxygen electron flow backs up and NADH cannot be reoxidized efficiently through respiration.  
-e. O2.
+**(a)** Rising glucose leads to release of glucokinase from nuclear sequestration into the cytosol. It phosphorylates glucose arriving through GLUT2; glucose-6-phosphate is retained. Substrate binding at the active site forms ES and may induce fit, catalytic conversion produces product, and product release frees the enzyme. At low glucose, sequestration limits immediate phosphorylation.
+
+**Objectives:** W08-13, W09-06. **Source:** Week 8 objectives, item 13; Lecture 8:19–8:21; Tutorial 5; Week 9 objectives, item 6; Lecture 9:9.
+
+**(b)** The sum is **−16.7 kJ/mol**. Reaction 3 keeps the product of reaction 2 low by using it, favoring continued forward conversion under actual cellular conditions even though the isolated standard free-energy change of reaction 2 is positive. The two strategies are energetic coupling and product removal.
+
+**Objectives:** W08-08. **Source:** Week 8 objectives, item 8; Lecture 8:9–8:10.
+
+**(c)** The peaks represent transition-state barriers. The lower peak is the enzyme-catalyzed route: substrate positioning and transition-state stabilization increase the rate. Shared endpoints mean the overall ΔG is unchanged, as is equilibrium.
+
+**Objectives:** W08-14, W08-15. **Source:** Week 8 objectives, item 14; Lecture 8:22; Week 8 objectives, item 15; Lecture 8:21–8:22; Alberts Ch. 4.
+
+**(d)** Reaction 6 needs NAD+ to accept electrons from glyceraldehyde-3-phosphate. It normally supplies NADH and 1,3-BPG; the latter drives ATP production in reaction 7. Bound NADH must be replaced by fresh NAD+. Without restoring NAD+, more reaction-7 enzyme does not create the missing 1,3-BPG supply. Regeneration of NAD+ is the condition that allows this redox step and anaerobic glycolysis to continue.
+
+**Objectives:** W09-10. **Source:** Week 9 objectives, item 10; Lecture 9:14–9:17; Tutorial 6.
+
+**(e)** Two ATP were invested before cleavage. Each payoff step runs twice per glucose, accounting for each +2 entry. The balance through reaction 7 is **0**, and through reaction 10 is **+2 net ATP**. The positive entries are substrate-level ATP formation.
+
+**Objectives:** W09-11, W09-12. **Source:** Week 9 objectives, item 11; Lecture 9:18; Week 9 objectives, item 12; Lecture 9:18–9:20.
 :::
 
-### Integrated Problem 3
+### Integrated Problem 2 — Carbon, electrons and compartments {#p2}
 
-**Weeks covered:** 11, 12
+**16 marks · Suggested time: 16 minutes.**
 
-An inflammatory signal activates a receptor tyrosine kinase and also stimulates arachidonic-acid release.
+<span id="p2a"></span>
 
-a. Which enzyme releases arachidonic acid from membrane phospholipid?  
-b. What enzyme converts arachidonic acid toward PGH2?  
-c. How can an NSAID interrupt that branch?  
-d. How is an RTK activated?  
-e. What is the function of the resulting phosphotyrosines?  
-f. Outline the route from the activated receptor to ERK.
+**(a) [3 marks]** Draw or write a four-compartment mitochondrial map. Locate electron transport, ATP synthesis, proton accumulation and pyruvate oxidation, and state the significance of folded cristae.
+
+<span id="p2b"></span>
+
+**(b) [3 marks]** For the two pyruvates from one glucose, explain the aerobic destination, total PDH products and how the resulting acetyl groups enter the CAC.
+
+<span id="p2c"></span>
+
+**(c) [4 marks]** Starting with one glucose, distinguish “per acetyl-CoA” from “per glucose” and produce a complete glycolysis–PDH–CAC product table, with separate ATP and GTP entries.
+
+<span id="p2d"></span>
+
+**(d) [2 marks]** Predict what would limit glycolysis if lactate dehydrogenase were blocked during oxygen-limited exercise. Explain both carrier forms and the normal rescue reaction.
+
+<span id="p2e"></span>
+
+**(e) [2 marks]** A cell diverts CAC carbon skeletons to make other molecules. What type of reaction counteracts depletion, and why is simply calling the pathway a cycle not enough?
+
+<span id="p2f"></span>
+
+**(f) [2 marks]** Follow lactate leaving exercising muscle until its carbon can again supply that muscle as glucose. Name the cycle and liver process.
+
 
 ::: {.callout-tip collapse="true" title="Answer"}
-a. Phospholipase A2.  
-b. PGH synthase/COX.  
-c. By blocking arachidonic-acid access to the COX active site.  
-d. Ligand-induced dimerization/rearrangement brings kinase domains together and causes trans-autophosphorylation.  
-e. They serve as docking sites for signaling proteins.  
-f. RTK → Grb2 → Sos → Ras-GTP → Raf → MEK → ERK.
+**(a)** Label outer membrane, intermembrane space, inner membrane and matrix. Place ETC and ATP synthase in the inner membrane, H+ accumulation in the intermembrane space and PDH/CAC in the matrix. Cristae expand the membrane area available for respiratory machinery.
+
+**Objectives:** W10-01. **Source:** Week 10 objectives, item 1; Lecture 10:4–10:6; Alberts Ch. 14.
+
+**(b)** Both pyruvates enter the mitochondrial matrix. PDH makes **2 acetyl-CoA, 2 NADH and 2 CO2** total—one of each per pyruvate. Each acetyl-CoA supplies a two-carbon group to the cycle's four-carbon acceptor and releases CoA. This connects glycolysis with two cycle turns.
+
+**Objectives:** W09-14, W09-15, W09-16. **Source:** Week 9 objectives, item 14; Lecture 9:21–9:22; Week 9 objectives, item 15; Lecture 9:21–9:23; Week 9 objectives, item 16; Lecture 9:23–9:25; Alberts Ch. 13.
+
+**(c)** There are two acetyl-CoA/cycle turns per glucose. One turn gives 3 NADH, 1 FADH2, 1 GTP and 2 CO2. The per-glucose rows are glycolysis: 2 NADH/0 FADH2/2 net ATP/0 GTP/0 CO2; PDH: 2/0/0/0/2; CAC twice: 6/2/0/2/4. Total: **10 NADH, 2 FADH2, 2 ATP, 2 GTP and 6 CO2**.
+
+**Objectives:** W09-17. **Source:** Week 9 objectives, item 17; Lecture 9:25–9:26; Tutorial 6, PDF pp. 4–5.
+
+**(d)** NAD+ would become limiting for the glyceraldehyde-3-phosphate oxidation step. Oxidized NAD+ accepts electrons to form reduced NADH. Normally, lactate dehydrogenase transfers electrons from NADH to pyruvate, making lactate and restoring NAD+. Continued glycolysis then produces its net two ATP per glucose without an additional ATP yield from lactate formation.
+
+**Objectives:** W08-19, W09-19. **Source:** Week 8 objectives, item 19; Lecture 8:28; Tutorial 5; Week 9 objectives, item 19; Lecture 9, anaerobic glycolysis; Tutorial 6.
+
+**(e)** **Anaplerotic** reactions refill intermediates. A cycle regenerates intermediates only for the material that remains in the cycle; biosynthetic withdrawal creates a replenishment requirement.
+
+**Objectives:** W09-18. **Source:** Week 9 objectives, item 18; Lecture 9, anaplerotic-reaction discussion.
+
+**(f)** This is the **Cori cycle**: muscle lactate → blood → liver gluconeogenesis → glucose → blood → muscle.
+
+**Objectives:** W09-20. **Source:** Week 9 objectives, item 20; Lecture 9, Cori cycle; Tutorial 6, PDF p. 8.
 :::
 
-### Integrated Problem 4
+### Integrated Problem 3 — Rates, ATP substrates and adipose tissue {#p3}
 
-**Weeks covered:** 10, 11
+**8 marks · Suggested time: 9 minutes.**
 
-A patient has highly active brown adipose tissue.
+<span id="p3a"></span>
 
-a. Which mitochondrial membrane protein is central to heat production?  
-b. What does it do to H+ movement?  
-c. What happens to ATP production efficiency?  
-d. What happens to fuel oxidation and heat production?  
-e. Distinguish brown adipose tissue from white adipose tissue in one sentence.
+**(a) [3 marks]** Two readings show a plateau near 60 μmol/min despite further substrate addition. What rate quantity is being estimated, what do its units mean, and why does more substrate have little effect?
+
+<span id="p3b"></span>
+
+**(b) [2 marks]** The enzyme in part (a) reaches 30 μmol/min at [S] = 6 mM. What is Km, why, and in what units?
+
+<span id="p3c"></span>
+
+**(c) [1 marks]** An experiment provides a proton gradient but excludes ADP and Pi from the matrix. Explain what is missing and how a normal mitochondrion supplies it.
+
+<span id="p3d"></span>
+
+**(d) [2 marks]** A tissue stores TAG, another is constitutively thermogenic, and a third acquires thermogenesis after stimulation. Identify each and state the key brown-fat mechanism.
+
 
 ::: {.callout-tip collapse="true" title="Answer"}
-a. Thermogenin/UCP1.  
-b. It allows H+ to return toward the matrix without passing through ATP synthase.  
-c. ATP production efficiency decreases.  
-d. Fuel can continue to be oxidized while more of its energy is released as heat.  
-e. Brown adipose tissue is specialized for thermogenesis, whereas white adipose tissue is specialized mainly for TAG storage and endocrine functions.
+**(a)** This estimates **Vmax ≈ 60 μmol/min**. The units mean micromoles converted per minute. Velocity measures conversion per time; at the plateau, the given enzyme amount is effectively substrate-saturated, so more substrate does not provide many additional occupied sites.
+
+**Objectives:** W08-16, W08-17. **Source:** Week 8 objectives, item 16; Lecture 8:23–8:24; Week 8 objectives, item 17; Lecture 8:23–8:26.
+
+**(b)** Half of 60 is 30 μmol/min. Therefore **Km ≈ 6 mM**, because Km is the concentration at half Vmax. The rate units μmol/min belong to v and Vmax, not Km.
+
+**Objectives:** W08-18. **Source:** Week 8 objectives, item 18; Lecture 8:25–8:26.
+
+**(c)** The gradient alone cannot supply the chemical substrates **ADP and Pi**. Normal mitochondria import them through inner-membrane transport proteins, with ATP/ADP exchange and phosphate transport supplying the matrix side.
+
+**Objectives:** W10-07. **Source:** Week 10 objectives, item 7; Lecture 10:20; Alberts Ch. 14.
+
+**(d)** They are **white, brown and beige**, respectively. Brown-adipose mitochondria contain thermogenin/UCP1, allowing proton-gradient energy to be dissipated as heat rather than captured entirely as ATP.
+
+**Objectives:** W11-01. **Source:** Week 11 objectives, item 1; Lecture 11:2; Tutorial 6.
 :::
 
-### Integrated Problem 5
+### Integrated Problem 4 — Lipid mediators and drug mechanisms {#p4}
 
-**Weeks covered:** 8, 11, 12
+**14 marks · Suggested time: 16 minutes.**
 
-A drug acts as a reversible antagonist of a cell-surface receptor and is rapidly metabolized.
+<span id="p4a"></span>
 
-a. Define antagonist.  
-b. Contrast reversible receptor binding with aspirin's action on COX.  
-c. Define drug half-life.  
-d. Explain how rapid metabolism affects bioavailability.  
-e. If receptor activation normally stimulates a kinase, what biochemical modification would decrease while the antagonist is bound?  
-f. Why does blocking a receptor alter signaling rate without changing the thermodynamic definition of $\Delta G$ for downstream chemical reactions?
+**(a) [3 marks]** After injury, phospholipase activity increases. Trace the FOUR stages from membrane precursor release to the specific product a platelet can make.
+
+<span id="p4b"></span>
+
+**(b) [2 marks]** Explain why washing free aspirin away need not restore an inhibited COX molecule, whereas removing a reversible NSAID can permit activity to return. Name the two isoforms affected by common nonselective NSAIDs.
+
+<span id="p4c"></span>
+
+**(c) [2 marks]** A student says aspirin must remain in plasma throughout its platelet effect. Explain why the lecture rejects that claim and trace the downstream consequence.
+
+<span id="p4d"></span>
+
+**(d) [3 marks]** A bulky inhibitor fits COX-2 but not COX-1; another drug relieves pain and fever without reducing local swelling. Explain both observations using the lecture distinctions.
+
+<span id="p4e"></span>
+
+**(e) [2 marks]** A hypothetical drug's measured blood concentration falls from 24 to 12 units over a defined interval. Explain this in terms of half-life and the lecture's use of bioavailability.
+
+<span id="p4f"></span>
+
+**(f) [2 marks]** A hypothetical drug has TD50 = 800 and ED50 = 40 dose units. Calculate TI, identify the appropriate numerator and state the limitation of the safety inference.
+
 
 ::: {.callout-tip collapse="true" title="Answer"}
-a. An antagonist binds a receptor without activating it and blocks or reduces agonist action.  
-b. A reversible antagonist dissociates; aspirin covalently acetylates COX and therefore persistently inhibits that enzyme molecule.  
-c. The time required for blood concentration to fall to one-half of its starting value.  
-d. Rapid metabolism shortens exposure and lowers circulating drug available to reach its target.  
-e. Protein phosphorylation would decrease if kinase activation is reduced.  
-f. Receptor blockade changes whether/how strongly reactions are initiated and therefore pathway kinetics and flux; it does not redefine the thermodynamic free-energy change of an individual chemical reaction.
+**(a)** Phospholipase releases arachidonic acid; arachidonic acid becomes substrate for PGHS (COX-1/COX-2); PGHS produces PGH2; platelet thromboxane synthase converts PGH2 to TxA2. Other cells with different downstream enzymes make different products.
+
+**Objectives:** W11-05. **Source:** Week 11 objectives, item 5; Lecture 11:6–11:8; Tutorial 6.
+
+**(b)** Aspirin leaves a covalent acetyl modification, so loss of free drug does not simply restore that enzyme. A reversible noncovalent inhibitor can dissociate. Common nonselective NSAIDs affect **COX-1 and COX-2**, blocking substrate access.
+
+**Objectives:** W11-09, W11-10. **Source:** Week 11 objectives, item 9; Lecture 11:12–11:15; Week 11 objectives, item 10; Lecture 11:13–11:14.
+
+**(c)** The enzyme has been covalently modified; platelet COX replacement is limited in the anucleate platelet model. Reduced PGH2 leads to reduced TxA2 and less aggregation/vasoconstriction, so the effect can outlast free drug. Reversible NSAIDs do not leave the same persistent modification.
+
+**Objectives:** W11-11. **Source:** Week 11 objectives, item 11; Lecture 11:13–11:17; Tutorial 6.
+
+**(d)** The first can inhibit inflammatory COX-2 while sparing more COX-1 housekeeping activity, although it is not thereby risk-free. The second fits the lecture's acetaminophen distinction: it is not a typical injury-site COX inhibitor/NSAID, so analgesic and antipyretic effects do not establish local anti-inflammatory action. The lecture does not require a definitive alternative mechanism.
+
+**Objectives:** W11-12, W11-13. **Source:** Week 11 objectives, item 12; Lecture 11:15–11:16; Week 11 objectives, item 13; Lecture 11:13, 11:18.
+
+**(e)** The interval is one half-life under those conditions. The lecture's “bioavailability” refers to the amount available in circulation, which has decreased as drug is metabolized/excreted. This exercise describes exposure, not an individualized dosing schedule.
+
+**Objectives:** W11-14. **Source:** Week 11 objectives, item 14; Lecture 11:19–11:21; Tutorial 7.
+
+**(f)** **TI = TD50/ED50 = 800/40 = 20**. Toxic median dose belongs in the numerator. A higher TI suggests a wider test-dose separation but does not establish safety for all individuals; the exercise is not a clinical recommendation.
+
+**Objectives:** W11-15. **Source:** Week 11 objectives, item 15; Lecture 11, PDF p. 23; Tutorial 7, PDF p. 4.
 :::
 
-# Coverage Check
+### Integrated Problem 5 — Receptor activation and reversible switches {#p5}
 
-| Week | Core emphasis represented |
-|---:|---|
-| 8 | Thermodynamics, enzymes, redox carriers, kinetics |
-| 9 | Glycolysis, PDH, CAC, anaerobic metabolism |
-| 10 | Mitochondria, ETC, chemiosmosis, ATP synthase |
-| 11 | Eicosanoids, COX, aspirin, adipose tissue, drug principles |
-| 12 | RTK activation, GTPases, phosphorylation, Ras–MAP |
+**8 marks · Suggested time: 12 minutes.**
 
-# Coverage Reminder
+<span id="p5a"></span>
 
-This exam emphasizes synthesis across the five Part II weeks and asks you to connect metabolism, energy conversion, pharmacology, and signaling.
+**(a) [2 marks]** Two receptor monomers are brought together by ligand binding. Explain the resulting kinase action and the meaning of the prefix “trans.”
+
+<span id="p5b"></span>
+
+**(b) [1 marks]** Sos is recruited near Ras–GDP. What class of factor is it, and what nucleotide change does it promote?
+
+<span id="p5c"></span>
+
+**(c) [2 marks]** A cell increases GAP activity. Explain the expected nucleotide-state change and place it within the full activation–effector–inactivation cycle.
+
+<span id="p5d"></span>
+
+**(d) [3 marks]** Ras remains GTP-bound but Raf kinase activity is blocked. Reconstruct the upstream-to-downstream pathway, predict the effect on MEK/ERK, and state what active ERK normally does.
+
+
+::: {.callout-tip collapse="true" title="Answer"}
+**(a)** The kinase domain of one receptor phosphorylates tyrosine residues on its partner, and vice versa. “Trans” refers to this phosphorylation across the receptor pair, following activating dimerization/rearrangement.
+
+**Objectives:** W12-10. **Source:** Week 12 objectives, item 10; Lecture 12:15–12:16.
+
+**(b)** Sos is the Ras guanine nucleotide exchange factor. GDP is released and GTP can bind, favoring Ras activation; no conversion of bound GDP into GTP is required.
+
+**Objectives:** W12-13. **Source:** Week 12 objectives, item 13; Lecture 12:17, 12:20; Tutorial 7.
+
+**(c)** GAP accelerates hydrolysis and favors a faster return from Ras–GTP ON to Ras–GDP OFF. Earlier, GEF permits GDP–GTP exchange; active Ras then binds effectors. After hydrolysis, exchange must occur again for reactivation. GAP is not the exchange factor.
+
+**Objectives:** W12-12. **Source:** Week 12 objectives, item 12; Lecture 12:10, 12:17; Tutorial 7.
+
+**(d)** Activated RTK recruits Grb2/Sos; Sos turns Ras on by exchange; Ras–GTP binds/activates Raf. Raf normally phosphorylates MEK, which phosphorylates ERK. Blocking Raf kinase activity reduces MEK and ERK activation even with active Ras. Active ERK normally phosphorylates downstream proteins and transcriptional regulators to produce cellular responses.
+
+**Objectives:** W12-14. **Source:** Week 12 objectives, item 14; Lecture 12:20–12:22; Tutorial 7, PDF p. 15.
+:::
+
+# Coverage and self-check
+
+This parallel form covers the same 78 objectives as the other forms, but uses different MCQ stems, mixed order, answer positions and structured tasks. Repeated concepts are intentional; these are not independent topic samples. Use the [objective-by-objective map](learning-objective-coverage.qmd) to locate omissions in your own answers. A model answer is a self-marking guide, not a prediction of the instructor’s examination.

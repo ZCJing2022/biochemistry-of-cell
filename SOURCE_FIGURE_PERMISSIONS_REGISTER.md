@@ -9,8 +9,6 @@
 | SF-08-02 | 8 | `w08-textbook-coupling-hires.svg` | Textbook vector crop | Alberts et al. 2023, *Essential Cell Biology*, Ch. 3 | 12 | Fig. 3–17, printed p. 96: favorable C-to-D reaction drives unfavorable X-to-Y reaction | §5 Pathways forward | Pending |
 | SF-09-01 | 9 | `w09-textbook-cac-hires.svg` | Textbook vector crop | Alberts et al. 2023, *Essential Cell Biology*, Ch. 13 | 14 | Fig. 13–12, printed p. 458: citric acid cycle | §13 CAC purpose/yield | Pending |
 | SF-10-02 | 10 | `w10-textbook-etc-hires.svg` | Textbook vector crop | Alberts et al. 2023, *Essential Cell Biology*, Ch. 14 | 11 | Fig. 14–14A, printed p. 483: respiratory chain / proton pumping; panel A only | §5 ETC proton pumps | Pending |
-| SF-11-01 | 11 | `w11-lecture-eicosanoids.jpg` | Lecture | *Chapter 15 MBB201-11 — Lipids* | 7 | Four-stage arachidonic acid → PGH₂ → eicosanoids pathway | §7 Prostaglandin/TxA₂ synthesis | Pending |
-| SF-12-02 | 12 | `w12-tutorial-rasmap.jpg` | Tutorial | Tutorial 7 | 15 | Ras → Raf → MEK → ERK pathway | §18 MAP kinase cascade | Pending |
 
 ## Implementation
 
@@ -33,3 +31,12 @@ Additional lecture/tutorial/textbook figures can be added in later batches. They
 3. request permission for public educational web display where required;
 4. record permission date, terms, attribution wording, and restrictions;
 5. replace or remove any figure for which permission cannot be obtained.
+
+## Retired low-resolution slide copies
+
+Removed from the displayed guides and active assets during the objective-coverage revision; sharp course diagrams remain. This retains the source history and does not assert permission.
+
+| ID | Week | Former asset | Source type | Source | PDF page | Figure | Former placement | Prior permission status |
+|---|---:|---|---|---|---:|---|---|---|
+| SF-11-01 | 11 | `w11-lecture-eicosanoids.jpg` | Lecture | *Chapter 15 MBB201-11 — Lipids* | 7 | Four-stage arachidonic acid → PGH₂ → eicosanoids pathway | §7 Prostaglandin/TxA₂ synthesis | Pending |
+| SF-12-02 | 12 | `w12-tutorial-rasmap.jpg` | Tutorial | Tutorial 7 | 15 | Ras → Raf → MEK → ERK pathway | §18 MAP kinase cascade | Pending |

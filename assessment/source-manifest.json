@@ -1,0 +1,10 @@
+{
+  "basis": "Original uploaded weekly Learning Objectives PDFs; objective text matched after whitespace and mathematical-glyph normalization. Source PDFs are not committed to this repository.",
+  "files": [
+    {"week": 8, "file": "part II/week 8/Week 8 Learning objectives.pdf", "sha256": "9c941e3963aeb8d361f7995c7d07a32232342a56d912f2b53144779aba761b9e", "pages": 1, "count": 19, "slide_label": "8:33"},
+    {"week": 9, "file": "part II/week 9/Week 9 Learning objectives.pdf", "sha256": "6c3fbb48730a58c735b0a2e819a820e20cd04f0adfb1a834c23d16154c658a9e", "pages": 1, "count": 20, "slide_label": "9:40"},
+    {"week": 10, "file": "part II/week 10/Week 10 Learning objectives.pdf", "sha256": "fbeb118bc6993f2eab433801a7bc1c6497edaddc5678215a0553d2bb3101698a", "pages": 1, "count": 9, "slide_label": "10:36"},
+    {"week": 11, "file": "part II/week 11/Week 11 Learning objectives.pdf", "sha256": "80109852a6ebbf9a755f078f19a50fd55f3fd7399413b372a1b1fad216cc533e", "pages": 1, "count": 16, "slide_label": "11:30"},
+    {"week": 12, "file": "part II/week 12/Week 12 Learning objectives.pdf", "sha256": "ce2cb14c6ce1839a31436ea4c3c4a0db01dbd77e1dc381efb476d86aad777522", "pages": 1, "count": 14, "slide_label": "12:24"}
+  ]
+}
