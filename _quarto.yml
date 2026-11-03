@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  pre-render:
-    - python3 scripts/extract_source_figures.py
   render:
     - "*.qmd"
     - "study-guides/"
