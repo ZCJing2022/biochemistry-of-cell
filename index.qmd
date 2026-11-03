@@ -1,0 +1,30 @@
+---
+title: "Biochemistry of the Cell — Part II"
+---
+
+## About this site
+
+This site supports review and exam preparation for **MBB201 Part II**. It has two deliberately focused components:
+
+- [**Weekly Study Guides**](study-guides/index.qmd) — detailed explanations organized by the topics emphasized in each weekly lecture.
+- [**Practice Questions**](practice/index.qmd) — multiple-choice and constructed-response questions with answers hidden until opened.
+
+## How the materials are built
+
+The **weekly lecture presentation is the authority for scope**: it determines what belongs in each week's guide. Detailed explanations are drawn primarily from *Essential Cell Biology*, 6th edition (Alberts et al., 2023), using the chapter or chapters assigned for that week.
+
+Practice questions are built from three sources:
+
+1. the style and level of the supplied chapter quizzes;
+2. the explicit weekly learning objectives;
+3. the tutorial materials, which are used to develop integrated and application-oriented questions.
+
+Each answer is hidden initially. Click **Answer** below a question to reveal the correct answer and explanation.
+
+## Part II sequence
+
+- **Week 8:** Bioenergetics and Enzymes
+- **Week 9:** Glycolysis, Pyruvate, and the Citric Acid Cycle
+- **Week 10:** Electron Transport and Oxidative Phosphorylation
+- **Week 11:** Lipids, Eicosanoids, and Drug Action
+- **Week 12:** Cell Signaling — Part I
