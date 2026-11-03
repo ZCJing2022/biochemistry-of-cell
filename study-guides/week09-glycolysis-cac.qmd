@@ -216,6 +216,11 @@ The GTP can be converted to ATP.
 <figcaption><strong>One CAC turn.</strong> <span class="visual-source">Lecture 9:25; Tutorial 6:4.</span></figcaption>
 </figure>
 
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w09-textbook-cac.jpg" alt="Original Alberts textbook citric acid cycle figure showing acetyl-CoA entry, oxidation steps, electron carriers, GTP and carbon dioxide products.">
+<figcaption><strong>Original textbook figure — citric acid cycle.</strong> <span class="visual-source">Source: Alberts et al. 2023, <em>Essential Cell Biology</em>, Ch. 13 PDF p. 14, Fig. 13–12. Permission status: pending.</span></figcaption>
+</figure>
+
 ## 14. Stoichiometry per glucose through the CAC
 
 ### Glycolysis
@@ -248,6 +253,11 @@ All six carbons originally present in glucose have now been released as CO2.
 <figure class="study-visual course-source-visual">
 <img src="../assets/week09/week09-tutorial-total.svg" alt="Per-glucose accounting table for glycolysis, PDH and two citric acid cycle turns.">
 <figcaption><strong>Course visual — full per-glucose accounting.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:5 and Lecture 9:26.</span></figcaption>
+</figure>
+
+<figure class="study-visual source-original-visual">
+<img src="../assets/source-figures/w09-tutorial-accounting.jpg" alt="Original Tutorial 6 slide summarizing ATP, NADH, FADH2 and carbon dioxide yields per glucose through glycolysis, PDH and the citric acid cycle.">
+<figcaption><strong>Original tutorial graphic — per-glucose accounting.</strong> <span class="visual-source">Source: Tutorial 6, PDF p. 5. Permission status: pending.</span></figcaption>
 </figure>
 
 ## 15. Anaplerotic reactions
