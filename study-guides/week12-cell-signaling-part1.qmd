@@ -11,6 +11,11 @@ The main chain is:
 
 **signal → receptor → intracellular switch → relay/amplification → cellular response → signal termination**
 
+<figure class="study-visual">
+<img src="../assets/week12/week12-roadmap.svg" alt="Week 12 roadmap from extracellular signal to receptor, molecular switch, signaling cascade and cellular response.">
+<figcaption><strong>Visual roadmap.</strong> <span class="visual-source">Lecture 12; Tutorial 7; Alberts Chapter 16.</span></figcaption>
+</figure>
+
 ## 1. General signaling sequence
 
 A simplified signaling sequence is:
@@ -56,6 +61,11 @@ The signaling molecule remains associated with one cell and must contact a recep
 
 This requires physical contact.
 
+<figure class="study-visual">
+<img src="../assets/week12/week12-modes.svg" alt="Four panels comparing endocrine, paracrine, neuronal and contact-dependent signaling.">
+<figcaption><strong>Four signaling modes.</strong> <span class="visual-source">Lecture 12:3–4; Tutorial 7:6.</span></figcaption>
+</figure>
+
 ## 3. Receptor location
 
 Most hydrophilic signaling molecules cannot cross the lipid bilayer and therefore bind **cell-surface receptors**.
@@ -71,6 +81,11 @@ The lecture identifies:
 3. **ion-channel-linked receptors**
 
 Week 12 introduces GPCRs but focuses more heavily on enzyme-linked receptors, especially receptor tyrosine kinases, and on GTPases such as Ras.
+
+<figure class="study-visual">
+<img src="../assets/week12/week12-receptors.svg" alt="Comparison of GPCRs, enzyme-linked receptors and ion-channel-linked receptors.">
+<figcaption><strong>Three cell-surface receptor classes.</strong> <span class="visual-source">Lecture 12:5–8; Tutorial 7:7.</span></figcaption>
+</figure>
 
 ## 5. Signals can produce different responses
 
@@ -113,6 +128,11 @@ A crucial exam point:
 
 It is not inherently activating.
 
+<figure class="study-visual">
+<img src="../assets/week12/week12-phospho.svg" alt="Reversible phosphorylation switch showing kinase addition of phosphate and phosphatase removal.">
+<figcaption><strong>Phosphorylation as a molecular switch.</strong> <span class="visual-source">Lecture 12:9; Tutorial 7:8–9.</span></figcaption>
+</figure>
+
 ## 8. Two major classes of GTP-binding switches
 
 The lecture compares:
@@ -128,6 +148,11 @@ They share a basic switch mechanism:
 The GTP-binding protein can hydrolyze bound GTP to GDP, turning itself off.
 
 To reactivate it, GDP must be exchanged for GTP.
+
+<figure class="study-visual">
+<img src="../assets/week12/week12-gtp.svg" alt="Circular Ras switch showing GDP OFF, GEF-mediated exchange, GTP ON and GAP-stimulated hydrolysis.">
+<figcaption><strong>GTPase ON/OFF cycle.</strong> <span class="visual-source">Lecture 12:10–12 and 12:17; Tutorial 7:10 and 14.</span></figcaption>
+</figure>
 
 ## 9. Heterotrimeric G proteins versus monomeric GTPases
 
@@ -187,6 +212,11 @@ The kinase domain of one receptor phosphorylates tyrosines on the other receptor
 
 This is **trans-autophosphorylation**.
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week12/week12-course-rtk.svg" alt="Course-style RTK activation sequence showing ligand binding, receptor association, cross-phosphorylation and phosphotyrosine docking sites.">
+<figcaption><strong>Course visual — RTK activation.</strong> <span class="visual-source">Faithful adaptation of Lecture 12:15–16 and Tutorial 7:13.</span></figcaption>
+</figure>
+
 ## 14. Why phosphorylated tyrosines matter
 
 The phosphorylated tyrosine residues become docking sites for intracellular signaling proteins.
@@ -236,6 +266,11 @@ The pathway emphasized in the lecture is:
 6. Ras releases GDP and binds GTP;
 7. Ras–GTP becomes active.
 
+<figure class="study-visual">
+<img src="../assets/week12/week12-rtk.svg" alt="Flow from ligand binding to RTK dimerization, trans-autophosphorylation, docking sites and Grb2 plus Sos recruitment.">
+<figcaption><strong>From RTK activation to Ras.</strong> <span class="visual-source">Lecture 12:16–19.</span></figcaption>
+</figure>
+
 ## 17. Ras activates Raf without phosphorylating it
 
 A critical point from the lecture:
@@ -263,6 +298,11 @@ Activated Raf phosphorylates MEK.
 Activated MEK phosphorylates ERK.
 
 ERK/MAP kinase can then phosphorylate downstream proteins and alter cell behavior, including gene expression and proliferation-related responses.
+
+<figure class="study-visual course-source-visual">
+<img src="../assets/week12/week12-course-rasmap.svg" alt="Course-style Ras-MAP pathway from phosphorylated RTK through Grb2, Sos, Ras, Raf and MEK to ERK.">
+<figcaption><strong>Course visual — Ras–MAP kinase pathway.</strong> <span class="visual-source">Faithful adaptation of Lecture 12:19–21 and Tutorial 7:15.</span></figcaption>
+</figure>
 
 ## 19. Signaling must be turned off
 
