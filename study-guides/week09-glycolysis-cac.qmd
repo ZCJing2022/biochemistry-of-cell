@@ -255,11 +255,6 @@ All six carbons originally present in glucose have now been released as CO2.
 <figcaption><strong>Course visual — full per-glucose accounting.</strong> <span class="visual-source">Faithful adaptation of Tutorial 6:5 and Lecture 9:26.</span></figcaption>
 </figure>
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w09-tutorial-accounting.jpg" alt="Original Tutorial 6 slide summarizing ATP, NADH, FADH2 and carbon dioxide yields per glucose through glycolysis, PDH and the citric acid cycle.">
-<figcaption><strong>Original tutorial graphic — per-glucose accounting.</strong> <span class="visual-source">Source: Tutorial 6, PDF p. 5. Permission status: pending.</span></figcaption>
-</figure>
-
 ## 15. Anaplerotic reactions
 
 CAC intermediates can be withdrawn for biosynthesis.
