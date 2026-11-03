@@ -136,11 +136,6 @@ It has two components:
 
 The inner membrane must be sufficiently impermeable to protons for this stored energy to be maintained.
 
-<figure class="study-visual source-original-visual">
-<img src="../assets/source-figures/w10-lecture-pmf.jpg" alt="Original Week 10 lecture slide illustrating the proton-motive force across the inner mitochondrial membrane.">
-<figcaption><strong>Original lecture graphic — proton-motive force.</strong> <span class="visual-source">Source: Week 10 lecture, <em>Chapter 14 MBB201-10 — Electron Transport Chain</em>, PDF p. 14. Permission status: pending.</span></figcaption>
-</figure>
-
 ## 7. Chemiosmotic coupling
 
 The ETC and ATP synthesis are linked by the proton gradient.
