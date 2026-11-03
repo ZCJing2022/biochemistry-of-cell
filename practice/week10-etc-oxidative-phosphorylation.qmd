@@ -1,0 +1,469 @@
+---
+title: "Week 10 Practice — Electron Transport and Oxidative Phosphorylation"
+---
+
+**Format:** 30 multiple-choice questions plus constructed-response questions for every Week 10 learning objective. Answers are hidden initially.
+
+# Part A — Multiple Choice
+
+### Question 1 — ETC location
+The electron-transport chain is embedded primarily in the:
+
+- **A.** outer mitochondrial membrane
+- **B.** inner mitochondrial membrane
+- **C.** nuclear envelope
+- **D.** plasma membrane of animal cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 2 — Matrix
+Which process takes place in the mitochondrial matrix?
+
+- **A.** proton accumulation during ETC activity
+- **B.** pyruvate oxidation and the CAC
+- **C.** extracellular signaling
+- **D.** glycogen storage only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 3 — Cristae
+Cristae primarily increase:
+
+- **A.** nuclear volume
+- **B.** inner-membrane surface area for respiratory proteins
+- **C.** glucose concentration in cytosol
+- **D.** DNA replication rate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 4 — NADH electrons
+NADH carries:
+
+- **A.** 1 electron
+- **B.** 2 electrons
+- **C.** 3 electrons
+- **D.** no electrons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 5 — FADH2 electrons
+FADH2 is important because it can participate in transfers involving:
+
+- **A.** only 1 electron
+- **B.** only 2 electrons
+- **C.** 1 or 2 electrons
+- **D.** only protons and no electrons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 6 — Cytochrome
+A cytochrome transfers:
+
+- **A.** 1 electron at a time
+- **B.** 2 electrons at a time
+- **C.** 4 electrons at a time
+- **D.** ATP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 7 — Why FAD matters
+The ability of FAD/FADH2 to handle one or two electrons is useful because:
+
+- **A.** it can bridge carriers that move electron pairs and carriers that move single electrons
+- **B.** it directly phosphorylates ADP
+- **C.** it pumps protons through ATP synthase
+- **D.** it replaces oxygen
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 8 — Final electron acceptor
+The final electron acceptor in oxidative phosphorylation is:
+
+- **A.** NAD+
+- **B.** FAD
+- **C.** O2
+- **D.** CO2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 9 — Energy conservation
+As electrons flow down the ETC, released free energy is used directly to:
+
+- **A.** phosphorylate ADP
+- **B.** pump protons across the inner membrane
+- **C.** synthesize glucose
+- **D.** reduce pyruvate to lactate
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 10 — Complex I
+Complex I:
+
+- **A.** pumps protons
+- **B.** never accepts electrons
+- **C.** is ATP synthase
+- **D.** is located in the outer membrane
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 11 — Complex II
+Which complex does **not** pump protons?
+
+- **A.** I
+- **B.** II
+- **C.** III
+- **D.** IV
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 12 — Complex IV
+Complex IV is especially important because it:
+
+- **A.** makes pyruvate
+- **B.** transfers electrons to oxygen
+- **C.** converts glucose to glycogen
+- **D.** produces NADH in glycolysis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 13 — Proton pumping direction
+During electron transport, protons are pumped:
+
+- **A.** from intermembrane space to matrix
+- **B.** from matrix to intermembrane space
+- **C.** from nucleus to cytosol
+- **D.** out of the cell
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 14 — Highest H+ concentration
+During active respiration, H+ concentration is higher in the:
+
+- **A.** matrix
+- **B.** intermembrane space
+- **C.** nucleus
+- **D.** mitochondrial DNA
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 15 — Proton-motive force
+The proton-motive force is:
+
+- **A.** only a chemical concentration gradient
+- **B.** an electrochemical H+ gradient
+- **C.** ATP hydrolysis energy only
+- **D.** the same as NADH concentration
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 16 — Chemiosmosis
+Chemiosmotic coupling links:
+
+- **A.** proton gradient formation to ATP synthesis
+- **B.** DNA replication to transcription
+- **C.** glycolysis directly to glycogen synthesis
+- **D.** CO2 production to lactate formation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 17 — ATP synthase F0
+The F0 region of ATP synthase is:
+
+- **A.** membrane embedded and involved in proton flow
+- **B.** a soluble glycolytic enzyme
+- **C.** the final electron acceptor
+- **D.** a DNA-binding protein
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 18 — ATP synthase F1
+The F1 region contains:
+
+- **A.** catalytic sites for ATP formation
+- **B.** cytochrome c only
+- **C.** mitochondrial DNA
+- **D.** GLUT2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 19 — Rotation
+Proton flow through ATP synthase drives rotation of:
+
+- **A.** the entire mitochondrion
+- **B.** internal rotor components including the central γ shaft
+- **C.** all αβ dimers as a rigid wheel
+- **D.** Complex IV
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 20 — αβ dimers
+The αβ catalytic units of ATP synthase primarily:
+
+- **A.** remain chemically unchanged and do nothing
+- **B.** change conformation as the central shaft rotates
+- **C.** carry oxygen
+- **D.** hydrolyze glucose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 21 — Loose state
+In the loose state, the catalytic site mainly:
+
+- **A.** binds ADP and Pi
+- **B.** releases oxygen
+- **C.** pumps H+
+- **D.** oxidizes NADH directly
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 22 — Tight state
+In the tight state:
+
+- **A.** ATP formation is favored
+- **B.** ATP is expelled from the mitochondrion
+- **C.** oxygen is generated
+- **D.** FADH2 is synthesized
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 23 — Open state
+The open state is associated especially with:
+
+- **A.** ATP release
+- **B.** proton pumping by Complex I
+- **C.** pyruvate oxidation
+- **D.** CO2 fixation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 24 — ATP substrates
+ATP synthase uses:
+
+- **A.** AMP + pyrophosphate
+- **B.** ADP + Pi
+- **C.** glucose + oxygen
+- **D.** NADH + FADH2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 25 — ADP/ATP transport
+ATP made in the matrix leaves mainly through:
+
+- **A.** a specific adenine nucleotide transporter
+- **B.** free diffusion through the inner membrane
+- **C.** GLUT2
+- **D.** nuclear pores
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 26 — FADH2 yield
+Why does FADH2-linked electron transfer support less proton pumping than NADH?
+
+- **A.** FADH2 enters through Complex II and bypasses proton-pumping Complex I.
+- **B.** FADH2 carries no electrons.
+- **C.** FADH2 blocks Complex IV.
+- **D.** FADH2 consumes oxygen before the ETC.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 27 — Uncoupler
+An uncoupler allows:
+
+- **A.** proton return without ATP synthase
+- **B.** ATP synthesis without a proton gradient
+- **C.** glucose to enter mitochondria directly
+- **D.** cytochromes to carry two ATP each
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 28 — Uncoupling consequence
+If the proton gradient is dissipated while electron transport continues, more energy is released as:
+
+- **A.** DNA
+- **B.** heat
+- **C.** glycogen
+- **D.** CO2 only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 29 — Thermogenin location
+Thermogenin is found in the:
+
+- **A.** inner mitochondrial membrane of brown adipose tissue
+- **B.** nucleus of white adipocytes
+- **C.** plasma membrane of red blood cells
+- **D.** mitochondrial matrix as a soluble enzyme
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 30 — Thermogenin function
+Thermogenin:
+
+- **A.** increases ATP production by preventing H+ movement
+- **B.** allows H+ to return toward the matrix without ATP synthesis
+- **C.** blocks electron transport completely
+- **D.** converts NADH to glucose
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+# Part B — Constructed Response
+
+### Question 31 — Mitochondrial structure
+Describe the four mitochondrial regions and identify where the ETC, proton accumulation, ATP synthase, PDH, and the CAC are located.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The outer membrane surrounds the organelle. The intermembrane space lies between the membranes and receives pumped protons. The inner membrane contains the ETC and ATP synthase. The matrix is inside the inner membrane and contains PDH and CAC enzymes.
+:::
+
+### Question 32 — Electron carriers
+How many electrons do NADH, FADH2, and cytochromes carry?
+
+::: {.callout-tip collapse="true" title="Answer"}
+NADH carries **2 electrons**. FAD/FADH2 can participate in **1- or 2-electron transfers**. Cytochromes transfer **1 electron at a time**.
+:::
+
+### Question 33 — FADH2 flexibility
+Why is FADH2's ability to participate in one- or two-electron transfer useful?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It helps bridge reactions in which electrons arrive as pairs and downstream carriers, such as cytochromes, transfer electrons one at a time.
+:::
+
+### Question 34 — Energy conservation
+What happens to the potential energy released as electrons move down the ETC?
+
+::: {.callout-tip collapse="true" title="Answer"}
+It is used by proton-pumping respiratory complexes to move H+ from the matrix into the intermembrane space, storing energy as an electrochemical proton gradient.
+:::
+
+### Question 35 — Proton-motive force
+Define the proton-motive force.
+
+::: {.callout-tip collapse="true" title="Answer"}
+It is the electrochemical potential created by unequal H+ concentration and charge across the inner mitochondrial membrane.
+:::
+
+### Question 36 — Proton pumps
+Which ETC complexes pump protons, and in what direction?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Complexes **I, III, and IV** pump H+ from the **matrix to the intermembrane space**. Complex II does not pump protons.
+:::
+
+### Question 37 — ATP substrates and transport
+What are the chemical substrates for ATP synthesis, and how are they made available in the matrix?
+
+::: {.callout-tip collapse="true" title="Answer"}
+ATP synthase uses **ADP and inorganic phosphate (Pi)**. Specific inner-membrane transport proteins bring the necessary substrates into the matrix and exchange newly made ATP for cytosolic ADP.
+:::
+
+### Question 38 — Three conformations
+What happens in the open, loose, and tight conformations of ATP synthase?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The **open** state releases ATP and permits nucleotide exchange; the **loose** state binds ADP and Pi; the **tight** state favors formation of ATP from bound ADP and Pi. Rotation of the central shaft forces catalytic sites through these states.
+:::
+
+### Question 39 — Thermogenin
+What is thermogenin and what does it do?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Thermogenin/UCP1 is an uncoupling protein in the inner mitochondrial membrane of brown adipose tissue. It allows H+ to flow back toward the matrix without driving ATP synthase, dissipating the gradient as heat.
+:::
+
+# Part C — Integrated Practice
+
+### Question 40 — Oxygen removal
+Predict what happens to electron flow, proton pumping, and ATP synthesis if oxygen is suddenly removed.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Without oxygen as the final electron acceptor, electron flow through the ETC backs up, proton pumping declines, the proton-motive force collapses, and oxidative ATP synthesis falls sharply.
+:::
+
+### Question 41 — Complex II mutation
+A mutation prevents Complex II from transferring electrons but leaves I, III, and IV normal. Which electron source is most directly impaired?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Electron entry associated with **FADH2/succinate oxidation** is most directly impaired because Complex II is the entry point for those electrons.
+:::
+
+### Question 42 — Inner membrane leak
+Why would a proton-leaky inner membrane decrease ATP production even if NADH oxidation continues?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The leak dissipates the proton-motive force. Electron transport can still release energy and pump protons, but the stored gradient cannot build sufficiently to power ATP synthase efficiently.
+:::
+
+### Question 43 — Brown fat
+Explain why brown adipose tissue can consume fuel and oxygen while generating relatively less ATP and more heat.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Thermogenin allows protons to bypass ATP synthase. Electron transport and proton pumping continue, but gradient energy is dissipated as heat instead of being efficiently captured in ATP.
+:::
+
+### Question 44 — ETC versus ATP synthase
+In one sentence, distinguish the jobs of the ETC and ATP synthase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The ETC uses electron-transfer energy to build a proton gradient, whereas ATP synthase uses the energy stored in that gradient to make ATP from ADP and Pi.
+:::
