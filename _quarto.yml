@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   pre-render:
-    - python scripts/extract_source_figures.py
+    - python3 scripts/extract_source_figures.py
   render:
     - "*.qmd"
     - "study-guides/"
