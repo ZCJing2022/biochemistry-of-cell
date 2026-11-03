@@ -1,0 +1,137 @@
+---
+title: "Learning Objectives — Complete Practice Coverage"
+toc-depth: 2
+---
+
+## How to use this map
+
+The five original Learning Objectives sheets contain **78 items: 19 + 20 + 9 + 16 + 14**. Each has a dedicated weekly question with a worked answer. Each two-hour exam also assesses all 78 items; compound objectives are assigned to a question/subpart that explicitly asks for their components.
+
+The map is an assessment-design record, not a claim that a keyword match proves understanding. Read the whole prompt and answer. Exam timing is planned rather than empirically validated. The three forms cover the same syllabus deliberately.
+
+## Week 8 {#week-8}
+
+Source: `Week 8 Learning objectives.pdf`, PDF p. 1, items 1–19 in original order.
+
+| ID | Original objective | Weekly practice | Exam 1 | Exam 2 | Exam 3 |
+|---|---|---|---|---|---|
+| W08-01 | What is catabolism | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo01) | [Q32](practice-part2-exam-01.qmd#q32) | [Q11](practice-part2-exam-02.qmd#q11) | [Q37](practice-part2-exam-03.qmd#q37) |
+| W08-02 | What is anabolism | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo02) | [Q32](practice-part2-exam-01.qmd#q32) | [Q11](practice-part2-exam-02.qmd#q11) | [Q37](practice-part2-exam-03.qmd#q37) |
+| W08-03 | What is metabolomics | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo03) | [Q15](practice-part2-exam-01.qmd#q15) | [Q5](practice-part2-exam-02.qmd#q05) | [Q10](practice-part2-exam-03.qmd#q10) |
+| W08-04 | What information does the Gibbs Free Energy (G) give us | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo04) | [Q8](practice-part2-exam-01.qmd#q08) | [Q24](practice-part2-exam-02.qmd#q24) | [Q25](practice-part2-exam-03.qmd#q25) |
+| W08-05 | What information does the change in Gibbs Free Energy (ΔG) give us | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo05) | [Q18](practice-part2-exam-01.qmd#q18) | [Q38](practice-part2-exam-02.qmd#q38) | [Q13](practice-part2-exam-03.qmd#q13) |
+| W08-06 | What (in general) is the difference between ΔG and ΔG0′ | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo06) | [Q37](practice-part2-exam-01.qmd#q37) | [Q18](practice-part2-exam-02.qmd#q18) | [Q20](practice-part2-exam-03.qmd#q20) |
+| W08-07 | Define exergonic, endergonic and equilibrium | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo07) | [Q1](practice-part2-exam-01.qmd#q01) | [Q8](practice-part2-exam-02.qmd#q08) | [Q28](practice-part2-exam-03.qmd#q28) |
+| W08-08 | Understand that coupling reactions and siphoning off product are two ways to move a metabolic reaction in the forward direction | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo08) | [P1(b)](practice-part2-exam-01.qmd#p1b) | [P1(b)](practice-part2-exam-02.qmd#p1b) | [P1(b)](practice-part2-exam-03.qmd#p1b) |
+| W08-09 | What is oxidation | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo09) | [Q22](practice-part2-exam-01.qmd#q22) | [Q28](practice-part2-exam-02.qmd#q28) | [Q3](practice-part2-exam-03.qmd#q03) |
+| W08-10 | What is reduction | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo10) | [Q22](practice-part2-exam-01.qmd#q22) | [Q28](practice-part2-exam-02.qmd#q28) | [Q3](practice-part2-exam-03.qmd#q03) |
+| W08-11 | What is an enzyme | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo11) | [Q26](practice-part2-exam-01.qmd#q26) | [Q31](practice-part2-exam-02.qmd#q31) | [Q35](practice-part2-exam-03.qmd#q35) |
+| W08-12 | What is catalysis | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo12) | [Q26](practice-part2-exam-01.qmd#q26) | [Q31](practice-part2-exam-02.qmd#q31) | [Q35](practice-part2-exam-03.qmd#q35) |
+| W08-13 | What happens when an enzyme binds substrate(s) | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo13) | [P1(a)](practice-part2-exam-01.qmd#p1a) | [P1(a)](practice-part2-exam-02.qmd#p1a) | [P1(a)](practice-part2-exam-03.qmd#p1a) |
+| W08-14 | What is the transition state | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo14) | [P1(c)](practice-part2-exam-01.qmd#p1c) | [P1(c)](practice-part2-exam-02.qmd#p1c) | [P1(c)](practice-part2-exam-03.qmd#p1c) |
+| W08-15 | How do enzymes accelerate reactions | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo15) | [P1(c)](practice-part2-exam-01.qmd#p1c) | [P1(c)](practice-part2-exam-02.qmd#p1c) | [P1(c)](practice-part2-exam-03.qmd#p1c) |
+| W08-16 | What does rate/velocity refer to with respect to enzyme behaviour | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo16) | [P3(a)](practice-part2-exam-01.qmd#p3a) | [P3(a)](practice-part2-exam-02.qmd#p3a) | [P3(a)](practice-part2-exam-03.qmd#p3a) |
+| W08-17 | What does maximum velocity refer to with respect to enzyme behaviour and what are the units of velocity (rate) | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo17) | [P3(a)](practice-part2-exam-01.qmd#p3a) | [P3(a)](practice-part2-exam-02.qmd#p3a) | [P3(a)](practice-part2-exam-03.qmd#p3a) |
+| W08-18 | What is the definition of Km and what are the units of Km | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo18) | [P3(b)](practice-part2-exam-01.qmd#p3b) | [P3(b)](practice-part2-exam-02.qmd#p3b) | [P3(b)](practice-part2-exam-03.qmd#p3b) |
+| W08-19 | What is the role of NAD+ and NADH | [Worked question](week08-bioenergetics-enzymes.qmd#w08-lo19) | [P2(d)](practice-part2-exam-01.qmd#p2d) | [P2(d)](practice-part2-exam-02.qmd#p2d) | [P2(d)](practice-part2-exam-03.qmd#p2d) |
+
+## Week 9 {#week-9}
+
+Source: `Week 9 Learning objectives.pdf`, PDF p. 1, items 1–20 in original order.
+
+| ID | Original objective | Weekly practice | Exam 1 | Exam 2 | Exam 3 |
+|---|---|---|---|---|---|
+| W09-01 | What are the three nutritional polysaccharides and what distinguishes them | [Worked question](week09-glycolysis-cac.qmd#w09-lo01) | [Q29](practice-part2-exam-01.qmd#q29) | [Q21](practice-part2-exam-02.qmd#q21) | [Q12](practice-part2-exam-03.qmd#q12) |
+| W09-02 | What type of covalent bonds link glucose monomers | [Worked question](week09-glycolysis-cac.qmd#w09-lo02) | [Q29](practice-part2-exam-01.qmd#q29) | [Q21](practice-part2-exam-02.qmd#q21) | [Q12](practice-part2-exam-03.qmd#q12) |
+| W09-03 | What is the net result (in terms of ATP, NADH and pyruvate) produced in glycolysis | [Worked question](week09-glycolysis-cac.qmd#w09-lo03) | [Q7](practice-part2-exam-01.qmd#q07) | [Q36](practice-part2-exam-02.qmd#q36) | [Q8](practice-part2-exam-03.qmd#q08) |
+| W09-04 | What three stages can glycolysis be broken into | [Worked question](week09-glycolysis-cac.qmd#w09-lo04) | [Q17](practice-part2-exam-01.qmd#q17) | [Q9](practice-part2-exam-02.qmd#q09) | [Q31](practice-part2-exam-03.qmd#q31) |
+| W09-05 | Understand step 1 in glycolysis and know the names of substrate enzyme and product | [Worked question](week09-glycolysis-cac.qmd#w09-lo05) | [Q12](practice-part2-exam-01.qmd#q12) | [Q33](practice-part2-exam-02.qmd#q33) | [Q24](practice-part2-exam-03.qmd#q24) |
+| W09-06 | Be able to explain why glucose is not phosphorylated immediately in the liver and when it is phosphorylated | [Worked question](week09-glycolysis-cac.qmd#w09-lo06) | [P1(a)](practice-part2-exam-01.qmd#p1a) | [P1(a)](practice-part2-exam-02.qmd#p1a) | [P1(a)](practice-part2-exam-03.qmd#p1a) |
+| W09-07 | Understand why an isomerization took place in reaction 2 | [Worked question](week09-glycolysis-cac.qmd#w09-lo07) | [Q38](practice-part2-exam-01.qmd#q38) | [Q20](practice-part2-exam-02.qmd#q20) | [Q17](practice-part2-exam-03.qmd#q17) |
+| W09-08 | Know what took place in reaction 3 | [Worked question](week09-glycolysis-cac.qmd#w09-lo08) | [Q33](practice-part2-exam-01.qmd#q33) | [Q14](practice-part2-exam-02.qmd#q14) | [Q30](practice-part2-exam-03.qmd#q30) |
+| W09-09 | Know that in reactions 4,5 the end result is 2 molecules of glyceraldyhyde 3-phosphate | [Worked question](week09-glycolysis-cac.qmd#w09-lo09) | [Q2](practice-part2-exam-01.qmd#q02) | [Q27](practice-part2-exam-02.qmd#q27) | [Q5](practice-part2-exam-03.qmd#q05) |
+| W09-10 | What are the three important metabolic consequences for reaction 6 | [Worked question](week09-glycolysis-cac.qmd#w09-lo10) | [P1(d)](practice-part2-exam-01.qmd#p1d) | [P1(d)](practice-part2-exam-02.qmd#p1d) | [P1(d)](practice-part2-exam-03.qmd#p1d) |
+| W09-11 | Why is the net generation of ATP zero after reaction 7 | [Worked question](week09-glycolysis-cac.qmd#w09-lo11) | [P1(e)](practice-part2-exam-01.qmd#p1e) | [P1(e)](practice-part2-exam-02.qmd#p1e) | [P1(e)](practice-part2-exam-03.qmd#p1e) |
+| W09-12 | How, in simple terms, does glycolysis end up with a Net synthesis of 2 ATP | [Worked question](week09-glycolysis-cac.qmd#w09-lo12) | [P1(e)](practice-part2-exam-01.qmd#p1e) | [P1(e)](practice-part2-exam-02.qmd#p1e) | [P1(e)](practice-part2-exam-03.qmd#p1e) |
+| W09-13 | What are the three metabolic fates of pyruvate | [Worked question](week09-glycolysis-cac.qmd#w09-lo13) | [Q24](practice-part2-exam-01.qmd#q24) | [Q4](practice-part2-exam-02.qmd#q04) | [Q36](practice-part2-exam-03.qmd#q36) |
+| W09-14 | Under aerobic conditions what happens to pyruvate | [Worked question](week09-glycolysis-cac.qmd#w09-lo14) | [P2(b)](practice-part2-exam-01.qmd#p2b) | [P2(b)](practice-part2-exam-02.qmd#p2b) | [P2(b)](practice-part2-exam-03.qmd#p2b) |
+| W09-15 | What is the role of the pyruvate dehydrogenase complex and what products and how many are produced (CO2, NADH) | [Worked question](week09-glycolysis-cac.qmd#w09-lo15) | [P2(b)](practice-part2-exam-01.qmd#p2b) | [P2(b)](practice-part2-exam-02.qmd#p2b) | [P2(b)](practice-part2-exam-03.qmd#p2b) |
+| W09-16 | What is the role of acetyl-CoA in the CAC | [Worked question](week09-glycolysis-cac.qmd#w09-lo16) | [P2(b)](practice-part2-exam-01.qmd#p2b) | [P2(b)](practice-part2-exam-02.qmd#p2b) | [P2(b)](practice-part2-exam-03.qmd#p2b) |
+| W09-17 | What products are produced in one turn of the CAC and how many are produced (NADH, CO2, GTP) and what is the overall stoichiometry from glycolysis to CAC | [Worked question](week09-glycolysis-cac.qmd#w09-lo17) | [P2(c)](practice-part2-exam-01.qmd#p2c) | [P2(c)](practice-part2-exam-02.qmd#p2c) | [P2(c)](practice-part2-exam-03.qmd#p2c) |
+| W09-18 | What is an anapleurotic reaction with respect to the CAC | [Worked question](week09-glycolysis-cac.qmd#w09-lo18) | [P2(e)](practice-part2-exam-01.qmd#p2e) | [P2(e)](practice-part2-exam-02.qmd#p2e) | [P2(e)](practice-part2-exam-03.qmd#p2e) |
+| W09-19 | Under what conditions is pyruvate converted to lactate and why? | [Worked question](week09-glycolysis-cac.qmd#w09-lo19) | [P2(d)](practice-part2-exam-01.qmd#p2d) | [P2(d)](practice-part2-exam-02.qmd#p2d) | [P2(d)](practice-part2-exam-03.qmd#p2d) |
+| W09-20 | What is the Cori Cycle? | [Worked question](week09-glycolysis-cac.qmd#w09-lo20) | [P2(f)](practice-part2-exam-01.qmd#p2f) | [P2(f)](practice-part2-exam-02.qmd#p2f) | [P2(f)](practice-part2-exam-03.qmd#p2f) |
+
+## Week 10 {#week-10}
+
+Source: `Week 10 Learning objectives.pdf`, PDF p. 1, items 1–9 in original order.
+
+| ID | Original objective | Weekly practice | Exam 1 | Exam 2 | Exam 3 |
+|---|---|---|---|---|---|
+| W10-01 | Be clear on mitochondrial structure | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo01) | [P2(a)](practice-part2-exam-01.qmd#p2a) | [P2(a)](practice-part2-exam-02.qmd#p2a) | [P2(a)](practice-part2-exam-03.qmd#p2a) |
+| W10-02 | Be clear on how many electrons NADH and FADH2 carry and understand the importance of FADH2 being able to donate and accept either 1 or 2 electrons at a time | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo02) | [Q34](practice-part2-exam-01.qmd#q34) | [Q7](practice-part2-exam-02.qmd#q07) | [Q19](practice-part2-exam-03.qmd#q19) |
+| W10-03 | Be clear that cytochromes carry 1 electron at a time | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo03) | [Q28](practice-part2-exam-01.qmd#q28) | [Q30](practice-part2-exam-02.qmd#q30) | [Q14](practice-part2-exam-03.qmd#q14) |
+| W10-04 | Be clear that the potential energy conserved as electrons are moving down the electron transport chain is used to pump protons | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo04) | [Q3](practice-part2-exam-01.qmd#q03) | [Q13](practice-part2-exam-02.qmd#q13) | [Q26](practice-part2-exam-03.qmd#q26) |
+| W10-05 | What is the proton motive force | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo05) | [Q16](practice-part2-exam-01.qmd#q16) | [Q32](practice-part2-exam-02.qmd#q32) | [Q32](practice-part2-exam-03.qmd#q32) |
+| W10-06 | Which components of the Electron Transport Chain pump protons and what is the directionality | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo06) | [Q11](practice-part2-exam-01.qmd#q11) | [Q17](practice-part2-exam-02.qmd#q17) | [Q4](practice-part2-exam-03.qmd#q04) |
+| W10-07 | What are the substrate for ATP synthesis and how do they get into the matrix | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo07) | [P3(c)](practice-part2-exam-01.qmd#p3c) | [P3(c)](practice-part2-exam-02.qmd#p3c) | [P3(c)](practice-part2-exam-03.qmd#p3c) |
+| W10-08 | What happens in each of the three conformations of the alpha-beta dimers of ATP synthase | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo08) | [Q23](practice-part2-exam-01.qmd#q23) | [Q3](practice-part2-exam-02.qmd#q03) | [Q23](practice-part2-exam-03.qmd#q23) |
+| W10-09 | What is thermogenin | [Worked question](week10-etc-oxidative-phosphorylation.qmd#w10-lo09) | [Q6](practice-part2-exam-01.qmd#q06) | [Q22](practice-part2-exam-02.qmd#q22) | [Q6](practice-part2-exam-03.qmd#q06) |
+
+## Week 11 {#week-11}
+
+Source: `Week 11 Learning objectives.pdf`, PDF p. 1, items 1–16 in original order.
+
+| ID | Original objective | Weekly practice | Exam 1 | Exam 2 | Exam 3 |
+|---|---|---|---|---|---|
+| W11-01 | What is the fundamental difference between white, beige and brown adipose tissue | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo01) | [P3(d)](practice-part2-exam-01.qmd#p3d) | [P3(d)](practice-part2-exam-02.qmd#p3d) | [P3(d)](practice-part2-exam-03.qmd#p3d) |
+| W11-02 | What are the essential fatty acids and why are they considered essential | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo02) | [Q5](practice-part2-exam-01.qmd#q05) | [Q2](practice-part2-exam-02.qmd#q02) | [Q34](practice-part2-exam-03.qmd#q34) |
+| W11-03 | How are omega-3 and omega-6 fatty acids defined | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo03) | [Q13](practice-part2-exam-01.qmd#q13) | [Q12](practice-part2-exam-02.qmd#q12) | [Q11](practice-part2-exam-03.qmd#q11) |
+| W11-04 | What are eicosanoids | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo04) | [Q30](practice-part2-exam-01.qmd#q30) | [Q10](practice-part2-exam-02.qmd#q10) | [Q7](practice-part2-exam-03.qmd#q07) |
+| W11-05 | What are the 4 stages in the synthesis of the specific eicosanoids (prostaglandins and TxA2) we looked at | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo05) | [P4(a)](practice-part2-exam-01.qmd#p4a) | [P4(a)](practice-part2-exam-02.qmd#p4a) | [P4(a)](practice-part2-exam-03.qmd#p4a) |
+| W11-06 | What is the precursor molecule in the synthesis of the specific eicosanaoids (prostaglandins and TxA2) we looked at | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo06) | [Q25](practice-part2-exam-01.qmd#q25) | [Q16](practice-part2-exam-02.qmd#q16) | [Q21](practice-part2-exam-03.qmd#q21) |
+| W11-07 | What are the two isoforms of PGHS called | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo07) | [Q10](practice-part2-exam-01.qmd#q10) | [Q29](practice-part2-exam-02.qmd#q29) | [Q18](practice-part2-exam-03.qmd#q18) |
+| W11-08 | What are the fundamental characteristics of these two isoforms | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo08) | [Q35](practice-part2-exam-01.qmd#q35) | [Q25](practice-part2-exam-02.qmd#q25) | [Q1](practice-part2-exam-03.qmd#q01) |
+| W11-09 | Understand that NSAIDs bind to the active site of both isoforms of PGHS | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo09) | [P4(b)](practice-part2-exam-01.qmd#p4b) | [P4(b)](practice-part2-exam-02.qmd#p4b) | [P4(b)](practice-part2-exam-03.qmd#p4b) |
+| W11-10 | Know that aspirin binds covalently to the enzyme (PGHS) active site | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo10) | [P4(b)](practice-part2-exam-01.qmd#p4b) | [P4(b)](practice-part2-exam-02.qmd#p4b) | [P4(b)](practice-part2-exam-03.qmd#p4b) |
+| W11-11 | Explain how low doses of aspirin are prescribed to prevent heart attack and stroke and why other NSAIDS cannot be used instead | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo11) | [P4(c)](practice-part2-exam-01.qmd#p4c) | [P4(c)](practice-part2-exam-02.qmd#p4c) | [P4(c)](practice-part2-exam-03.qmd#p4c) |
+| W11-12 | Understand why a COX2 selective inhibitor is useful | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo12) | [P4(d)](practice-part2-exam-01.qmd#p4d) | [P4(d)](practice-part2-exam-02.qmd#p4d) | [P4(d)](practice-part2-exam-03.qmd#p4d) |
+| W11-13 | Understand why acetaminophen is not an NSAID and why it will not reduce swelling at a site of injury | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo13) | [P4(d)](practice-part2-exam-01.qmd#p4d) | [P4(d)](practice-part2-exam-02.qmd#p4d) | [P4(d)](practice-part2-exam-03.qmd#p4d) |
+| W11-14 | What is bioavailablilty of a drug | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo14) | [P4(e)](practice-part2-exam-01.qmd#p4e) | [P4(e)](practice-part2-exam-02.qmd#p4e) | [P4(e)](practice-part2-exam-03.qmd#p4e) |
+| W11-15 | How do you calculate a therapeutic index of a drug | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo15) | [P4(f)](practice-part2-exam-01.qmd#p4f) | [P4(f)](practice-part2-exam-02.qmd#p4f) | [P4(f)](practice-part2-exam-03.qmd#p4f) |
+| W11-16 | What is an agonist and an antagonist | [Worked question](week11-lipids-eicosanoids-drugs.qmd#w11-lo16) | [Q19](practice-part2-exam-01.qmd#q19) | [Q35](practice-part2-exam-02.qmd#q35) | [Q27](practice-part2-exam-03.qmd#q27) |
+
+## Week 12 {#week-12}
+
+Source: `Week 12 Learning objectives.pdf`, PDF p. 1, items 1–14 in original order.
+
+| ID | Original objective | Weekly practice | Exam 1 | Exam 2 | Exam 3 |
+|---|---|---|---|---|---|
+| W12-01 | Know the four types of intracellular signalling | [Worked question](week12-cell-signaling-part1.qmd#w12-lo01) | [Q9](practice-part2-exam-01.qmd#q09) | [Q26](practice-part2-exam-02.qmd#q26) | [Q38](practice-part2-exam-03.qmd#q38) |
+| W12-02 | What are the three main classes of cell surface receptors | [Worked question](week12-cell-signaling-part1.qmd#w12-lo02) | [Q14](practice-part2-exam-01.qmd#q14) | [Q1](practice-part2-exam-02.qmd#q01) | [Q2](practice-part2-exam-03.qmd#q02) |
+| W12-03 | Understand how phosphorylation impacts proteins in a signallling pathway and be very clear that proteins can be turned on OR off by phosphorylation | [Worked question](week12-cell-signaling-part1.qmd#w12-lo03) | [Q31](practice-part2-exam-01.qmd#q31) | [Q23](practice-part2-exam-02.qmd#q23) | [Q15](practice-part2-exam-03.qmd#q15) |
+| W12-04 | Know the roles of a kinase and a phosphatase | [Worked question](week12-cell-signaling-part1.qmd#w12-lo04) | [Q20](practice-part2-exam-01.qmd#q20) | [Q37](practice-part2-exam-02.qmd#q37) | [Q33](practice-part2-exam-03.qmd#q33) |
+| W12-05 | Know the 2 main classes of GTP binding proteins | [Worked question](week12-cell-signaling-part1.qmd#w12-lo05) | [Q21](practice-part2-exam-01.qmd#q21) | [Q15](practice-part2-exam-02.qmd#q15) | [Q9](practice-part2-exam-03.qmd#q09) |
+| W12-06 | Understand what these two classes share in common | [Worked question](week12-cell-signaling-part1.qmd#w12-lo06) | [Q21](practice-part2-exam-01.qmd#q21) | [Q15](practice-part2-exam-02.qmd#q15) | [Q9](practice-part2-exam-03.qmd#q09) |
+| W12-07 | Understand (in simple terms) their primary differences | [Worked question](week12-cell-signaling-part1.qmd#w12-lo07) | [Q21](practice-part2-exam-01.qmd#q21) | [Q15](practice-part2-exam-02.qmd#q15) | [Q9](practice-part2-exam-03.qmd#q09) |
+| W12-08 | Understand how a GPCR is activated and how the G protein itself is activated | [Worked question](week12-cell-signaling-part1.qmd#w12-lo08) | [Q27](practice-part2-exam-01.qmd#q27) | [Q34](practice-part2-exam-02.qmd#q34) | [Q16](practice-part2-exam-03.qmd#q16) |
+| W12-09 | What is a receptor tyrosine kinase | [Worked question](week12-cell-signaling-part1.qmd#w12-lo09) | [Q4](practice-part2-exam-01.qmd#q04) | [Q19](practice-part2-exam-02.qmd#q19) | [Q29](practice-part2-exam-03.qmd#q29) |
+| W12-10 | How is an RTK activated | [Worked question](week12-cell-signaling-part1.qmd#w12-lo10) | [P5(a)](practice-part2-exam-01.qmd#p5a) | [P5(a)](practice-part2-exam-02.qmd#p5a) | [P5(a)](practice-part2-exam-03.qmd#p5a) |
+| W12-11 | What is the function of the phosphorylated tyrosine residues on an RTK | [Worked question](week12-cell-signaling-part1.qmd#w12-lo11) | [Q36](practice-part2-exam-01.qmd#q36) | [Q6](practice-part2-exam-02.qmd#q06) | [Q22](practice-part2-exam-03.qmd#q22) |
+| W12-12 | Understand the whole ON/OFF response of a GTPase | [Worked question](week12-cell-signaling-part1.qmd#w12-lo12) | [P5(c)](practice-part2-exam-01.qmd#p5c) | [P5(c)](practice-part2-exam-02.qmd#p5c) | [P5(c)](practice-part2-exam-03.qmd#p5c) |
+| W12-13 | What is a GEF and what is the GEF for Ras | [Worked question](week12-cell-signaling-part1.qmd#w12-lo13) | [P5(b)](practice-part2-exam-01.qmd#p5b) | [P5(b)](practice-part2-exam-02.qmd#p5b) | [P5(b)](practice-part2-exam-03.qmd#p5b) |
+| W12-14 | Be able to describe the Ras-MAP pathway beginning with an activated RTK to the phosphorylation and role of MAP kinase | [Worked question](week12-cell-signaling-part1.qmd#w12-lo14) | [P5(d)](practice-part2-exam-01.qmd#p5d) | [P5(d)](practice-part2-exam-02.qmd#p5d) | [P5(d)](practice-part2-exam-03.qmd#p5d) |
+
+## Source wording and counting notes {#source-notes}
+
+These assessments follow the supplied Learning Objectives, lecture presentations, tutorials and assigned Alberts chapters. The original objective wording below is retained, with whitespace and mathematical glyphs normalized. Questions make compound requirements explicit rather than silently treating a topic mention as coverage.
+
+- **Week 9, reaction 6:** slide 9:14 calls this substrate-level phosphorylation, whereas slides 9:17–9:18 show production of 1,3-BPG in reaction 6 and direct ATP formation in reaction 7. The questions distinguish these steps and include all three consequences named on slide 9:14, including the NAD+ requirement for anaerobic continuation.
+- **Week 9, counting basis:** the overview (9:6) and accounting give two NADH per glucose. Slide 9:19 also contains a one-NADH label. Questions explicitly distinguish per-three-carbon-unit, per-pyruvate, per-cycle-turn and per-glucose counts; they use the complete per-glucose accounting.
+- **Week 10, location:** slide 10:3 says the ETC is in the matrix; the detailed structure/ETC slides 10:5 and 10:9 place its proteins in the inner membrane. The assessment uses the explicit membrane/compartment description, also supported by Alberts Chapter 14.
+- **Week 11, aspirin target:** slide 11:17 uses “PGH2” in its aspirin explanation, while 11:13–11:14 identify covalent modification of COX/PGHS. Questions distinguish the enzyme PGHS from its product PGH2.
+- **Week 11, pharmacology wording:** “bioavailability” follows the lecture's stated operational meaning, the amount of drug in circulation. The TI exercises supply dose values and use TD50/ED50 (or LD50/ED50); the lecture's diagram uses ED50 although adjacent text also says EC50. Exercises are not clinical prescribing advice.
+- **Week 12, terminology:** objective 1 says “intracellular”; lecture 12:3 calls the four listed modes **intercellular** signaling. Slides 12:10–12:12 use “GPCRs” as shorthand for the receptor-associated G-protein arrangement; the questions distinguish the seven-pass receptor from its heterotrimeric G protein.
+- **Week 12, adaptor connection:** one sentence on lecture 12:20 names Src in the Sos connection. Tutorial 7, PDF p. 15, explicitly describes Grb2–Sos; that is the assembly used in the pathway questions. Ras activates Raf by binding, not by phosphorylating it.
+
+The 38-ATP illustration in Week 10 is labeled FYI. These exams do not require a new ATP-per-carrier convention or add topics outside the learning-objective scope.

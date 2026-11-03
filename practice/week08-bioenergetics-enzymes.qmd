@@ -1,129 +1,134 @@
 ---
 title: "Week 8 Practice — Bioenergetics and Enzymes"
+toc-depth: 2
 ---
 
-**Format:** 30 multiple-choice questions followed by constructed-response questions keyed directly to the Week 8 learning objectives. Answers are hidden initially; click **Answer** to reveal them.
+<!-- objective-coverage-v2 -->
+
+**35 multiple-choice questions**, followed by **19 objective-led questions** and retained integrated practice. Each original learning-objective item has its own question and worked answer, including every part of compound objectives. Answers are initially collapsed.
+
+[Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-8). The final integrated questions are additional practice, not substitutes for the objective questions.
 
 # Part A — Multiple Choice
 
-### Question 1 — Catabolism
+### Question 1 — Catabolism {#w08-mc01}
 
 Which description best defines catabolism?
 
-- **A.** Building large molecules from smaller molecules
-- **B.** Breaking molecules down, often releasing usable energy
-- **C.** Measuring the metabolome
+- **A.** Breaking molecules down, often releasing usable energy
+- **B.** Measuring the metabolome
+- **C.** Building large molecules from smaller molecules
 - **D.** Driving every reaction to equilibrium
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: A.**
 
 Catabolic pathways break larger molecules into smaller products and often release energy that can be captured by the cell.
 :::
 
-### Question 2 — Anabolism
+### Question 2 — Anabolism {#w08-mc02}
 
 Glycogen synthesis from glucose is best described as:
 
-- **A.** catabolic
-- **B.** anabolic
-- **C.** oxidative
-- **D.** equilibrated
+- **A.** equilibrated
+- **B.** catabolic
+- **C.** anabolic
+- **D.** oxidative
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: C.**
 
 Anabolism builds larger molecules from smaller precursors.
 :::
 
-### Question 3 — Metabolomics
+### Question 3 — Metabolomics {#w08-mc03}
 
 Metabolomics is primarily concerned with:
 
 - **A.** sequencing all genes in a cell
-- **B.** identifying and quantifying small-molecule metabolites in a biological system
-- **C.** measuring only ATP concentration
-- **D.** determining protein structure
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 4 — First law
-
-The first law of thermodynamics states that:
-
-- **A.** entropy always decreases in a cell
-- **B.** energy can be created by metabolism
-- **C.** energy can be transformed or transferred but not created or destroyed
-- **D.** every spontaneous reaction is rapid
+- **B.** determining protein structure
+- **C.** identifying and quantifying small-molecule metabolites in a biological system
+- **D.** measuring only ATP concentration
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
 :::
 
-### Question 5 — Second law
+### Question 4 — First law {#w08-mc04}
+
+The first law of thermodynamics states that:
+
+- **A.** energy can be transformed or transferred but not created or destroyed
+- **B.** entropy always decreases in a cell
+- **C.** every spontaneous reaction is rapid
+- **D.** energy can be created by metabolism
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 5 — Second law {#w08-mc05}
 
 A process that increases the dispersal of matter and energy is generally associated with an increase in:
 
-- **A.** Km
+- **A.** activation energy only
 - **B.** entropy
-- **C.** Vmax
-- **D.** activation energy only
+- **C.** Km
+- **D.** Vmax
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
 :::
 
-### Question 6 — Meaning of ΔG
+### Question 6 — Meaning of ΔG {#w08-mc06}
 
 The most useful interpretation of $\Delta G$ for a reaction is that it indicates:
 
 - **A.** the number of enzymes required
-- **B.** whether the reaction is thermodynamically favored in the direction written under the stated conditions
-- **C.** how fast the reaction must occur
+- **B.** how fast the reaction must occur
+- **C.** whether the reaction is thermodynamically favored in the direction written under the stated conditions
 - **D.** whether the reaction uses oxygen
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: C.**
 
 $\Delta G$ describes thermodynamic favorability, not reaction speed.
 :::
 
-### Question 7 — Exergonic
+### Question 7 — Exergonic {#w08-mc07}
 
 If $\Delta G=-18\;\text{kJ/mol}$, the reaction is:
 
 - **A.** endergonic
-- **B.** exergonic
-- **C.** necessarily slow
-- **D.** at equilibrium
+- **B.** at equilibrium
+- **C.** exergonic
+- **D.** necessarily slow
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: C.**
 :::
 
-### Question 8 — Endergonic
+### Question 8 — Endergonic {#w08-mc08}
 
 If $\Delta G=+12\;\text{kJ/mol}$, which statement is best?
 
-- **A.** The reaction is favorable as written without energy input.
+- **A.** The reaction must be enzyme-free.
 - **B.** The reaction is endergonic as written.
-- **C.** The reaction must be enzyme-free.
-- **D.** The reaction is at equilibrium.
+- **C.** The reaction is at equilibrium.
+- **D.** The reaction is favorable as written without energy input.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
 :::
 
-### Question 9 — Equilibrium
+### Question 9 — Equilibrium {#w08-mc09}
 
 At equilibrium:
 
 - **A.** both forward and reverse reactions stop
 - **B.** $\Delta G$ is zero and there is no net change
-- **C.** only the forward reaction occurs
-- **D.** all substrate has been converted to product
+- **C.** all substrate has been converted to product
+- **D.** only the forward reaction occurs
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
@@ -131,48 +136,48 @@ At equilibrium:
 Molecules still react in both directions, but the forward and reverse rates are equal.
 :::
 
-### Question 10 — ΔG versus ΔG°′
+### Question 10 — ΔG versus ΔG°′ {#w08-mc10}
 
 Which statement is correct?
 
-- **A.** $\Delta G$ and $\Delta G^{\circ\prime}$ are always identical.
-- **B.** $\Delta G^{\circ\prime}$ describes defined standard conditions; $\Delta G$ depends on actual cellular conditions.
+- **A.** $\Delta G^{\circ\prime}$ describes defined standard conditions; $\Delta G$ depends on actual cellular conditions.
+- **B.** $\Delta G$ and $\Delta G^{\circ\prime}$ are always identical.
 - **C.** $\Delta G$ applies only in test tubes.
 - **D.** $\Delta G^{\circ\prime}$ is a measure of enzyme concentration.
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 11 — Coupling
-
-Reaction 1 has $\Delta G=+10$ kJ/mol. Reaction 2 has $\Delta G=-25$ kJ/mol. If they are directly coupled, the combined $\Delta G$ is:
-
-- **A.** +35 kJ/mol
-- **B.** +15 kJ/mol
-- **C.** −15 kJ/mol
-- **D.** −35 kJ/mol
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: C.**
-
-Free-energy changes are additive: $+10+(-25)=-15$ kJ/mol.
-:::
-
-### Question 12 — Product removal
-
-A reversible reaction $A\rightleftharpoons B$ can be pulled toward B when:
-
-- **A.** B is continuously consumed by the next reaction
-- **B.** all enzymes are removed
-- **C.** B accumulates without limit
-- **D.** temperature is always lowered to zero
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
 :::
 
-### Question 13 — ATP hydrolysis
+### Question 11 — Coupling {#w08-mc11}
+
+Reaction 1 has $\Delta G=+10$ kJ/mol. Reaction 2 has $\Delta G=-25$ kJ/mol. If they are directly coupled, the combined $\Delta G$ is:
+
+- **A.** +35 kJ/mol
+- **B.** +15 kJ/mol
+- **C.** −35 kJ/mol
+- **D.** −15 kJ/mol
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+
+Free-energy changes are additive: $+10+(-25)=-15$ kJ/mol.
+:::
+
+### Question 12 — Product removal {#w08-mc12}
+
+A reversible reaction $A\rightleftharpoons B$ can be pulled toward B when:
+
+- **A.** all enzymes are removed
+- **B.** B accumulates without limit
+- **C.** B is continuously consumed by the next reaction
+- **D.** temperature is always lowered to zero
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 13 — ATP hydrolysis {#w08-mc13}
 
 Why is ATP hydrolysis strongly favorable?
 
@@ -187,226 +192,226 @@ Why is ATP hydrolysis strongly favorable?
 The favorable overall reaction reflects stabilization of the products, including relief of charge repulsion and resonance/hydration effects.
 :::
 
-### Question 14 — Oxidation
+### Question 14 — Oxidation {#w08-mc14}
 
 Oxidation is:
 
-- **A.** gain of electrons
-- **B.** loss of electrons
+- **A.** loss of protons only
+- **B.** gain of electrons
 - **C.** gain of ATP
-- **D.** loss of protons only
+- **D.** loss of electrons
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: D.**
 :::
 
-### Question 15 — Reduction
+### Question 15 — Reduction {#w08-mc15}
 
 Reduction is:
 
-- **A.** gain of electrons
+- **A.** always ATP hydrolysis
 - **B.** loss of electrons
-- **C.** always addition of oxygen
-- **D.** always ATP hydrolysis
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A.**
-:::
-
-### Question 16 — Recognizing reduction
-
-For an organic carbon compound, an increase in the number of C–H bonds generally indicates:
-
-- **A.** oxidation
-- **B.** reduction
-- **C.** equilibrium
-- **D.** denaturation
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 17 — Redox pairing
-
-If molecule A is oxidized during a reaction:
-
-- **A.** no other molecule needs to change
-- **B.** another molecule must be reduced
-- **C.** A must gain electrons
-- **D.** ATP must always be consumed
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 18 — NAD+
-
-Which statement best describes NAD+?
-
-- **A.** It is the reduced form of the carrier.
-- **B.** It commonly accepts electrons during oxidation reactions.
-- **C.** It is an enzyme active site.
-- **D.** It is a substrate only for ATP synthase.
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 19 — NADH
-
-NADH is:
-
-- **A.** the oxidized form of NAD
-- **B.** a reduced electron carrier
-- **C.** a protein enzyme
-- **D.** an equilibrium constant
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 20 — Enzyme
-
-An enzyme is best defined as:
-
-- **A.** a molecule that makes an unfavorable reaction favorable
-- **B.** a biological catalyst that increases reaction rate without being consumed
-- **C.** a molecule that changes the equilibrium constant
-- **D.** a molecule that is always a lipid
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 21 — Activation energy
-
-Activation energy is:
-
-- **A.** the free-energy difference between products and reactants
-- **B.** the energy barrier that must be overcome to reach the transition state
-- **C.** another name for Vmax
-- **D.** always negative
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 22 — Transition state
-
-The transition state is:
-
-- **A.** the most stable form of the product
-- **B.** a high-energy, unstable configuration along the reaction pathway
-- **C.** the equilibrium mixture
-- **D.** the free enzyme after product release
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 23 — What enzymes change
-
-Which property is directly lowered by an enzyme?
-
-- **A.** $\Delta G$ of the reaction
-- **B.** activation-energy barrier
-- **C.** equilibrium constant
-- **D.** final product energy only
-
-::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
-:::
-
-### Question 24 — What enzymes do not change
-
-Adding an enzyme to a reversible reaction will:
-
-- **A.** change the equilibrium constant
-- **B.** make $\Delta G$ more negative
-- **C.** increase the rates of approach to equilibrium without changing the equilibrium position
-- **D.** force all reactant to become product
+- **C.** gain of electrons
+- **D.** always addition of oxygen
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
 :::
 
-### Question 25 — Enzyme–substrate complex
+### Question 16 — Recognizing reduction {#w08-mc16}
 
-When a substrate binds to an enzyme, it forms:
+For an organic carbon compound, an increase in the number of C–H bonds generally indicates:
 
-- **A.** an enzyme–substrate complex
-- **B.** a phospholipid bilayer
-- **C.** a ribosome
-- **D.** an equilibrium constant
+- **A.** reduction
+- **B.** equilibrium
+- **C.** denaturation
+- **D.** oxidation
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
 :::
 
-### Question 26 — Reaction velocity
+### Question 17 — Redox pairing {#w08-mc17}
 
-Which is a valid unit for enzyme reaction velocity?
+If molecule A is oxidized during a reaction:
 
-- **A.** mM
-- **B.** μmol/min
-- **C.** kJ/mol only
-- **D.** no units
+- **A.** A must gain electrons
+- **B.** ATP must always be consumed
+- **C.** another molecule must be reduced
+- **D.** no other molecule needs to change
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 18 — NAD+ {#w08-mc18}
+
+Which statement best describes NAD+?
+
+- **A.** It is a substrate only for ATP synthase.
+- **B.** It is the reduced form of the carrier.
+- **C.** It is an enzyme active site.
+- **D.** It commonly accepts electrons during oxidation reactions.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+:::
+
+### Question 19 — NADH {#w08-mc19}
+
+NADH is:
+
+- **A.** a protein enzyme
+- **B.** an equilibrium constant
+- **C.** the oxidized form of NAD
+- **D.** a reduced electron carrier
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+:::
+
+### Question 20 — Enzyme {#w08-mc20}
+
+An enzyme is best defined as:
+
+- **A.** a molecule that is always a lipid
+- **B.** a biological catalyst that increases reaction rate without being consumed
+- **C.** a molecule that changes the equilibrium constant
+- **D.** a molecule that makes an unfavorable reaction favorable
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+### Question 21 — Activation energy {#w08-mc21}
+
+Activation energy is:
+
+- **A.** the energy barrier that must be overcome to reach the transition state
+- **B.** the free-energy difference between products and reactants
+- **C.** another name for Vmax
+- **D.** always negative
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 22 — Transition state {#w08-mc22}
+
+The transition state is:
+
+- **A.** a high-energy, unstable configuration along the reaction pathway
+- **B.** the free enzyme after product release
+- **C.** the equilibrium mixture
+- **D.** the most stable form of the product
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 23 — What enzymes change {#w08-mc23}
+
+Which property is directly lowered by an enzyme?
+
+- **A.** final product energy only
+- **B.** equilibrium constant
+- **C.** $\Delta G$ of the reaction
+- **D.** activation-energy barrier
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+:::
+
+### Question 24 — What enzymes do not change {#w08-mc24}
+
+Adding an enzyme to a reversible reaction will:
+
+- **A.** make $\Delta G$ more negative
+- **B.** force all reactant to become product
+- **C.** increase the rates of approach to equilibrium without changing the equilibrium position
+- **D.** change the equilibrium constant
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 25 — Enzyme–substrate complex {#w08-mc25}
+
+When a substrate binds to an enzyme, it forms:
+
+- **A.** an equilibrium constant
+- **B.** an enzyme–substrate complex
+- **C.** a ribosome
+- **D.** a phospholipid bilayer
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 26 — Reaction velocity {#w08-mc26}
+
+Which is a valid unit for enzyme reaction velocity?
+
+- **A.** μmol/min
+- **B.** kJ/mol only
+- **C.** mM
+- **D.** no units
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
 
 Velocity is amount or concentration changed per unit time.
 :::
 
-### Question 27 — Vmax
+### Question 27 — Vmax {#w08-mc27}
 
 Vmax is approached when:
 
 - **A.** substrate concentration is so low that few active sites are occupied
-- **B.** enzyme active sites are occupied most of the time
-- **C.** $\Delta G=0$
-- **D.** NADH is completely absent
+- **B.** $\Delta G=0$
+- **C.** NADH is completely absent
+- **D.** enzyme active sites are occupied most of the time
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: D.**
 :::
 
-### Question 28 — Km definition
+### Question 28 — Km definition {#w08-mc28}
 
 For a Michaelis–Menten enzyme, Km is the substrate concentration at which:
 
-- **A.** $v=V_{max}$
-- **B.** $v=V_{max}/2$
-- **C.** $v=0$
+- **A.** $v=V_{max}/2$
+- **B.** $v=0$
+- **C.** $v=V_{max}$
 - **D.** the enzyme concentration doubles
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: A.**
 :::
 
-### Question 29 — Km units
+### Question 29 — Km units {#w08-mc29}
 
 Km has units of:
 
-- **A.** concentration
-- **B.** energy
+- **A.** energy
+- **B.** concentration
 - **C.** time only
 - **D.** velocity
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A.**
+**Correct answer: B.**
 
 Examples include M, mM, and μM.
 :::
 
-### Question 30 — Thermodynamics versus kinetics
+### Question 30 — Thermodynamics versus kinetics {#w08-mc30}
 
 A reaction has $\Delta G=-40$ kJ/mol but proceeds extremely slowly without an enzyme. The best explanation is:
 
-- **A.** The reaction is endergonic.
+- **A.** Its Vmax must be zero under all conditions.
 - **B.** The reaction is favorable but has a large activation-energy barrier.
 - **C.** The reaction must be at equilibrium.
-- **D.** Its Vmax must be zero under all conditions.
+- **D.** The reaction is endergonic.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
@@ -414,234 +419,308 @@ A reaction has $\Delta G=-40$ kJ/mol but proceeds extremely slowly without an en
 Thermodynamic favorability and reaction rate are different properties.
 :::
 
-# Part B — Integrated Multiple Choice
-
-### Question 31 — Coupling logic
+### Question 31 — Coupling logic {#w08-mc31}
 
 An unfavorable reaction with $\Delta G=+8$ kJ/mol is coupled to ATP hydrolysis with $\Delta G=-30$ kJ/mol. Which statement is correct?
 
-- **A.** The coupled process remains unfavorable because one step is positive.
-- **B.** The overall $\Delta G$ is approximately −22 kJ/mol.
-- **C.** ATP hydrolysis changes the equilibrium constant of the uncoupled reaction without participating in it.
-- **D.** The overall $\Delta G$ is +38 kJ/mol.
+- **A.** ATP hydrolysis changes the equilibrium constant of the uncoupled reaction without participating in it.
+- **B.** The overall $\Delta G$ is +38 kJ/mol.
+- **C.** The overall $\Delta G$ is approximately −22 kJ/mol.
+- **D.** The coupled process remains unfavorable because one step is positive.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: C.**
 :::
 
-### Question 32 — Pathway pull
+### Question 32 — Pathway pull {#w08-mc32}
 
 Suppose reaction 2 in a pathway has a slightly positive $\Delta G^{\circ\prime}$. It can nevertheless proceed forward in the cell if:
 
-- **A.** its product is rapidly consumed by reaction 3
-- **B.** its enzyme changes $\Delta G^{\circ\prime}$ to a negative value
-- **C.** equilibrium is reached immediately
-- **D.** NAD+ is never present
+- **A.** equilibrium is reached immediately
+- **B.** NAD+ is never present
+- **C.** its enzyme changes $\Delta G^{\circ\prime}$ to a negative value
+- **D.** its product is rapidly consumed by reaction 3
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A.**
+**Correct answer: D.**
 :::
 
-### Question 33 — Saturation
+### Question 33 — Saturation {#w08-mc33}
 
 An enzyme reaction is measured as substrate concentration rises. The rate increases at first and then levels off. The plateau most directly indicates:
 
 - **A.** enzyme saturation and approach to Vmax
-- **B.** $\Delta G$ has become positive
+- **B.** Km has units of velocity
 - **C.** all enzyme molecules have been destroyed
-- **D.** Km has units of velocity
+- **D.** $\Delta G$ has become positive
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
 :::
 
-### Question 34 — Km comparison
+### Question 34 — Km comparison {#w08-mc34}
 
 Enzyme X has Km = 0.2 mM and Enzyme Y has Km = 5 mM for the same substrate. Which statement is safest?
 
-- **A.** X reaches half-maximal velocity at a lower substrate concentration.
-- **B.** X always has a higher Vmax.
+- **A.** X always has a higher Vmax.
+- **B.** X reaches half-maximal velocity at a lower substrate concentration.
 - **C.** Y must be thermodynamically unfavorable.
 - **D.** X changes the equilibrium constant more strongly.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: A.**
+**Correct answer: B.**
 
 That conclusion follows directly from the operational definition of Km.
 :::
 
-### Question 35 — NAD redox state
+### Question 35 — NAD redox state {#w08-mc35}
 
 During oxidation of a fuel molecule, NAD+ becomes NADH. Which statement is correct?
 
-- **A.** NAD+ was oxidized and the fuel reduced.
-- **B.** NAD+ was reduced and the fuel oxidized.
-- **C.** both molecules were oxidized.
-- **D.** neither molecule participated in electron transfer.
+- **A.** both molecules were oxidized.
+- **B.** neither molecule participated in electron transfer.
+- **C.** NAD+ was oxidized and the fuel reduced.
+- **D.** NAD+ was reduced and the fuel oxidized.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Correct answer: B.**
+**Correct answer: D.**
 :::
 
-# Part C — Constructed Response by Learning Objective
+# Part B — Every Learning Objective
 
-### Question 36 — Catabolism
+Answer each prompt before opening its model answer. The source sheet supplies the objective; the task underneath makes the required components explicit.
 
-Define catabolism and give one reason it is important to cells.
+### Objective W08-01 — Catabolism {#w08-lo01}
+
+**Original objective:** What is catabolism
+
+Define catabolism and explain its connection to usable energy and smaller molecules.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Catabolism is the set of metabolic reactions that break larger molecules into smaller ones. These reactions often release free energy and generate smaller molecules that can be used in other pathways.
+Catabolism consists of reactions that break larger molecules into smaller ones. Fuel breakdown can release free energy, some of which is captured in activated carriers, and supplies smaller molecules for other pathways. It is not the same as building macromolecules.
+
+**Source:** Week 8 objectives, item 1; Lecture 8:1, 8:16; Alberts Ch. 3.
 :::
 
-### Question 37 — Anabolism
+### Objective W08-02 — Anabolism {#w08-lo02}
 
-Define anabolism and explain why anabolic pathways generally require an energy input.
+**Original objective:** What is anabolism
+
+Define anabolism and contrast it with catabolism.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Anabolism builds larger, more complex molecules from smaller precursors. Creating ordered macromolecular structures is generally energetically unfavorable, so cells couple anabolic reactions to favorable processes such as ATP hydrolysis or use activated carriers.
+Anabolism builds larger molecules from smaller precursors. These biosynthetic reactions generally require energy input, often supplied through activated carriers. Catabolism breaks molecules down; anabolism builds them up. The two are connected because breakdown supplies energy and building blocks for synthesis.
+
+**Source:** Week 8 objectives, item 2; Alberts Ch. 3.
 :::
 
-### Question 38 — Metabolomics
+### Objective W08-03 — Metabolomics {#w08-lo03}
 
-What is metabolomics, and why can the metabolome provide useful information about physiological state?
+**Original objective:** What is metabolomics
+
+Define metabolomics, identify what is measured, and explain why the time of sampling matters.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Metabolomics is the systematic identification and quantification of small-molecule metabolites in a biological sample. Because metabolite levels respond rapidly to diet, disease, drug treatment, and cellular activity, the metabolome provides a snapshot of current physiological state.
+Metabolomics is the systematic identification and quantification of small-molecule metabolic products in a biological system at a specified time. The metabolome can change with diet, cell activity or physiological state; it is a snapshot, not a DNA sequence or a list of proteins. The lecture gives dietary and disease biomarkers as applications.
+
+**Source:** Week 8 objectives, item 3; Lecture 8:2.
 :::
 
-### Question 39 — Gibbs free energy
+### Objective W08-04 — Gibbs free energy {#w08-lo04}
 
-What information does Gibbs free energy provide in cell biology?
+**Original objective:** What information does the Gibbs Free Energy (G) give us
+
+What information does G provide, and how does that differ from asking about a change in G?
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Gibbs free energy describes the portion of a system's energy that can be used to perform useful work under the relevant conditions.
+G expresses the energy capable of doing useful work under the stated conditions. The lecture uses it to quantify energy available for cellular work. G describes a state; the difference between product and reactant free energies, ΔG, describes the energetic change of a reaction.
+
+**Source:** Week 8 objectives, item 4; Lecture 8:7 (PDF p. 9).
 :::
 
-### Question 40 — ΔG
+### Objective W08-05 — Meaning of ΔG {#w08-lo05}
 
-What does the sign of $\Delta G$ tell you?
+**Original objective:** What information does the change in Gibbs Free Energy (ΔG) give us
+
+What do the sign and magnitude of ΔG tell you? Does ΔG alone specify reaction speed?
 
 ::: {.callout-tip collapse="true" title="Answer"}
-A negative $\Delta G$ means the process is thermodynamically favorable in the direction written; a positive value means it is unfavorable in that direction; zero means equilibrium and no net change.
+The sign indicates the favored direction under the stated conditions: negative favors the forward direction, positive favors the reverse direction, and zero means equilibrium. The magnitude gives the free-energy change per amount of reaction, commonly in kJ/mol. It does not specify speed; a favorable reaction may have a large activation barrier.
+
+**Source:** Week 8 objectives, item 5; Lecture 8:7–8:8.
 :::
 
-### Question 41 — ΔG versus ΔG°′
+### Objective W08-06 — Actual and standard conditions {#w08-lo06}
 
-Explain the difference between $\Delta G$ and $\Delta G^{\circ\prime}$.
+**Original objective:** What (in general) is the difference between ΔG and ΔG0′
+
+Distinguish ΔG from ΔG°′ and explain why their signs need not be identical.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-$\Delta G$ is the free-energy change under the actual cellular concentrations and conditions. $\Delta G^{\circ\prime}$ is the standard transformed free-energy change measured under defined biochemical standard conditions. A reaction can therefore have a positive $\Delta G^{\circ\prime}$ but a negative cellular $\Delta G$.
+ΔG describes the reaction under actual conditions, including the concentrations present in the cell. ΔG°′ refers to defined biochemical standard conditions. Actual substrate and product concentrations can make forward flux favorable even when the standard free-energy change is positive. An enzyme does not change ΔG°′.
+
+**Source:** Week 8 objectives, item 6; Lecture 8:7, 8:10.
 :::
 
-### Question 42 — Exergonic, endergonic, equilibrium
+### Objective W08-07 — Exergonic, endergonic and equilibrium {#w08-lo07}
 
-Define all three terms.
+**Original objective:** Define exergonic, endergonic and equilibrium
+
+Define all three terms, including the sign of ΔG and the meaning of no net change.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-**Exergonic:** $\Delta G<0$, favorable as written and releases free energy.  
-**Endergonic:** $\Delta G>0$, unfavorable as written and requires energy input or coupling to proceed.  
-**Equilibrium:** $\Delta G=0$, forward and reverse rates are equal and there is no net change.
+Exergonic: ΔG < 0, free energy is released and the direction written is favored. Endergonic: ΔG > 0, the direction written requires an energy input or appropriate coupling. Equilibrium: ΔG = 0, neither direction is favored overall; forward and reverse reactions continue at equal rates, so concentrations show no net change.
+
+**Source:** Week 8 objectives, item 7; Lecture 8:8.
 :::
 
-### Question 43 — Driving pathways forward
+### Objective W08-08 — Driving a pathway forward {#w08-lo08}
 
-Explain two ways a cell can drive a metabolic reaction in the forward direction.
+**Original objective:** Understand that coupling reactions and siphoning off product are two ways to move a metabolic reaction in the forward direction
+
+Explain BOTH coupling and product removal. Use +13.8 and −30.5 kJ/mol to calculate the standard free-energy change of the lecture's coupled example.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-First, the reaction can be **coupled** to a strongly favorable reaction such as ATP hydrolysis so the combined $\Delta G$ is negative. Second, the product can be **rapidly removed or consumed** by a subsequent reaction, lowering its concentration and pulling the reaction forward.
+For directly coupled reactions, add their free-energy changes: +13.8 + (−30.5) = **−16.7 kJ/mol**. The combined reaction is favorable; merely putting unrelated reactions in the same container is not coupling. Alternatively, rapid consumption of the product by the next step keeps its concentration low and favors continued forward conversion. This changes the actual ΔG, not the standard value. In the lecture, reaction 3 consumes fructose-6-phosphate made by reaction 2.
+
+**Source:** Week 8 objectives, item 8; Lecture 8:9–8:10.
 :::
 
-### Question 44 — Oxidation
+### Objective W08-09 — Oxidation {#w08-lo09}
 
-Define oxidation in terms of electrons.
+**Original objective:** What is oxidation
+
+Define oxidation using electron transfer and identify the oxidized partner when a fuel donates electrons to NAD+.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Oxidation is the loss of electrons. In organic molecules, it is often associated with fewer C–H bonds or more bonding to electronegative atoms such as oxygen.
+Oxidation is loss of electrons. The fuel is oxidized when it donates electrons; NAD+ is reduced when it accepts them. In the organic-molecule examples, losing C–H bonds or gaining bonds to oxygen generally corresponds to oxidation.
+
+**Source:** Week 8 objectives, item 9; Lecture 8:14–8:16.
 :::
 
-### Question 45 — Reduction
+### Objective W08-10 — Reduction {#w08-lo10}
 
-Define reduction in terms of electrons.
+**Original objective:** What is reduction
+
+Define reduction and explain why oxidation and reduction occur together.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Reduction is the gain of electrons. In organic molecules, it is often associated with an increase in C–H bonds.
+Reduction is gain of electrons. An electron donor is oxidized while an acceptor is reduced: the transferred electrons are not created or destroyed. Gaining C–H bonds generally corresponds to reduction in the organic-molecule examples. OIL RIG means Oxidation Is Loss, Reduction Is Gain.
+
+**Source:** Week 8 objectives, item 10; Lecture 8:14–8:16.
 :::
 
-### Question 46 — Enzyme
+### Objective W08-11 — Enzymes {#w08-lo11}
 
-What is an enzyme?
+**Original objective:** What is an enzyme
+
+Define an enzyme, including specificity and whether it is consumed.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-An enzyme is a biological catalyst, usually a protein, that increases the rate of a specific chemical reaction without being consumed by the reaction.
+An enzyme is a biomolecule, often a protein, that catalyzes a specific reaction. It binds substrate at an active site, assists conversion to product and is available for another cycle after product release. It is not consumed stoichiometrically with the substrate.
+
+**Source:** Week 8 objectives, item 11; Lecture 8:18.
 :::
 
-### Question 47 — Catalysis
+### Objective W08-12 — Catalysis {#w08-lo12}
 
-What does catalysis mean?
+**Original objective:** What is catalysis
+
+Define catalysis and distinguish its effect on rate from an effect on equilibrium.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Catalysis is acceleration of a chemical reaction by lowering the activation-energy barrier and providing a more favorable route to the transition state.
+Catalysis increases reaction rate by providing a route with a lower activation barrier. It does not change the overall free-energy difference between reactants and products or the equilibrium position. Enzymes accelerate approach to equilibrium rather than moving the equilibrium itself.
+
+**Source:** Week 8 objectives, item 12; Lecture 8:18, 8:22.
 :::
 
-### Question 48 — Substrate binding
+### Objective W08-13 — Substrate binding {#w08-lo13}
 
-Describe what happens when an enzyme binds its substrate.
+**Original objective:** What happens when an enzyme binds substrate(s)
+
+Describe substrate binding, induced fit, conversion and enzyme recycling.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-The substrate binds at the enzyme's active site through multiple noncovalent interactions, forming an enzyme–substrate complex. Binding can induce conformational changes that position catalytic groups and the substrate for reaction.
+Substrate forms an enzyme–substrate complex through interactions at the active site. Binding can change enzyme and substrate conformation, position catalytic groups and help bring the substrate toward the transition state. After conversion, products leave and the enzyme is restored for another cycle. The lecture's hexokinase example illustrates the conformational change on binding glucose.
+
+**Source:** Week 8 objectives, item 13; Lecture 8:19–8:21; Tutorial 5.
 :::
 
-### Question 49 — Transition state
+### Objective W08-14 — Transition state {#w08-lo14}
 
-What is the transition state?
+**Original objective:** What is the transition state
+
+Define the transition state and distinguish it from a stable substrate or product.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-The transition state is the short-lived, high-energy configuration through which reactants must pass on the way to products. It lies at the top of the activation-energy barrier.
+It is the short-lived, high-energy configuration along the route from substrate to product, at the top of the activation barrier. It is not the final product or an equilibrium mixture. Reaching it is required even for a reaction whose overall ΔG is negative.
+
+**Source:** Week 8 objectives, item 14; Lecture 8:22.
 :::
 
-### Question 50 — How enzymes accelerate reactions
+### Objective W08-15 — How enzymes accelerate reactions {#w08-lo15}
 
-Give three mechanisms by which an enzyme can lower activation energy.
+**Original objective:** How do enzymes accelerate reactions
+
+Explain how enzymes accelerate reactions and identify what stays unchanged on an energy diagram.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Any three: bringing substrates together in the correct orientation; straining or distorting bonds; creating a favorable electrostatic environment; donating or accepting protons; forming transient covalent intermediates; preferentially stabilizing the transition state.
+Binding and active-site interactions position substrates, facilitate bond rearrangements and stabilize the transition state relative to the uncatalyzed route. The activation barrier is lower. Reactant and product free energies—and therefore the overall ΔG and equilibrium position—remain unchanged. Favorability and speed are different questions.
+
+**Source:** Week 8 objectives, item 15; Lecture 8:21–8:22; Alberts Ch. 4.
 :::
 
-### Question 51 — Velocity
+### Objective W08-16 — Velocity {#w08-lo16}
 
-What does reaction velocity mean for an enzyme, and what kinds of units does it have?
+**Original objective:** What does rate/velocity refer to with respect to enzyme behaviour
+
+Define reaction velocity and give an example of a rate unit.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Velocity is the amount of substrate consumed or product formed per unit time. Its units therefore include time, for example μmol/min or mM/s.
+Velocity is substrate consumed or product formed per unit time under specified conditions. A suitable unit is μmol product/min or concentration/time such as mM/s. Concentration alone is not a velocity.
+
+**Source:** Week 8 objectives, item 16; Lecture 8:23–8:24.
 :::
 
-### Question 52 — Vmax
+### Objective W08-17 — Maximum velocity and units {#w08-lo17}
 
-Define Vmax and explain when it is approached.
+**Original objective:** What does maximum velocity refer to with respect to enzyme behaviour and what are the units of velocity (rate)
+
+Explain Vmax, saturation, dependence on the amount of enzyme and the required units.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-Vmax is the maximum reaction velocity for a given amount of enzyme under specified conditions. It is approached when substrate concentration is high enough that enzyme active sites are occupied most of the time.
+Vmax is the limiting maximum rate for the given amount of enzyme under specified conditions. At high substrate concentration, active sites are occupied most of the time and further substrate gives little additional rate increase. Vmax has rate units, such as μmol/min, not concentration units. It is not a universal number independent of how much active enzyme is present.
+
+**Source:** Week 8 objectives, item 17; Lecture 8:23–8:26.
 :::
 
-### Question 53 — Km
+### Objective W08-18 — Km and units {#w08-lo18}
 
-Define Km and give its units.
+**Original objective:** What is the definition of Km and what are the units of Km
+
+Define Km operationally and give its units. If Vmax is 60 μmol/min and v is 30 μmol/min at [S] = 3 mM, estimate Km.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-For a Michaelis–Menten enzyme, Km is the substrate concentration at which the reaction velocity equals one-half of Vmax. Its units are concentration units such as M, mM, or μM.
+Km is the substrate concentration at which v equals one-half Vmax for the Michaelis–Menten curve used here. Its units are concentration, such as mM. Half of 60 is 30 μmol/min, reached at 3 mM, so **Km = 3 mM**. Do not report Km in μmol/min or confuse it with the height of the plateau.
+
+**Source:** Week 8 objectives, item 18; Lecture 8:25–8:26.
 :::
 
-### Question 54 — NAD+ and NADH
+### Objective W08-19 — NAD+/NADH {#w08-lo19}
 
-Explain the complementary roles of NAD+ and NADH.
+**Original objective:** What is the role of NAD+ and NADH
+
+Explain both forms of the carrier and why they must be recycled.
 
 ::: {.callout-tip collapse="true" title="Answer"}
-NAD+ is the oxidized form and accepts electrons during oxidation reactions, becoming NADH. NADH is the reduced form and carries those high-energy electrons to later reactions, where it can be oxidized back to NAD+.
+NAD+ is the oxidized form and accepts reducing equivalents during substrate oxidation, becoming reduced NADH. NADH carries the electrons to later reactions and is oxidized back to NAD+. Regeneration of NAD+ permits further oxidation reactions. NADH is an electron carrier, not an enzyme, and is not interchangeable with ATP.
+
+**Source:** Week 8 objectives, item 19; Lecture 8:28; Tutorial 5.
 :::
 
-# Part D — Integrated Practice
+# Part C — Integrated Practice
 
-### Question 55 — Thermodynamics and enzymes
+### Integrated Question 1 — Thermodynamics and enzymes
 
 A reaction has $\Delta G=-25$ kJ/mol but almost no product appears over one hour unless an enzyme is added. Does the enzyme make the reaction thermodynamically favorable? Explain.
 
@@ -649,7 +728,7 @@ A reaction has $\Delta G=-25$ kJ/mol but almost no product appears over one hour
 No. The negative $\Delta G$ already means the reaction is thermodynamically favorable. The enzyme increases the rate by lowering activation energy; it does not make $\Delta G$ more negative or change the equilibrium constant.
 :::
 
-### Question 56 — Pathway reasoning
+### Integrated Question 2 — Pathway reasoning
 
 Reaction A converts X to Y with a positive $\Delta G^{\circ\prime}$. Reaction B rapidly consumes Y to form Z and has a strongly negative $\Delta G$. Explain why X can still flow toward Z in a cell.
 
@@ -657,7 +736,7 @@ Reaction A converts X to Y with a positive $\Delta G^{\circ\prime}$. Reaction B 
 Because Y is continually removed, its concentration remains low, which can make the actual $\Delta G$ for X → Y favorable. In addition, the overall sequence X → Y → Z can have a negative total free-energy change. Metabolic pathway direction depends on the coupled sequence and actual concentrations, not on one isolated standard free-energy value.
 :::
 
-### Question 57 — Reading an enzyme curve
+### Integrated Question 3 — Reading an enzyme curve
 
 An enzyme reaches 50 μmol/min at very high substrate concentration. At 2 mM substrate, the rate is 25 μmol/min. Estimate Vmax and Km.
 
@@ -665,7 +744,7 @@ An enzyme reaches 50 μmol/min at very high substrate concentration. At 2 mM sub
 Vmax is approximately **50 μmol/min**. Half of Vmax is 25 μmol/min, which occurs at 2 mM substrate, so **Km ≈ 2 mM**.
 :::
 
-### Question 58 — Redox integration
+### Integrated Question 4 — Redox integration
 
 A fuel molecule loses electrons to NAD+. Identify which molecule is oxidized, which is reduced, and what product is formed from NAD+.
 
@@ -673,7 +752,7 @@ A fuel molecule loses electrons to NAD+. Identify which molecule is oxidized, wh
 The fuel molecule is **oxidized** because it loses electrons. NAD+ is **reduced** because it gains electrons, producing **NADH**.
 :::
 
-### Question 59 — Final synthesis
+### Integrated Question 5 — Final synthesis
 
 In four or five sentences, distinguish **free-energy change**, **activation energy**, **Vmax**, and **Km**.
 

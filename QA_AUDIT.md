@@ -1,3 +1,5 @@
+> Historical audit: current counts and objective-level coverage are superseded by `OBJECTIVE_COVERAGE_AUDIT.md` and `assessment/coverage-map.csv`.
+
 # Part II content and structure audit
 
 ## Locked design

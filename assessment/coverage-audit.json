@@ -1,0 +1,884 @@
+{
+  "version": "objective-coverage-v2",
+  "source_objectives": 78,
+  "weekly_counts": {
+    "8": {
+      "mcq": 35,
+      "objective_questions": 19,
+      "integrated_extra": 5,
+      "answers": 59
+    },
+    "9": {
+      "mcq": 35,
+      "objective_questions": 20,
+      "integrated_extra": 4,
+      "answers": 59
+    },
+    "10": {
+      "mcq": 35,
+      "objective_questions": 9,
+      "integrated_extra": 5,
+      "answers": 49
+    },
+    "11": {
+      "mcq": 35,
+      "objective_questions": 16,
+      "integrated_extra": 4,
+      "answers": 55
+    },
+    "12": {
+      "mcq": 35,
+      "objective_questions": 14,
+      "integrated_extra": 5,
+      "answers": 54
+    }
+  },
+  "exam_counts": {
+    "mcq": 38,
+    "integrated_problems": 5,
+    "integrated_subparts": 25,
+    "marks": 100,
+    "minutes": 120,
+    "answer_callouts": 43,
+    "objectives_each": 78
+  },
+  "weekly_answer_letters": {
+    "8": {
+      "A": 9,
+      "C": 9,
+      "B": 9,
+      "D": 8
+    },
+    "9": {
+      "D": 8,
+      "B": 9,
+      "A": 9,
+      "C": 9
+    },
+    "10": {
+      "C": 9,
+      "D": 8,
+      "B": 9,
+      "A": 9
+    },
+    "11": {
+      "D": 8,
+      "C": 9,
+      "B": 9,
+      "A": 9
+    },
+    "12": {
+      "C": 9,
+      "D": 8,
+      "A": 9,
+      "B": 9
+    }
+  },
+  "exam_answer_letters": {
+    "1": {
+      "B": 10,
+      "A": 10,
+      "D": 9,
+      "C": 9
+    },
+    "2": {
+      "A": 10,
+      "C": 9,
+      "D": 9,
+      "B": 10
+    },
+    "3": {
+      "B": 10,
+      "A": 10,
+      "D": 9,
+      "C": 9
+    }
+  },
+  "objectives": [
+    {
+      "id": "W08-01",
+      "week": 8,
+      "objective": "What is catabolism",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo01",
+      "exam1": "Q32|q32",
+      "exam2": "Q11|q11",
+      "exam3": "Q37|q37",
+      "source": "Week 8 objectives, item 1; Lecture 8:1, 8:16; Alberts Ch. 3"
+    },
+    {
+      "id": "W08-02",
+      "week": 8,
+      "objective": "What is anabolism",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo02",
+      "exam1": "Q32|q32",
+      "exam2": "Q11|q11",
+      "exam3": "Q37|q37",
+      "source": "Week 8 objectives, item 2; Alberts Ch. 3"
+    },
+    {
+      "id": "W08-03",
+      "week": 8,
+      "objective": "What is metabolomics",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo03",
+      "exam1": "Q15|q15",
+      "exam2": "Q5|q05",
+      "exam3": "Q10|q10",
+      "source": "Week 8 objectives, item 3; Lecture 8:2"
+    },
+    {
+      "id": "W08-04",
+      "week": 8,
+      "objective": "What information does the Gibbs Free Energy (G) give us",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo04",
+      "exam1": "Q8|q08",
+      "exam2": "Q24|q24",
+      "exam3": "Q25|q25",
+      "source": "Week 8 objectives, item 4; Lecture 8:7 (PDF p. 9)"
+    },
+    {
+      "id": "W08-05",
+      "week": 8,
+      "objective": "What information does the change in Gibbs Free Energy (ΔG) give us",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo05",
+      "exam1": "Q18|q18",
+      "exam2": "Q38|q38",
+      "exam3": "Q13|q13",
+      "source": "Week 8 objectives, item 5; Lecture 8:7–8:8"
+    },
+    {
+      "id": "W08-06",
+      "week": 8,
+      "objective": "What (in general) is the difference between ΔG and ΔG0′",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo06",
+      "exam1": "Q37|q37",
+      "exam2": "Q18|q18",
+      "exam3": "Q20|q20",
+      "source": "Week 8 objectives, item 6; Lecture 8:7, 8:10"
+    },
+    {
+      "id": "W08-07",
+      "week": 8,
+      "objective": "Define exergonic, endergonic and equilibrium",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo07",
+      "exam1": "Q1|q01",
+      "exam2": "Q8|q08",
+      "exam3": "Q28|q28",
+      "source": "Week 8 objectives, item 7; Lecture 8:8"
+    },
+    {
+      "id": "W08-08",
+      "week": 8,
+      "objective": "Understand that coupling reactions and siphoning off product are two ways to move a metabolic reaction in the forward direction",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo08",
+      "exam1": "P1(b)|p1b",
+      "exam2": "P1(b)|p1b",
+      "exam3": "P1(b)|p1b",
+      "source": "Week 8 objectives, item 8; Lecture 8:9–8:10"
+    },
+    {
+      "id": "W08-09",
+      "week": 8,
+      "objective": "What is oxidation",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo09",
+      "exam1": "Q22|q22",
+      "exam2": "Q28|q28",
+      "exam3": "Q3|q03",
+      "source": "Week 8 objectives, item 9; Lecture 8:14–8:16"
+    },
+    {
+      "id": "W08-10",
+      "week": 8,
+      "objective": "What is reduction",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo10",
+      "exam1": "Q22|q22",
+      "exam2": "Q28|q28",
+      "exam3": "Q3|q03",
+      "source": "Week 8 objectives, item 10; Lecture 8:14–8:16"
+    },
+    {
+      "id": "W08-11",
+      "week": 8,
+      "objective": "What is an enzyme",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo11",
+      "exam1": "Q26|q26",
+      "exam2": "Q31|q31",
+      "exam3": "Q35|q35",
+      "source": "Week 8 objectives, item 11; Lecture 8:18"
+    },
+    {
+      "id": "W08-12",
+      "week": 8,
+      "objective": "What is catalysis",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo12",
+      "exam1": "Q26|q26",
+      "exam2": "Q31|q31",
+      "exam3": "Q35|q35",
+      "source": "Week 8 objectives, item 12; Lecture 8:18, 8:22"
+    },
+    {
+      "id": "W08-13",
+      "week": 8,
+      "objective": "What happens when an enzyme binds substrate(s)",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo13",
+      "exam1": "P1(a)|p1a",
+      "exam2": "P1(a)|p1a",
+      "exam3": "P1(a)|p1a",
+      "source": "Week 8 objectives, item 13; Lecture 8:19–8:21; Tutorial 5"
+    },
+    {
+      "id": "W08-14",
+      "week": 8,
+      "objective": "What is the transition state",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo14",
+      "exam1": "P1(c)|p1c",
+      "exam2": "P1(c)|p1c",
+      "exam3": "P1(c)|p1c",
+      "source": "Week 8 objectives, item 14; Lecture 8:22"
+    },
+    {
+      "id": "W08-15",
+      "week": 8,
+      "objective": "How do enzymes accelerate reactions",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo15",
+      "exam1": "P1(c)|p1c",
+      "exam2": "P1(c)|p1c",
+      "exam3": "P1(c)|p1c",
+      "source": "Week 8 objectives, item 15; Lecture 8:21–8:22; Alberts Ch. 4"
+    },
+    {
+      "id": "W08-16",
+      "week": 8,
+      "objective": "What does rate/velocity refer to with respect to enzyme behaviour",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo16",
+      "exam1": "P3(a)|p3a",
+      "exam2": "P3(a)|p3a",
+      "exam3": "P3(a)|p3a",
+      "source": "Week 8 objectives, item 16; Lecture 8:23–8:24"
+    },
+    {
+      "id": "W08-17",
+      "week": 8,
+      "objective": "What does maximum velocity refer to with respect to enzyme behaviour and what are the units of velocity (rate)",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo17",
+      "exam1": "P3(a)|p3a",
+      "exam2": "P3(a)|p3a",
+      "exam3": "P3(a)|p3a",
+      "source": "Week 8 objectives, item 17; Lecture 8:23–8:26"
+    },
+    {
+      "id": "W08-18",
+      "week": 8,
+      "objective": "What is the definition of Km and what are the units of Km",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo18",
+      "exam1": "P3(b)|p3b",
+      "exam2": "P3(b)|p3b",
+      "exam3": "P3(b)|p3b",
+      "source": "Week 8 objectives, item 18; Lecture 8:25–8:26"
+    },
+    {
+      "id": "W08-19",
+      "week": 8,
+      "objective": "What is the role of NAD+ and NADH",
+      "weekly": "practice/week08-bioenergetics-enzymes.qmd#w08-lo19",
+      "exam1": "P2(d)|p2d",
+      "exam2": "P2(d)|p2d",
+      "exam3": "P2(d)|p2d",
+      "source": "Week 8 objectives, item 19; Lecture 8:28; Tutorial 5"
+    },
+    {
+      "id": "W09-01",
+      "week": 9,
+      "objective": "What are the three nutritional polysaccharides and what distinguishes them",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo01",
+      "exam1": "Q29|q29",
+      "exam2": "Q21|q21",
+      "exam3": "Q12|q12",
+      "source": "Week 9 objectives, item 1; Lecture 9:4"
+    },
+    {
+      "id": "W09-02",
+      "week": 9,
+      "objective": "What type of covalent bonds link glucose monomers",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo02",
+      "exam1": "Q29|q29",
+      "exam2": "Q21|q21",
+      "exam3": "Q12|q12",
+      "source": "Week 9 objectives, item 2; Lecture 9:4"
+    },
+    {
+      "id": "W09-03",
+      "week": 9,
+      "objective": "What is the net result (in terms of ATP, NADH and pyruvate) produced in glycolysis",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo03",
+      "exam1": "Q7|q07",
+      "exam2": "Q36|q36",
+      "exam3": "Q8|q08",
+      "source": "Week 9 objectives, item 3; Lecture 9:6, 9:18–9:20; Tutorial 6"
+    },
+    {
+      "id": "W09-04",
+      "week": 9,
+      "objective": "What three stages can glycolysis be broken into",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo04",
+      "exam1": "Q17|q17",
+      "exam2": "Q9|q09",
+      "exam3": "Q31|q31",
+      "source": "Week 9 objectives, item 4; Lecture 9:6–9:13"
+    },
+    {
+      "id": "W09-05",
+      "week": 9,
+      "objective": "Understand step 1 in glycolysis and know the names of substrate enzyme and product",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo05",
+      "exam1": "Q12|q12",
+      "exam2": "Q33|q33",
+      "exam3": "Q24|q24",
+      "source": "Week 9 objectives, item 5; Lecture 9:8–9:9"
+    },
+    {
+      "id": "W09-06",
+      "week": 9,
+      "objective": "Be able to explain why glucose is not phosphorylated immediately in the liver and when it is phosphorylated",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo06",
+      "exam1": "P1(a)|p1a",
+      "exam2": "P1(a)|p1a",
+      "exam3": "P1(a)|p1a",
+      "source": "Week 9 objectives, item 6; Lecture 9:9"
+    },
+    {
+      "id": "W09-07",
+      "week": 9,
+      "objective": "Understand why an isomerization took place in reaction 2",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo07",
+      "exam1": "Q38|q38",
+      "exam2": "Q20|q20",
+      "exam3": "Q17|q17",
+      "source": "Week 9 objectives, item 7; Lecture 9:11"
+    },
+    {
+      "id": "W09-08",
+      "week": 9,
+      "objective": "Know what took place in reaction 3",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo08",
+      "exam1": "Q33|q33",
+      "exam2": "Q14|q14",
+      "exam3": "Q30|q30",
+      "source": "Week 9 objectives, item 8; Lecture 9:12"
+    },
+    {
+      "id": "W09-09",
+      "week": 9,
+      "objective": "Know that in reactions 4,5 the end result is 2 molecules of glyceraldyhyde 3-phosphate",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo09",
+      "exam1": "Q2|q02",
+      "exam2": "Q27|q27",
+      "exam3": "Q5|q05",
+      "source": "Week 9 objectives, item 9; Lecture 9:13"
+    },
+    {
+      "id": "W09-10",
+      "week": 9,
+      "objective": "What are the three important metabolic consequences for reaction 6",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo10",
+      "exam1": "P1(d)|p1d",
+      "exam2": "P1(d)|p1d",
+      "exam3": "P1(d)|p1d",
+      "source": "Week 9 objectives, item 10; Lecture 9:14–9:17; Tutorial 6"
+    },
+    {
+      "id": "W09-11",
+      "week": 9,
+      "objective": "Why is the net generation of ATP zero after reaction 7",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo11",
+      "exam1": "P1(e)|p1e",
+      "exam2": "P1(e)|p1e",
+      "exam3": "P1(e)|p1e",
+      "source": "Week 9 objectives, item 11; Lecture 9:18"
+    },
+    {
+      "id": "W09-12",
+      "week": 9,
+      "objective": "How, in simple terms, does glycolysis end up with a Net synthesis of 2 ATP",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo12",
+      "exam1": "P1(e)|p1e",
+      "exam2": "P1(e)|p1e",
+      "exam3": "P1(e)|p1e",
+      "source": "Week 9 objectives, item 12; Lecture 9:18–9:20"
+    },
+    {
+      "id": "W09-13",
+      "week": 9,
+      "objective": "What are the three metabolic fates of pyruvate",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo13",
+      "exam1": "Q24|q24",
+      "exam2": "Q4|q04",
+      "exam3": "Q36|q36",
+      "source": "Week 9 objectives, item 13; Lecture 9, pyruvate-fates figure; Alberts Ch. 13"
+    },
+    {
+      "id": "W09-14",
+      "week": 9,
+      "objective": "Under aerobic conditions what happens to pyruvate",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo14",
+      "exam1": "P2(b)|p2b",
+      "exam2": "P2(b)|p2b",
+      "exam3": "P2(b)|p2b",
+      "source": "Week 9 objectives, item 14; Lecture 9:21–9:22"
+    },
+    {
+      "id": "W09-15",
+      "week": 9,
+      "objective": "What is the role of the pyruvate dehydrogenase complex and what products and how many are produced (CO2, NADH)",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo15",
+      "exam1": "P2(b)|p2b",
+      "exam2": "P2(b)|p2b",
+      "exam3": "P2(b)|p2b",
+      "source": "Week 9 objectives, item 15; Lecture 9:21–9:23"
+    },
+    {
+      "id": "W09-16",
+      "week": 9,
+      "objective": "What is the role of acetyl-CoA in the CAC",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo16",
+      "exam1": "P2(b)|p2b",
+      "exam2": "P2(b)|p2b",
+      "exam3": "P2(b)|p2b",
+      "source": "Week 9 objectives, item 16; Lecture 9:23–9:25; Alberts Ch. 13"
+    },
+    {
+      "id": "W09-17",
+      "week": 9,
+      "objective": "What products are produced in one turn of the CAC and how many are produced (NADH, CO2, GTP) and what is the overall stoichiometry from glycolysis to CAC",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo17",
+      "exam1": "P2(c)|p2c",
+      "exam2": "P2(c)|p2c",
+      "exam3": "P2(c)|p2c",
+      "source": "Week 9 objectives, item 17; Lecture 9:25–9:26; Tutorial 6, PDF pp. 4–5"
+    },
+    {
+      "id": "W09-18",
+      "week": 9,
+      "objective": "What is an anapleurotic reaction with respect to the CAC",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo18",
+      "exam1": "P2(e)|p2e",
+      "exam2": "P2(e)|p2e",
+      "exam3": "P2(e)|p2e",
+      "source": "Week 9 objectives, item 18; Lecture 9, anaplerotic-reaction discussion"
+    },
+    {
+      "id": "W09-19",
+      "week": 9,
+      "objective": "Under what conditions is pyruvate converted to lactate and why?",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo19",
+      "exam1": "P2(d)|p2d",
+      "exam2": "P2(d)|p2d",
+      "exam3": "P2(d)|p2d",
+      "source": "Week 9 objectives, item 19; Lecture 9, anaerobic glycolysis; Tutorial 6"
+    },
+    {
+      "id": "W09-20",
+      "week": 9,
+      "objective": "What is the Cori Cycle?",
+      "weekly": "practice/week09-glycolysis-cac.qmd#w09-lo20",
+      "exam1": "P2(f)|p2f",
+      "exam2": "P2(f)|p2f",
+      "exam3": "P2(f)|p2f",
+      "source": "Week 9 objectives, item 20; Lecture 9, Cori cycle; Tutorial 6, PDF p. 8"
+    },
+    {
+      "id": "W10-01",
+      "week": 10,
+      "objective": "Be clear on mitochondrial structure",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo01",
+      "exam1": "P2(a)|p2a",
+      "exam2": "P2(a)|p2a",
+      "exam3": "P2(a)|p2a",
+      "source": "Week 10 objectives, item 1; Lecture 10:4–10:6; Alberts Ch. 14"
+    },
+    {
+      "id": "W10-02",
+      "week": 10,
+      "objective": "Be clear on how many electrons NADH and FADH2 carry and understand the importance of FADH2 being able to donate and accept either 1 or 2 electrons at a time",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo02",
+      "exam1": "Q34|q34",
+      "exam2": "Q7|q07",
+      "exam3": "Q19|q19",
+      "source": "Week 10 objectives, item 2; Lecture 10:7; Tutorial 6"
+    },
+    {
+      "id": "W10-03",
+      "week": 10,
+      "objective": "Be clear that cytochromes carry 1 electron at a time",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo03",
+      "exam1": "Q28|q28",
+      "exam2": "Q30|q30",
+      "exam3": "Q14|q14",
+      "source": "Week 10 objectives, item 3; Lecture 10:8"
+    },
+    {
+      "id": "W10-04",
+      "week": 10,
+      "objective": "Be clear that the potential energy conserved as electrons are moving down the electron transport chain is used to pump protons",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo04",
+      "exam1": "Q3|q03",
+      "exam2": "Q13|q13",
+      "exam3": "Q26|q26",
+      "source": "Week 10 objectives, item 4; Lecture 10:9–10:16"
+    },
+    {
+      "id": "W10-05",
+      "week": 10,
+      "objective": "What is the proton motive force",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo05",
+      "exam1": "Q16|q16",
+      "exam2": "Q32|q32",
+      "exam3": "Q32|q32",
+      "source": "Week 10 objectives, item 5; Lecture 10:14"
+    },
+    {
+      "id": "W10-06",
+      "week": 10,
+      "objective": "Which components of the Electron Transport Chain pump protons and what is the directionality",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo06",
+      "exam1": "Q11|q11",
+      "exam2": "Q17|q17",
+      "exam3": "Q4|q04",
+      "source": "Week 10 objectives, item 6; Lecture 10:14–10:18"
+    },
+    {
+      "id": "W10-07",
+      "week": 10,
+      "objective": "What are the substrate for ATP synthesis and how do they get into the matrix",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo07",
+      "exam1": "P3(c)|p3c",
+      "exam2": "P3(c)|p3c",
+      "exam3": "P3(c)|p3c",
+      "source": "Week 10 objectives, item 7; Lecture 10:20; Alberts Ch. 14"
+    },
+    {
+      "id": "W10-08",
+      "week": 10,
+      "objective": "What happens in each of the three conformations of the alpha-beta dimers of ATP synthase",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo08",
+      "exam1": "Q23|q23",
+      "exam2": "Q3|q03",
+      "exam3": "Q23|q23",
+      "source": "Week 10 objectives, item 8; Lecture 10:21–10:24; Tutorial 6"
+    },
+    {
+      "id": "W10-09",
+      "week": 10,
+      "objective": "What is thermogenin",
+      "weekly": "practice/week10-etc-oxidative-phosphorylation.qmd#w10-lo09",
+      "exam1": "Q6|q06",
+      "exam2": "Q22|q22",
+      "exam3": "Q6|q06",
+      "source": "Week 10 objectives, item 9; Lecture 10, thermogenin slides; Tutorial 6"
+    },
+    {
+      "id": "W11-01",
+      "week": 11,
+      "objective": "What is the fundamental difference between white, beige and brown adipose tissue",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo01",
+      "exam1": "P3(d)|p3d",
+      "exam2": "P3(d)|p3d",
+      "exam3": "P3(d)|p3d",
+      "source": "Week 11 objectives, item 1; Lecture 11:2; Tutorial 6"
+    },
+    {
+      "id": "W11-02",
+      "week": 11,
+      "objective": "What are the essential fatty acids and why are they considered essential",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo02",
+      "exam1": "Q5|q05",
+      "exam2": "Q2|q02",
+      "exam3": "Q34|q34",
+      "source": "Week 11 objectives, item 2; Lecture 11:4"
+    },
+    {
+      "id": "W11-03",
+      "week": 11,
+      "objective": "How are omega-3 and omega-6 fatty acids defined",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo03",
+      "exam1": "Q13|q13",
+      "exam2": "Q12|q12",
+      "exam3": "Q11|q11",
+      "source": "Week 11 objectives, item 3; Lecture 11:4; Tutorial 6"
+    },
+    {
+      "id": "W11-04",
+      "week": 11,
+      "objective": "What are eicosanoids",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo04",
+      "exam1": "Q30|q30",
+      "exam2": "Q10|q10",
+      "exam3": "Q7|q07",
+      "source": "Week 11 objectives, item 4; Lecture 11:5"
+    },
+    {
+      "id": "W11-05",
+      "week": 11,
+      "objective": "What are the 4 stages in the synthesis of the specific eicosanoids (prostaglandins and TxA2) we looked at",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo05",
+      "exam1": "P4(a)|p4a",
+      "exam2": "P4(a)|p4a",
+      "exam3": "P4(a)|p4a",
+      "source": "Week 11 objectives, item 5; Lecture 11:6–11:8; Tutorial 6"
+    },
+    {
+      "id": "W11-06",
+      "week": 11,
+      "objective": "What is the precursor molecule in the synthesis of the specific eicosanaoids (prostaglandins and TxA2) we looked at",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo06",
+      "exam1": "Q25|q25",
+      "exam2": "Q16|q16",
+      "exam3": "Q21|q21",
+      "source": "Week 11 objectives, item 6; Lecture 11:5–11:7"
+    },
+    {
+      "id": "W11-07",
+      "week": 11,
+      "objective": "What are the two isoforms of PGHS called",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo07",
+      "exam1": "Q10|q10",
+      "exam2": "Q29|q29",
+      "exam3": "Q18|q18",
+      "source": "Week 11 objectives, item 7; Lecture 11:8–11:9"
+    },
+    {
+      "id": "W11-08",
+      "week": 11,
+      "objective": "What are the fundamental characteristics of these two isoforms",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo08",
+      "exam1": "Q35|q35",
+      "exam2": "Q25|q25",
+      "exam3": "Q1|q01",
+      "source": "Week 11 objectives, item 8; Lecture 11:8–11:9"
+    },
+    {
+      "id": "W11-09",
+      "week": 11,
+      "objective": "Understand that NSAIDs bind to the active site of both isoforms of PGHS",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo09",
+      "exam1": "P4(b)|p4b",
+      "exam2": "P4(b)|p4b",
+      "exam3": "P4(b)|p4b",
+      "source": "Week 11 objectives, item 9; Lecture 11:12–11:15"
+    },
+    {
+      "id": "W11-10",
+      "week": 11,
+      "objective": "Know that aspirin binds covalently to the enzyme (PGHS) active site",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo10",
+      "exam1": "P4(b)|p4b",
+      "exam2": "P4(b)|p4b",
+      "exam3": "P4(b)|p4b",
+      "source": "Week 11 objectives, item 10; Lecture 11:13–11:14"
+    },
+    {
+      "id": "W11-11",
+      "week": 11,
+      "objective": "Explain how low doses of aspirin are prescribed to prevent heart attack and stroke and why other NSAIDS cannot be used instead",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo11",
+      "exam1": "P4(c)|p4c",
+      "exam2": "P4(c)|p4c",
+      "exam3": "P4(c)|p4c",
+      "source": "Week 11 objectives, item 11; Lecture 11:13–11:17; Tutorial 6"
+    },
+    {
+      "id": "W11-12",
+      "week": 11,
+      "objective": "Understand why a COX2 selective inhibitor is useful",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo12",
+      "exam1": "P4(d)|p4d",
+      "exam2": "P4(d)|p4d",
+      "exam3": "P4(d)|p4d",
+      "source": "Week 11 objectives, item 12; Lecture 11:15–11:16"
+    },
+    {
+      "id": "W11-13",
+      "week": 11,
+      "objective": "Understand why acetaminophen is not an NSAID and why it will not reduce swelling at a site of injury",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo13",
+      "exam1": "P4(d)|p4d",
+      "exam2": "P4(d)|p4d",
+      "exam3": "P4(d)|p4d",
+      "source": "Week 11 objectives, item 13; Lecture 11:13, 11:18"
+    },
+    {
+      "id": "W11-14",
+      "week": 11,
+      "objective": "What is bioavailablilty of a drug",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo14",
+      "exam1": "P4(e)|p4e",
+      "exam2": "P4(e)|p4e",
+      "exam3": "P4(e)|p4e",
+      "source": "Week 11 objectives, item 14; Lecture 11:19–11:21; Tutorial 7"
+    },
+    {
+      "id": "W11-15",
+      "week": 11,
+      "objective": "How do you calculate a therapeutic index of a drug",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo15",
+      "exam1": "P4(f)|p4f",
+      "exam2": "P4(f)|p4f",
+      "exam3": "P4(f)|p4f",
+      "source": "Week 11 objectives, item 15; Lecture 11, PDF p. 23; Tutorial 7, PDF p. 4"
+    },
+    {
+      "id": "W11-16",
+      "week": 11,
+      "objective": "What is an agonist and an antagonist",
+      "weekly": "practice/week11-lipids-eicosanoids-drugs.qmd#w11-lo16",
+      "exam1": "Q19|q19",
+      "exam2": "Q35|q35",
+      "exam3": "Q27|q27",
+      "source": "Week 11 objectives, item 16; Lecture 11, agonist/antagonist slides; Tutorial 7"
+    },
+    {
+      "id": "W12-01",
+      "week": 12,
+      "objective": "Know the four types of intracellular signalling",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo01",
+      "exam1": "Q9|q09",
+      "exam2": "Q26|q26",
+      "exam3": "Q38|q38",
+      "source": "Week 12 objectives, item 1; Lecture 12:3; Tutorial 7"
+    },
+    {
+      "id": "W12-02",
+      "week": 12,
+      "objective": "What are the three main classes of cell surface receptors",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo02",
+      "exam1": "Q14|q14",
+      "exam2": "Q1|q01",
+      "exam3": "Q2|q02",
+      "source": "Week 12 objectives, item 2; Lecture 12:5; Tutorial 7"
+    },
+    {
+      "id": "W12-03",
+      "week": 12,
+      "objective": "Understand how phosphorylation impacts proteins in a signallling pathway and be very clear that proteins can be turned on OR off by phosphorylation",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo03",
+      "exam1": "Q31|q31",
+      "exam2": "Q23|q23",
+      "exam3": "Q15|q15",
+      "source": "Week 12 objectives, item 3; Lecture 12:9"
+    },
+    {
+      "id": "W12-04",
+      "week": 12,
+      "objective": "Know the roles of a kinase and a phosphatase",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo04",
+      "exam1": "Q20|q20",
+      "exam2": "Q37|q37",
+      "exam3": "Q33|q33",
+      "source": "Week 12 objectives, item 4; Lecture 12:9"
+    },
+    {
+      "id": "W12-05",
+      "week": 12,
+      "objective": "Know the 2 main classes of GTP binding proteins",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo05",
+      "exam1": "Q21|q21",
+      "exam2": "Q15|q15",
+      "exam3": "Q9|q09",
+      "source": "Week 12 objectives, item 5; Lecture 12:10–12:12; Tutorial 7"
+    },
+    {
+      "id": "W12-06",
+      "week": 12,
+      "objective": "Understand what these two classes share in common",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo06",
+      "exam1": "Q21|q21",
+      "exam2": "Q15|q15",
+      "exam3": "Q9|q09",
+      "source": "Week 12 objectives, item 6; Lecture 12:10–12:11"
+    },
+    {
+      "id": "W12-07",
+      "week": 12,
+      "objective": "Understand (in simple terms) their primary differences",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo07",
+      "exam1": "Q21|q21",
+      "exam2": "Q15|q15",
+      "exam3": "Q9|q09",
+      "source": "Week 12 objectives, item 7; Lecture 12:11"
+    },
+    {
+      "id": "W12-08",
+      "week": 12,
+      "objective": "Understand how a GPCR is activated and how the G protein itself is activated",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo08",
+      "exam1": "Q27|q27",
+      "exam2": "Q34|q34",
+      "exam3": "Q16|q16",
+      "source": "Week 12 objectives, item 8; Lecture 12:12–12:13; Alberts Ch. 16"
+    },
+    {
+      "id": "W12-09",
+      "week": 12,
+      "objective": "What is a receptor tyrosine kinase",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo09",
+      "exam1": "Q4|q04",
+      "exam2": "Q19|q19",
+      "exam3": "Q29|q29",
+      "source": "Week 12 objectives, item 9; Lecture 12:14–12:15"
+    },
+    {
+      "id": "W12-10",
+      "week": 12,
+      "objective": "How is an RTK activated",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo10",
+      "exam1": "P5(a)|p5a",
+      "exam2": "P5(a)|p5a",
+      "exam3": "P5(a)|p5a",
+      "source": "Week 12 objectives, item 10; Lecture 12:15–12:16"
+    },
+    {
+      "id": "W12-11",
+      "week": 12,
+      "objective": "What is the function of the phosphorylated tyrosine residues on an RTK",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo11",
+      "exam1": "Q36|q36",
+      "exam2": "Q6|q06",
+      "exam3": "Q22|q22",
+      "source": "Week 12 objectives, item 11; Lecture 12:16, 12:20"
+    },
+    {
+      "id": "W12-12",
+      "week": 12,
+      "objective": "Understand the whole ON/OFF response of a GTPase",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo12",
+      "exam1": "P5(c)|p5c",
+      "exam2": "P5(c)|p5c",
+      "exam3": "P5(c)|p5c",
+      "source": "Week 12 objectives, item 12; Lecture 12:10, 12:17; Tutorial 7"
+    },
+    {
+      "id": "W12-13",
+      "week": 12,
+      "objective": "What is a GEF and what is the GEF for Ras",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo13",
+      "exam1": "P5(b)|p5b",
+      "exam2": "P5(b)|p5b",
+      "exam3": "P5(b)|p5b",
+      "source": "Week 12 objectives, item 13; Lecture 12:17, 12:20; Tutorial 7"
+    },
+    {
+      "id": "W12-14",
+      "week": 12,
+      "objective": "Be able to describe the Ras-MAP pathway beginning with an activated RTK to the phosphorylation and role of MAP kinase",
+      "weekly": "practice/week12-cell-signaling-part1.qmd#w12-lo14",
+      "exam1": "P5(d)|p5d",
+      "exam2": "P5(d)|p5d",
+      "exam3": "P5(d)|p5d",
+      "source": "Week 12 objectives, item 14; Lecture 12:20–12:22; Tutorial 7, PDF p. 15"
+    }
+  ],
+  "retired_raster_images": [
+    "w11-lecture-eicosanoids.jpg",
+    "w12-tutorial-rasmap.jpg"
+  ],
+  "limits": "Coverage IDs/anchors/counts are machine checked. Source alignment and answer completeness were editorially reviewed. Timing has not been student-piloted."
+}

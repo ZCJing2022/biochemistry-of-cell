@@ -1,3 +1,5 @@
+> Current update: the low-resolution Week 11 and Week 12 raster source slides have been retired. The three sharp textbook source-vector figures remain. See `OBJECTIVE_COVERAGE_AUDIT.md`.
+
 # Original Source-Figure Layer Audit — Sharp, Compact V2
 
 ## Purpose

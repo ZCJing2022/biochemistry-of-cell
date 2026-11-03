@@ -139,3 +139,7 @@ Future revisions should preserve this grammar unless there is a specific pedagog
 **roadmap/summary SVG → course adaptation where useful → original source figure where it adds unique teaching value.**
 
 New visuals should replace weaker or redundant ones rather than simply accumulating indefinitely.
+
+## Image-quality gate — objective-coverage revision
+
+Do not retain an original source image merely for provenance if its labels are unreadable at a useful display size. Use a verified sharp source extraction, or remove the low-resolution copy while retaining the explanatory diagram. Do not treat upscaling or a larger saved pixel count as recovered detail. Keep inline originals compact and provide enlargement links for retained vector detail.
