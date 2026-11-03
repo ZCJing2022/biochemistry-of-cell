@@ -1,0 +1,305 @@
+---
+title: "Week 12 — Cell Signaling, Part I"
+subtitle: "Intercellular signaling, molecular switches, GPCRs, RTKs, Ras, and the MAP kinase cascade"
+---
+
+## How to use this guide
+
+The Week 12 lecture defines scope. Alberts Chapter 16 provides the detailed cell-signaling framework. Tutorial 7 reinforces the same exam targets.
+
+The main chain is:
+
+**signal → receptor → intracellular switch → relay/amplification → cellular response → signal termination**
+
+## 1. General signaling sequence
+
+A simplified signaling sequence is:
+
+1. synthesis of a signaling molecule;
+2. release of the signal;
+3. transport to a target cell;
+4. ligand binding to a receptor;
+5. receptor conformational change;
+6. activation of intracellular signaling pathways;
+7. cellular response;
+8. receptor/signaling deactivation and ligand removal.
+
+Possible responses include changes in:
+
+- metabolism;
+- gene expression;
+- secretion;
+- movement;
+- cell shape.
+
+## 2. Four types of intercellular signaling
+
+### Endocrine
+
+Signal molecules enter the bloodstream and can travel long distances.
+
+Only cells with the appropriate receptor respond.
+
+### Paracrine
+
+Signals diffuse over relatively short distances through extracellular fluid.
+
+Local inflammatory mediators are a common example.
+
+### Neuronal
+
+An electrical signal travels along an axon; chemical signaling usually occurs at the target.
+
+### Contact-dependent / juxtacrine
+
+The signaling molecule remains associated with one cell and must contact a receptor on another cell.
+
+This requires physical contact.
+
+## 3. Receptor location
+
+Most hydrophilic signaling molecules cannot cross the lipid bilayer and therefore bind **cell-surface receptors**.
+
+Small hydrophobic signaling molecules can cross the membrane and bind intracellular receptors in the cytoplasm or nucleus.
+
+## 4. Three main classes of cell-surface receptors
+
+The lecture identifies:
+
+1. **G-protein-coupled receptors (GPCRs)**
+2. **enzyme-linked receptors**
+3. **ion-channel-linked receptors**
+
+Week 12 introduces GPCRs but focuses more heavily on enzyme-linked receptors, especially receptor tyrosine kinases, and on GTPases such as Ras.
+
+## 5. Signals can produce different responses
+
+A cell experiences many signals at once.
+
+The outcome depends on:
+
+- which receptors are present;
+- which intracellular proteins are present;
+- combinations of simultaneous signals;
+- how pathways interact.
+
+The same extracellular signal does not necessarily cause the same response in every cell type.
+
+## 6. Fast and slow responses
+
+Signals can generate rapid responses such as:
+
+- altered metabolism;
+- secretion;
+- movement.
+
+Responses requiring changes in gene expression and synthesis of new proteins are generally slower.
+
+## 7. Phosphorylation as a molecular switch
+
+Protein kinases add phosphate groups, commonly to:
+
+- serine;
+- threonine;
+- tyrosine.
+
+Protein phosphatases remove phosphate groups.
+
+Phosphorylation changes charge and often protein conformation.
+
+A crucial exam point:
+
+> Phosphorylation can turn a protein **on or off**.
+
+It is not inherently activating.
+
+## 8. Two major classes of GTP-binding switches
+
+The lecture compares:
+
+- heterotrimeric G proteins associated with GPCR signaling;
+- monomeric GTPases such as **Ras**.
+
+They share a basic switch mechanism:
+
+- **GTP-bound = ON**
+- **GDP-bound = OFF**
+
+The GTP-binding protein can hydrolyze bound GTP to GDP, turning itself off.
+
+To reactivate it, GDP must be exchanged for GTP.
+
+## 9. Heterotrimeric G proteins versus monomeric GTPases
+
+### GPCR-associated G protein
+
+A GPCR spans the membrane seven times.
+
+On the cytosolic side it interacts with a **heterotrimeric G protein** made of three subunits.
+
+One subunit binds GDP/GTP and behaves as the switch.
+
+### Monomeric GTPase
+
+A monomeric GTPase such as Ras is a separate small protein within an intracellular signaling cascade.
+
+The basic GDP/GTP logic is similar, but the organization is different.
+
+## 10. GPCR activation
+
+Ligand binding changes the conformation of the GPCR.
+
+The activated receptor interacts with the heterotrimeric G protein.
+
+This promotes activation of the G protein, including replacement of GDP by GTP on the GTP-binding subunit.
+
+The activated G protein then dissociates/rearranges and interacts with downstream effector proteins.
+
+The lecture does not pursue GPCR mechanisms in greater detail after this overview.
+
+## 11. Enzyme-linked receptors
+
+Enzyme-linked receptors are transmembrane receptors whose cytosolic portion:
+
+- either has intrinsic enzymatic activity;
+- or directly associates with an enzyme.
+
+The major example in this course is the **receptor tyrosine kinase (RTK)**.
+
+## 12. What is an RTK?
+
+An RTK is a receptor whose cytosolic domain has **tyrosine kinase activity**.
+
+It is not a receptor whose ligand is a tyrosine kinase.
+
+Typical features:
+
+- extracellular ligand-binding domain;
+- single transmembrane helix;
+- cytosolic tyrosine-kinase domain;
+- cytosolic tyrosine residues that can become phosphorylated.
+
+## 13. RTK activation
+
+Ligand binding commonly promotes receptor dimerization or a related rearrangement.
+
+The kinase domain of one receptor phosphorylates tyrosines on the other receptor, and vice versa.
+
+This is **trans-autophosphorylation**.
+
+## 14. Why phosphorylated tyrosines matter
+
+The phosphorylated tyrosine residues become docking sites for intracellular signaling proteins.
+
+Thus phosphorylation does two things:
+
+- changes receptor activity;
+- creates binding sites that assemble a signaling complex.
+
+## 15. Ras ON/OFF cycle
+
+Ras is a monomeric GTPase.
+
+### OFF
+
+**Ras–GDP**
+
+### ON
+
+**Ras–GTP**
+
+Ras turns itself off by hydrolyzing GTP to GDP, but accessory proteins regulate the speed of switching.
+
+### GAP
+
+A **GTPase-activating protein (GAP)** stimulates GTP hydrolysis.
+
+It therefore promotes the **OFF** state.
+
+### GEF
+
+A **guanine nucleotide exchange factor (GEF)** promotes release of GDP so GTP can bind.
+
+It therefore promotes the **ON** state.
+
+For Ras in the pathway covered here, the GEF is **Sos (Son of Sevenless)**.
+
+## 16. Beginning of the Ras–MAP kinase pathway
+
+The pathway emphasized in the lecture is:
+
+1. ligand activates an RTK;
+2. receptor dimerization/activation leads to trans-autophosphorylation;
+3. phosphorylated tyrosines recruit the adaptor **Grb2**;
+4. Grb2 associates with **Sos**;
+5. Sos acts as the GEF for Ras;
+6. Ras releases GDP and binds GTP;
+7. Ras–GTP becomes active.
+
+## 17. Ras activates Raf without phosphorylating it
+
+A critical point from the lecture:
+
+**Ras is not a protein kinase.**
+
+Activated Ras interacts with **Raf**, changing Raf's conformation and activating it.
+
+Raf is a kinase.
+
+## 18. The MAP kinase cascade
+
+The sequence is:
+
+**Raf → MEK → ERK**
+
+More formally:
+
+- Raf = MAP kinase kinase kinase;
+- MEK = MAP kinase kinase;
+- ERK = MAP kinase.
+
+Activated Raf phosphorylates MEK.
+
+Activated MEK phosphorylates ERK.
+
+ERK/MAP kinase can then phosphorylate downstream proteins and alter cell behavior, including gene expression and proliferation-related responses.
+
+## 19. Signaling must be turned off
+
+Pathways are reversible and regulated.
+
+Examples include:
+
+- receptor deactivation;
+- phosphatases removing phosphates;
+- Ras hydrolyzing GTP to GDP;
+- GAP accelerating Ras inactivation;
+- ligand removal.
+
+Failure of signal termination can lead to persistent pathway activation.
+
+## 20. Week 12 learning-objective checklist
+
+You should be able to explain:
+
+- endocrine, paracrine, neuronal, and juxtacrine signaling;
+- the three major cell-surface receptor classes;
+- why phosphorylation can activate **or** inhibit a protein;
+- kinase versus phosphatase;
+- heterotrimeric G proteins versus monomeric GTPases;
+- what they share and how they differ;
+- GPCR activation;
+- RTK structure and activation;
+- the purpose of phosphorylated RTK tyrosines;
+- the GTPase ON/OFF cycle;
+- GAP versus GEF;
+- Sos as the Ras GEF;
+- the Ras–MAP pathway from activated RTK to ERK/MAP kinase.
+
+## Takeaway
+
+The most useful mental model is a sequence of reversible molecular switches:
+
+**RTK phosphorylation switch → Ras GDP/GTP switch → Raf/MEK/ERK phosphorylation cascade**
+
+The pathway works because each step can be activated, relayed, amplified, and ultimately turned off.
