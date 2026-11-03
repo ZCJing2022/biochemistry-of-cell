@@ -1,0 +1,507 @@
+---
+title: "Week 12 Practice — Cell Signaling, Part I"
+---
+
+**Format:** 30 multiple-choice questions plus constructed-response questions covering every Week 12 learning objective. Answers are hidden initially.
+
+# Part A — Multiple Choice
+
+### Question 1 — Endocrine signaling
+Endocrine signaling is characterized by:
+
+- **A.** signal movement through the bloodstream
+- **B.** obligatory physical contact
+- **C.** signaling only inside one cell
+- **D.** no receptor requirement
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 2 — Endocrine specificity
+Why do not all cells respond to an endocrine hormone circulating in blood?
+
+- **A.** Only cells with an appropriate receptor can respond.
+- **B.** Hormones never leave blood vessels.
+- **C.** Only neurons contain receptors.
+- **D.** Endocrine signals are always hydrophobic.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 3 — Paracrine
+Paracrine signaling usually acts:
+
+- **A.** over short distances through extracellular fluid
+- **B.** only through the bloodstream
+- **C.** by chromosome contact
+- **D.** only through gap junctions
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 4 — Neuronal
+Neuronal signaling typically includes:
+
+- **A.** an electrical signal propagated along an axon
+- **B.** direct COX inhibition
+- **C.** glucokinase sequestration
+- **D.** ATP synthase rotation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 5 — Juxtacrine
+Contact-dependent signaling requires:
+
+- **A.** physical contact between signaling and receiving cells
+- **B.** bloodstream transport
+- **C.** ligand diffusion over long distances
+- **D.** oxygen as final electron acceptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 6 — Hydrophilic ligand
+Most hydrophilic signal molecules bind:
+
+- **A.** cell-surface receptors
+- **B.** DNA directly without a receptor
+- **C.** mitochondrial ATP synthase
+- **D.** intracellular lipid droplets
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 7 — Receptor classes
+Which is **not** one of the three main cell-surface receptor classes emphasized?
+
+- **A.** GPCR
+- **B.** enzyme-linked receptor
+- **C.** ion-channel-linked receptor
+- **D.** ribosome-linked receptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: D.**
+:::
+
+### Question 8 — Hydrophobic signal
+A small hydrophobic signaling molecule may:
+
+- **A.** cross the plasma membrane and bind an intracellular receptor
+- **B.** require a seven-pass receptor in every case
+- **C.** be unable to enter any cell
+- **D.** function only as a neurotransmitter
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 9 — Fast response
+Which response can often occur rapidly without new protein synthesis?
+
+- **A.** change in metabolism
+- **B.** synthesis of a new set of gene products
+- **C.** long-term differentiation only
+- **D.** genome duplication
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 10 — Kinase
+A protein kinase:
+
+- **A.** adds phosphate groups to target proteins
+- **B.** removes phosphate groups
+- **C.** hydrolyzes all cellular GTP
+- **D.** acts only on lipids
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 11 — Phosphatase
+A protein phosphatase:
+
+- **A.** adds phosphate
+- **B.** removes phosphate
+- **C.** exchanges GDP for GTP
+- **D.** is always a receptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 12 — Phosphorylation effect
+Which statement is correct?
+
+- **A.** Phosphorylation always activates proteins.
+- **B.** Phosphorylation always inhibits proteins.
+- **C.** Phosphorylation can activate or inhibit depending on the protein.
+- **D.** Phosphorylation never changes conformation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+:::
+
+### Question 13 — GTP switch
+For the GTP-binding switches discussed:
+
+- **A.** GTP-bound is generally ON and GDP-bound is OFF
+- **B.** GDP-bound is always ON
+- **C.** nucleotide state is irrelevant
+- **D.** ATP replaces GTP directly
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 14 — GTP hydrolysis
+A small GTPase turns itself off by:
+
+- **A.** hydrolyzing GTP to GDP
+- **B.** phosphorylating GTP to ATP
+- **C.** binding more ligand
+- **D.** dimerizing with COX-1
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 15 — GEF
+A GEF promotes:
+
+- **A.** GDP release and GTP binding
+- **B.** GTP hydrolysis
+- **C.** protein dephosphorylation
+- **D.** receptor degradation only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 16 — GAP
+A GAP promotes:
+
+- **A.** activation by GDP release
+- **B.** GTP hydrolysis and inactivation
+- **C.** RTK dimerization
+- **D.** ligand secretion
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+:::
+
+### Question 17 — GPCR structure
+A GPCR characteristically:
+
+- **A.** spans the membrane seven times
+- **B.** is a single-pass receptor tyrosine kinase
+- **C.** is a soluble nuclear enzyme
+- **D.** contains no transmembrane segments
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 18 — Heterotrimeric G protein
+The G protein associated with a GPCR initially consists of:
+
+- **A.** three subunits
+- **B.** one Ras protein only
+- **C.** two receptor monomers
+- **D.** four MAP kinases
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 19 — GPCR activation
+Ligand binding to a GPCR first causes:
+
+- **A.** receptor conformational change
+- **B.** direct phosphorylation of ERK by the ligand
+- **C.** ATP synthesis
+- **D.** COX-2 inhibition
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 20 — Monomeric GTPase
+Which protein is the monomeric GTPase emphasized in the RTK pathway?
+
+- **A.** Ras
+- **B.** Grb2
+- **C.** MEK
+- **D.** ERK
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 21 — RTK definition
+A receptor tyrosine kinase is:
+
+- **A.** a receptor whose cytosolic domain has tyrosine kinase activity
+- **B.** a receptor whose ligand must be a tyrosine kinase
+- **C.** a GPCR with no enzymatic activity
+- **D.** a phosphatase
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 22 — RTK activation
+RTKs are commonly activated by:
+
+- **A.** ligand-induced dimerization or rearrangement
+- **B.** ATP depletion
+- **C.** GTP hydrolysis by Ras before ligand binding
+- **D.** removing all tyrosines
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 23 — Trans-autophosphorylation
+Trans-autophosphorylation means:
+
+- **A.** each receptor kinase phosphorylates tyrosines on the other receptor monomer
+- **B.** a receptor phosphorylates itself without a partner in every case
+- **C.** Ras phosphorylates the RTK
+- **D.** phosphatases add phosphate to receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 24 — Phosphotyrosine role
+Phosphorylated tyrosines on an activated RTK primarily serve as:
+
+- **A.** docking sites for signaling proteins
+- **B.** final electron acceptors
+- **C.** ATP synthase subunits
+- **D.** membrane lipids
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 25 — Grb2
+In the Ras–MAP pathway, Grb2 is:
+
+- **A.** an adaptor recruited to phosphorylated RTK sites
+- **B.** the Ras GTPase-activating protein
+- **C.** the final MAP kinase
+- **D.** a ligand
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 26 — Sos
+Sos functions as:
+
+- **A.** the GEF for Ras
+- **B.** a phosphatase for ERK
+- **C.** the ligand for the RTK
+- **D.** a GAP for Ras
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 27 — Ras action
+Activated Ras directly activates Raf mainly by:
+
+- **A.** binding to it and changing its conformation
+- **B.** phosphorylating it as a protein kinase
+- **C.** dephosphorylating it
+- **D.** converting Raf to GTP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 28 — Raf
+Raf is:
+
+- **A.** MAP kinase kinase kinase
+- **B.** MAP kinase only
+- **C.** the Ras GEF
+- **D.** a GPCR
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 29 — MEK
+Activated Raf phosphorylates:
+
+- **A.** MEK
+- **B.** Ras GDP
+- **C.** the ligand
+- **D.** COX-2
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+### Question 30 — ERK
+Activated MEK phosphorylates:
+
+- **A.** ERK/MAP kinase
+- **B.** Grb2
+- **C.** Sos to make GTP
+- **D.** the extracellular ligand
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+:::
+
+# Part B — Constructed Response by Learning Objective
+
+### Question 31 — Four signaling types
+Define endocrine, paracrine, neuronal, and contact-dependent signaling.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Endocrine:** signals travel through blood to distant targets.  
+**Paracrine:** signals act locally over short distances.  
+**Neuronal:** an electrical signal travels along an axon and communicates with a target.  
+**Contact-dependent/juxtacrine:** signaling requires direct physical contact between cells.
+:::
+
+### Question 32 — Receptor classes
+Name the three main classes of cell-surface receptors.
+
+::: {.callout-tip collapse="true" title="Answer"}
+**G-protein-coupled receptors, enzyme-linked receptors, and ion-channel-linked receptors.**
+:::
+
+### Question 33 — Phosphorylation
+How can phosphorylation affect a protein in a signaling pathway?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Adding phosphate changes charge and often conformation, which can alter binding, localization, or catalytic activity. Depending on the target protein, phosphorylation can either increase or decrease activity.
+:::
+
+### Question 34 — Kinase/phosphatase
+State the roles of kinases and phosphatases.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Kinases add phosphate groups to targets, usually using ATP as phosphate donor. Phosphatases remove phosphate groups.
+:::
+
+### Question 35 — Two GTP-binding classes
+What two classes of GTP-binding switches are compared in this lecture?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The GTP-binding subunit of **heterotrimeric G proteins associated with GPCRs** and **monomeric GTPases** such as Ras.
+:::
+
+### Question 36 — Shared mechanism
+What do these GTP-binding classes share?
+
+::: {.callout-tip collapse="true" title="Answer"}
+They act as nucleotide-dependent molecular switches: GTP-bound is the active state and GDP-bound is the inactive state, with GTP hydrolysis turning the switch off and GDP–GTP exchange turning it on.
+:::
+
+### Question 37 — Difference
+What is the main organizational difference between them?
+
+::: {.callout-tip collapse="true" title="Answer"}
+The GPCR-associated switch is one subunit of a heterotrimeric G-protein complex linked to a seven-pass receptor, whereas Ras is an individually identifiable monomeric GTPase within an intracellular signaling pathway.
+:::
+
+### Question 38 — GPCR activation
+Describe how a GPCR and its G protein are activated.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ligand binding changes the receptor's conformation. The activated GPCR binds the heterotrimeric G protein and promotes a conformational/nucleotide change that replaces GDP with GTP on the GTP-binding subunit. The activated G protein then interacts with downstream effectors.
+:::
+
+### Question 39 — RTK
+What is a receptor tyrosine kinase?
+
+::: {.callout-tip collapse="true" title="Answer"}
+A single-pass transmembrane receptor whose cytosolic domain has intrinsic tyrosine kinase activity.
+:::
+
+### Question 40 — RTK activation
+How is an RTK activated?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ligand binding commonly promotes receptor dimerization or rearrangement, bringing kinase domains together so the two receptor molecules trans-autophosphorylate tyrosines on one another.
+:::
+
+### Question 41 — Phosphorylated tyrosines
+What is the function of phosphorylated tyrosines on an activated RTK?
+
+::: {.callout-tip collapse="true" title="Answer"}
+They create docking sites for intracellular signaling proteins, assembling complexes that relay the signal downstream.
+:::
+
+### Question 42 — GTPase ON/OFF
+Describe the complete ON/OFF cycle of a monomeric GTPase such as Ras.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ras–GDP is OFF. A GEF promotes GDP release and GTP binding, forming ON Ras–GTP. Active Ras binds downstream effectors. Ras then hydrolyzes GTP to GDP; GAPs accelerate this reaction, returning Ras to the OFF state.
+:::
+
+### Question 43 — GEF and Ras
+What is a GEF, and what is the GEF for Ras in the pathway covered?
+
+::: {.callout-tip collapse="true" title="Answer"}
+A GEF is a guanine nucleotide exchange factor that promotes GDP release so GTP can bind. The Ras GEF emphasized here is **Sos (Son of Sevenless)**.
+:::
+
+### Question 44 — Ras–MAP pathway
+Describe the Ras–MAP pathway from an activated RTK to MAP kinase.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ligand activates and dimerizes the RTK, which trans-autophosphorylates. Grb2 docks to phosphotyrosines and recruits Sos. Sos activates Ras by promoting GDP–GTP exchange. Ras–GTP activates Raf by binding it. Raf phosphorylates MEK, and MEK phosphorylates ERK/MAP kinase. Activated MAP kinase then phosphorylates downstream targets that alter cell behavior and gene expression.
+:::
+
+# Part C — Integrated Practice
+
+### Question 45 — Constitutively active Ras
+A Ras mutant cannot efficiently hydrolyze GTP. Predict its signaling state.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ras would remain disproportionately in the GTP-bound ON state, producing persistent downstream signaling even after the upstream receptor signal should have ended.
+:::
+
+### Question 46 — Loss of Sos
+What happens to Ras activation if Sos cannot bind the RTK-associated adaptor complex?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ras activation falls because GDP release and replacement by GTP are impaired. The downstream Raf–MEK–ERK cascade is therefore reduced.
+:::
+
+### Question 47 — Loss of GAP
+What happens if Ras GAP activity is lost?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ras remains active longer because GTP hydrolysis is slower. Signaling through the MAP kinase pathway becomes prolonged.
+:::
+
+### Question 48 — Kinase inhibitor
+An inhibitor blocks Raf kinase activity but Ras remains GTP-bound. What happens to MEK and ERK activation?
+
+::: {.callout-tip collapse="true" title="Answer"}
+MEK is not efficiently phosphorylated by Raf, so ERK activation also falls. Active Ras alone cannot bypass the blocked Raf kinase step.
+:::
+
+### Question 49 — Phosphatase logic
+Why can increasing a phosphatase terminate a phosphorylation-based signaling pathway?
+
+::: {.callout-tip collapse="true" title="Answer"}
+A phosphatase removes activating phosphates from pathway proteins. If those proteins require phosphorylation for activity, dephosphorylation returns them toward an inactive state and interrupts signal propagation.
+:::
