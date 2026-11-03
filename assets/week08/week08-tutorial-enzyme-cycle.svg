@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<title id="title">Tutorial enzyme catalytic cycle</title><desc id="desc">Adapted from Tutorial 5. Enzyme binds substrate, forms an enzyme-substrate complex, converts substrate to products, releases products, and is ready to catalyze again.</desc>
+<style>.t{font-family:Arial,Helvetica,sans-serif;fill:#172033}.h{font-size:27px;font-weight:700}.m{font-size:19px;font-weight:700}.s{font-size:16px;fill:#475569}.enz{fill:#dcfce7;stroke:#16a34a;stroke-width:3}.sub1{fill:#8b5cf6}.sub2{fill:#7c3aed}.prod1{fill:#f97316}.prod2{fill:#22c55e}.arr{stroke:#475569;stroke-width:3;fill:none;marker-end:url(#a)}</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#475569"/></marker></defs>
+<rect width="1000" height="560" fill="#fff" rx="24"/><text x="42" y="48" class="t h">Tutorial visual: the enzyme is recycled through a catalytic cycle</text>
+<g transform="translate(90 92)">
+<path class="enz" d="M310,35 h200 v70 c0,30 -30,55 -70,55 h-60 c-40,0 -70,-25 -70,-55Z"/><text x="410" y="88" text-anchor="middle" class="t m">Free enzyme</text>
+<circle class="sub1" cx="650" cy="80" r="23"/><circle class="sub2" cx="694" cy="80" r="23"/><text x="672" y="38" text-anchor="middle" class="t s">substrate</text>
+<path class="arr" d="M540,90 C595,90 610,90 625,84"/>
+<path class="arr" d="M715,110 C760,150 770,195 742,225"/>
+<path class="enz" d="M620,218 h200 v70 c0,30 -30,55 -70,55 h-60 c-40,0 -70,-25 -70,-55Z"/><circle class="sub1" cx="706" cy="250" r="20"/><circle class="sub2" cx="746" cy="250" r="20"/><text x="720" y="316" text-anchor="middle" class="t m">Enzyme–substrate</text>
+<path class="arr" d="M650,348 C610,395 550,415 510,400"/>
+<path class="enz" d="M300,348 h200 v70 c0,30 -30,55 -70,55 h-60 c-40,0 -70,-25 -70,-55Z"/><circle class="prod1" cx="382" cy="380" r="20"/><circle class="prod2" cx="425" cy="380" r="20"/><text x="400" y="446" text-anchor="middle" class="t m">Enzyme–product</text>
+<path class="arr" d="M290,410 C220,390 180,335 190,280"/>
+<circle class="prod1" cx="125" cy="247" r="21"/><circle class="prod2" cx="168" cy="247" r="21"/><text x="146" y="210" text-anchor="middle" class="t s">products released</text>
+<path class="arr" d="M170,205 C200,130 250,90 300,85"/>
+<text x="500" y="505" text-anchor="middle" class="t s">E + S ⇌ ES → EP → E + P</text>
+</g></svg>
