@@ -198,6 +198,11 @@ Do not describe NADH as “energy itself.” It is an activated carrier whose el
 <figcaption><strong>Redox handoff.</strong> Oxidation and reduction always occur together: fuel loses electrons, NAD+ accepts them, and NADH carries them onward. <span class="visual-source">Lecture slides 8:14–8:17 and 8:28; Tutorial 5 redox/electron-carrier review; Alberts Chapter 3.</span></figcaption>
 </figure>
 
+<figure class="study-visual course-source-visual">
+<img src="../assets/week08/week08-tutorial-nad-taxi.svg" alt="Tutorial-style taxi analogy showing NAD plus as an unloaded carrier and NADH as a loaded carrier carrying electrons and a proton equivalent.">
+<figcaption><strong>Tutorial 5 visual analogy — the NAD taxi.</strong> This preserves the tutorial's memorable “unloaded/loaded taxi” model: NAD+ accepts reducing equivalents and becomes NADH; NADH later donates those electrons and returns to the oxidized form. <span class="visual-source">Faithful course-site adaptation of Tutorial 5, “Electron carriers (more soon!).”</span></figcaption>
+</figure>
+
 ## 9. Enzymes and catalysis
 
 An **enzyme** is a biological catalyst, usually a protein.
@@ -218,6 +223,11 @@ where:
 - P = product.
 
 The substrate binds at the **active site**, where the enzyme creates a chemical environment favorable for conversion to product.
+
+<figure class="study-visual course-source-visual">
+<img src="../assets/week08/week08-tutorial-enzyme-cycle.svg" alt="Cyclic diagram showing free enzyme binding substrate, forming enzyme-substrate and enzyme-product complexes, releasing products, and returning to free enzyme.">
+<figcaption><strong>Tutorial 5 enzyme-cycle visual.</strong> The enzyme is recycled: substrate binding forms an enzyme–substrate complex, chemistry produces an enzyme–product complex, products leave, and the enzyme is ready for another catalytic cycle. <span class="visual-source">Faithful course-site adaptation of Tutorial 5, “Enzymes are specific for substrates.”</span></figcaption>
+</figure>
 
 ## 10. The transition state and activation energy
 
@@ -255,6 +265,11 @@ An enzyme active site is not necessarily a rigid lock.
 Substrate binding can cause a conformational adjustment called **induced fit**. This can position catalytic groups correctly and help push the substrate toward the transition state.
 
 Specificity therefore depends on complementary chemical interactions and the ability of the active site to support the reaction.
+
+<figure class="study-visual course-source-visual">
+<img src="../assets/week08/week08-lecture-hexokinase.svg" alt="Lecture-derived schematic comparing open hexokinase with a closed glucose-bound conformation to illustrate induced fit.">
+<figcaption><strong>Lecture 8 hexokinase example.</strong> The Week 8 lecture uses glucose binding to hexokinase to make induced fit concrete: binding changes the enzyme's conformation and positions catalytic groups around the substrate. <span class="visual-source">Faithful course-site adaptation of Lecture 8:21, “Enzymes are specific for substrates and change conformation when substrate binds.”</span></figcaption>
+</figure>
 
 ## 12. Reaction velocity
 

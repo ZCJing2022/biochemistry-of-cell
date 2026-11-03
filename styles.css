@@ -52,3 +52,17 @@ h3 { margin-top: 1.6rem; }
     font-size: 0.9rem;
   }
 }
+
+
+/* Visuals adapted directly from lecture/tutorial teaching graphics */
+.course-source-visual {
+  padding-left: 0.8rem;
+  border-left: 4px solid #0d6efd;
+}
+
+.course-source-visual figcaption strong::before {
+  content: "COURSE VISUAL · ";
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  color: #0d6efd;
+}
