@@ -1,0 +1,11 @@
+---
+title: "Weekly Study Guides"
+---
+
+The lecture presentation determines the weekly scope; the assigned Alberts chapter(s) provide the detailed cell-biological and biochemical explanation.
+
+1. [Week 8 — Bioenergetics and Enzymes](week08-bioenergetics-enzymes.qmd)
+2. Week 9 — Glycolysis, Pyruvate, and the Citric Acid Cycle *(in development)*
+3. Week 10 — Electron Transport and Oxidative Phosphorylation *(in development)*
+4. Week 11 — Lipids, Eicosanoids, and Drug Action *(in development)*
+5. Week 12 — Cell Signaling — Part I *(in development)*
