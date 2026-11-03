@@ -36,9 +36,21 @@ These must:
 
 ### C. Textbook-grounded conceptual redraws
 
-Textbook concepts may be redrawn into original explanatory schematics.
+Textbook concepts may be redrawn into original explanatory schematics when a simplified course-specific visual is pedagogically useful.
 
-Do not reproduce textbook pages or textbook figures verbatim on the public GitHub site unless permission and reuse terms clearly support doing so.
+### D. Original source figures
+
+When the original lecture, tutorial, or textbook figure is the clearest teaching object, use the **original source figure itself**, cropped for web display rather than replaced by a redraw.
+
+Original source figures must:
+
+- be marked with the **SOURCE FIGURE** visual treatment;
+- include exact source information (source file/chapter, PDF page, and figure number/title where available);
+- appear beside the concept they teach;
+- be tracked in `SOURCE_FIGURE_PERMISSIONS_REGISTER.md`;
+- retain a permission-status field so formal permissions can be completed before final release.
+
+A source figure and a custom summary graphic may appear together when they serve different purposes: the source figure preserves the original course/textbook representation, while the custom graphic provides an exam-oriented simplification.
 
 ## 3. Placement rule
 
@@ -52,9 +64,9 @@ Do not add decorative images merely to make a page look fuller.
 
 ## 4. Density
 
-The approved Week 8 pilot established that approximately **7–9 meaningful visuals per weekly guide** is appropriate for these materials.
+The approved Week 8 pilot established a baseline of approximately **7–9 explanatory visuals per weekly guide**. The source-figure layer may raise a page to roughly **9–11 visuals** when original lecture/tutorial/textbook figures materially improve learning.
 
-The exact number depends on the visual complexity of the topic.
+The exact number depends on the visual complexity of the topic. New figures should still earn their place pedagogically.
 
 ## 5. Visual style
 
@@ -64,6 +76,8 @@ The exact number depends on the visual complexity of the topic.
 - Every visual requires meaningful alt text.
 - Every visual requires a concise caption.
 - Course-derived adaptations use the existing `course-source-visual` styling.
+- Original cropped figures use the `source-original-visual` styling and the **SOURCE FIGURE** label.
+- JPEG/PNG source crops are acceptable when they preserve essential detail from the original source.
 
 ## 6. Source hierarchy
 
@@ -120,4 +134,8 @@ Hybrid pilot approved and locked:
 
 ## 8. Change control
 
-Future revisions should preserve this grammar unless there is a specific pedagogical reason to change it. New visuals should replace weaker ones rather than simply accumulating indefinitely.
+Future revisions should preserve this grammar unless there is a specific pedagogical reason to change it. The guiding hierarchy is now:
+
+**roadmap/summary SVG → course adaptation where useful → original source figure where it adds unique teaching value.**
+
+New visuals should replace weaker or redundant ones rather than simply accumulating indefinitely.
