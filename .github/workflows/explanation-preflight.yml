@@ -20,33 +20,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-      - name: Save exact authored source snapshot
-        run: git archive --format=zip HEAD -o explanation-authored-snapshot.zip
-      - uses: actions/upload-artifact@v4
-        with:
-          name: explanation-authored-snapshot
-          path: explanation-authored-snapshot.zip
-          retention-days: 7
-      - name: Inspect narrative input structure
+      - name: Integrate authoring script and record existing assessments
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import csv
-          for path in sorted(Path('assessment').glob('explanations-*.tsv')):
-              rows=list(csv.DictReader(path.open(encoding='utf-8',newline=''),delimiter='\t'))
-              print(path,len(rows))
-              for row in rows:
-                  for field,text in row.items():
-                      if field and field.startswith('explanation'):
-                          bad=len(text.split())<20 or any(x in text for x in ('\n:::','TODO','PLACEHOLDER'))
-                          if bad or row['id']=='P3a':
-                              print('NARRATIVE',row['id'],field,'words',len(text.split()),'bad',bad,repr(text))
-          PY
-      - name: Integrate explanation authoring and record existing assessments
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import hashlib, json
+          import hashlib,json
           p=Path('scripts/build_objective_assessments.py')
           text=p.read_text()
           if 'from explanation_panels import' not in text:
@@ -67,7 +45,7 @@ jobs:
           assert len(paths)==8
           Path('/tmp/explanation-baseline.json').write_text(json.dumps({str(p):p.read_text() for p in paths},ensure_ascii=False))
           PY
-      - name: Generate and validate all 405 explanation panels
+      - name: Generate and preserve existing question and answer content
         run: |
           python3 -m py_compile scripts/explanation_panels.py scripts/build_objective_assessments.py
           python3 scripts/build_objective_assessments.py --write
@@ -81,13 +59,24 @@ jobs:
           normalize=lambda s:re.sub(r'\s+',' ',strip_explanations(s)).strip()
           for path,old in before.items():
               assert normalize(old)==normalize(Path(path).read_text()),path
-          print('PRESERVATION PASS: all existing questions, answer text, options, source lines, objective links, marks and exam instructions unchanged.')
+          print('PRESERVATION PASS: existing questions, answers, options, sources, links, marks and instructions unchanged.')
           PY
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render and verify independent closed controls
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render website
+        run: quarto render
+      - name: Inspect rendered explanation anchors and controls
         run: |
-          quarto render
+          python3 - <<'PY'
+          from pathlib import Path
+          import sys
+          sys.path.insert(0,'scripts')
+          from explanation_panels import PanelParser
+          text=Path('docs/practice/week08-bioenergetics-enzymes.html').read_text()
+          pos=text.find('explanation-w08-mc01')
+          print(text[max(0,pos-150):pos+2500])
+          p=PanelParser();p.feed(text)
+          print([{k:v for k,v in r.items() if k!='text'} for r in p.panels[:4]])
+          PY
           python3 scripts/build_objective_assessments.py --check-html docs
       - name: Commit validated static sources to working branch
         run: |
@@ -98,8 +87,11 @@ jobs:
             git commit -m 'Render 405 independently collapsed question explanations'
             git push origin HEAD:${{ github.ref_name }}
           fi
-          git archive --format=zip HEAD -o explanation-source-review.zip
+      - name: Package authored and generated sources
+        if: always()
+        run: zip -r explanation-source-review.zip assessment scripts practice study-guides styles.css _quarto.yml EXPLANATION_PANELS_AUDIT.md
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: explanation-rendered-review
           path: |
