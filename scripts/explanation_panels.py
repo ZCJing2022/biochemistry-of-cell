@@ -20,7 +20,9 @@ EXPLANATION = re.compile(r'(?ms)^::: \{\.callout-note \.question-explanation #[^
 SECTION = re.compile(r'(?ms)^### ([^\n]+)\n(.*?)(?=^#{1,3} |\Z)')
 COUNTS = {8:59, 9:59, 10:49, 11:55, 12:54}
 SLUGS = {8:'bioenergetics-enzymes',9:'glycolysis-cac',10:'etc-oxidative-phosphorylation',11:'lipids-eicosanoids-drugs',12:'cell-signaling-part1'}
-NOTICE = '**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.\n\n'
+LEGACY_NOTICE = '**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.\n\n'
+
+NOTICE = '**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation develops the reasoning in detail, including the relevant concepts, calculation steps where needed, and common points of confusion. Integrated exam explanations address every labeled subpart.\n\n'
 
 def records(name: str) -> list[dict[str, str]]:
     with (ROOT/'assessment'/name).open(encoding='utf-8',newline='') as stream:
@@ -33,12 +35,12 @@ def records(name: str) -> list[dict[str, str]]:
     for row in rows:
         for field,text in row.items():
             if field.startswith('explanation'):
-                if len(text.split())<20 or any(x in text for x in ('\n:::','TODO','PLACEHOLDER')):
+                if len(text.split())<90 or '\n\n' not in text or any(x in text for x in ('\n:::','TODO','PLACEHOLDER')):
                     raise ValueError('Missing or incomplete narrative: '+name+' '+row['id'])
     return rows
 
 def strip_explanations(text: str) -> str:
-    return EXPLANATION.sub('',text).replace(NOTICE,'')
+    return EXPLANATION.sub('',text).replace(NOTICE,'').replace(LEGACY_NOTICE,'')
 
 def review_links(weeks: set[int]) -> str:
     return '**Review:** '+ ' · '.join(f'[Week {w} study guide](../study-guides/week{w:02d}-{SLUGS[w]}.qmd)' for w in sorted(weeks))+'.'
@@ -62,7 +64,7 @@ def load_notes():
 
 def add_explanations(out: dict[str,str]):
     weekly,mc,parts,mc_source,part_source=load_notes()
-    audit={'version':'explanation-panels-v1','placement':'Independent collapsed sibling immediately after each existing Answer panel','basis':'Existing source-grounded questions, model answers and referenced weekly study guides; no outside scholarship added','pages':{},'integrated_exam_subpart_narratives':0}
+    audit={'version':'explanation-panels-v2','placement':'Independent collapsed sibling immediately after each existing Answer panel','basis':'Existing source-grounded questions, model answers and referenced weekly study guides; no outside scholarship added','pages':{},'integrated_exam_subpart_narratives':0}
     used_weekly={w:set() for w in COUNTS}
     used_mc={f:set() for f in (1,2,3)}
     used_parts={f:set() for f in (1,2,3)}
@@ -130,16 +132,34 @@ def add_explanations(out: dict[str,str]):
     assert sum(x['explanations'] for x in audit['pages'].values())==405
     assert audit['integrated_exam_subpart_narratives']==75
     audit['totals']={'weekly_explanations':276,'exam_explanations':129,'explanations':405,'answer_panels_retained':405,'independent_collapsed_panels':810}
+    groups = {
+        'weekly_mcq': [s for values in weekly.values() for k,s in values.items() if '-mc' in k],
+        'weekly_objective': [s for values in weekly.values() for k,s in values.items() if '-lo' in k],
+        'weekly_integrated': [s for values in weekly.values() for k,s in values.items() if '-ix' in k],
+        'exam_mcq_concepts': list(mc.values()),
+        'exam_subparts': [r[f'explanation{f}'] for r in parts.values() for f in (1,2,3)],
+    }
+    audit['narrative_statistics'] = {}
+    for name,narratives in groups.items():
+        lengths = sorted(len(s.split()) for s in narratives)
+        audit['narrative_statistics'][name] = {'count':len(lengths),'min_words':min(lengths),'max_words':max(lengths),'total_words':sum(lengths)}
+    assert sum(s['count'] for s in audit['narrative_statistics'].values()) == 389
     out['assessment/explanation-audit.json']=json.dumps(audit,ensure_ascii=False,indent=2)+'\n'
-    out['EXPLANATION_PANELS_AUDIT.md']='''# Question explanations — V1
+    out['EXPLANATION_PANELS_AUDIT.md']='''# Question explanations — V2: detailed narratives
 
 ## Implementation
 
 All five weekly practice banks and all three practice exams have a separate **Explanation** callout immediately after each existing **Answer** callout. Both panels are initially collapsed and use independent controls. An integrated exam problem has one explanation panel with a narrative for every labeled subpart, following its existing grouped model answer.
 
+## Narrative depth
+
+Every existing explanation has been expanded with question-specific reasoning rather than repeated generic advice. MCQ explanations clarify the relevant concept and distinguish competing answers. Objective-led and integrated explanations work through the requested parts, connect mechanisms to consequences, and show calculation setup, substitution, units and interpretation where applicable. Exam subparts use the numbers and conditions of their own form. Paragraph breaks keep longer explanations readable inside the existing closed panels.
+
+The original short rationale remains as an opening summary, followed by the fuller explanation. The course's documented source discrepancies and terminology remain explicit. An additional historical revision record, `assessment/explanation-detail-audit.json`, compares all 389 authored narrative fields with the pre-expansion baseline; the 38 exam MCQ rationales serve 114 matched question placements.
+
 ## Coverage
 
-| Page | Answers retained | Explanations added |
+| Page | Answers retained | Explanations expanded |
 |---|---:|---:|
 | Week 8 | 59 | 59 |
 | Week 9 | 59 | 59 |
@@ -159,8 +179,12 @@ Narratives explain the existing course questions and model answers, preserving t
 
 ## Reproduction and checks
 
-Edit assessment/explanations-*.tsv. Run `python3 scripts/build_objective_assessments.py --write`, then `--check`; render Quarto and run `--check-html docs`. Checks require complete narrative coverage, unchanged answer text, unique panel IDs, paired Answer/Explanation order, no nesting of panels, initially closed controls, one-to-one collapse targets, existing objective anchors, and valid guide-image paths. Normal Pages publishing continues to render committed static QMD files with no new pre-render dependency.
+Edit assessment/explanations-*.tsv. Run `python3 scripts/build_objective_assessments.py --write`, then `--check`; render Quarto and run `--check-html docs`. Checks require complete narrative coverage, at least two paragraphs and 90 words per authored narrative field, unchanged answer text, unique panel IDs, paired Answer/Explanation order, no nesting of panels, initially closed controls, one-to-one collapse targets, existing objective anchors, and valid guide-image paths. Normal Pages publishing continues to render committed static QMD files with no new pre-render dependency.
 '''
+    out['EXPLANATION_PANELS_AUDIT.md'] += '\n## Current authored narrative lengths\n\n| Narrative type | Fields | Words per field | Total words |\n|---|---:|---:|---:|\n'
+    for name,stats in audit['narrative_statistics'].items():
+        out['EXPLANATION_PANELS_AUDIT.md'] += f"| {name.replace('_',' ')} | {stats['count']} | {stats['min_words']}–{stats['max_words']} | {stats['total_words']} |\n"
+    out['EXPLANATION_PANELS_AUDIT.md'] += '\nLengths are whitespace-delimited counts of the authored explanation fields, excluding review links. Counts establish coverage and depth of revision, not an independent scientific audit.\n'
     return out,audit
 
 class PanelParser(HTMLParser):

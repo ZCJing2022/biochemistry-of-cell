@@ -1,5 +1,5 @@
 {
-  "version": "explanation-panels-v1",
+  "version": "explanation-panels-v2",
   "placement": "Independent collapsed sibling immediately after each existing Answer panel",
   "basis": "Existing source-grounded questions, model answers and referenced weekly study guides; no outside scholarship added",
   "pages": {
@@ -472,5 +472,37 @@
     "explanations": 405,
     "answer_panels_retained": 405,
     "independent_collapsed_panels": 810
+  },
+  "narrative_statistics": {
+    "weekly_mcq": {
+      "count": 175,
+      "min_words": 110,
+      "max_words": 144,
+      "total_words": 22067
+    },
+    "weekly_objective": {
+      "count": 78,
+      "min_words": 147,
+      "max_words": 199,
+      "total_words": 13143
+    },
+    "weekly_integrated": {
+      "count": 23,
+      "min_words": 165,
+      "max_words": 199,
+      "total_words": 4275
+    },
+    "exam_mcq_concepts": {
+      "count": 38,
+      "min_words": 117,
+      "max_words": 147,
+      "total_words": 4981
+    },
+    "exam_subparts": {
+      "count": 75,
+      "min_words": 147,
+      "max_words": 174,
+      "total_words": 12130
+    }
   }
 }
