@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-      - name: Integrate authoring script and record existing assessments
+      - name: Integrate authoring and record existing assessments
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -41,11 +41,27 @@ jobs:
                   assert text.count(old)==1,(old,text.count(old))
                   text=text.replace(old,new)
               p.write_text(text)
+          p=Path('scripts/explanation_panels.py')
+          text=p.read_text()
+          old="            narrative=' '.join(''.join(x['text']) for x in p.panels if x['type']=='Explanation')\n            assert len(re.findall(r'\\([a-f]\\)',narrative))==25,(path,'Missing subpart explanations')"
+          new="""            expected_parts={'p1':'abcde','p2':'abcdef','p3':'abcd','p4':'abcdef','p5':'abcd'}
+              for suffix,letters in expected_parts.items():
+                  panel=next(x for x in p.panels if x['type']=='Explanation' and x['id'].endswith('-'+suffix))
+                  # Standalone strong-text labels, not incidental references to part (a).
+                  labels=[t.strip() for t in panel['text'] if re.fullmatch(r'\([a-f]\)',t.strip())]
+                  assert labels==['('+c+')' for c in letters],(path,suffix,'Missing or reordered subpart explanations')"""
+          # YAML indentation is removed before this Python script runs.
+          new='\n'.join([new.splitlines()[0]]+['            '+line[10:] for line in new.splitlines()[1:]]) if False else new
+          if "expected_parts={'p1'" not in text:
+              assert text.count(old)==1,'Unexpected validator source'
+              # Set indentation explicitly so the authored helper remains valid Python.
+              new="            expected_parts={'p1':'abcde','p2':'abcdef','p3':'abcd','p4':'abcdef','p5':'abcd'}\n            for suffix,letters in expected_parts.items():\n                panel=next(x for x in p.panels if x['type']=='Explanation' and x['id'].endswith('-'+suffix))\n                # A subpart label is a standalone text node, not an incidental reference.\n                labels=[t.strip() for t in panel['text'] if re.fullmatch(r'\\([a-f]\\)',t.strip())]\n                assert labels==['('+c+')' for c in letters],(path,suffix,'Missing or reordered subpart explanations')"
+              p.write_text(text.replace(old,new))
           paths=sorted(Path('practice').glob('week*.qmd'))+sorted(Path('practice').glob('practice-part2-exam-*.qmd'))
           assert len(paths)==8
           Path('/tmp/explanation-baseline.json').write_text(json.dumps({str(p):p.read_text() for p in paths},ensure_ascii=False))
           PY
-      - name: Generate and preserve existing question and answer content
+      - name: Generate and preserve all existing questions and answers
         run: |
           python3 -m py_compile scripts/explanation_panels.py scripts/build_objective_assessments.py
           python3 scripts/build_objective_assessments.py --write
@@ -59,30 +75,18 @@ jobs:
           normalize=lambda s:re.sub(r'\s+',' ',strip_explanations(s)).strip()
           for path,old in before.items():
               assert normalize(old)==normalize(Path(path).read_text()),path
-          print('PRESERVATION PASS: existing questions, answers, options, sources, links, marks and instructions unchanged.')
+          print('PRESERVATION PASS: questions, answers, options, sources, links, marks and instructions unchanged.')
           PY
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render website
-        run: quarto render
-      - name: Inspect rendered explanation anchors and controls
+      - name: Render and verify all independent collapsed panels
         run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import sys
-          sys.path.insert(0,'scripts')
-          from explanation_panels import PanelParser
-          text=Path('docs/practice/week08-bioenergetics-enzymes.html').read_text()
-          pos=text.find('explanation-w08-mc01')
-          print(text[max(0,pos-150):pos+2500])
-          p=PanelParser();p.feed(text)
-          print([{k:v for k,v in r.items() if k!='text'} for r in p.panels[:4]])
-          PY
+          quarto render
           python3 scripts/build_objective_assessments.py --check-html docs
       - name: Commit validated static sources to working branch
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add scripts/build_objective_assessments.py practice assessment/explanation-audit.json EXPLANATION_PANELS_AUDIT.md
+          git add scripts/build_objective_assessments.py scripts/explanation_panels.py practice assessment/explanation-audit.json EXPLANATION_PANELS_AUDIT.md
           if ! git diff --cached --quiet; then
             git commit -m 'Render 405 independently collapsed question explanations'
             git push origin HEAD:${{ github.ref_name }}
