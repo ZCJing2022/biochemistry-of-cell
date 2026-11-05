@@ -20,6 +20,28 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
+      - name: Save exact authored source snapshot
+        run: git archive --format=zip HEAD -o explanation-authored-snapshot.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: explanation-authored-snapshot
+          path: explanation-authored-snapshot.zip
+          retention-days: 7
+      - name: Inspect narrative input structure
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv
+          for path in sorted(Path('assessment').glob('explanations-*.tsv')):
+              rows=list(csv.DictReader(path.open(encoding='utf-8',newline=''),delimiter='\t'))
+              print(path,len(rows))
+              for row in rows:
+                  for field,text in row.items():
+                      if field and field.startswith('explanation'):
+                          bad=len(text.split())<20 or any(x in text for x in ('\n:::','TODO','PLACEHOLDER'))
+                          if bad or row['id']=='P3a':
+                              print('NARRATIVE',row['id'],field,'words',len(text.split()),'bad',bad,repr(text))
+          PY
       - name: Integrate explanation authoring and record existing assessments
         run: |
           python3 - <<'PY'
