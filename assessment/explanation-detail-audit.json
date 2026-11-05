@@ -1,0 +1,3574 @@
+{
+  "version": "explanation-detail-v2",
+  "baseline_commit": "6502492aa70b23b5cf4645e7144af421d41a536b",
+  "scope": "Every weekly narrative, every common exam MCQ rationale, and all form-specific exam subparts",
+  "method": "Question-specific authored elaborations appended to existing source-grounded narratives; no keyword-generated filler or external retrieval",
+  "fields": [
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1a",
+      "field": "explanation1",
+      "before_words": 43,
+      "after_words": 161,
+      "before_sha256": "d6d86ed3c3e074e0116bc34dc695765bda10c6b84c5d7e9ddbb4894f94acadd1",
+      "after_sha256": "c56e2e6bd20ca95bd8021973916a4c89c3790a0022e28689093eea2f6427291f"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1a",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 157,
+      "before_sha256": "cb07629fed1e6b811a2381803e18a71d9bc739866609a2c25867360ec643aa24",
+      "after_sha256": "884cd4bcf07aefa33f425d4f57096f491d4c87e9b2115fba99ccfaa9dd8cbaa0"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1a",
+      "field": "explanation3",
+      "before_words": 43,
+      "after_words": 166,
+      "before_sha256": "d87e78e75eee0bcbd792cfdf9d9a7abec658442ba7f07a018c3c3e836a04bce8",
+      "after_sha256": "ed411f5ef733f62cb5ad6853ce56627b1f5d4defb3e56959b9d3c2b6b1efce8d"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1b",
+      "field": "explanation1",
+      "before_words": 41,
+      "after_words": 160,
+      "before_sha256": "b5237951cbfe9aa6729730dd09bf35b0dc19f923b97c4e19b7a718b80b3e9b7b",
+      "after_sha256": "7ba67a64f032ee3ce5a3f02b0bf0d9b24f52e8a4311c52f045fee2ca011a9be9"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1b",
+      "field": "explanation2",
+      "before_words": 39,
+      "after_words": 158,
+      "before_sha256": "31c62ffe58d232c3c6ef1dfdb098e4a83b5a982b7d4face4014a7a4b08e4253c",
+      "after_sha256": "ea9f393bd74c4bd2f95de83c8baefe9ef95d87bb0b3ff0c855eb76bcae3a8bb1"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1b",
+      "field": "explanation3",
+      "before_words": 40,
+      "after_words": 158,
+      "before_sha256": "a5d9e75b6a0ef850351728b60b234bf6eaa1a0aa9208440463ed7081c2d2c3d3",
+      "after_sha256": "7cef00cc10dd434b592b1313fa7007538b13375a63cd6bbb8456f461d6040478"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1c",
+      "field": "explanation1",
+      "before_words": 39,
+      "after_words": 156,
+      "before_sha256": "dd73e852bb579cda5331a8a98d9d1c148adee4526eec244e399178c81230a08a",
+      "after_sha256": "2bf04252dd5a5b2e0c2a60e7181be4a6b4020b91f7005981c0d4a52fdedc7168"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1c",
+      "field": "explanation2",
+      "before_words": 35,
+      "after_words": 158,
+      "before_sha256": "2a388a8a0920215869c62101901c8ca3a96d092997b2890dc48a43951e17f951",
+      "after_sha256": "25860a716ae9afafd2869da3fae234dc84014fca56c2c055bccdc4e62aa7df53"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1c",
+      "field": "explanation3",
+      "before_words": 39,
+      "after_words": 157,
+      "before_sha256": "d92175013847695a73d1a6935d2fb9ac734e3dbf7688600678ff9cca1fb281df",
+      "after_sha256": "dfc46c4f9bc96ef6c1397a8b4d8de5375e43852eb5fb6da001b1345cec536906"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1d",
+      "field": "explanation1",
+      "before_words": 44,
+      "after_words": 161,
+      "before_sha256": "e48a247efc0591373d6b4a85498514162aacc4789360ee0f3b4931d8fec2aeec",
+      "after_sha256": "3bee8501edbaa1e876174533106b3692dbec258001720dd28743c587fce0231d"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1d",
+      "field": "explanation2",
+      "before_words": 44,
+      "after_words": 170,
+      "before_sha256": "3bdea2be09ee183075c3888990994e7c751483a3f77c5328a5219448f967c605",
+      "after_sha256": "9db6b65711f211a8841a83192490aa69a03b188358efe0e22d183e060c2a7470"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1d",
+      "field": "explanation3",
+      "before_words": 40,
+      "after_words": 164,
+      "before_sha256": "d2a3962e8feb2bd75d63b67b7aa76f5f20dd15cd873dd61c3f1cbe74fc025e7c",
+      "after_sha256": "d9d823e505de52c6d365c6a2ee92d71047b25817a154bdecd8c3a3c68173e6af"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1e",
+      "field": "explanation1",
+      "before_words": 39,
+      "after_words": 158,
+      "before_sha256": "a1263991cc514d74d467748bdabc0c9ef50b0e98b8aa3317246df7c831b5dac6",
+      "after_sha256": "a3f71e064c39111a2c25e20c244806f33c60f9957021c7b9bcb5075b5ee21ede"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1e",
+      "field": "explanation2",
+      "before_words": 41,
+      "after_words": 165,
+      "before_sha256": "d2373bfe3708498dedbcd93038b77d6111dc1c675cb5e4f49c25e50bb52cf521",
+      "after_sha256": "309606740df85e175a8d3f09436d1e3978f0c40ed608a723d576316d6c52434c"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P1e",
+      "field": "explanation3",
+      "before_words": 41,
+      "after_words": 158,
+      "before_sha256": "bf7ec21f1e55d51e4d02fb4e3571a315957f4d8848776d64769f659f8e081daa",
+      "after_sha256": "b5fb89770c47c435c283767f91d811ec7b9fd5c37c2552476546db72e5de1b60"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2a",
+      "field": "explanation1",
+      "before_words": 39,
+      "after_words": 163,
+      "before_sha256": "dc81ccf50ba921b52e3bda5744ad6de610948758d4fa0a3fc69de80e5375c59c",
+      "after_sha256": "4aa934077faa689a83fd976078765a7cec064b2997253c55e844cc99426eb677"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2a",
+      "field": "explanation2",
+      "before_words": 43,
+      "after_words": 165,
+      "before_sha256": "e40bee4de5bb1de7c213580d7ea6b964f6d8e9faf88fe9221d2e23bc80bba799",
+      "after_sha256": "d48b4bb995bdecb54a51c8cf407cdab02907a020e9f1b01a782e127725e5c964"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2a",
+      "field": "explanation3",
+      "before_words": 42,
+      "after_words": 160,
+      "before_sha256": "8d6b00997a0a320b01ca1440498bb43b4362ac5be104847c622f58c73f2e4d0b",
+      "after_sha256": "e2ad2474d413944a74a9052ab7d64069a0bed2759e79a20afe30505f77be188d"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2b",
+      "field": "explanation1",
+      "before_words": 44,
+      "after_words": 165,
+      "before_sha256": "17332421b292032ffa35549799238620abfbb8ae70065f3043a284df397da4ed",
+      "after_sha256": "56c18e8e05b8414cb3cdb6506d0ebe1c97ce072cbac181d780523d72170d36f2"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2b",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 159,
+      "before_sha256": "61a985bbf2a64cb3d17c373badd9a7c92c15b4557f78317a145df8895b62d4a9",
+      "after_sha256": "2bb92e9f159673fa331bb36c3fa7eca01521b032668c628455b951df33d3dade"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2b",
+      "field": "explanation3",
+      "before_words": 40,
+      "after_words": 158,
+      "before_sha256": "2f6c9af38553337a1caff415cc495ad18012221625160d092172e4ce337916f0",
+      "after_sha256": "e3852234b09644c15d28ff29b394e88f1041f2672152a37c1d4c04382cc5fbef"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2c",
+      "field": "explanation1",
+      "before_words": 38,
+      "after_words": 170,
+      "before_sha256": "f0c08b88404e0f5e32eafa7acf63b8a79cb18be321be1c561f92b5c3dd178fb5",
+      "after_sha256": "01353d59ef078cdf3a0d63496386c4d82a7a9e42aff1693feb31a0db1fccac45"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2c",
+      "field": "explanation2",
+      "before_words": 44,
+      "after_words": 170,
+      "before_sha256": "5baf35cc9eb3ceeb2ab45504ae70347f3ebae78f9fbe77f15bb989b17cbd7a82",
+      "after_sha256": "be6451278b7d54368fa0cefd79e9002b319460846eafa4e64ac368b761e76fbf"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2c",
+      "field": "explanation3",
+      "before_words": 48,
+      "after_words": 174,
+      "before_sha256": "bc81f6c9fbdefb4ba64f87ffdc6c1e66b12cd0e3659859d46b2f6154ef560397",
+      "after_sha256": "501ad0f43fc8ad37406b3f043e13118595067940d12e5ee0aa9d8a84e31aaedc"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2d",
+      "field": "explanation1",
+      "before_words": 39,
+      "after_words": 166,
+      "before_sha256": "4bbbf485a7954c9aa0bc57f57b4fc2b30ffcbb025732969da33c0af9eb416c2d",
+      "after_sha256": "63245f3ef2b2934a14c3896a3885074588d30ea3d1379f6f3001e27dfc45418a"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2d",
+      "field": "explanation2",
+      "before_words": 43,
+      "after_words": 167,
+      "before_sha256": "c4bf1d022450a70212931b21cbce8d643e52545b8abcbb6bc0b72ad23d06fa17",
+      "after_sha256": "06081c7b4b6a6324a51f71052ec0c908526fcbf92644acf5597cd373d5727c31"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2d",
+      "field": "explanation3",
+      "before_words": 44,
+      "after_words": 157,
+      "before_sha256": "ec6fd8a6b18af11df158f5c40df1e157635da3756e64a4532d1e7baaddfd32d5",
+      "after_sha256": "305edbaa5a519174306806df12d200cd247dba41fd2907ecb33e00a0d6da9724"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2e",
+      "field": "explanation1",
+      "before_words": 41,
+      "after_words": 167,
+      "before_sha256": "c3f34a7f8a808b845ef0a9457e6975341c3ee3d5ae944b39397bf9da27cc6278",
+      "after_sha256": "33ef2b83872dd1b8bcbe656f8eef50dbe3477ccf238fa499df476cf555b1db14"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2e",
+      "field": "explanation2",
+      "before_words": 34,
+      "after_words": 156,
+      "before_sha256": "0ee3b040bcbccb449af0512df38d24a2c9825ea8c2d16f3b9ed2cd223e8e8cae",
+      "after_sha256": "77922a578c5c330e6ed3beee09f690c3f814da2159e858565ddc31d12063719b"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2e",
+      "field": "explanation3",
+      "before_words": 41,
+      "after_words": 164,
+      "before_sha256": "0298b350322bbc588b2a51a56e7e2e31c0475c29fbf1a7a0f2790524d1955264",
+      "after_sha256": "b4a20dbd791cd2e6517bd0a688092f59f5cdd8c3a0e030362cc8cecdd9283f39"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2f",
+      "field": "explanation1",
+      "before_words": 37,
+      "after_words": 163,
+      "before_sha256": "dfd1f2a9edb6136ecdc903bc28fd7c54c1c135402e642c6753a2db96da2a8590",
+      "after_sha256": "f5e9c43b63262bab6f04a610b432e93ac78db2a98cba5e626f22c25444b5a718"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2f",
+      "field": "explanation2",
+      "before_words": 37,
+      "after_words": 160,
+      "before_sha256": "a2377923951bac02964b3a3d4b36a645989a2e1111aa940848ddd2b10be2a872",
+      "after_sha256": "135b4f8a5a605563a1f0dec9455be3271df5b260506f2fbea9ea3e07fc9b4514"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P2f",
+      "field": "explanation3",
+      "before_words": 39,
+      "after_words": 166,
+      "before_sha256": "14a3473742754e49304b1c9a4510cc06d4edf27dec7cc71952a03a2edb4bf0e2",
+      "after_sha256": "dc4c31f3d95307afc103a9af40a1df0757171dcd576e02cf629ad798645078e4"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3a",
+      "field": "explanation1",
+      "before_words": 37,
+      "after_words": 160,
+      "before_sha256": "09463f0dc9e0574969cc2d873bd16a3298ede276f043f8afefc00a2db309df29",
+      "after_sha256": "27a1ee49b98ca6c0aa6018a02afb2237e7317afa44c9c05ae70ac50417ac0185"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3a",
+      "field": "explanation2",
+      "before_words": 37,
+      "after_words": 159,
+      "before_sha256": "74cc404f70b9cca96eb4d4dd29065187e04de3dcd7de1235b0274f0a02cf74ea",
+      "after_sha256": "8c619801ed5272b5f3251516e1df774244acc256bfcbff10cf86c416762c39dc"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3a",
+      "field": "explanation3",
+      "before_words": 37,
+      "after_words": 162,
+      "before_sha256": "7a07ee926f1ebd3ca300e91dbb8d294bb2df4fc9788ae930b6d64cfac16e3113",
+      "after_sha256": "6dc82e77ba99c66a6d9afbd96b4a157f8d545f19cec9904ee63d95cda371980b"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3b",
+      "field": "explanation1",
+      "before_words": 45,
+      "after_words": 156,
+      "before_sha256": "6dd2277707efbe9053beb0091daa3359f82fce6bcdbcdbf2129c74c5a841d382",
+      "after_sha256": "e3795a7557ec25cf94b48f33489a56e6a0b41a32977d6dc42987fd7de277ae2a"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3b",
+      "field": "explanation2",
+      "before_words": 33,
+      "after_words": 149,
+      "before_sha256": "a39aa40919a30e5010a2bd5abe2e68d5ef0c4bc0307da91a2262c381cf7bd2f2",
+      "after_sha256": "ad258ce5051921921d149b0d31c4b19dcad59ea66e5334b9ef29becf36b989d5"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3b",
+      "field": "explanation3",
+      "before_words": 36,
+      "after_words": 154,
+      "before_sha256": "b56a3f04baf007710d39687ebf16c947fb1fed86904ef2a300ab7447a3e3edcb",
+      "after_sha256": "6ecb9fd53367ad40672bac20a8bc8724c2b6c7e426163af178d91a948fa0cf50"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3c",
+      "field": "explanation1",
+      "before_words": 33,
+      "after_words": 160,
+      "before_sha256": "4641228066fdbc8371937b5850bf283947229a629f6add255500763ebc0f7985",
+      "after_sha256": "46bb559d54289e354912e3636844dd762b4efb89456fd47e10c24dd91418e7d1"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3c",
+      "field": "explanation2",
+      "before_words": 41,
+      "after_words": 165,
+      "before_sha256": "293ee963c8f2131202cd145a979eabae96e50e937a32c979006149d92ba69430",
+      "after_sha256": "d683207171a52c1dd2ee9ac2f16a818f6f84db9a5303b24ab5230ecafd829df1"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3c",
+      "field": "explanation3",
+      "before_words": 36,
+      "after_words": 159,
+      "before_sha256": "13f5658e93964ce3e3bd80f9acbf4c81c0b09347355ea2b4010febf4241d8143",
+      "after_sha256": "d1c70764115e68e4b89418576f33c2542a8249dc6efa269b80f3ea2c92180047"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3d",
+      "field": "explanation1",
+      "before_words": 38,
+      "after_words": 163,
+      "before_sha256": "eee26be94e3b9e85937c46b11e61b8cd1a229a7bf3a09dbd62ff522502bcd7ce",
+      "after_sha256": "9af9c6f7d89a094c7fba152b7b69b0788adebbb796e164512216c99ea0b8dc11"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3d",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 161,
+      "before_sha256": "a02602ec3d700e515835882163b2d2430972e47b7655bc350433b704c3573b83",
+      "after_sha256": "b81fcf0ca1a4284b6c2855bd59782dffc0c88ed43c8ab2337ea8b36167f26158"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P3d",
+      "field": "explanation3",
+      "before_words": 36,
+      "after_words": 161,
+      "before_sha256": "0bee4377b6891fca8f770c5f4c1e511b1b1f978ec4786350d3b6271b5eb38f78",
+      "after_sha256": "10ccbe0215b8a75a191bf8edb0d4654024fdab79050c6fd4a23214d3880d8456"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4a",
+      "field": "explanation1",
+      "before_words": 46,
+      "after_words": 167,
+      "before_sha256": "df74dabe2437e51221377eea7346fecb7dd1a8a86bf1766ef8d947748e624053",
+      "after_sha256": "a9bf426fd5b496c41c2b7b58ecab7467d010293a8f280d6882b3ea64ef2e3a43"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4a",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 162,
+      "before_sha256": "53c82f17e2b9fd32c8178b5489992950bb9da184ec193540498697df9a30a1a0",
+      "after_sha256": "926e350c0aa2d2e956d4fea3214391e7d0e7ed2f1bb11d23acd762dc0067fd92"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4a",
+      "field": "explanation3",
+      "before_words": 39,
+      "after_words": 164,
+      "before_sha256": "7c68d4f8e028b1e56737942871cdedf62e1132fb377bb35ce0fae9891e457f0e",
+      "after_sha256": "e69ba9f98f7b6ee5ccba7411d39591ca689dc0392e5398b64669a6805e188346"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4b",
+      "field": "explanation1",
+      "before_words": 44,
+      "after_words": 167,
+      "before_sha256": "146037c32cbcd08b3fe247a9778fec7a272eb84d57e32eb10b44db317d5f7d40",
+      "after_sha256": "259ad398a9352e78a032be52c36664768ff675a1ffb666dc73ee3704cdbf2fdd"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4b",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 159,
+      "before_sha256": "d1eebf29b0d6270b65c17b63bf910433bf28663ce803cac630f5ce5e90874364",
+      "after_sha256": "8bea903f82396c9b91acf277f28496fa47616b6e359de534d02226fd819099fc"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4b",
+      "field": "explanation3",
+      "before_words": 46,
+      "after_words": 168,
+      "before_sha256": "642e16fd76f65b2ccac2536bd0050ddc65f28a60873fd8aa38cb2a89b464fead",
+      "after_sha256": "80d709972f4b19795ffe3876b950b0d1b53bac21c8d21dc8b7ea66233fa3da31"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4c",
+      "field": "explanation1",
+      "before_words": 42,
+      "after_words": 171,
+      "before_sha256": "fa0c44261063e9423603469b1fdb8edb9abff0a348b0309d863ce4f77f94abc9",
+      "after_sha256": "5f80677094c64d77ea71946f8fc324c52310bdb77164dbe6b9400709db7017af"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4c",
+      "field": "explanation2",
+      "before_words": 36,
+      "after_words": 160,
+      "before_sha256": "95ea5db0b21ab99cf9ec13eee0954c0a8dfe234128d8707e79ee99b77a5259d3",
+      "after_sha256": "93709ca22de9bd49002576a4a4feb326037d6122a516f1ec4fffc8e9044b9da4"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4c",
+      "field": "explanation3",
+      "before_words": 37,
+      "after_words": 162,
+      "before_sha256": "d97ff4609a5b9b97adb442d06fe1315b85bb9b724282144a051140a6a303b28d",
+      "after_sha256": "2f01647666f6c056895af77738a5212fc4cede0cfa8fcce0d72291362eca1f2b"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4d",
+      "field": "explanation1",
+      "before_words": 44,
+      "after_words": 166,
+      "before_sha256": "276710451bbbaee0e127dd6430bc7ef1c0acb10ce3d3cf120ba10526b0a4fe27",
+      "after_sha256": "6784d012a1da8371235578ce728d7d06c10d88191aea98c01339c17454abcfa6"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4d",
+      "field": "explanation2",
+      "before_words": 39,
+      "after_words": 163,
+      "before_sha256": "b4496644b60387a9a80d0d6d8f227eef5221fc453b18f09fee006045d4598a9c",
+      "after_sha256": "1d93c0b55c7b83ca179ca1212bdd5fade41ffeaf562e4275a755a126b88ef3d2"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4d",
+      "field": "explanation3",
+      "before_words": 40,
+      "after_words": 168,
+      "before_sha256": "3a30e7c4409c5ef26a4d981a50864fc82563d6d8b8644b9f6289d5c2fb6e72ec",
+      "after_sha256": "fd1cbf5a9697c278a7e38827645138770df3f4b8358dc29d7d6e707e05dbaead"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4e",
+      "field": "explanation1",
+      "before_words": 41,
+      "after_words": 162,
+      "before_sha256": "2e0bff280b16741c9c8423bb4505b539e55cb09985fb3f9ba7ca974d2e2b3719",
+      "after_sha256": "7262d75a95e2a48eda8de5244cf174d657fab27c9d8b128225adb9c5af591bf1"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4e",
+      "field": "explanation2",
+      "before_words": 39,
+      "after_words": 166,
+      "before_sha256": "0056555dfceaf4482a781f462503918968f963e78fa4f79362a88c803265e234",
+      "after_sha256": "edf07b0beb1763e27b8bfe013104852b506dde739fb605ded65d9269371652a8"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4e",
+      "field": "explanation3",
+      "before_words": 41,
+      "after_words": 162,
+      "before_sha256": "1a956912bece1be66aac817ec54aca025c10504e35f7a6f75c36fb6e2e495f52",
+      "after_sha256": "0d5dbbb7477bfeda9089a6c04a02d5ef9c08bfeef0a089d2ac7d1f71c02ad146"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4f",
+      "field": "explanation1",
+      "before_words": 42,
+      "after_words": 164,
+      "before_sha256": "f81c271a76dcc7adb7af2abc1f44eaeb23c55273fef3bd8a5f712780ab37e064",
+      "after_sha256": "5e7dbe61759063d7fc734b056e55bfef5bdf0074d6282450ef3216470670b7d2"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4f",
+      "field": "explanation2",
+      "before_words": 36,
+      "after_words": 155,
+      "before_sha256": "417194a9c3150ba357390cb1574ea87d5df21785480115af742bb87020c88b24",
+      "after_sha256": "f807aa62bfdf028986f170de85a95dd2044845facda5bfa5677c9d014f463031"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P4f",
+      "field": "explanation3",
+      "before_words": 42,
+      "after_words": 166,
+      "before_sha256": "609637420055ccfd92d1bb571c6fdf78656881e07fd5589092d2f38726fee20e",
+      "after_sha256": "a8b3398af83c905b26071ac8c6952204c72ed0119d484dc2cae72ebc667bee58"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5a",
+      "field": "explanation1",
+      "before_words": 32,
+      "after_words": 147,
+      "before_sha256": "98c9db895da77cb796c24f9ca6f00be7cc4fce04376a83a21623bbfefba4d81a",
+      "after_sha256": "6f57164756748413b285cf1d66ed2f928bdcc316601cfd1f478ffbfbe3f653f5"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5a",
+      "field": "explanation2",
+      "before_words": 38,
+      "after_words": 155,
+      "before_sha256": "af9bc8c129f52838c4b8e0c6c028ecb6d8b75f7e188c98f7c752226493425787",
+      "after_sha256": "dc009d7487500c339bf48c323876f86bb773d52960c4c5bc9e758ae425e65dd3"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5a",
+      "field": "explanation3",
+      "before_words": 35,
+      "after_words": 157,
+      "before_sha256": "3988988416116200bfc4abbc4647971822c60ad46ca7003b362143b9ccbea0fc",
+      "after_sha256": "2ac9ce84ad31f8673ba360449cbc91cbafed9614b6a7345f4474d588d5176eb9"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5b",
+      "field": "explanation1",
+      "before_words": 38,
+      "after_words": 159,
+      "before_sha256": "66b7e6e156ec69bf920af86605954a655c01df43b11e755a7eda8305da47bf04",
+      "after_sha256": "2f1257c312d5346097ee490911a775eb60cb9511bc026dd9dd4f5b3ff66884d4"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5b",
+      "field": "explanation2",
+      "before_words": 36,
+      "after_words": 157,
+      "before_sha256": "2b178df46eec014e2eefa1b514b4023291cbc0177e8a3ffd82050d3c856951d8",
+      "after_sha256": "b7b3ccf93a1c552bc8e8104cf0d96b5f982788b94c964ab0e9545f343f447c03"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5b",
+      "field": "explanation3",
+      "before_words": 33,
+      "after_words": 156,
+      "before_sha256": "fa595777e373ab7c9fffb6da6e8363d5f734e2c82a05be844b7b8470e40e9796",
+      "after_sha256": "0c2c320a6b7075f3d72933687e733ed6a219cf722f71ed9979862c3f1ae07115"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5c",
+      "field": "explanation1",
+      "before_words": 34,
+      "after_words": 161,
+      "before_sha256": "849153c2ea6ce9624c383017c8997bd0a1a1408d694bfda54a95a1163fcca02a",
+      "after_sha256": "cb646fd28f0ec4512358b2618f973467f63abff5026e113765c9ce4725699550"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5c",
+      "field": "explanation2",
+      "before_words": 39,
+      "after_words": 162,
+      "before_sha256": "4c49dab2cdfb7e15173eb0aca2d4850f5b67ad7fad6c38d674ff5bbcda315e4a",
+      "after_sha256": "597e5e4e7d1ed7733521a65ffecd49d457a26e3bf36a1c480f494115ca7bb289"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5c",
+      "field": "explanation3",
+      "before_words": 39,
+      "after_words": 162,
+      "before_sha256": "49534561fecc09fb1ff0ed941c027b5f04a96d8af5fdaa001197dd645d690135",
+      "after_sha256": "d0a176697d46dd5a38251822fcdb2f5ce228cb40bd5016b9201535b48f37ca5d"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5d",
+      "field": "explanation1",
+      "before_words": 42,
+      "after_words": 162,
+      "before_sha256": "3ca01eb75fa39dff54511c06963dd4a7abd6eff42dc8191d7b5dc923a7ffd011",
+      "after_sha256": "a575174bcc2790a95f9c81a76492a7d78ad1862d096c6d7c7d4263e7a1b56118"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5d",
+      "field": "explanation2",
+      "before_words": 42,
+      "after_words": 166,
+      "before_sha256": "bd13988c289294a2272484a5161b9f4a69a53c30517ee0146631916b78760b3f",
+      "after_sha256": "007a078749dc23adcd4fd5b2fa37368f2ea905d9587a759743ec65d3c21ff2f9"
+    },
+    {
+      "file": "explanations-exam-integrated.tsv",
+      "id": "P5d",
+      "field": "explanation3",
+      "before_words": 41,
+      "after_words": 168,
+      "before_sha256": "6e119b5b936bc1a49ed8387dfe7c95c7d55b4b358b163f2dcb4a1297f8035a94",
+      "after_sha256": "b2769c85b2261c29df5ba2703a02a7f8d5ee9e4d1f0c9239446cdbbf6ce8b0b7"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M01",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 137,
+      "before_sha256": "d8197cfcc165f03c5fbf171f7e58ebd22c1723c154e2b055031d015c2ab01925",
+      "after_sha256": "b14ab5634b9c023be0c47a0c0f22c330e77c95b0adac1c456a9755088cd51dd8"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M02",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 137,
+      "before_sha256": "29f4f9136315c5d0e80219eb7e8671092d17ed7b53400b6e3ad2623804cae542",
+      "after_sha256": "85dc244c3880e12c0bf26770227a3d1e0ba873b2aac772373b64ecfacf0be293"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M03",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 134,
+      "before_sha256": "2963f88831552bafb3222bc41e2a73df5258fde4c0ea385e70addea7cdf7b754",
+      "after_sha256": "b4d7d6dfc83377d1a1e9a25147f913a4f1d9faa1bbe1b4ccfff346c41c184b8d"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M04",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 138,
+      "before_sha256": "e7d59a899026008aafd1e1b7f1e727e94cbf8f4adc00e6139e9a1236ad84fa6b",
+      "after_sha256": "f884e5c44394a350d459d04b04a2df5d7d76426760cb1f2d501fd0f4dd2eec1f"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M05",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 132,
+      "before_sha256": "72dea8d3951a2e84302798efd901f2a4ad6954ac5dbcf6542b05c17f847a8f20",
+      "after_sha256": "72d346a038d6187efb8ba12d9438d10b28c732ca73640f0ff8fe1a497ccb1d9f"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M06",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 135,
+      "before_sha256": "aeea9b2ed818fe1502ca8b912926fae64e630a0a03cfca91340e8ee68bac0a89",
+      "after_sha256": "5fc8079ba506e7031531265a208c7f7eb7d81e90fccb2abf5abdb4e1396bf207"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M07",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 129,
+      "before_sha256": "1bf3dcb0722b678c24d27ac3775bd567abf84ab75c6cf31f25be200897fbf0ed",
+      "after_sha256": "95679b1be2635f653abc4f06608c23bfbf45b47764330b895f75f493d6da4ddf"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M08",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 132,
+      "before_sha256": "19809db1a5d088322ac6404727a3ee543655fa1d02682a39c6c8a7bec28dc77e",
+      "after_sha256": "b7de9af32b58d723a0a7d777174896434f4d1c8d563f47ee3c6b831e00aec17e"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M09",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 135,
+      "before_sha256": "ff1e1ccf9cefdac5fd2e7cadb05ccd1da246191aab7b2461eba3b328f69a236a",
+      "after_sha256": "de25f8de5f59b11792b35326cd283bb89e878bd94cd559fd971e8ee069c82811"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M10",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 130,
+      "before_sha256": "fce0c174b07fad744901554c4a75312d1492b66c949fa525933e80fb0df97ece",
+      "after_sha256": "a49b6e29be23da5e6fba971ab79130641a51045289366dffc5ed80df3eda64e5"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M11",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 129,
+      "before_sha256": "5f61aa31014efbbc8b964c2646f6673650d250a7784bc3c727abb326c657a229",
+      "after_sha256": "3fd387170b4f09613fd8521c175e891b324a6c21bc26231fd71e8f3525dbd52e"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M12",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 124,
+      "before_sha256": "256d118a8b8e43fc88e3635ec464514fb3594f32c41c87f20ae4a37ff7cdaee9",
+      "after_sha256": "acdda8db315da40d4bcb32ba9090b41509ec35ccd06cbc21bd1d2a097f59f188"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M13",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 128,
+      "before_sha256": "c748c26d93a26f065d46410293c3c2d9dc8fc3c1ef7f8d99fb6cf440f36a89a7",
+      "after_sha256": "b070f56f6901eb93f0ec06b59c4f2b71c8b2a99b5a8f06c5fc2c30fc5f2f3f63"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M14",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 120,
+      "before_sha256": "c94b3794c659eb84d3ce80465dcccf441bd3dfac1c1a4b246bf228f824d77bc5",
+      "after_sha256": "6c4d8dcc213b8daf3452b31a441fb7deeae7fdd09a6c8f25b7934214f1f96658"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M15",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 126,
+      "before_sha256": "c17d8d8b389fba9af8ddfca3d827e5b8adf5e0ddc7be2c0bfa55d8988b5fbb12",
+      "after_sha256": "fbbddec277737c87803fb54ee978452cba161b00ca6c8fac93369efe4106eaae"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M16",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 135,
+      "before_sha256": "8c3f1b8e4daee2fd54db39d8a1193a560c3df57d02eb810aa1e1b308600578b4",
+      "after_sha256": "5c0bbb946d8c594a6fa1046952134908bfa84c02a18c2f5e1f4d81e9fe8ad799"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M17",
+      "field": "explanation",
+      "before_words": 48,
+      "after_words": 147,
+      "before_sha256": "0a92552f9150fda70967ef396c6a97be065cfb64781cc4244b583551f0050076",
+      "after_sha256": "1d248c1947ef8017ada7adae6a076680607b106f227a4f4875182c6ed8f40ca7"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M18",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 127,
+      "before_sha256": "2389dee3cef5900ab78f5439e2d90cd2a6ec03bf588d87387b16a544dfeefd19",
+      "after_sha256": "d68f7a7f14e49da26bf893ce8a8bbc868a3bf3e9d6f3e939f6e86c29afa1e0c6"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M19",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 131,
+      "before_sha256": "29a050b11457fef5390871d9a1b7f99f8f0b20b5e456cb061fdf9b2249a66572",
+      "after_sha256": "47c6302eb5d30eceded914dec45ca86ad432d120e0409a8aed3540bb422668b2"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M20",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 133,
+      "before_sha256": "07df07fe02eb9559b7c777a741838d136411449205a938a8a69232daa53e6b1e",
+      "after_sha256": "eeb4675984e7bebf88789e4031feecfc8638a0dd54ef4853a7fd73329c5054a1"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M21",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 131,
+      "before_sha256": "146e5e98db683b06835af8eeecaeabc0eb39c1811278981900e43972c880c65f",
+      "after_sha256": "cd8657a1208aac8fcda8b4d7c5235fb28d204af4ef7783aad8b59a1b1b22df97"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M22",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 125,
+      "before_sha256": "066f1152f9da75a0f663a6abd00c542a37f4056604b6bf8a8cd17deccd2fe5da",
+      "after_sha256": "f368615086a1600fb8367319d64dceb7bccf55f8c4f2ccfa3d0f9186e3bc8a95"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M23",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 131,
+      "before_sha256": "bf7c9e134fa903d928a6330646f3ab4771d3a71b348293f5bf9c092295fd352f",
+      "after_sha256": "c3d1ab535fba8f84a4a9c07708456d700055925da9f4ccbaf5e5fdfd90ec7d73"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M24",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 130,
+      "before_sha256": "78a27c21753806798285805af0acec7d40f74e6844f455480078a67d6969bee6",
+      "after_sha256": "54c14f9ee72fa16e54b58e545d37b5770b2f88c2e6da01a2a256e9b10dc09e81"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M25",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 133,
+      "before_sha256": "c05f9db67882a60bcbec19d515fc684ef8db286c81becb80d2f40b076ff60b16",
+      "after_sha256": "fc46c8b70c464d4c74b1ee3567c512ccb139d70d23cb3d86e9e1bd1701366cca"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M26",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 124,
+      "before_sha256": "e599da5866aadcb777d32dcee70e1f972bb25d3b2d8ad393939d77062d3cfc11",
+      "after_sha256": "511a10b840c5448d315e7b5eb39f62773e7db8b7d35833538e3c29417b7a3601"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M27",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 117,
+      "before_sha256": "366ee7cc8ce69b03643a408da6cfe8a34b1cccb24877c9dca21da52da7d523b2",
+      "after_sha256": "43fb23e9046614be69addb3cba37af6d714dc7aa21ac898d6ef76b6dfaa73999"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M28",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 122,
+      "before_sha256": "0a68b0f7b7f985207dd74799d770d15f4b6fe968499ee67c658fe157384fe42f",
+      "after_sha256": "5d270d280c03fa1069dd12edeaf8f804bd5595fbd1b1fb50a69286923d7b1c37"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M29",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 136,
+      "before_sha256": "8e14bedd8a3125ef3594878d98e72262861b8af61daf5ba1981768b72f10de78",
+      "after_sha256": "ab461bbdb9752bbeea520c0a4acf236bc0758cbbd607aceb63daa61b56469294"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M30",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 128,
+      "before_sha256": "51271a8f5ed9b701c365355a6afcafbbd27d4a552b67dabad79ad914dadd8474",
+      "after_sha256": "ec0e25f5c0c16ec0e4e58c86b1215b3a7d183f88c1f6e6d38cfc171eea769dfa"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M31",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 134,
+      "before_sha256": "be825eac826d5ad03b620952b57f2b1806658d307afd7c30b2a8a7a9325a1754",
+      "after_sha256": "d7751f35943e765bbb9dd69b1051d52bafe7ed525cc33c53e63ab3b3bb2fd918"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M32",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 138,
+      "before_sha256": "6959c37530140d5dc74e4a4ea660273c22b65e0a6e04798f7efc5bdf5f50befb",
+      "after_sha256": "2c68377459d71064a3578258c7e3f7ebfd75e7f492b16be7d6dc61403a75244e"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M33",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 136,
+      "before_sha256": "c462931163568cee2d44c37edbd32f2c4ead6528d0dad17049195a9f33d5cccb",
+      "after_sha256": "6405bb56fa5320ad882a130950333448c3d103a00a539a963faa2339fd95ba4f"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M34",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 135,
+      "before_sha256": "a58ddee4c529f06ba4d3b2820de6206540d90fc9bb4fe78a2f52e844d287b9f2",
+      "after_sha256": "a0e23478c874ee2e654368ee5231055e55fd9ae60b47d1f3d49c2402e4e11a40"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M35",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 130,
+      "before_sha256": "de5de24adc5bb13e45bb363d06f7a570778aeb873f2006c8cbc30f327dd7408d",
+      "after_sha256": "e1b1922242502945eb8e5aaa7a883d5031effc49190696795b2ae0fff75c0597"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M36",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 133,
+      "before_sha256": "4da4f441c54bb498753dfdd19eff405f7dd84fd01eab366b863ea76439454a7a",
+      "after_sha256": "dbf8c53849eb249f1cc63748e482ece9ab55ba881f7e138b031a97927967605f"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M37",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 130,
+      "before_sha256": "7acf960d20319c5ed71946beb95cc726d0e922d6e26161c921f28f60da421349",
+      "after_sha256": "9febc1e7feda92191e8a73272c92197c64a9810da52083358ba2e318c8473757"
+    },
+    {
+      "file": "explanations-exam-mcq.tsv",
+      "id": "M38",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 129,
+      "before_sha256": "5a970da835133753822fe0dd783271c88a0b308a97394f06c084ce5f4bed4997",
+      "after_sha256": "944e29b06cfb55d0f6a4ba6a67491ba0952a6d1ebf8593ecdc97efc11d19a7b5"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc01",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 115,
+      "before_sha256": "01f4e332302287fd6088543e67ab67aae8a0ae2ae3b7591f92d680efac33f569",
+      "after_sha256": "16ff05da2e84906feeb334cf3cea856e1e649212c22eb3211921317dbe770e51"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc02",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 122,
+      "before_sha256": "6c99a0da0b880b8c588e244bcfdd073f76b4135c1748952cee7f59f14298aa80",
+      "after_sha256": "2f3beed551b2d39bb42857b7fae55d3741337f755ea5fb9c6a2cb7dc19903ae9"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc03",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 128,
+      "before_sha256": "2c92a2ab962ec2b4521673e3f3f34ab0c24c0764933089cd790c788baa64cbb0",
+      "after_sha256": "22c9cf3dd7dc90dd6e936a0d4def041effd6be427a85cb7cbd626f9dcd633fb2"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc04",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 133,
+      "before_sha256": "0ac562989f88d3a0d9e889fc2b0593840a4a52b1dd085a7ffe254bdb5ca5f2af",
+      "after_sha256": "11306c744395aed6655e3d3ee47dd54e5c9085ba2ff15c8935958669c87e1d9c"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc05",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 126,
+      "before_sha256": "bad5d78d565e386a77d46d35c7be4ead862ab06abcde4a975142daa04472aad5",
+      "after_sha256": "72f04d03d545b5c1597da520bfab503ff619e54e25ad7157719f332c9583f748"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc06",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 125,
+      "before_sha256": "3b8c61942e571aea785aceee2b1d87dc187f261a43d6b2722ad211a530446c53",
+      "after_sha256": "3817967310456e843c58ee147592ddaac2d950ba896bfc1cfae1eec87f8fa3a9"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc07",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 128,
+      "before_sha256": "65134158aa97142b299a8a7f5838f701b676423c1afd3c7753b785e035a38eb8",
+      "after_sha256": "4ad1e51a1a7e17785703f58a8453ebfc20603a7aef19c227c39ad0dcd77579cb"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc08",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 134,
+      "before_sha256": "8e8087363c569234ba461e252ce692a9b45e214f3f41022e03e51e940a57f3ca",
+      "after_sha256": "8fd11970608c5b0ba8cd9f332128abc619623698a275bb345bdff6a6553c0001"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc09",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 130,
+      "before_sha256": "ffe7e1eb4525fdfb201314b501126c01e4c78e40b050ad7054bc7d41d390eef7",
+      "after_sha256": "f07c2e33deca1f6b55bdd5f7c6e6e1fd0522ae2417b03e48eff0c5d5522611c6"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc10",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 136,
+      "before_sha256": "316718a7928cdece9bf1fc6129bce9edc36a21bc1d053279570809e587c01a80",
+      "after_sha256": "43525bfe16904ecf505ec5c92d332c74d5bc917e9baed70915cb080f43762515"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc11",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 125,
+      "before_sha256": "a75c459af327aa48d3e2b49b81c96d70c6b461e417572d0f37b5f485f4573d7d",
+      "after_sha256": "8ff776563f6dd209ea1050dec6b09b9ea03b2af3063e01d17877578bf6fc61ca"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc12",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 141,
+      "before_sha256": "c8b4fa00f52c6eb7deac0f49d7a0e0b627fb7ba86f994c0e3a9fdfeff84d4df8",
+      "after_sha256": "3184b7084a2142732591945c01a1e53b6a57472fe4b7ac9a658ec8d0997b7641"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc13",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 144,
+      "before_sha256": "bf0054c1232e5a473706322a850ef174efd6423d57691f6cbfbaacf5292aeb5b",
+      "after_sha256": "3888100cc063a28aaf69f695d5ca289475681c6dcf845b87a26aaef6ffa1b395"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc14",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 125,
+      "before_sha256": "37dfc90cb7082b6ca2f408309ec9d8a9d5d15e559b342f971e44f82f5def7795",
+      "after_sha256": "791a3921cf536eee2371f5849ce3b6cb549362671cd7c2544c9400a38088e242"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc15",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 128,
+      "before_sha256": "c94358d1f973a6bbeefb8cf83d981ea10931f1838dc707a772f7fdae0f10a8b6",
+      "after_sha256": "9f740968b681c15c3fdaf1f2f3bc0f630967505d229fd81baf38fed5f15efc96"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc16",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 133,
+      "before_sha256": "1e823db30c2db385087a5da8346793513f551d670fc3834abe025a51663c5242",
+      "after_sha256": "a33376a93db0fed343d6cd73dde9dada34a6e8ae5cd2e9d5192dd7312fd781ad"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc17",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 126,
+      "before_sha256": "9fd0e6c12a5162126b3b4ab52422a1c919528e8698d2456fb01de6e512f84387",
+      "after_sha256": "7b854881cf4052b4b493b07d5151746ceec2016e2659db0e4d5d763768a9a783"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc18",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 132,
+      "before_sha256": "fcdecfb26c66792f38afcc58125c083e0dca05e26cf105881b1db5e1170564b9",
+      "after_sha256": "2689b02bc9135259fb47eed62b5951103e3c958b27390eca346086bff834edb8"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc19",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 131,
+      "before_sha256": "7c600a147767568172075229be80256c157d37323c9a80992372c57f6dc5827b",
+      "after_sha256": "dff63fbd49378eb45cc38b03e2bffc078508df1c888cf2309da22973cf82beb8"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc20",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 129,
+      "before_sha256": "8f863dd90487f8d8325f43a580723ecf3ef2e81ad6204792e2477a79ff83bdcf",
+      "after_sha256": "a271dd62ed4d3bb1ffeeab40226378c80cedbef80232509ac3715da81ae374c5"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc21",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 125,
+      "before_sha256": "77605c4d15e9b6a506150770652d51758d656229070a3e687c13135c8fc17a34",
+      "after_sha256": "95e82c119b2a5bfc4d8e6e374a2f20b03636da5aae70ffc8cef138c70296ad89"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc22",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 131,
+      "before_sha256": "134a1589df5add06529fffe810bdf7257ffdbe36528d04368daa11b512a94638",
+      "after_sha256": "6ee94b14c8c464b9fa8d844577df98e046c2beb4ecc2446e00f7e41d5a49a98f"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc23",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 131,
+      "before_sha256": "bb9065e13295e6837c7670950c05a299dcab3965b7f4c9508c6dca2fbb9de178",
+      "after_sha256": "fbc56d1b9e766586883e270d9f5d724d22be8f1144fdb06a2f7dfa2b2fe1391c"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc24",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 128,
+      "before_sha256": "eec7ad87f94a200773868e8fabde812fac4feb7e5430c5c3c217ed5a000e7dd8",
+      "after_sha256": "93bea78462a3f2fbffca0ae7250bc3ebaf0e0d4473fe30419d271ff0b2ddb3a1"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc25",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 124,
+      "before_sha256": "cdb143cdf74202f4ab81516bc8120d2e44388079b7ac4ba60443fa760ba77933",
+      "after_sha256": "4758cdd2c054ac9b251bd75ead584da38dcaad5c42a35533558d2b6b9e3219ff"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc26",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 132,
+      "before_sha256": "2e62a20a7795d8beafc925cefc1b71d4eb07cee0de25b025af4b450bb1d9ef26",
+      "after_sha256": "5ef062bafaa7c3a5741ceb4f356d7bbd0ad67158f4fc4481851c246b4749d0ee"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc27",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 131,
+      "before_sha256": "0aa9d6a50c6523fc498f1dbd1e52b36116e57f23d640df2000c8eec0e6221abd",
+      "after_sha256": "ae3a05df6ce483bd6a0aac02df489d4fb90610b460242e3f7bfc03380fd47eb3"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc28",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 124,
+      "before_sha256": "bd7ff0067099cfc9a7cb9375cf7a6134a2d4bf7da2e2d69d504f09040c728254",
+      "after_sha256": "0f157c5e2138623e0c511c6d030c50bc841122e8c63c0f6aa2946fe402e2c361"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc29",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 132,
+      "before_sha256": "84bc993c6ddf41850630f98156d6880889e22eb17147c31630a872f918cc1ce0",
+      "after_sha256": "700aaae94a872c8a2568e03ce856de6b61fb68785cf6500b6db2678ab7ba24b3"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc30",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 129,
+      "before_sha256": "0006209a6db73181c205cf88c523b01ba4beb066517c0108add7304a05e11297",
+      "after_sha256": "efb1e19a2991c65afbaea087d1d10756e36a6a5bf95b400ec33c265e386bc2a8"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc31",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 124,
+      "before_sha256": "07efbcd964f5cf08947b03e5f1367c789a0d4b79084c86ce265f293736a0d16f",
+      "after_sha256": "a6e94ec097a444156afd9861765bec65116a68d78283f85987730f5491ec74a0"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc32",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 133,
+      "before_sha256": "bb714ecd8a61e5604cb2beb62f5ceb96b11cbd52658b8257574227a432bd173b",
+      "after_sha256": "f9a6c1f65db7cd2c3b7cc84d1e614ff8353bc9c7cf70717bfac9af5497a7d62b"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc33",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 135,
+      "before_sha256": "27ef4440e0f584726910b188596d581290e34e909495a611c74efe5551eb5700",
+      "after_sha256": "82984974c8974534845bdaf4f2b1c76f6b09f1f481d911f0ab9bbdcd1f1f0ae8"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc34",
+      "field": "explanation",
+      "before_words": 48,
+      "after_words": 141,
+      "before_sha256": "436dac9398f89041f038df58b1836260571411dafb3e57875fe6a70d0ffaef9f",
+      "after_sha256": "3334aec2dc59a8e2e775cbdc8e535625b4c9748007be79f8a2d34330e839ff74"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-mc35",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 120,
+      "before_sha256": "3662a8b891677dd3238624c3261b2d6bf1d1d59b3a0ed905e02dd79bca05bedb",
+      "after_sha256": "0c72e6819a18503b88b0eeedb64b1ad29ec4754daf00e5a9fde95745bc821843"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo01",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 168,
+      "before_sha256": "97695ef135c68a133e77adcfe4ea794177dcb69338e3c15b10ccce2cb19b2156",
+      "after_sha256": "306dca9c7a4555c44f9eee6791e91ba1574377393c509b476bc0d61a31333498"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo02",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 158,
+      "before_sha256": "085d25610f6911a1a1e79a672203bb5ca5b5ca6dfac282c372c35ef8156df65d",
+      "after_sha256": "ed3de1d5049ace61c3aadb10219698db49e3aef5e5a5953248370e820009504a"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo03",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 176,
+      "before_sha256": "4597afd9bb15a4655e159ae65f8beb1b8e05a57743ccfb97a85cc1d8ecd51c92",
+      "after_sha256": "f70b6d4fc961a285c1c9ce0d3b0fa7b32c5f6e89e3a917fbbee72685b8036265"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo04",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 161,
+      "before_sha256": "81abc32c24dc14234faab66f83c86a33117f841781c7e6f2044cf083e7cabf14",
+      "after_sha256": "f26e9de0ac3475552f5b91cc53eeb3b8704c95a73a292e04a3080589c29aaaf1"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo05",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 174,
+      "before_sha256": "e7b9336822b7b685e70d480744c09847869665771bfb14532875af6fd118a9c7",
+      "after_sha256": "b8c7ce0dbd6801daf6443bbccfed0a5cbeddf7307cf35ad064212ac548054144"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo06",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 168,
+      "before_sha256": "d5e7c707edbb582addecaf8f72509c218ba22bf6c1e639cfdc23a6bd5bf71966",
+      "after_sha256": "222ccb2a6d403578b299e77530b890c8b81b0de133db70bc7d713387ef53f2cf"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo07",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 174,
+      "before_sha256": "174e73f28e7cbcd916d2562ca344bbf0804f26e8223e51ac5dc452e4c9fdf551",
+      "after_sha256": "7a2de1989acc4f0fa6502f16b536bb4782644eb1766b27385c4ec1f3b43bc9fe"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo08",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 179,
+      "before_sha256": "5fb068970b60a0d1f8f7eccdf7885b4fe8cd8a315cb8cd99137624af14d72fac",
+      "after_sha256": "2a60a390c73550301efc630cabd41347dce664c2f5a7afdb87de73f9e1c40a7b"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo09",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 167,
+      "before_sha256": "b358b86ee3bef5e7f4ae5a513b46d96fcbeb51df56f55765a6ab598615587510",
+      "after_sha256": "5956880f480b9ff7a9273ceab9698f1bf3f0afdae6a255a9ad8fde79003dc2d6"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo10",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 164,
+      "before_sha256": "993f724a289f3714963860d46318fb2336a3de0ba3454d193f2e9208810ddfd8",
+      "after_sha256": "2085ab4fab03c33ce13686793fecaf0fbf793d85850950db0567b75c504c73c5"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo11",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 165,
+      "before_sha256": "71f2e0c49a362298cf2f2d4abeeed631c7bee3cb1f732bbc38b27c4780dd0fb3",
+      "after_sha256": "10cfdf6c6b296905e2d611b0f962907596f41b30a47886cfa73a3ab5b3674c7d"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo12",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 172,
+      "before_sha256": "7d90f12e83a1ca0e4b75df958f6fa2a9b97e47ad447ead082d3838d54a4f8062",
+      "after_sha256": "bc17ab34592bc25e43f324cea3f64ca07530bb4b0e34c17b3e730507e46319a4"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo13",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 172,
+      "before_sha256": "f8759588c69daa0d0cda00b7d702ec35476e8becee8688f1e96c90a2229cfded",
+      "after_sha256": "8640867963f93e37ef3ffa0e9510301683ed01a83e5eaf242256345727a5ec06"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo14",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 162,
+      "before_sha256": "ab650a56aa7a2833e301728bc22f850721b8034cbf533e87455a96a5e8c28a99",
+      "after_sha256": "b0e3b7a579f5bd5e368301d264dd98bd3a1c0530af5fba0246944da072604a72"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo15",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 166,
+      "before_sha256": "98873ec2320f7db095ae377512447e194abffc102ebee0533d3650af8e594de4",
+      "after_sha256": "8453238c55c7f1db92bb0b1c033ad69663b015302f86b2314857ff13530512cf"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo16",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 166,
+      "before_sha256": "a0e602796c7dad220e1cc4ae153be167a8646404ba567fdd7d5aa36c936174f6",
+      "after_sha256": "75ee654f6f8e9e870393f575fc3b5f8d319cc1806835ff768db070ef69af1863"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo17",
+      "field": "explanation",
+      "before_words": 48,
+      "after_words": 176,
+      "before_sha256": "68234f733f5b38660f22b8c6f89d946abfc19b497d478825eea10838fc43ea93",
+      "after_sha256": "bf787ca258238952bb1ab2e92a98dc265e603d20f5ba83b1ea7d2904e7aced77"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo18",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 160,
+      "before_sha256": "f606a2c166f8594c0a6cf1c596cb6ede3eda91b4965428621a01eac15d23e055",
+      "after_sha256": "6295daa32339b3e2f9664094467f3a24701a02e2238623e5c9a304c5ca6ca952"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-lo19",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 172,
+      "before_sha256": "ca427da0d64be3a5bbfb1c6cd2f7970efb3f7c0c8de3944a1d267bbfbc86734c",
+      "after_sha256": "60d439d195124f9320da73a7e5dff2df4ef4e7d5d2a1906d4c66696d46c7d5ea"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-ix01",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 185,
+      "before_sha256": "76444ca27b4f9c09a5204a2cdb237a76180168b7f1048e1a7a8434ce4b1f6dd4",
+      "after_sha256": "39ed390cbb0a5c10e26ca7d76d5909f1e9cebb042d213e6c1dc0ee59d57ca75d"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-ix02",
+      "field": "explanation",
+      "before_words": 47,
+      "after_words": 196,
+      "before_sha256": "71cdb7823a4990a4e23293ee96db885cced6be7c64200633b84c24923ae7cd57",
+      "after_sha256": "aa71e6630ab371d238147b0c727a59d80c4408c12bd039f10899670e375ff4d5"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-ix03",
+      "field": "explanation",
+      "before_words": 47,
+      "after_words": 190,
+      "before_sha256": "59a9bb2542b4825770f0d562da65213eefc02ed4908389f44ad42b9bdd51e478",
+      "after_sha256": "de17e9d63fe3cf400e829d95505e25574ed37ba14364d5f931526b451e5fc6b4"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-ix04",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 185,
+      "before_sha256": "5d5845172d2fa366b00881959b30da0f0121f7987d1112a68999626b0b83b974",
+      "after_sha256": "2fb7d2fb923c5515e12e1f3f88eb81499ba6ebe0928da3abf44856addc3ef6fd"
+    },
+    {
+      "file": "explanations-week08.tsv",
+      "id": "w08-ix05",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 199,
+      "before_sha256": "4434f850d99dcea9fd4ee784c868daeba71b4e1d9ff348fe9131d8436a4c4820",
+      "after_sha256": "f70e89b1aa2137552ef4ddb56d4acab03ef6d38037f4e39b9574f8df639f0d7a"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc01",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 127,
+      "before_sha256": "e2e29ba2fb476ba70e50462c3147e933c6fc7cd93ee0a525682714c0e372bd40",
+      "after_sha256": "981cb8804560d914911ee6e3db914e06184196e49344ddac6d02f7e717017be3"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc02",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 132,
+      "before_sha256": "f43ae3c7c7ae4b020f63a593e382dfb002d75500c532267619dcdd6467a51a0a",
+      "after_sha256": "e327b70fdb3326da841353918c53f34bf1f4c5305dac4174b9cd5f56431baf0d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc03",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 122,
+      "before_sha256": "96a09ab1284d491e7c7b377490684d3b029fa70a75a0893937133ab732f8a995",
+      "after_sha256": "972d8ef1374a198e31c312cc190a08d8ef8721e43ab221335a5fe74b782dfa32"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc04",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 133,
+      "before_sha256": "d1f5b8b6c3c6bd84b03e11cb28c2c1a20aa39fe6694c9a606cade1193e100528",
+      "after_sha256": "ceaa0c7b555f3b7ca549d47413d20e481a9fb8a06d7b613a90896ffdca46e29b"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc05",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 125,
+      "before_sha256": "85e6491ebe096fe1e256ad3addb454563cf0a828ebddc21589d05ab5daaaabf1",
+      "after_sha256": "861e0981a8361deefaf1196d76570f9388a28c2e5aa76a252f44f15330ea81c0"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc06",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 118,
+      "before_sha256": "a86c9e1ec71d3752520dc56647b23d6247304ad02843327b62cb2fd74bedd84a",
+      "after_sha256": "7b7ec5a3b7cf554a99c3639223d9f100a81cd3dd277085e4ae38973420112f54"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc07",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 131,
+      "before_sha256": "097d2214d620c10caedc8f41de048ffbf0ef96836ae2eff6ead301ae63e21b43",
+      "after_sha256": "012d26b88785d6a23bbfd01e4d019ceb3d9536f7f8e45f88362590afe7c73166"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc08",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 117,
+      "before_sha256": "ff99895643295dfe37405ce7a283a36150f9fde011bb71ce329ad3db5273e637",
+      "after_sha256": "f7a5f7feae8c52eba4d2ddc2040159528d334ccb3ccdd379f332e79d0d9f5fb3"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc09",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 134,
+      "before_sha256": "b1a3fa739ed96a6f39bc2f9b90e0b86210a994635e945d1780a27980d719c73b",
+      "after_sha256": "8d7d375097029bfed090f6d28032d3b6656e0c357bd4bb0d55aa7ded9ac24b9d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc10",
+      "field": "explanation",
+      "before_words": 30,
+      "after_words": 112,
+      "before_sha256": "b97e4ab144e4f5f1a6200145b2d568188470f00936da025887140b9d687bbf81",
+      "after_sha256": "5bffbad7aa794855482958e352ac969709ae709ce4bc0c91eee07d99e3ab00a6"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc11",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 127,
+      "before_sha256": "248b7f7c4a8857220c92b3092e188ce2784884548401138aac40a7f1232cf51a",
+      "after_sha256": "7d092950841d840915d8f70cbe07a4b75c4e164901de63371be80d4c74fcefc1"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc12",
+      "field": "explanation",
+      "before_words": 29,
+      "after_words": 110,
+      "before_sha256": "7f143ccdbf563215899fdcfe43d29b82ab839a13934ebb778d15771a48617867",
+      "after_sha256": "31cf81f21482e5542de18f2649734c792bde34b54fdb39aef8f2e305e163e552"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc13",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 119,
+      "before_sha256": "2457ceb5d049ebd3d710a5517be4ac846954378d807a3f9f303ee34c87445f1d",
+      "after_sha256": "0fcc8e5c77c1cdfc92129a31a2ca63bc9e7f7ba6d557f79dae316b49fca2010d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc14",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 120,
+      "before_sha256": "cadab0b2df9a42f96ed90233d6f59b0a738a8ba10e08e87fa4cfe196b48b8315",
+      "after_sha256": "9babfb154bf08ea6a4e49c406f150cf753efda4314494b95b50816702aa669ef"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc15",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 120,
+      "before_sha256": "3c38761d7698cc86cba53998a9c5ff70f7629dad80a3c5bc1c169107bfe46109",
+      "after_sha256": "1e5ceee359bdb85b2a151b3eef4853a3052dfd588396eb8ddbee94f9f17f1b1f"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc16",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 136,
+      "before_sha256": "567ca7fc46b1663f0445dfa7b1c2261fc3dc2d95386dda6d2cee97a76597abf9",
+      "after_sha256": "f9a09e6ac126fd1e528d57a0dcd59a4089fed4bd5ec29903055515c00c78341a"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc17",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 125,
+      "before_sha256": "062bb26492e8dbefbd37fa205b7e5520bbbd0ca35f4692e5e6e2dc4d948fec0f",
+      "after_sha256": "480366749d8f53fc55db317b165436056c71a42b72cf9c215108dcf3f1f7fca1"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc18",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 138,
+      "before_sha256": "a292543aebeeff606dec1adf82862887025a8b4f35a25fb9e8786619e1958bf8",
+      "after_sha256": "56c64bed92f294c10853ced53530fc0cffe5832408dfa2b748b0d7fe1c8cccb4"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc19",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 127,
+      "before_sha256": "5e1dd0fcd1ff7b83799929451a1bee2b8b59d5ca2d1b8671853cf36a691225b2",
+      "after_sha256": "f7a6bc3a565c888d9c36f9dc211fdc98869e5871e6b4293b7e4d54b23e4f1dbf"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc20",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 125,
+      "before_sha256": "25ece1d5841d0c595564b9c3119127c77369b9b2d2473743336ae98e24738c22",
+      "after_sha256": "af26aed5fdc5eb2d348c99042812fd52de57c1cce34f6b16cc12b2733bb24ca7"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc21",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 121,
+      "before_sha256": "5a00af2067753da9e39a7f38ee3c6f907f40a9813e21399f5894cb4aa0e846f0",
+      "after_sha256": "7c7c4ceca0f29f7b4d7e03c9131b0cc36f8a751b9c05dd3212c8c4bc08a5f90e"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc22",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 133,
+      "before_sha256": "7d13d038181910ae44af4d74187a3dca9722d0e4f2bc148eebe534fe2d916c00",
+      "after_sha256": "7ed3ecedd865a37d4311ba579823ad92e6300efe7e3e70580a7a2c67880bde4e"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc23",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 127,
+      "before_sha256": "74e4829a2dd4ef47bc591ee1fc9593c85ae64df4533a6661bcd40dcc68a39c76",
+      "after_sha256": "d823deb8851604dd5afae91caa1ecfbc6e97ace25a22e397e1971cb76d562cce"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc24",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 128,
+      "before_sha256": "cb85317f8defdfdf857939c753a21b1649f059ee1918b44ac820ba8c71ba359d",
+      "after_sha256": "5764c6869e7e52748264dac70c53711c295181f36a68eaf43c39618135999657"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc25",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 128,
+      "before_sha256": "22ad52b1fbb0370ec827a7446cc351a84cd5ecb22dc8ecfe414a95d6aa60d162",
+      "after_sha256": "caa5c4e84a3246aea091d332e37412fb7f614a4f72582e29f1a2de25607509b7"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc26",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 119,
+      "before_sha256": "01d3dd698c1a224ea0a1db2055e2eb0e03a22d5070c05383a2c0dec278edf8a8",
+      "after_sha256": "f2d1ef48e9a88ace66c2efb3fd20143cbb73b3a352b56aed4623a7f4ba5d9ac6"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc27",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 124,
+      "before_sha256": "337b9b810d80efe8cde974088772859b71e6dd462114e5db91ecf4e03fc3012a",
+      "after_sha256": "9850120a70012db93c5a1921a0d3aae4392e429e3082baf59c230785fd0dff90"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc28",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 125,
+      "before_sha256": "6296933c11857b17b764170f770dcb6dd7b7cf96afcf9c96b732ca1c238aa07c",
+      "after_sha256": "f273f883f98f5167ec7b05820b82292099b2ce1cd41f46494beca40a0210c298"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc29",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 132,
+      "before_sha256": "c73b879463b820b965ff49b8dbdc7502433d8bbe9c4f85a7d64676879d1f1208",
+      "after_sha256": "bedf9e4d26256ee6ec5d95f32e5ddd62e39bfac7b46824414336396d4bff7e54"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc30",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 120,
+      "before_sha256": "9ecddc58f79a358f0cb0b7c8e59c8e8f900801ab2f42af30bee8397fa696c2ae",
+      "after_sha256": "bb5ad16f9df7ad04f358650e67d615a0324a89e1e72e077d1d7de6990670a070"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc31",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 139,
+      "before_sha256": "ba28d811af3b76cc4efef2df1d30f3f3f2181b38604f5513dbce1fda62c2005c",
+      "after_sha256": "a87f5d2d3cc8c7d36f5ffe78351bae65edfecfc4bb88624a9584f94992632b49"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc32",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 131,
+      "before_sha256": "49bf80b1ec05442ec8f0aeba5cd36a2127cfedcb07a90be16e159def3625a7d7",
+      "after_sha256": "c0a2f51ad37d69d152afc5ed2d3617c4120799a502a45b13293a5b83b5d11a3c"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc33",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 131,
+      "before_sha256": "592b518172ad16340b28fe0b4594785b50d39e95a4a446a8371812b56fa92809",
+      "after_sha256": "fe3a447d49bcb93a279ea1b97baaef8a89c1d3ba13e7cec9947225f38d99e2af"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc34",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 130,
+      "before_sha256": "f4a7d2149b8963f397b98c5fab16ca8337e080be121a31ddb0b449391e8283d0",
+      "after_sha256": "538deec3a989c17f2ebb206f7d710adb9f3f455a69eaaf5d212921ecdee35b81"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-mc35",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 129,
+      "before_sha256": "c71effdd0cd3abdc6a8e239a7da8642d358990728c97d17fd938aed3151b06a1",
+      "after_sha256": "df5a86156625ffd0d7acdfa9b964ee5471735a4baa6ae5f9fdf39519c3d5ccd1"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo01",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 162,
+      "before_sha256": "22f16c84ea74da5dd73d308be3b18f9edc7fad07e9d1a0fbe40735c861c9ba03",
+      "after_sha256": "6068b23bd299f248c27dd710fcabb4858a757a54b94b4c14eaef69317e42f841"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo02",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 167,
+      "before_sha256": "f9fd78c007f4052d54995caadfd335e66ee460a7f3749e07fedb7c638faaf780",
+      "after_sha256": "09113e4375cdfa7ed34138af44426734178c7b831472c823cf2856d01ed25fbf"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo03",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 160,
+      "before_sha256": "f14380102c4ea37f1834a3e664165b0403e138ac0574ef46681285317356bc70",
+      "after_sha256": "b507a827c6ba21a068b02cfac4511877827e792976d223b1118eb544111e1c17"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo04",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 172,
+      "before_sha256": "8a1caf7c39300f5fd221759ac2a6355fbda71814c38b0d69c77551c753f8c467",
+      "after_sha256": "062a510004403f5a8aaeed3e26c0877b454d923f6ca1d4797e6819a4fe886595"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo05",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 153,
+      "before_sha256": "d95218c11a2b8b149b4dd132e39c3de303e5fc485c608acf8d5f229781739c38",
+      "after_sha256": "5237195ae720dd0609ad30d23a38e6de2ad7efdc5717d99241051541f7d361b2"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo06",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 170,
+      "before_sha256": "afbd608c42c35b958472a4f00506848204745e658f08e42574e726ba65ec07eb",
+      "after_sha256": "c30b092884dc574cd439365b1a3bc4e86c5d6df564ec1e4f0dabed33c0bfec66"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo07",
+      "field": "explanation",
+      "before_words": 49,
+      "after_words": 171,
+      "before_sha256": "126b84a37f3ae4cc7ec48829dc4da7de114a47839e79706b306b72d92759a740",
+      "after_sha256": "0a32c1b6fe5ceeea68d0d1571abda1ffc01c143ed18a2bd5fb45bc9d51a1f7e9"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo08",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 151,
+      "before_sha256": "4136ce2351eaf9404ed765c444e48135152ee10be45dd7cf15a917670b4812db",
+      "after_sha256": "8d3738fcb5c152e3fa4570629258b651a68370f3ad6295312dc8d9678a18cb3d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo09",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 152,
+      "before_sha256": "3a97e5131ac3b3ef364a530727797466480784e3db0ecf3a251e7f18957c1df4",
+      "after_sha256": "d743612413d265f170dae2b94293fc656a5476f01cd6b266f7c01d4802310209"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo10",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 199,
+      "before_sha256": "2b2c64755f60957d169c57f042cc2fa27c4d65f41769b62c52a6cd1d3fecf851",
+      "after_sha256": "57d082f8cc12e3604b507398b767503f9323f0cd452e3386c533ca6e38baf224"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo11",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 174,
+      "before_sha256": "e8b477a0051c3262cf59d8f87de463fdee62088effceddee039f984de04143bf",
+      "after_sha256": "40a2bddfe6cab39c35eff4a5e7fb0b3f7518b6817b9af2cd6943618d4b7e418d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo12",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 160,
+      "before_sha256": "461c3ed0e965411c459bac221d8e79d5d2caed26467bee8d258ad3cc05a2711f",
+      "after_sha256": "c68853e4304a5a8f46b9f54704ac752691da47574efce369176eab9bd45d95f1"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo13",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 157,
+      "before_sha256": "ebed531e80a4be26bf5682906decbf50c66c33e53d7f32c2a29c460de5463afe",
+      "after_sha256": "9c83c7f4539c2200b1fb53d634aacec28d591c6f47ef938e1ca9532dfc0e951e"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo14",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 147,
+      "before_sha256": "b07f0586d1b1a0482bcced43f262a07125da35ed60d1be14c8699ead52d3a1af",
+      "after_sha256": "c67079b98f041a4d3acd1906954c57d200e6f8e335d9862b4621dab660493d54"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo15",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 160,
+      "before_sha256": "85c4a51f22571fe6f8ec360a859045b9408e958854423183e106368e2cf24da7",
+      "after_sha256": "41bfb2d415d097295bb2084a0143de469d83a6d1f5132cc3c66c99ce82deb5aa"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo16",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 165,
+      "before_sha256": "2f69b4aa88e204cf612cbbcc7df0b05e090151420cbf359a3b8718a32e464572",
+      "after_sha256": "89e11d6356efa986d47e710585ccb0ebde29c46d35c6269fae08d4b9ff20f67d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo17",
+      "field": "explanation",
+      "before_words": 48,
+      "after_words": 197,
+      "before_sha256": "1bd13c3c4f9e8a355d0edde53f1489b58930963f268b8cdf54191f3a0241fd54",
+      "after_sha256": "9669555635d43050dae6ef68e121a26d0239aa7bb8ac7e3f19597a8969083e04"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo18",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 160,
+      "before_sha256": "8bc3ae580fc21466587791eb445e5c016589534abccd592ae20c76ab4ac8c3ba",
+      "after_sha256": "427d60376bd1ae3aecef96d7df43c2935b73debf4305bf94e0cbf3eb476aaaa8"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo19",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 166,
+      "before_sha256": "74bef9249292caa6ae9d87198ff7c492965d8f450d63f3230c16086651be67a0",
+      "after_sha256": "676a5ea4fc0a25eff2c5734762684df0644db9eb36697bf619e85f26e1946922"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-lo20",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 156,
+      "before_sha256": "27df71b7a3b38986692e13d000b052f78cd3ebedd4ca44161a9b9280140914b5",
+      "after_sha256": "3b22aac1753635b7f2b74a2a40d0d96bad3908b612441f4b26ae4186169c3d4b"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-ix01",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 182,
+      "before_sha256": "35d2d81c2118a064ef4e280baaf2687a785ed96159d52ad5ffe3438d2f9df14a",
+      "after_sha256": "5c938368c5634b5bc8c6d21ed42c56325a5ce729f627fbb4814bbe287321e25d"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-ix02",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 179,
+      "before_sha256": "8470939782502814ad65de6071a6000eab0ffcfcb706e8196b301428c085359e",
+      "after_sha256": "91435705f9ed5c3371146b38391f96b5582ac273fb28d529086763bc5b0d4ed6"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-ix03",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 180,
+      "before_sha256": "a14af87b85b553aa2f3a4eb3fe661b0dd5881d92c755b4ffbce717f066fbced3",
+      "after_sha256": "8814a83a7d6b66fbc0ebaf20e732cab49a4a4b58850e1fde400749f3f72e5e42"
+    },
+    {
+      "file": "explanations-week09.tsv",
+      "id": "w09-ix04",
+      "field": "explanation",
+      "before_words": 48,
+      "after_words": 195,
+      "before_sha256": "52cf35d38c19e55bcbdec762c25d4275a8217bb779ca1b439415a158980d021f",
+      "after_sha256": "ede3c3b0a16138ed8d3297612c89641eb42413e8b8e511bf9070d66fb49f6141"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc01",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 137,
+      "before_sha256": "76a4dd0cdda3cbc9f2262a40acd56bad76b854255deab2a909f0469994aee1a6",
+      "after_sha256": "5624b2d4557f83577d5f27cdfc9a30ba09ea869bee55e32f56110fb8499fd8f5"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc02",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 132,
+      "before_sha256": "40b6f4d1c5fab764a6b08aa4ed12553b1eb7919f30de25e5f127789bc75cdd88",
+      "after_sha256": "187b29b41b978660e584838ba00452039800358d5ff4b3274b2f5388f6cb800a"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc03",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 131,
+      "before_sha256": "4381567dd0c8e290ca666bc576bb1de888c506fe98f7dcd5f970e6cd8661f4e5",
+      "after_sha256": "0e831c5b5ffc3589ad050b2561ab9e66145a3f1ed6cb7ea047f035bceb3bbd8c"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc04",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 128,
+      "before_sha256": "668a34ff8e2e0f3796a1fc88476d17a5b16eb64afb0d1c3d8b4c75be507a8311",
+      "after_sha256": "0debd3c32ecdb05056356fd3d8ad92def074603f905f8f63ceaa2af84d638fd3"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc05",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 128,
+      "before_sha256": "742e14dbfc79854edaaf14ebb2d0f91a95e067766fa426b5f6e6cb24fbc45899",
+      "after_sha256": "9dc394ffbdd3d4695dd3c7c43b2cdf4b94c9959fa8a8e366097821252f52c928"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc06",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 117,
+      "before_sha256": "46083e061c7ef938a6b60f0d28bbb621dd6e03bc009904941d71955ae5ee6499",
+      "after_sha256": "4814fc15f4b16a73f5eef30a643c28c357c096f93dab539de7f20d8bc69b5967"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc07",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 127,
+      "before_sha256": "dd0b1f80bfa7a464b27094a8c7c9f5898ca22fcc340ed5b41cc9336d43e41966",
+      "after_sha256": "7df1e89b847aa10da3a9e35e593265fb55c7393d040276a5e365b042d528bed0"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc08",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 131,
+      "before_sha256": "a70cf9e3367d7dacbf69c1597d2eeccff81a5ba61aa69bec2b3f0ca366538d2c",
+      "after_sha256": "3fe1c19f40209e1da39f68a18e000f9c0efe032034c761dd269ce0e210fddd7e"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc09",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 125,
+      "before_sha256": "c6dc51da3006716c4bd8ec6430751777a9d22e6f2e809bdf62add13593f1ae9b",
+      "after_sha256": "a4abc89c78a849f2a30a3f8b7baefc48dd1ec27b5ab1be79acf5ed4283062e4d"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc10",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 127,
+      "before_sha256": "7bd0e0bae6c61bee92a4bed2715b9d00fcadda1ae6d415cefac3e0609db5ac1d",
+      "after_sha256": "be47a17929a9032e79b8bf40f92b3719b41f25442dd7886c747935d8af0d4aa9"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc11",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 122,
+      "before_sha256": "65aa2f87435597df7d8aed945bc48971cd7dc97555abb4bd1de5d50df8189951",
+      "after_sha256": "c06693ac0a034225f69fa773162d377080c97750daadbd8987b312765c142357"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc12",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 122,
+      "before_sha256": "c52f4fb6e4677adbac71a6846644d4729ff10d004bb234c39c4080297e25237d",
+      "after_sha256": "fd48952c13edefc5d48cc6a46287db6b49d607b766c3ba34f64271ff8b2879f6"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc13",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 121,
+      "before_sha256": "d56723fcf3fcd12ff07448a4d8c815157a0cd61682fb27bdd0cd2dab96471b1d",
+      "after_sha256": "bc6fa10138d24d44a5b9d856ef41f18a1f3ba9f8df87ed6f33d080909c71e58b"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc14",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 134,
+      "before_sha256": "00e088fea7cc1a59d0ed723ff5fee557598f87a0d1ccca7bc88880fda12e29f7",
+      "after_sha256": "449412f9caffa55990dd4572497c25a72e797b91a4b7e1d736c042da44e6db28"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc15",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 122,
+      "before_sha256": "d896b59d62f95b5fd33f565e107c81595a7ddd7ed9155fc20a4cb5bd0d9cdf0e",
+      "after_sha256": "63105144dff900d8b64a200fb5561a46b686befcf6911db238fdc427170988fb"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc16",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 125,
+      "before_sha256": "2e8e9092742a926f76fc02f3ac62e127077c295514ee7a8337c7f1d9c6155653",
+      "after_sha256": "d0f89efd87871734a5337d7fac4e8ff7c6f7a354433a7baf7e7f89a267a3d4ae"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc17",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 124,
+      "before_sha256": "022f879e087c42770eb6efe1674ef1bebe958db703bdf47bcc484c0fd11f868e",
+      "after_sha256": "e4914908be2a56fde104f665f10ed7585b81400f0521656b3b7a297f1812efe6"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc18",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 118,
+      "before_sha256": "b5f50dd6cb78d8a84c34da04f1839e0f9e06888d9eb1c18813eb10740347b7bb",
+      "after_sha256": "2446c48ea2321a62719390311ae2522bdc45098461fc6c23362eb37fa1433550"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc19",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 122,
+      "before_sha256": "a69a72344af042bd7ec3dad02b5002d886a9d07db435c0b5941feccdfb7ac696",
+      "after_sha256": "c43e8b2c7c686b17e66bcd2984a3d5054735ebc222a12058f0bfb32c002627a3"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc20",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 119,
+      "before_sha256": "5605cb957d395587cf81281c57dff89f9615b255f9669b0178a142375bd6c175",
+      "after_sha256": "51ace1b9f516c1d3909ac4ea218f71c2c3ad7172ad1b15d4d4c576227c27f844"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc21",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 128,
+      "before_sha256": "389c23e94a6de331149ba3edeb79d0e3da94e1f9c00f99d75ca46b78de96a4be",
+      "after_sha256": "38579a38ecd5ad46e67876760e8d40cf103cff4013c38dd853a2f3b984a2f336"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc22",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 125,
+      "before_sha256": "5cbbc64f2521db2913f72208992e82aa101cd82f9fb7f88fcaf2c3f9c28a71a8",
+      "after_sha256": "f83ab4ae6efaadeb5f20e444cee0726009533e3ede9d2881ffbc15083769e0ad"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc23",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 129,
+      "before_sha256": "9f30dddad4d3ce9df47499c1abc62b8881739d9a01bd81b884d1c96562e1fb23",
+      "after_sha256": "fff202f7b47903fc1c5f71885e59b355c524aea7849629b84818e0064637a960"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc24",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 127,
+      "before_sha256": "8393eb7aaaf06659a48f3372d7aca17ed95aed58e288bd0897badb3f0d8601f2",
+      "after_sha256": "83754a118f268c9f56afa75a75731b0eca480fb75100991a3c266691a694bdbd"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc25",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 129,
+      "before_sha256": "fe0ed998b201370417508069bcf7ff8338c81498aec268f0d2075f05916e1830",
+      "after_sha256": "1111ae8bcc070f7f4ea9a3eee1400fa2ea0df977d354a984db2808e1e50a3eb6"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc26",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 129,
+      "before_sha256": "740834a559875346c86850de6440c13a4e2e5f63b1e0512d58b04b72f91a1d25",
+      "after_sha256": "770b247eea368c97c1d9bdfd25f7bfc479b87d99221565a9a756ed5ee99b94c3"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc27",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 122,
+      "before_sha256": "becc102cc23db8d1eb5cbf697423768b873a748db40815a791b46ee5042223f2",
+      "after_sha256": "e67c9f60dd83590067e0230e2969b2bc0ad0c8d4d3b9cae22d43b13f33756161"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc28",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 127,
+      "before_sha256": "c22adbb6522deea6a2adbe01481fe041fff1e2c11eb43979d1881afe98e895ef",
+      "after_sha256": "65fe45dadac0fceed57152668fd43a0cc35d94a834b0e96df8101fc31496f81f"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc29",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 121,
+      "before_sha256": "62f18815d975c91fe333661a2ed2c6ed9ac994b6841b5b0ea7d3a7de3945e5f5",
+      "after_sha256": "723d570a53e0551697bee9d4eedc21cb43183c2cdb77f2413ab5167fd13cc601"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc30",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 135,
+      "before_sha256": "f37e707ced6e3808c7433bfeb194c5fca866bea16d74c50267b63aad57aab370",
+      "after_sha256": "2d0772cc12e60368c1fab165ae4ddfc60da9e78ec57d11e3e2210c5f0251e72a"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc31",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 130,
+      "before_sha256": "7efa2deae02b75ad0fbf1ba4c427bc57fe726710b444412f7bb9d33399bba27b",
+      "after_sha256": "f97ce5faba81a2dbc844c782b4632a831cac2434f2614703ad2331a4f94eedfb"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc32",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 129,
+      "before_sha256": "ea4fcaa7e86a5ead8a464d74e4b161e7b9cca74c3c03bf3b190d974d99157ce8",
+      "after_sha256": "d42e3fab5b9fcf9363c5b0361080c39da74b48130f45c754fb757610aaa5be61"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc33",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 123,
+      "before_sha256": "a48e3783422a62bcfec3bbff10916172403ce2b688c9f47244703d24cbb8d580",
+      "after_sha256": "7cc5cab4c77a033c0d3ac9a5c8b9ef891141867aa6e18fc74c65a04b7aade9a7"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc34",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 131,
+      "before_sha256": "9640f9299e5770f2e6a821440674c3c7c086c446447c202cb92e8f8377cd9e43",
+      "after_sha256": "7b4774c90952f984097fc0876002e328b13aa7274092eee9765591d0330700fc"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-mc35",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 131,
+      "before_sha256": "9eb48ae4112c78fa8bbbd53270ea18fae6c2a59eeb70b4471a350fac666770a2",
+      "after_sha256": "eba71625f55a7c0cbe53c7f130fe32ab43d17d8f9a977e5726b8d72201ffa196"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo01",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 187,
+      "before_sha256": "2745525b9385b63d8cb55a2d841ec62a4d692e6cf29eb5d507aff694e4398d45",
+      "after_sha256": "edd0a57a3e88d79e0e8ffe4792b223d1229540d7fcfac9aee280d9449ec6dde7"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo02",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 180,
+      "before_sha256": "7c47aa828f791a37958349188ad2b8d94e53c89211711755c4fb8c4de17ed9a0",
+      "after_sha256": "43491db43abcfb2211b862e920cafddf095b3d7d7eca06976349bc40b6fbff94"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo03",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 165,
+      "before_sha256": "9e52aaef28c6d72b322aec01662d5e6bdb174658465615b73e028c9b827e71f1",
+      "after_sha256": "df7e65306e0a6f57ae6d941c93af2ea166701034d604cbae480532b6f2a72d36"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo04",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 167,
+      "before_sha256": "6547efdffc3717064b22ff0faa7dd21842a6189f0721993c2f2ec20230f394e0",
+      "after_sha256": "f9524e269a4df5cb3dfa09dd82947c5c64f2d1f9cd851635a2da0678617da02f"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo05",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 163,
+      "before_sha256": "bfe6223192bd7c745984862e276f8c73f14ef5964d44547c61bee33c7337700e",
+      "after_sha256": "f05bf1c527aa6e9263875b338777c20d421db8e22c006f2e8ee5cfeae59fcfa7"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo06",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 177,
+      "before_sha256": "daf823c228f5a5f54eb28cf26929c83c80a9b5e2b304755c7718093abc78374f",
+      "after_sha256": "b23ef67bdc8c2e6d9c2671f3fcc9aaedddbfea13743b4f8492b025627620be19"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo07",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 166,
+      "before_sha256": "8c0b5b52898b8491867d2c682c9bf1fb1742c74a20348d855a97b0fb62c819cd",
+      "after_sha256": "79ddda5dc28d45924ab711cd678de8e6aa8311ed46219e07f5fabe97f4e18fdd"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo08",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 180,
+      "before_sha256": "3e13b07d98cabe549c71839a8135e2be85b6963de817b55a3080a9ab86944ed9",
+      "after_sha256": "4322b31f65e09f015942a83a990bf7b3dcb1f1905e39721212b84e0f6cc47057"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-lo09",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 171,
+      "before_sha256": "59cd1a158033c3fce8fdd9da24a253e8cdb0cd27ea8bc8742ed5cf50a3e24ea7",
+      "after_sha256": "1a304ab51d9f83a4754965d8328cf3c5ad68a8fcef6af6bd8b54d3b8d922d4ef"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-ix01",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 199,
+      "before_sha256": "3734e74a932fd7851ca08a0ae0532d84f24d329fcb16051a82550fd8a92098b6",
+      "after_sha256": "cbe6165c0b8d56f187f5303ef11cb13da75c2595c7816019b4bf381e8d91386f"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-ix02",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 180,
+      "before_sha256": "20ae04062629675e0ae3ed110d6543e314717ace8ca3aaaa27f07aa0ff41d78f",
+      "after_sha256": "c06ade74b0e474fac44101338afbb9e60bada6b33c14297ff341348fba6a4503"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-ix03",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 193,
+      "before_sha256": "097fef18dde4581e21d04a321381cbbdc57db2cfda5a7f357576e403222a754f",
+      "after_sha256": "0e7788cf0765b6696a8772a68efb87dffe4ac06c6daf2871540ab082b7b7aaa4"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-ix04",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 192,
+      "before_sha256": "edd0cb33a9fc4927b2bb799913ed9d2ee2da049b7295c03770add51abc5bc757",
+      "after_sha256": "b69e6bd9952aa69ed7434d75b78ef8e7ec3f06ec0e77008a907eaf640534473e"
+    },
+    {
+      "file": "explanations-week10.tsv",
+      "id": "w10-ix05",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 193,
+      "before_sha256": "01dbf9715e6c5368c42a18a371b57f773091db9dffe3e26daee25794d55aa7e0",
+      "after_sha256": "946460bac93859610501ead7c598fcde5b7e78e45000a43d0738986d07ae895e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc01",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 124,
+      "before_sha256": "10ced5183dc4d06a9f3f2abbbf6d1e074ef357786be2beb2d79e866651094b09",
+      "after_sha256": "56ef8b570ee362ed9c5aebc12a8bbfd2c2855acd99f54ac1f2cddc50af1f29b9"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc02",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 131,
+      "before_sha256": "3aa3dffcf9d905d7799b19b5bd2f8e7c4224c112872791ae0dbdf79c4d3738c9",
+      "after_sha256": "d04f85c8137e0636956f441f861b02d1cc5249e3c355015d90f4e53854d03d84"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc03",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 128,
+      "before_sha256": "61e1ef465269f343a2276bf9a909e82cd4b161b4a74052e840e617c8b3782292",
+      "after_sha256": "e2e329c72063577a3a10d97f89080bdd0db31e3594936b2d2c28191270ab8bc5"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc04",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 126,
+      "before_sha256": "42ca637f7dc19008ab8e7d305b00b20b230da3b7fb6ab02be9bfc3a3c6b00fea",
+      "after_sha256": "2c888b5074a9b649c0db6b3d0a7c71ffd2e994085e79aef9376ebf02d3feff1f"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc05",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 132,
+      "before_sha256": "e99ab336b91c117da7881a3fb566bbbb6248836ede1b78b73102fe7fec07ca1f",
+      "after_sha256": "375fc5a2a20a84d06b529729ed14dab6aa8382d643ff844a039de7cb63574d32"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc06",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 128,
+      "before_sha256": "5caeb7167e82fd107689aa85f0bdd2d9d0fe6d4a8ad9ccdfb4103fedee2623b7",
+      "after_sha256": "194ff3da3255ffa10f60aa60ce8ece28457ca53827ac70dd256325456689aaea"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc07",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 126,
+      "before_sha256": "585fda2025021cc448e3d3debd55cacab0f9025ec226057967c6d6dd3ed7e21a",
+      "after_sha256": "d3e63c34b334241559956f8d1561172cf1f24ef342a8afd6cbaf48adfb67eb43"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc08",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 130,
+      "before_sha256": "fe5858a0fa8ade021d890246bbeec5f14c42550f7efc7d5c632f5146bd3dade6",
+      "after_sha256": "50ed44775eac6c1c41007bfadb47aa0e8921403c394c9a86466826cbfa6e084f"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc09",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 121,
+      "before_sha256": "246825944411885106decbe28a8f0fa56078ee49faa862f888ce1b74c0fdb9ab",
+      "after_sha256": "48e2b694bcaf295161c3cb90b9c65aa582ab7a20983c634c51e18d81cabb3732"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc10",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 127,
+      "before_sha256": "3c01e7ee072765fd784bc7b88376b07659babe33fcaecf1a9b8cbba0e803cf43",
+      "after_sha256": "95d6d7570f726e3202c08bb4cc667a85ca2a3f1c69d9c12b24a4948740a63681"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc11",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 121,
+      "before_sha256": "b674a67ab255cc0892bc9eff83ee12b08b5e9c9f6e3c80e7f59f2b4eb2648003",
+      "after_sha256": "dccb88dd25dd80f4f67c8ecc5a67c4e69a1826e06c4b73d72be57dc142872913"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc12",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 120,
+      "before_sha256": "f710afdb570ec6454a64736fec97fb3d8502ed939b483de44ffba29d4004e564",
+      "after_sha256": "542e3b560fc5c9b7a682cdcb811ac4ce10bd009c08ef41f9363cc85bb1fedffe"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc13",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 119,
+      "before_sha256": "b1a25409d7ea5ab58b85a96b86f7edf7085785926aae2e39b3bccd2c4e0a1866",
+      "after_sha256": "c0333d0b1696431d441dab31a21591c14deb54e039bf2ff2f25a894f884e65b4"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc14",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 129,
+      "before_sha256": "9f00efaee82b1508ec969c4eb541f0f0d70c5e637d37d554b45d016d8b27d0fc",
+      "after_sha256": "3782aa76d3ff756f21445465a1e56f1d977303fc1677a02f2dcf3db011f57444"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc15",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 118,
+      "before_sha256": "6fe366a39bb7b2102caed9b79e6f278d9baf32662345f7d293b05ddba094cab8",
+      "after_sha256": "958dcc5379b78d8ea45a446c9b6fe4f55679393f25d1a51c1c0a0b6594190bc7"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc16",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 132,
+      "before_sha256": "d765cf9cff18f47ed11bd75462445e4ee1f9b68f68531e57bcf296afb8c6b642",
+      "after_sha256": "73be22be084fb21897a4087d1b1027c6f2038694cf60b71579145fc11f6cfa90"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc17",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 123,
+      "before_sha256": "699cf25f2b57a1d7d2cee89fdea0802380357a486376f27c9125d8d027e65dde",
+      "after_sha256": "7e37670d0e12aa4a90a082bd021ad8981ed190e6022c60960b550b9c4ae68287"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc18",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 126,
+      "before_sha256": "c34080eb9d0313308831bd7a1f901a5807ca540db4c9303bbf5c7fb233cb9eac",
+      "after_sha256": "8f85cc726b4f7107b250cc96ac2ea500f680a09aa81f27a688c1034fc15d2e4c"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc19",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 118,
+      "before_sha256": "34b3d8cb0b2455260cc4d02cc3ca0c4c742c46e6bfca80e2a16f0f565ebf798f",
+      "after_sha256": "6eb7d80d52063cf5d10a5880b07b4ba1a6aa05cb20dadaefeeeb528a9d68b3f5"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc20",
+      "field": "explanation",
+      "before_words": 30,
+      "after_words": 118,
+      "before_sha256": "8abf917802501e112a139b7059d2d438cfda36ff6f4a595d213f5fc2fd4a486c",
+      "after_sha256": "e7a8e8a61e5e76ae6da37a9e0adefe11bb25fb955e5c2900e9c56d60e5362052"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc21",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 118,
+      "before_sha256": "6c780bcbb5a3dd7f36c7158f79d733757626a6c24a9cff416de64a776ec1ca0d",
+      "after_sha256": "8ef09c0f7f7fb083abba619b7085b46c9a255a2ad760c7b605b4fde7d45c1e84"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc22",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 131,
+      "before_sha256": "6863d57bafcb5a1bb39e20c397e4691979cc547c5a9120dfaeaf46819b3fe3e2",
+      "after_sha256": "2019c26223dfbeef689631156182020f2a1b53439d7cfdc4c6d1eb639faeeac5"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc23",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 127,
+      "before_sha256": "3a6ea474ec6f8e7d579d46926650145db77a8c9afcc5ebf1557da2802ee7176e",
+      "after_sha256": "2cdddefa1d59bbe60e0ae3841cca2c3c3d924063898ea90d02e035290fad007e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc24",
+      "field": "explanation",
+      "before_words": 49,
+      "after_words": 139,
+      "before_sha256": "9040a271373c1349e87221eb24deb88f2f7bd547dde65f97ef28f60a0b35ea5c",
+      "after_sha256": "2944f9e566de67f5aba56d9428f6e8001fdc819499501279cba04319d378f704"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc25",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 132,
+      "before_sha256": "9ec2ffde2b1c8eeaccb62ea112eeeb1b147700c64c833706bf38ab9defb430db",
+      "after_sha256": "65570dbeca6ca61462cd3a344b35303e19955a5c8b166f9c8b48a9acd930e2d5"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc26",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 125,
+      "before_sha256": "9c2927422714defc8db7434777d2d45e188b3430a667145006be7815885477d3",
+      "after_sha256": "61c4de55e9914d599d979b874679a14e96d434ddb05fb252ba7813e5d705fe67"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc27",
+      "field": "explanation",
+      "before_words": 46,
+      "after_words": 135,
+      "before_sha256": "f827fa8d4971580b0fd77c6429c0bcb7429fa1f429eaa0d2aab42759ca2ed765",
+      "after_sha256": "5bb2956ab9446465d09591ee55f5267b3daac5b611f3dd764163ea71c110fa0b"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc28",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 126,
+      "before_sha256": "1ce64ed65898c9a129dd714bcfb508022686ca1f27dbed2feb5e2af44693fe95",
+      "after_sha256": "7d432f453b749a5158f37baf9a4254c46a494b9834288f06d1124f1d0e2ddafb"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc29",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 138,
+      "before_sha256": "22b874ea81a5065343affef5841dc41880a64374050a32c0168ed0a7212741ff",
+      "after_sha256": "b00b1bda41244cc49b98a72289a9115181167d1532f1b23047996a85466d5c3a"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc30",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 124,
+      "before_sha256": "9eb2a89a85e8e5c464dcf829c0284903fa99b3d71b6b52ddd3efa19dd975ac1f",
+      "after_sha256": "976c7f145c34597ba590269ef6ad5493c3840a0118889f869e1c9071e32ed515"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc31",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 128,
+      "before_sha256": "4d5be035a134efbeee887c396aacb6db7e1996aa38569b1618b58712663f6e24",
+      "after_sha256": "3d9762f656b331cc6a314f4f204ddfc76f862e0a331bf0bd6f101adcd0140f1e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc32",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 125,
+      "before_sha256": "491a74f97312e748a253061d962389e5f2fd8af7aa2a3c2c57bc482e26ab738b",
+      "after_sha256": "329787d006691fd02e33539d2d0e0843b8e9bc8cae3f212d8093a76a9e63f3df"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc33",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 124,
+      "before_sha256": "cdae2b54c555763cdb09bbe4c12d653e84d6c2af5d1cdd9ada1f46994b3f622a",
+      "after_sha256": "5217c2838822834043f6c6e92947e3c177c44ce718c08b1a3eb3f576565fafb3"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc34",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 130,
+      "before_sha256": "d8cd4c40ba49510a801da45c30cb94fab3bdbae689789bfa6d0969df8fe54a9a",
+      "after_sha256": "63c62f5e076d49f308199e91df940357e451c0aa2fc7129b7791ea0d97268efa"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-mc35",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 126,
+      "before_sha256": "ef771d4cf9f62f428b203bf6e157137d561a4794490281ab5b9b87b89d5318ad",
+      "after_sha256": "6fa212ffb4b0c6383f175205d78f38213005028b43025c85e53eae52b5eecb3f"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo01",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 163,
+      "before_sha256": "cd1a0b9b808dc5209b44f936e90beb90e5121e40d36228d82617ca2441b62263",
+      "after_sha256": "fbe1b85e860b4e65b7f618d77482d8f56ccdc835fffe7dde2a5fd2bd6acd86e7"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo02",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 169,
+      "before_sha256": "d9fb1a5777983b184703fb945e1c3ad2cf8d35731679789bf9f73159293ba101",
+      "after_sha256": "4382a76d4b252ac5160a3588f85c7d227b3a162fd877bb1cb0b7670a2e91524f"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo03",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 165,
+      "before_sha256": "cb4f315b86dee4527b0a09c15e7e673666deef29214887d9ef2a8d8b2cf3ff8b",
+      "after_sha256": "2b5a3927f5a6f022c9086f0ffc73c863cd831c893bd3ad1f6b915876ebf5180e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo04",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 158,
+      "before_sha256": "68203b306f4dc819ab701a42cb3c45ecde42c4655f78223017d924da2cb2deb3",
+      "after_sha256": "67bfb51a7338b7a5f8b90b5b1b4d1729a9af31e1b5c1ce72bba125f7d9d49308"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo05",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 184,
+      "before_sha256": "3c01b779c0e47ed4cba267047a496d066d82b51ed481179a15ba75589522d8b6",
+      "after_sha256": "bd9c2c0d172319d9abe5bd176d9efae1b32ceb69524a29f8c64184a19be17a4e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo06",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 159,
+      "before_sha256": "66abe13ae72c5e7cb4ca7d13ac5be2cb167af9f7e657613b06f48ecdd2df4caa",
+      "after_sha256": "d28bd80942a6f17c12a7d2d378c5ec955eabb84ee32d474cb3301bcac5fd4e24"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo07",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 149,
+      "before_sha256": "86e96e3746e6e044cecb11907af1101941bf8698a92dab0091e887f438e873cb",
+      "after_sha256": "1565739c9981b96e584fa9c9ed03b56378263cf3ab86d1ba86a2c68b04f4c147"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo08",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 171,
+      "before_sha256": "7d2954d52680ead2992e8df5f0cb5d34c133559fa67148bef534043e9ed04994",
+      "after_sha256": "9287df7cb38645cf1efd4ab935ff0c2124c40f27f4744a5cf6a74eb7855bad2e"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo09",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 162,
+      "before_sha256": "8227c1247d07773aba35d9d17e5a79360085d6752a40a38302be617d49ae1817",
+      "after_sha256": "71abf049505a586b78310c0dda5f54c318d4ef8b50822907380c77b4622997fa"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo10",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 174,
+      "before_sha256": "006d82bff72ef840d2a08e34c4a4d755f6f9a716f8169296a42ddbf2879129a8",
+      "after_sha256": "9e37cb16a728a685f6ebfdddba76824184552712bc98a711f7f10617b4b413c5"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo11",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 188,
+      "before_sha256": "285a00e6249bc276253c7149bfaeea19029070a0b002f19cead4a3790e927e7b",
+      "after_sha256": "85acf39b9c88b99078c893a7c8d92f630f6fd4c9b243d467189c8043a7d07329"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo12",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 165,
+      "before_sha256": "051be090d21cb7f5c48587d504d2f841b89da14442dc2102a2e7afb8a83919c7",
+      "after_sha256": "b175f0579dda0465ed1ab2bee8fec4311d9048db75e1a3af6d76ead24b362245"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo13",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 179,
+      "before_sha256": "b4c462fc266a755959da4454def20fee2dea744d7a728f71aa23d8ac24425fc5",
+      "after_sha256": "fbc05ed020bfca9a51feaabeda3383ae507cd0c6aa6cee0f42eb04dd206f92ae"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo14",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 198,
+      "before_sha256": "37759878ca09c261ad2561cdbe8716bf0683a6997c05031f894046e91c81b2e0",
+      "after_sha256": "4aab0d208183cf3a2a8066c1a0546d06a57fa4ecf9a6acb217abf2c3981023a9"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo15",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 187,
+      "before_sha256": "bbbe6eed6034c2df0ef14707acf5b20fe24ba05b829c25edc7085c9e4ae28aad",
+      "after_sha256": "687b145f31a59e667a3dfa3efc70c06af3adb83001773b88c39751cd232d0293"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-lo16",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 171,
+      "before_sha256": "1e5c35f6cbde7b3746c5a92c5843e861ebe3f0c2511e84afbf6cfbe0a374484f",
+      "after_sha256": "0d9ca0b2cec1872c7008a1abb0d343c96281f49f4fa50487b943740215a91368"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-ix01",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 189,
+      "before_sha256": "c4d63ba5623a210f43d2fcc3197158c411a8f4276eab612bc9c86ccf6f4b0096",
+      "after_sha256": "7ca9f154d88bf147aef209d7e6ec690282624e88448e53c378ed4a7adf743e03"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-ix02",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 177,
+      "before_sha256": "c1c1e9fd750de9a00bffbbca01b9f3eb5c55300e693f1e10e1d477dfbf6b12f7",
+      "after_sha256": "ed61b060fd42b5994aa4c89c5dafce4bc2af389117ea65e01012be4a7ea28505"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-ix03",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 173,
+      "before_sha256": "781294017ffff6e02027c9d7c128b949fe9046155b3eaf000ef8ff6971ca5397",
+      "after_sha256": "3c7070930c81b35582b75e095f12e51be961ffba6e8f2d4f2ae4d3c84fc5e148"
+    },
+    {
+      "file": "explanations-week11.tsv",
+      "id": "w11-ix04",
+      "field": "explanation",
+      "before_words": 47,
+      "after_words": 190,
+      "before_sha256": "6d9440b488ba5d29b8f5185271b31e6ffdd92f14de9b7c1522bc206a0106d221",
+      "after_sha256": "7372a51b0eafa364f15ca90aba53d735fff677038d07a7696ae989194a65a2af"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc01",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 125,
+      "before_sha256": "62086a47180194b70beef0be62f639f9618fe2a268fbeb15a5ada39ab2c9f1dd",
+      "after_sha256": "520fae688e34c11ddc42b8e535288ae7d9d69c203c4ed27e07b78bf9796f9ac3"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc02",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 128,
+      "before_sha256": "1ba2bba963fd9fb0ff20ec11d1a5cc6edab2c9b6523b6195a68061a9c6e49289",
+      "after_sha256": "1fdfffdac16e9e227f26f7e2f4d33adc3c28d7ebb8f866665f468c48d92b86d1"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc03",
+      "field": "explanation",
+      "before_words": 30,
+      "after_words": 121,
+      "before_sha256": "9057b145acd3191011dea729b56c3b4fcd81c3f9a1109f05e58b9051e4548c0b",
+      "after_sha256": "c4891461084802ed9329fa3e4262c005ce14cb8a0fe0e555e6b93d59bd300fed"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc04",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 122,
+      "before_sha256": "313e876a5137c243705f137feebe0af58fcb874fdf8f67091febf5722bca856b",
+      "after_sha256": "b59fd9645691675ae1bad7630f414cf7f6f6418e4f9b4397dc355e45323b8e96"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc05",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 126,
+      "before_sha256": "0cb17269f808d12425f2305d531dcef5b2e2ef6f735f87796f3e48b657fa30d6",
+      "after_sha256": "d7eeffd95ef3647636dc282e3f7e66688c681fd7aefec7dee3c981f5b924bf68"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc06",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 126,
+      "before_sha256": "795aa0d41f1565ff7a38b4a56661c8d42c2fd274a0fed9ef630e9cfa78a1b660",
+      "after_sha256": "f30d23fc5ab9db1ffe5f11251d8d034ef9bd3a82be1840c438512a1be29cf947"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc07",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 110,
+      "before_sha256": "b575673e7bdba164cca210cf8c5764a5b7eb306ff65fd6bb4309c7ca1232e340",
+      "after_sha256": "dd035e8e8681e86ac06a6502ce39b892e86f61224393b7f6612f24f05cb983ad"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc08",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 126,
+      "before_sha256": "119b17355dda77ce7b30c04f1aabfd41e4d0459f55257c350a6269b39eee7632",
+      "after_sha256": "ffcc58efdf9ef0021d29a9c47326d32b670f51b7d4aeb6d569f9a34de516ff70"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc09",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 130,
+      "before_sha256": "f63a91bb639727f2a073265b8a22b3522624dab84ca49ee55d0fc42308757614",
+      "after_sha256": "ba4754ba17bd2bee4eed1b46b535c0b911813120738ae48c021c472c70f0d651"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc10",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 122,
+      "before_sha256": "f38eaddb5295692b4d09dddfb9b8402ee52ba909cb172565815bf88bee1fe2c1",
+      "after_sha256": "24f4179f63436a4e096afab1904d7a0c950ce5b28b4c6df07e4bfd9403355795"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc11",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 120,
+      "before_sha256": "a823f68a21236433546702233b05090f456cd806b5d9a393d471ff2953c79a04",
+      "after_sha256": "f97352a407ab56179380748989045f5febab23fce9c4ef3da1927c4ff1f057d5"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc12",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 131,
+      "before_sha256": "7045deb184cd292c802d81fbc0bc4f14e82e2ffcb0340e3420bb3c8b21823b05",
+      "after_sha256": "3d8b820ddf414292916b316883b5862cb04e0a9af5813f5d56dabb4e3d47bc92"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc13",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 119,
+      "before_sha256": "376c583c5890b060e1012befc44d037f3aefd318bd1ca656dfb11fc048c93a27",
+      "after_sha256": "704c77cf01e4d1c15ed3a14badf5783714d347850b83a1e7d9ce5cbda03f7099"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc14",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 116,
+      "before_sha256": "7930f93fd5c5a7eb5629e0279909c9e22db7927807c0166ac103c1f1338d9ec3",
+      "after_sha256": "84aad33d4b6393abaa456339143e630bc13095c9b42fae47a3593a3b00db6687"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc15",
+      "field": "explanation",
+      "before_words": 30,
+      "after_words": 117,
+      "before_sha256": "fde8fa17afd35a6f9cd4f9aa95b75d9132e86f21c60dd5cf685f1c3f5102f928",
+      "after_sha256": "3a599cb16e279842c198ad7c4a7edb2b8096c9b4c6c655d34d9517bf800569d6"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc16",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 118,
+      "before_sha256": "708515ef4d92cea367d23a14f6e36af7b8caa242c2e076d81c047ee514587427",
+      "after_sha256": "dcd19d4ed46a366909ffe66ec19d922fb5dca66957ac05009e9a0da247a5b76b"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc17",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 117,
+      "before_sha256": "1e05fb1edec3f3291cecbea06fcea2188530e27e05d9c26496f3ca3e8ef6c0f2",
+      "after_sha256": "891761f7ae99ccd789e9d9e715eae97896781e78703ce23384715e3ab7620708"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc18",
+      "field": "explanation",
+      "before_words": 31,
+      "after_words": 114,
+      "before_sha256": "c15112cc8fde6f211e278211ac224ac1b9379b25cccbdbcb2fc3dd084253ee0c",
+      "after_sha256": "2af4839b7628b52291b204d5a11dd3235a3c0112490bcd3e95b79735c26e40c9"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc19",
+      "field": "explanation",
+      "before_words": 37,
+      "after_words": 118,
+      "before_sha256": "88290b033fe0f8619427f24c51170743247a043f4f988a181227ef5559819f59",
+      "after_sha256": "e4c9bd734847c6879074d0afd5c14cd2baa329b460ec0e867f5f6a4d9fa9ee9b"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc20",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 125,
+      "before_sha256": "dd118b9c2a5759629786eea37572300d43f16b0c8c8e80d75fd523eda6e46e8a",
+      "after_sha256": "6c68a3eceda937c6cd004465cb12d8b0a76fdbe017667c13c5f090318770bfa9"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc21",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 126,
+      "before_sha256": "f276980fc41f099b036f70b5314ce74ff089c11b71b16fdeec094f96973eaadf",
+      "after_sha256": "8bbf7a72e63411ac6af6c33fe3dc68d800dd44acaf48e8e709af8941735622d1"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc22",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 117,
+      "before_sha256": "fea288575059e657f558ea2dd64f9d25c44e1b7f5146226e5cefebf36e690549",
+      "after_sha256": "fce71a43b0200ec400b265c7adaa0a1be37b30ca07e39f9b93619ede5db1704a"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc23",
+      "field": "explanation",
+      "before_words": 34,
+      "after_words": 119,
+      "before_sha256": "61e4f67626e80b49fd3b082dfc6cee5d06e99721dd1afbc124505464fffbb7c9",
+      "after_sha256": "1802c34137afcdadb550931e5deeeffd4ce44af06316b0e75c6461e38d9c44bf"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc24",
+      "field": "explanation",
+      "before_words": 31,
+      "after_words": 120,
+      "before_sha256": "940ad44ab4624296d316a202e73edfb939d2a7f939f2b2a8d913fbd59f820324",
+      "after_sha256": "39dde99ecd0186bec3e81b2d3f34b8f04456ae8f57af4dab4d1fd2d486b7a099"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc25",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 122,
+      "before_sha256": "a15159668faee4264d6125c0d8c3e52aa4804b54136d9094c9a8d6e2d2243519",
+      "after_sha256": "fc362b026c46e48dab511ae10c0c83d33131c95224b301144198459b32c9d2f6"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc26",
+      "field": "explanation",
+      "before_words": 32,
+      "after_words": 117,
+      "before_sha256": "0dde1c2fe4fcc8f40c4b2f7aaa0864338e402f8e0ef553f53e1822638562a5d6",
+      "after_sha256": "0f622e720fdbc5d76e4e9cbdcac8fc5c38edef4dc02db5d959cb6067fbdde846"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc27",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 119,
+      "before_sha256": "71fb7459f62ba45f6e0fb9ca5a5299a27d14ff4096c8ada47b700d57462277be",
+      "after_sha256": "63343b46731259c0746135e8c8ecb7bd6e08b0a0b73928dbe687ca8edd1bbf7b"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc28",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 120,
+      "before_sha256": "0f58008bb238f817a2f2b3e2f42a48376924c6ec69a636010b05b0807d8c685a",
+      "after_sha256": "96a9c0def2b5f0d99d89b571bdd86c7c7eeb9fcb111533865ff170dea342eb84"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc29",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 113,
+      "before_sha256": "b363833d9e2a862cb8a80e7bdab1b3e5ffe24dbdfed02f54234e851eaf07de3b",
+      "after_sha256": "c37549d0bf550aa1cd78620812c3541b53a05db28ad9054b99fbed810eeab586"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc30",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 126,
+      "before_sha256": "9ea84636fd867f3344fdae097417e192fcf326d80868671260515e439c684ffd",
+      "after_sha256": "4e3d58b42f07b44c327fc327afffdc5dffe894f9ccc1992aa2ce2cf507d72cef"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc31",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 133,
+      "before_sha256": "b09ddc18c2989fe185eca3845f2780d23c0102f0775bf604f440f0a72789e542",
+      "after_sha256": "eb3535a463ba8aa573144b3607d4bbbc54e08aa8a6f84bae49ad766ac6b602d1"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc32",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 126,
+      "before_sha256": "02a717f8040e3bc571f3394e29a61a5bb859c4e218e74021ab8001ccff2bac48",
+      "after_sha256": "c2bedfd1e0f7d31dbaf41a56531a2a4006e4121da8c3df7406cfd54df10dcaee"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc33",
+      "field": "explanation",
+      "before_words": 31,
+      "after_words": 117,
+      "before_sha256": "6ad18e1eeaa09020b791edcd160b1feef8925b62ce232abe939a55f46f71d972",
+      "after_sha256": "91132d9dc194ee9adf124a77799fda368e3b2288b0805f01c554e69a83bc64ba"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc34",
+      "field": "explanation",
+      "before_words": 42,
+      "after_words": 127,
+      "before_sha256": "5db676fcd00ed59cbbf1266d120c4f58cfd15043bba96cfd71f8f579c4e465db",
+      "after_sha256": "e5e6ceed9bf6379547ae3524f66551c336b8392206839198ecf9c601e3d4f55f"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-mc35",
+      "field": "explanation",
+      "before_words": 44,
+      "after_words": 135,
+      "before_sha256": "5a669b7345ceb58813b48f8a33346ca0c4ca8d8ccd47dd4dd3a74dfb5bce0cc4",
+      "after_sha256": "382ec7ab6495b2c0c1e1b76eb820a54e75afc9213f381a42fe810cfc25117720"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo01",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 179,
+      "before_sha256": "e1d5437be3258bf67bcf9999c22643fdded76308c70a848c4b2129bbfd96b9bc",
+      "after_sha256": "c746e0c882428c72ed650a249a9752158efc9be52c6192481fa1849a21ae6164"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo02",
+      "field": "explanation",
+      "before_words": 45,
+      "after_words": 170,
+      "before_sha256": "bd3dfb326161b2d3270e41473803ee18da6110d9f602fcbb65dc8415ee94dc66",
+      "after_sha256": "ce85f0153c3cda88b513a245ac8ed4b780b49c4867fbd1e2fc3a57b130c35313"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo03",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 166,
+      "before_sha256": "d6e79535055ec783dacc3f6fc8b1111d017b4b6a2346b0bd8ff634400487850c",
+      "after_sha256": "ff9598c50be4f746d4eff66c9eda700ed8ea99a5c8e87e5f58a1922e0697b2b2"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo04",
+      "field": "explanation",
+      "before_words": 36,
+      "after_words": 166,
+      "before_sha256": "f59303205815d3f2f54ba3fe738c505d5a17bc3e470130bbf0fc9a51145a440e",
+      "after_sha256": "477f5daa9566a16137631a99eac0b4b6031467dfa059cb8a1476edef2ab7f166"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo05",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 161,
+      "before_sha256": "b2a711f6adab74f90feff440c1df3cfc989badc4e343efdf8a581b9b880889d3",
+      "after_sha256": "9b4712f97ad63cf94ffd3626da85a50fb3dddff6bc1b4853d2b203a583bc140b"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo06",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 159,
+      "before_sha256": "683c42e945316bfe90aa4502200f3ce9e55dbf0a08c4512c3055f17ef9495add",
+      "after_sha256": "af222f60734b404cc00dc4a81b908f45e82351cd0ca48d2d180e01803877e4f9"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo07",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 149,
+      "before_sha256": "9e17fc1e542de9bf913426500f927d635e3e7a1fc156cd21e27c0815eaae5062",
+      "after_sha256": "dd71c76adc48aa7ce62cd6ca3f12a0265991ebaa74fe097fe42e825dc49df5a7"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo08",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 182,
+      "before_sha256": "272e771c9864df6f052b394492f20bde155149d9093aca56f55f9e2b468a11d2",
+      "after_sha256": "7786e3924fefa3efb508efecc73f3e4ee548165f147c2aedfe0104e106b0879b"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo09",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 154,
+      "before_sha256": "abc6d8b17e02f4620b8bdef6a9364e15e55741f55ca82df54b88bdad20d630e9",
+      "after_sha256": "4ac00c78ae13a3761cd742fc01bb3a9b2cb8606baf4426203eb92d30434c564a"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo10",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 158,
+      "before_sha256": "6b613117b559e10cc833efab691c08ce8e155941df4ae9fa0f9401c63a8cbec2",
+      "after_sha256": "2a2ebf081be5a5e5fcc45ec695a2b13a32859a4b659657bc74f192e7535ea7b4"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo11",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 161,
+      "before_sha256": "b9f1bd08e4c4793821bc567f3a24b00c0b760a0cc05fd707c794ba2de2f0e179",
+      "after_sha256": "56cf0738d8593fce3575fc6fbc746574e6cd148330fe87156f8fe3bf15f29efa"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo12",
+      "field": "explanation",
+      "before_words": 39,
+      "after_words": 184,
+      "before_sha256": "79111ea7d5804382927ba0ce8729553f433e46c119b30984694c6cc9bb8755ae",
+      "after_sha256": "e2c8168b414c569e8bad0e2cb8c231f75386ed8daf82527dbc00e6e54e4222ad"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo13",
+      "field": "explanation",
+      "before_words": 41,
+      "after_words": 165,
+      "before_sha256": "7cb11ad72b0b2123bd124f45cf9c8ebb5c7935fc4e56112836927b97f5d3cb0b",
+      "after_sha256": "cb6b20d6601d8e0c6f8fbad7b1b18fe92fe87bdc08c29efbd074e32cad3e8f1a"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-lo14",
+      "field": "explanation",
+      "before_words": 47,
+      "after_words": 192,
+      "before_sha256": "3001faa731287a5cef40c46c0fe6fdf7dcb7dabdcd163bc9ea91a569796c819c",
+      "after_sha256": "ad3dab73bdaeacaae853d77d66fb29bf4d577d251faa0797350eeb53a3196eb0"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-ix01",
+      "field": "explanation",
+      "before_words": 43,
+      "after_words": 188,
+      "before_sha256": "846b3f48421e267c09ea59b95dd943758375d9ad8a5cbac3a4e4e7992eb40899",
+      "after_sha256": "118eeb3fa971216dd9d6cfa72644379e3014643dd496da0e84f455d861d471ca"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-ix02",
+      "field": "explanation",
+      "before_words": 33,
+      "after_words": 178,
+      "before_sha256": "cc7c71a6e1f6f7be2ed4666ac72c7cbf938b4e0506fe44b09b00248959a41198",
+      "after_sha256": "b259e016c0398ac695966d9acdd16e10987c4aa0ad5059089ccf9c0d0d69a80f"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-ix03",
+      "field": "explanation",
+      "before_words": 35,
+      "after_words": 165,
+      "before_sha256": "a0e1ae6eb89f049969e8ce6ed97b259d0f4ea10df587960b59fa9dba6e14231e",
+      "after_sha256": "54839fede4ebf59ef48f56d5c5745515bb19f926e81b4bb0c28a8b2e8b842114"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-ix04",
+      "field": "explanation",
+      "before_words": 38,
+      "after_words": 189,
+      "before_sha256": "cf8dd7ef92a2ca217035fd4a0383e82f63aa9f66fc904c78118d20b5deba1775",
+      "after_sha256": "7051b7f6a3d297201284e40f7ced23cff8f27698cff53b23230977f24276d6f9"
+    },
+    {
+      "file": "explanations-week12.tsv",
+      "id": "w12-ix05",
+      "field": "explanation",
+      "before_words": 40,
+      "after_words": 178,
+      "before_sha256": "a2b706a4410f09abc6b4f5cf68146900a5d5e7055f5f803a8a15c05fd0e74ff8",
+      "after_sha256": "a5e51ef350dbbdf6fde31c0f2889280c2fca2e46c00701dcafa1f312e871a2ba"
+    }
+  ],
+  "files": {
+    "explanations-exam-integrated.tsv": {
+      "narrative_fields": 75,
+      "before_words": 2963,
+      "after_words": 12130,
+      "after_min": 147,
+      "after_max": 174
+    },
+    "explanations-exam-mcq.tsv": {
+      "narrative_fields": 38,
+      "before_words": 1533,
+      "after_words": 4981,
+      "after_min": 117,
+      "after_max": 147
+    },
+    "explanations-week08.tsv": {
+      "narrative_fields": 59,
+      "before_words": 2384,
+      "after_words": 8686,
+      "after_min": 115,
+      "after_max": 199
+    },
+    "explanations-week09.tsv": {
+      "narrative_fields": 59,
+      "before_words": 2311,
+      "after_words": 8450,
+      "after_min": 110,
+      "after_max": 199
+    },
+    "explanations-week10.tsv": {
+      "narrative_fields": 49,
+      "before_words": 1862,
+      "after_words": 6941,
+      "after_min": 117,
+      "after_max": 199
+    },
+    "explanations-week11.tsv": {
+      "narrative_fields": 55,
+      "before_words": 2132,
+      "after_words": 7896,
+      "after_min": 118,
+      "after_max": 198
+    },
+    "explanations-week12.tsv": {
+      "narrative_fields": 54,
+      "before_words": 1985,
+      "after_words": 7512,
+      "after_min": 110,
+      "after_max": 192
+    }
+  },
+  "totals": {
+    "authored_narrative_fields": 389,
+    "question_explanation_panels": 405,
+    "exam_subpart_narratives": 75,
+    "before_words": 15170,
+    "after_words": 56596,
+    "all_narratives_expanded": true,
+    "minimum_expansion_ratio": 2.783
+  },
+  "preservation": {
+    "pages_checked": 8,
+    "answer_panels_unchanged": 405,
+    "all_non_explanation_content_unchanged_apart_from_notice_and_whitespace": true
+  }
+}
