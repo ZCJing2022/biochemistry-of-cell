@@ -1,0 +1,66 @@
+name: Detailed explanation preflight
+
+on:
+  push:
+    branches: [enhance/detailed-question-explanations]
+    paths: [.github/workflows/explanation-detail-preflight.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: detailed-explanation-preflight
+  cancel-in-progress: false
+
+jobs:
+  review:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Integrate all authored details and verify original content preservation
+        run: python3 scripts/_expand_explanation_details.py
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render and verify all closed controls
+        run: |
+          quarto render
+          python3 scripts/build_objective_assessments.py --check-html docs
+      - name: Commit only validated sources and remove one-time staging files
+        run: |
+          rm assessment/_detail_*.md scripts/_expand_explanation_details.py
+          rm .github/workflows/explanation-detail-preflight.yml
+          python3 - <<'PY'
+          from pathlib import Path
+          import subprocess
+          changed=subprocess.check_output(['git','diff','--name-only'],text=True).splitlines()
+          allowed=lambda p: p.startswith(('assessment/','practice/')) or p in ('scripts/explanation_panels.py','scripts/_expand_explanation_details.py','EXPLANATION_PANELS_AUDIT.md','.github/workflows/explanation-detail-preflight.yml')
+          assert all(allowed(p) for p in changed),changed
+          assert not list(Path('assessment').glob('_detail_*.md'))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A assessment practice scripts/explanation_panels.py scripts/_expand_explanation_details.py EXPLANATION_PANELS_AUDIT.md .github/workflows/explanation-detail-preflight.yml
+          git commit -m 'Expand all 405 explanation panels with detailed question-specific reasoning'
+          git push origin HEAD:${{ github.ref_name }}
+      - name: Package exact review source and diagnostic output
+        if: always()
+        run: |
+          git archive --format=zip HEAD -o detailed-explanation-source.zip
+          cp /tmp/detail-baseline-pages.json detail-baseline-pages.json || true
+          tar -czf detailed-working-texts.tgz assessment scripts practice EXPLANATION_PANELS_AUDIT.md
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: detailed-explanation-review
+          path: |
+            docs/
+            assessment/explanation-audit.json
+            assessment/explanation-detail-audit.json
+            EXPLANATION_PANELS_AUDIT.md
+            detailed-explanation-source.zip
+            detailed-working-texts.tgz
+            detail-baseline-pages.json
+          retention-days: 7
