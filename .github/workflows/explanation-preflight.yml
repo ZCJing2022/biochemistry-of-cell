@@ -6,17 +6,83 @@ on:
     paths: [.github/workflows/explanation-preflight.yml]
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: explanation-preflight
+  cancel-in-progress: false
 
 jobs:
   review:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Package current authored sources
-        run: git archive --format=zip HEAD -o source-snapshot.zip
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Integrate explanation authoring and record existing assessments
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json
+          p=Path('scripts/build_objective_assessments.py')
+          text=p.read_text()
+          if 'from explanation_panels import' not in text:
+              assert hashlib.sha256(p.read_bytes()).hexdigest()=='5d9bcec14fe9aa7c4ffd4acc414c437846e4080b41e6935dbec100ece2ab63dd'
+              edits={
+                  'from pathlib import Path\n':'from pathlib import Path\nfrom explanation_panels import strip_explanations, add_explanations, validate_explanation_html\n',
+                  "old=(ROOT/weekly_path(w)).read_text(encoding='utf-8')":"old=strip_explanations((ROOT/weekly_path(w)).read_text(encoding='utf-8'))",
+                  'assert a.collapsed==35+COUNTS[w]+EXTRAS[w],':'assert a.collapsed==2*(35+COUNTS[w]+EXTRAS[w]),',
+                  'assert a.collapsed==43,':'assert a.collapsed==86,',
+                  "    print('HTML PASS:":"    validate_explanation_html(outdir)\n    print('HTML PASS:",
+                  '    return out,audit':'    out,explanation_audit=add_explanations(out)\n    return out,audit'
+              }
+              for old,new in edits.items():
+                  assert text.count(old)==1,(old,text.count(old))
+                  text=text.replace(old,new)
+              p.write_text(text)
+          paths=sorted(Path('practice').glob('week*.qmd'))+sorted(Path('practice').glob('practice-part2-exam-*.qmd'))
+          assert len(paths)==8
+          Path('/tmp/explanation-baseline.json').write_text(json.dumps({str(p):p.read_text() for p in paths},ensure_ascii=False))
+          PY
+      - name: Generate and validate all 405 explanation panels
+        run: |
+          python3 -m py_compile scripts/explanation_panels.py scripts/build_objective_assessments.py
+          python3 scripts/build_objective_assessments.py --write
+          python3 scripts/build_objective_assessments.py --check
+          python3 - <<'PY'
+          import json,re,sys
+          from pathlib import Path
+          sys.path.insert(0,'scripts')
+          from explanation_panels import strip_explanations
+          before=json.loads(Path('/tmp/explanation-baseline.json').read_text())
+          normalize=lambda s:re.sub(r'\s+',' ',strip_explanations(s)).strip()
+          for path,old in before.items():
+              assert normalize(old)==normalize(Path(path).read_text()),path
+          print('PRESERVATION PASS: all existing questions, answer text, options, source lines, objective links, marks and exam instructions unchanged.')
+          PY
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render and verify independent closed controls
+        run: |
+          quarto render
+          python3 scripts/build_objective_assessments.py --check-html docs
+      - name: Commit validated static sources to working branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scripts/build_objective_assessments.py practice assessment/explanation-audit.json EXPLANATION_PANELS_AUDIT.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Render 405 independently collapsed question explanations'
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+          git archive --format=zip HEAD -o explanation-source-review.zip
       - uses: actions/upload-artifact@v4
         with:
-          name: explanation-source-snapshot
-          path: source-snapshot.zip
+          name: explanation-rendered-review
+          path: |
+            docs/
+            assessment/explanation-audit.json
+            EXPLANATION_PANELS_AUDIT.md
+            explanation-source-review.zip
           retention-days: 7
