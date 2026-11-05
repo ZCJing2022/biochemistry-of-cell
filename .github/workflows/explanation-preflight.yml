@@ -1,0 +1,22 @@
+name: Explanation preflight
+
+on:
+  push:
+    branches: [enhance/collapsible-question-explanations]
+    paths: [.github/workflows/explanation-preflight.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package current authored sources
+        run: git archive --format=zip HEAD -o source-snapshot.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: explanation-source-snapshot
+          path: source-snapshot.zip
+          retention-days: 7
