@@ -9,6 +9,8 @@ toc-depth: 2
 
 [Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-8). The final integrated questions are additional practice, not substitutes for the objective questions.
 
+**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.
+
 # Part A — Multiple Choice
 
 ### Question 1 — Catabolism {#w08-mc01}
@@ -26,6 +28,12 @@ Which description best defines catabolism?
 Catabolic pathways break larger molecules into smaller products and often release energy that can be captured by the cell.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc01 collapse="true" title="Explanation"}
+Look at the direction of the transformation: catabolism takes larger molecules apart. This breakdown can supply both usable energy and small building blocks, whereas assembling those building blocks into larger molecules is anabolism.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 2 — Anabolism {#w08-mc02}
 
 Glycogen synthesis from glucose is best described as:
@@ -41,6 +49,12 @@ Glycogen synthesis from glucose is best described as:
 Anabolism builds larger molecules from smaller precursors.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc02 collapse="true" title="Explanation"}
+The clue is synthesis: many glucose units are being assembled into a larger storage polymer. That direction is anabolic, regardless of the fact that the resulting glycogen might later be broken down in a catabolic process.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 3 — Metabolomics {#w08-mc03}
 
 Metabolomics is primarily concerned with:
@@ -52,6 +66,12 @@ Metabolomics is primarily concerned with:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc03 collapse="true" title="Explanation"}
+The object being measured distinguishes metabolomics from other approaches. Metabolomics identifies and measures small metabolic products in a sample; sequencing genes or determining protein structures answers different questions. The measurements describe the system at the time of sampling.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 4 — First law {#w08-mc04}
@@ -67,6 +87,12 @@ The first law of thermodynamics states that:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc04 collapse="true" title="Explanation"}
+The first law is an energy-accounting rule. A cell can transform chemical energy into work or heat, but it cannot create energy from nothing. It therefore does not imply that metabolism produces new energy or that every favorable reaction happens rapidly.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 5 — Second law {#w08-mc05}
 
 A process that increases the dispersal of matter and energy is generally associated with an increase in:
@@ -78,6 +104,12 @@ A process that increases the dispersal of matter and energy is generally associa
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc05 collapse="true" title="Explanation"}
+Dispersal of matter and energy is the feature associated with entropy. This question concerns the second law, not an enzyme's substrate concentration or maximum rate. Local cellular organization can be maintained while the cell increases entropy in its surroundings.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 6 — Meaning of ΔG {#w08-mc06}
@@ -95,6 +127,12 @@ The most useful interpretation of $\Delta G$ for a reaction is that it indicates
 $\Delta G$ describes thermodynamic favorability, not reaction speed.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc06 collapse="true" title="Explanation"}
+The sign of ΔG compares the free energies of reactants and products under the stated conditions. It tells you which direction is favored, not how many molecules react per second. Reaction speed also depends on the activation barrier and catalysis.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 7 — Exergonic {#w08-mc07}
 
 If $\Delta G=-18\;\text{kJ/mol}$, the reaction is:
@@ -108,6 +146,12 @@ If $\Delta G=-18\;\text{kJ/mol}$, the reaction is:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc07 collapse="true" title="Explanation"}
+The negative sign is the deciding information: products have lower free energy than reactants for the reaction as written. The reaction is therefore exergonic. The size of the negative value does not by itself establish whether the reaction will be fast.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 8 — Endergonic {#w08-mc08}
 
 If $\Delta G=+12\;\text{kJ/mol}$, which statement is best?
@@ -119,6 +163,12 @@ If $\Delta G=+12\;\text{kJ/mol}$, which statement is best?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc08 collapse="true" title="Explanation"}
+A positive free-energy change means the forward direction is energetically uphill under the stated conditions. That makes it endergonic, not an equilibrium reaction. A cell may drive it by appropriate coupling; simply adding an enzyme does not change its ΔG.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 9 — Equilibrium {#w08-mc09}
@@ -136,6 +186,12 @@ At equilibrium:
 Molecules still react in both directions, but the forward and reverse rates are equal.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc09 collapse="true" title="Explanation"}
+Equilibrium is dynamic rather than motionless. Forward and reverse reactions continue at equal rates, so their effects cancel and concentrations have no net change. It does not require equal reactant and product concentrations or complete conversion to product.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 10 — ΔG versus ΔG°′ {#w08-mc10}
 
 Which statement is correct?
@@ -147,6 +203,12 @@ Which statement is correct?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc10 collapse="true" title="Explanation"}
+The standard transformed value describes a specified reference situation, while actual ΔG reflects the situation in the cell. Changing substrate and product concentrations can change actual favorability without changing the reference value. The two quantities therefore need not have the same sign.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 11 — Coupling {#w08-mc11}
@@ -164,6 +226,12 @@ Reaction 1 has $\Delta G=+10$ kJ/mol. Reaction 2 has $\Delta G=-25$ kJ/mol. If t
 Free-energy changes are additive: $+10+(-25)=-15$ kJ/mol.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc11 collapse="true" title="Explanation"}
+For directly coupled reactions, add the signed free-energy changes: +10 plus −25 gives −15 kJ/mol. The favorable component more than offsets the unfavorable component. Adding their absolute magnitudes would discard the direction information carried by the signs.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 12 — Product removal {#w08-mc12}
 
 A reversible reaction $A\rightleftharpoons B$ can be pulled toward B when:
@@ -175,6 +243,12 @@ A reversible reaction $A\rightleftharpoons B$ can be pulled toward B when:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc12 collapse="true" title="Explanation"}
+Continual consumption of B prevents it from accumulating. Lower product concentration favors further conversion of A to B under the actual cellular conditions. The next reaction therefore provides a pull on the preceding step rather than altering that step's standard free-energy change.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 13 — ATP hydrolysis {#w08-mc13}
@@ -192,6 +266,12 @@ Why is ATP hydrolysis strongly favorable?
 The favorable overall reaction reflects stabilization of the products, including relief of charge repulsion and resonance/hydration effects.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc13 collapse="true" title="Explanation"}
+Compare the complete ATP-hydrolysis reaction, not just the breaking of one bond. Relief of charge repulsion and stabilization of the products by resonance and hydration contribute to their lower free energy. The overall product–reactant difference explains why hydrolysis is favorable.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 14 — Oxidation {#w08-mc14}
 
 Oxidation is:
@@ -203,6 +283,12 @@ Oxidation is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc14 collapse="true" title="Explanation"}
+Use the electron balance: a molecule that gives up electrons is oxidized. The word does not mean merely losing a proton or consuming ATP. Its lost electrons must be accepted by another molecule in the accompanying reduction.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 15 — Reduction {#w08-mc15}
@@ -218,6 +304,12 @@ Reduction is:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc15 collapse="true" title="Explanation"}
+Reduction is identified by electron gain. The reduced molecule receives electrons from a donor, which is oxidized in the same transfer. This is the meaning of the RIG part of OIL RIG, not a synonym for ATP hydrolysis.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 16 — Recognizing reduction {#w08-mc16}
 
 For an organic carbon compound, an increase in the number of C–H bonds generally indicates:
@@ -229,6 +321,12 @@ For an organic carbon compound, an increase in the number of C–H bonds general
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc16 collapse="true" title="Explanation"}
+In the organic-molecule examples used in the guide, more C–H bonds generally indicate a more reduced carbon compound. The comparison is about the molecule's electron-rich state, not its size or reaction rate. Increased bonding to oxygen generally points in the opposite direction.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 17 — Redox pairing {#w08-mc17}
@@ -244,6 +342,12 @@ If molecule A is oxidized during a reaction:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc17 collapse="true" title="Explanation"}
+Electrons transferred out of A cannot simply disappear. An acceptor gains those electrons and is reduced while A is oxidized. Oxidation and reduction describe the complementary sides of the same electron-transfer event.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 18 — NAD+ {#w08-mc18}
 
 Which statement best describes NAD+?
@@ -255,6 +359,12 @@ Which statement best describes NAD+?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc18 collapse="true" title="Explanation"}
+NAD+ is the carrier before it accepts reducing equivalents. When a substrate donates electrons to it, the substrate is oxidized and NAD+ becomes NADH. Its role is electron acceptance, not acting as a protein enzyme or directly synthesizing ATP.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 19 — NADH {#w08-mc19}
@@ -270,6 +380,12 @@ NADH is:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc19 collapse="true" title="Explanation"}
+The H in NADH identifies the reduced carrier produced when NAD+ accepts reducing equivalents. NADH can pass those electrons to later reactions and return to NAD+. Thinking of the two forms as a recyclable pair is more useful than treating NADH as energy itself.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 20 — Enzyme {#w08-mc20}
 
 An enzyme is best defined as:
@@ -281,6 +397,12 @@ An enzyme is best defined as:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc20 collapse="true" title="Explanation"}
+The definition combines biological catalysis with reuse: the enzyme accelerates a reaction and is available again after product release. It does not turn an unfavorable reaction into a favorable one by changing equilibrium. Those thermodynamic claims are the distractors to reject.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 21 — Activation energy {#w08-mc21}
@@ -296,6 +418,12 @@ Activation energy is:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc21 collapse="true" title="Explanation"}
+Activation energy measures the barrier between the reactant state and the transition state. It is different from ΔG, which compares reactants with products. A large barrier can make an energetically favorable reaction slow.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 22 — Transition state {#w08-mc22}
 
 The transition state is:
@@ -307,6 +435,12 @@ The transition state is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc22 collapse="true" title="Explanation"}
+The transition state is the unstable, high-energy configuration on the route between substrate and product. It is not a stable product, a mixture at equilibrium, or the enzyme after release. Enzyme catalysis makes this difficult stage easier to reach.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 23 — What enzymes change {#w08-mc23}
@@ -322,6 +456,12 @@ Which property is directly lowered by an enzyme?
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc23 collapse="true" title="Explanation"}
+An enzyme provides a route with a lower activation barrier, allowing more substrate molecules to react in a given time. The starting and ending free-energy levels are unchanged. That is why the activation barrier, rather than overall ΔG or the equilibrium constant, is the correct choice.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 24 — What enzymes do not change {#w08-mc24}
 
 Adding an enzyme to a reversible reaction will:
@@ -335,6 +475,12 @@ Adding an enzyme to a reversible reaction will:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc24 collapse="true" title="Explanation"}
+A catalyst helps a reversible reaction reach its existing equilibrium more quickly. It accelerates the forward and reverse processes without changing the equilibrium ratio. More rapid conversion is not evidence that the enzyme has permanently shifted equilibrium toward products.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 25 — Enzyme–substrate complex {#w08-mc25}
 
 When a substrate binds to an enzyme, it forms:
@@ -346,6 +492,12 @@ When a substrate binds to an enzyme, it forms:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc25 collapse="true" title="Explanation"}
+Binding brings enzyme and substrate together at the active site, producing the enzyme–substrate complex, ES. This is an intermediate stage in the catalytic cycle. Product formation and release occur afterward, leaving enzyme available for reuse.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 26 — Reaction velocity {#w08-mc26}
@@ -363,6 +515,12 @@ Which is a valid unit for enzyme reaction velocity?
 Velocity is amount or concentration changed per unit time.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc26 collapse="true" title="Explanation"}
+A velocity must specify how much changes and how long that change takes. μmol/min contains both an amount and a time, so it is a rate. mM alone is a concentration, while kJ/mol describes an energy change per amount of reaction.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 27 — Vmax {#w08-mc27}
 
 Vmax is approached when:
@@ -376,6 +534,12 @@ Vmax is approached when:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc27 collapse="true" title="Explanation"}
+At high substrate concentration, the available active sites are occupied most of the time. Further substrate then contributes little extra rate, so the reaction approaches Vmax for that amount of enzyme. Saturation is not the same as the reaction reaching thermodynamic equilibrium.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 28 — Km definition {#w08-mc28}
 
 For a Michaelis–Menten enzyme, Km is the substrate concentration at which:
@@ -387,6 +551,12 @@ For a Michaelis–Menten enzyme, Km is the substrate concentration at which:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc28 collapse="true" title="Explanation"}
+Km is defined by a particular point on the Michaelis–Menten curve. Start at half the plateau rate, move to the curve, and read the corresponding substrate concentration. This definition makes v = Vmax/2 the distinguishing condition.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 29 — Km units {#w08-mc29}
@@ -404,6 +574,12 @@ Km has units of:
 Examples include M, mM, and μM.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc29 collapse="true" title="Explanation"}
+Km answers a concentration question: how much substrate is present when the rate is half-maximal? Its units therefore come from the substrate axis, such as mM or μM. Vmax, by contrast, is read from the rate axis and includes a time unit.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 30 — Thermodynamics versus kinetics {#w08-mc30}
 
 A reaction has $\Delta G=-40$ kJ/mol but proceeds extremely slowly without an enzyme. The best explanation is:
@@ -419,6 +595,12 @@ A reaction has $\Delta G=-40$ kJ/mol but proceeds extremely slowly without an en
 Thermodynamic favorability and reaction rate are different properties.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc30 collapse="true" title="Explanation"}
+The negative ΔG already establishes energetic favorability, so slow product formation does not make the reaction endergonic. A high activation barrier can still prevent rapid conversion. The enzyme addresses that kinetic obstacle without changing the energy difference between reactants and products.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 31 — Coupling logic {#w08-mc31}
 
 An unfavorable reaction with $\Delta G=+8$ kJ/mol is coupled to ATP hydrolysis with $\Delta G=-30$ kJ/mol. Which statement is correct?
@@ -430,6 +612,12 @@ An unfavorable reaction with $\Delta G=+8$ kJ/mol is coupled to ATP hydrolysis w
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc31 collapse="true" title="Explanation"}
+The coupled process has ΔG = +8 − 30 = −22 kJ/mol. Evaluate the combined reaction rather than rejecting it because one component is unfavorable. The calculation assumes the two reactions are actually coupled, not merely occurring nearby.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 32 — Pathway pull {#w08-mc32}
@@ -445,6 +633,12 @@ Suppose reaction 2 in a pathway has a slightly positive $\Delta G^{\circ\prime}$
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc32 collapse="true" title="Explanation"}
+A positive standard value is not the final verdict on a step inside a pathway. Rapid removal of its product changes the actual concentrations and can favor continued forward conversion. The enzyme does not need to change ΔG°′ to make that happen.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 33 — Saturation {#w08-mc33}
 
 An enzyme reaction is measured as substrate concentration rises. The rate increases at first and then levels off. The plateau most directly indicates:
@@ -456,6 +650,12 @@ An enzyme reaction is measured as substrate concentration rises. The rate increa
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc33 collapse="true" title="Explanation"}
+The leveling-off pattern indicates that additional substrate no longer provides much extra rate because the enzyme is near saturation. The plateau estimates Vmax under those conditions. It does not show that the enzyme has been destroyed or that the reaction's ΔG is positive.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Question 34 — Km comparison {#w08-mc34}
@@ -473,6 +673,12 @@ Enzyme X has Km = 0.2 mM and Enzyme Y has Km = 5 mM for the same substrate. Whic
 That conclusion follows directly from the operational definition of Km.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-mc34 collapse="true" title="Explanation"}
+Read the comparison using the definition of Km: X needs 0.2 mM to reach its own half-maximal rate, whereas Y needs 5 mM. This says nothing by itself about which enzyme has the larger Vmax. It also does not justify equating Km with binding affinity in every case.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Question 35 — NAD redox state {#w08-mc35}
 
 During oxidation of a fuel molecule, NAD+ becomes NADH. Which statement is correct?
@@ -484,6 +690,12 @@ During oxidation of a fuel molecule, NAD+ becomes NADH. Which statement is corre
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-mc35 collapse="true" title="Explanation"}
+Follow where the electrons go rather than confusing oxidation with oxygen use. The fuel donates electrons and is oxidized; NAD+ accepts them and is reduced to NADH. Both changes belong to the same redox reaction.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 # Part B — Every Learning Objective
@@ -502,6 +714,12 @@ Catabolism consists of reactions that break larger molecules into smaller ones. 
 **Source:** Week 8 objectives, item 1; Lecture 8:1, 8:16; Alberts Ch. 3.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo01 collapse="true" title="Explanation"}
+A complete definition should connect breakdown with its metabolic consequences. Smaller products can feed other pathways, while some released free energy can be captured for cellular work. This explains why catabolism supports the rest of metabolism rather than simply destroying useful molecules.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-02 — Anabolism {#w08-lo02}
 
 **Original objective:** What is anabolism
@@ -512,6 +730,12 @@ Define anabolism and contrast it with catabolism.
 Anabolism builds larger molecules from smaller precursors. These biosynthetic reactions generally require energy input, often supplied through activated carriers. Catabolism breaks molecules down; anabolism builds them up. The two are connected because breakdown supplies energy and building blocks for synthesis.
 
 **Source:** Week 8 objectives, item 2; Alberts Ch. 3.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo02 collapse="true" title="Explanation"}
+Use molecule-building versus molecule-breakdown as the organizing contrast. Biosynthesis generally needs energy, and catabolic pathways can supply that energy and the required precursors. The two categories describe linked directions within metabolism, not separate systems that never interact.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-03 — Metabolomics {#w08-lo03}
@@ -526,6 +750,12 @@ Metabolomics is the systematic identification and quantification of small-molecu
 **Source:** Week 8 objectives, item 3; Lecture 8:2.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo03 collapse="true" title="Explanation"}
+A metabolome is a snapshot of small molecules, so both what is measured and when it is measured belong in the answer. A meal or a change in cellular activity can alter concentrations even without changing DNA. That is why metabolomics can describe current physiological state.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-04 — Gibbs free energy {#w08-lo04}
 
 **Original objective:** What information does the Gibbs Free Energy (G) give us
@@ -536,6 +766,12 @@ What information does G provide, and how does that differ from asking about a ch
 G expresses the energy capable of doing useful work under the stated conditions. The lecture uses it to quantify energy available for cellular work. G describes a state; the difference between product and reactant free energies, ΔG, describes the energetic change of a reaction.
 
 **Source:** Week 8 objectives, item 4; Lecture 8:7 (PDF p. 9).
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo04 collapse="true" title="Explanation"}
+Separate a state from a change between states. G describes free energy available under the specified conditions; ΔG subtracts the reactant value from the product value. Naming only reaction speed would answer neither of these thermodynamic questions.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-05 — Meaning of ΔG {#w08-lo05}
@@ -550,6 +786,12 @@ The sign indicates the favored direction under the stated conditions: negative f
 **Source:** Week 8 objectives, item 5; Lecture 8:7–8:8.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo05 collapse="true" title="Explanation"}
+Read the sign first for direction, then the magnitude for the size of the energetic change. Neither tells you how quickly reactants cross the activation barrier. Keeping direction and speed separate explains how a strongly favorable reaction can still need enzyme catalysis to proceed usefully.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-06 — Actual and standard conditions {#w08-lo06}
 
 **Original objective:** What (in general) is the difference between ΔG and ΔG0′
@@ -560,6 +802,12 @@ Distinguish ΔG from ΔG°′ and explain why their signs need not be identical.
 ΔG describes the reaction under actual conditions, including the concentrations present in the cell. ΔG°′ refers to defined biochemical standard conditions. Actual substrate and product concentrations can make forward flux favorable even when the standard free-energy change is positive. An enzyme does not change ΔG°′.
 
 **Source:** Week 8 objectives, item 6; Lecture 8:7, 8:10.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo06 collapse="true" title="Explanation"}
+The cell does not have to match biochemical standard concentrations. Substrate supply and product consumption can therefore make actual ΔG differ from ΔG°′. The explanation concerns concentrations, not a claim that enzymes alter the standard free-energy difference.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-07 — Exergonic, endergonic and equilibrium {#w08-lo07}
@@ -574,6 +822,12 @@ Exergonic: ΔG < 0, free energy is released and the direction written is favored
 **Source:** Week 8 objectives, item 7; Lecture 8:8.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo07 collapse="true" title="Explanation"}
+These three labels describe the sign of the free-energy change in the written direction. The special point at zero is not a complete halt: forward and reverse fluxes balance. Explaining that balance is essential to distinguish equilibrium from a reaction that is merely very slow.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-08 — Driving a pathway forward {#w08-lo08}
 
 **Original objective:** Understand that coupling reactions and siphoning off product are two ways to move a metabolic reaction in the forward direction
@@ -584,6 +838,12 @@ Explain BOTH coupling and product removal. Use +13.8 and −30.5 kJ/mol to calcu
 For directly coupled reactions, add their free-energy changes: +13.8 + (−30.5) = **−16.7 kJ/mol**. The combined reaction is favorable; merely putting unrelated reactions in the same container is not coupling. Alternatively, rapid consumption of the product by the next step keeps its concentration low and favors continued forward conversion. This changes the actual ΔG, not the standard value. In the lecture, reaction 3 consumes fructose-6-phosphate made by reaction 2.
 
 **Source:** Week 8 objectives, item 8; Lecture 8:9–8:10.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo08 collapse="true" title="Explanation"}
+Keep the two mechanisms separate. Coupling adds the signed changes of connected reactions, giving +13.8 − 30.5 = −16.7 kJ/mol here. Product removal instead alters the actual concentrations of a step, so the following reaction can pull it forward without changing its standard value.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-09 — Oxidation {#w08-lo09}
@@ -598,6 +858,12 @@ Oxidation is loss of electrons. The fuel is oxidized when it donates electrons; 
 **Source:** Week 8 objectives, item 9; Lecture 8:14–8:16.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo09 collapse="true" title="Explanation"}
+Track the donor first: losing electrons makes the fuel oxidized. Identify the acceptor next: NAD+ gains those electrons and is reduced. This paired description prevents the common error of calling the electron-accepting carrier oxidized simply because it participates in fuel oxidation.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-10 — Reduction {#w08-lo10}
 
 **Original objective:** What is reduction
@@ -608,6 +874,12 @@ Define reduction and explain why oxidation and reduction occur together.
 Reduction is gain of electrons. An electron donor is oxidized while an acceptor is reduced: the transferred electrons are not created or destroyed. Gaining C–H bonds generally corresponds to reduction in the organic-molecule examples. OIL RIG means Oxidation Is Loss, Reduction Is Gain.
 
 **Source:** Week 8 objectives, item 10; Lecture 8:14–8:16.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo10 collapse="true" title="Explanation"}
+Reduction names the receiving side of an electron transfer. The electrons gained by the acceptor are supplied by the oxidized donor, so the two processes occur together. The C–H comparison is a useful organic-molecule guide, while electron gain remains the fundamental definition.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-11 — Enzymes {#w08-lo11}
@@ -622,6 +894,12 @@ An enzyme is a biomolecule, often a protein, that catalyzes a specific reaction.
 **Source:** Week 8 objectives, item 11; Lecture 8:18.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo11 collapse="true" title="Explanation"}
+An enzyme's active site gives it a specific catalytic role, and product release allows another cycle. These two features distinguish a reusable catalyst from a substrate that is consumed. A good answer therefore includes both reaction specificity and enzyme recycling.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-12 — Catalysis {#w08-lo12}
 
 **Original objective:** What is catalysis
@@ -632,6 +910,12 @@ Define catalysis and distinguish its effect on rate from an effect on equilibriu
 Catalysis increases reaction rate by providing a route with a lower activation barrier. It does not change the overall free-energy difference between reactants and products or the equilibrium position. Enzymes accelerate approach to equilibrium rather than moving the equilibrium itself.
 
 **Source:** Week 8 objectives, item 12; Lecture 8:18, 8:22.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo12 collapse="true" title="Explanation"}
+Catalysis changes the route to the transition state rather than the energy of the final products. Lowering the barrier increases rate in both directions, bringing the system to equilibrium sooner. It does not select a new equilibrium composition.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-13 — Substrate binding {#w08-lo13}
@@ -646,6 +930,12 @@ Substrate forms an enzyme–substrate complex through interactions at the active
 **Source:** Week 8 objectives, item 13; Lecture 8:19–8:21; Tutorial 5.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo13 collapse="true" title="Explanation"}
+Describe a cycle, not just a binding event. Active-site interactions can induce a conformational change that positions the substrate and catalytic groups; conversion then produces products that leave. The hexokinase example illustrates why the active site need not behave like a permanently rigid lock.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-14 — Transition state {#w08-lo14}
 
 **Original objective:** What is the transition state
@@ -656,6 +946,12 @@ Define the transition state and distinguish it from a stable substrate or produc
 It is the short-lived, high-energy configuration along the route from substrate to product, at the top of the activation barrier. It is not the final product or an equilibrium mixture. Reaching it is required even for a reaction whose overall ΔG is negative.
 
 **Source:** Week 8 objectives, item 14; Lecture 8:22.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo14 collapse="true" title="Explanation"}
+Even an energetically downhill reaction must cross a high-energy configuration along its pathway. That configuration is the transition state, not a lasting chemical endpoint. Its relationship to the barrier explains why favorable reactions can be slow without catalysis.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-15 — How enzymes accelerate reactions {#w08-lo15}
@@ -670,6 +966,12 @@ Binding and active-site interactions position substrates, facilitate bond rearra
 **Source:** Week 8 objectives, item 15; Lecture 8:21–8:22; Alberts Ch. 4.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo15 collapse="true" title="Explanation"}
+On an energy diagram, compare the barrier heights while keeping reactant and product levels fixed. Substrate positioning and transition-state stabilization reduce the barrier, explaining the increased rate. Moving the final energy level would incorrectly imply that the enzyme changes ΔG.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-16 — Velocity {#w08-lo16}
 
 **Original objective:** What does rate/velocity refer to with respect to enzyme behaviour
@@ -680,6 +982,12 @@ Define reaction velocity and give an example of a rate unit.
 Velocity is substrate consumed or product formed per unit time under specified conditions. A suitable unit is μmol product/min or concentration/time such as mM/s. Concentration alone is not a velocity.
 
 **Source:** Week 8 objectives, item 16; Lecture 8:23–8:24.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo16 collapse="true" title="Explanation"}
+Velocity describes change over time. Reporting only the amount of product or its concentration misses the time dimension and is therefore incomplete. Units such as μmol/min make the required comparison explicit and distinguish velocity from Km.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-17 — Maximum velocity and units {#w08-lo17}
@@ -694,6 +1002,12 @@ Vmax is the limiting maximum rate for the given amount of enzyme under specified
 **Source:** Week 8 objectives, item 17; Lecture 8:23–8:26.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo17 collapse="true" title="Explanation"}
+Vmax belongs to a specified enzyme amount and experimental situation. Once active sites are occupied most of the time, more substrate gives little extra rate; it is not evidence that all possible enzyme preparations have the same maximum. Because Vmax is a rate, its units must include time.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Objective W08-18 — Km and units {#w08-lo18}
 
 **Original objective:** What is the definition of Km and what are the units of Km
@@ -704,6 +1018,12 @@ Define Km operationally and give its units. If Vmax is 60 μmol/min and v is 30 
 Km is the substrate concentration at which v equals one-half Vmax for the Michaelis–Menten curve used here. Its units are concentration, such as mM. Half of 60 is 30 μmol/min, reached at 3 mM, so **Km = 3 mM**. Do not report Km in μmol/min or confuse it with the height of the plateau.
 
 **Source:** Week 8 objectives, item 18; Lecture 8:25–8:26.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-lo18 collapse="true" title="Explanation"}
+First halve the maximum rate: 60/2 = 30 μmol/min. The supplied data place that rate at 3 mM substrate, so the concentration—not the rate—is Km. This sequence helps prevent copying the y-axis units into a value read from the x-axis.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Objective W08-19 — NAD+/NADH {#w08-lo19}
@@ -718,6 +1038,12 @@ NAD+ is the oxidized form and accepts reducing equivalents during substrate oxid
 **Source:** Week 8 objectives, item 19; Lecture 8:28; Tutorial 5.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-lo19 collapse="true" title="Explanation"}
+Think of NAD+ and NADH as consecutive states in a recycling loop. Substrate oxidation loads the carrier with electrons, and later electron donation restores the oxidized carrier. Without that restoration, the cell would lose the available NAD+ needed for further oxidation reactions.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 # Part C — Integrated Practice
 
 ### Integrated Question 1 — Thermodynamics and enzymes
@@ -728,12 +1054,24 @@ A reaction has $\Delta G=-25$ kJ/mol but almost no product appears over one hour
 No. The negative $\Delta G$ already means the reaction is thermodynamically favorable. The enzyme increases the rate by lowering activation energy; it does not make $\Delta G$ more negative or change the equilibrium constant.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-ix01 collapse="true" title="Explanation"}
+Use the observation to separate two questions. ΔG is already negative before the enzyme is added, so the enzyme cannot be credited with making the reaction favorable. The change in product formation instead shows that lowering the activation barrier can greatly increase reaction rate.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Integrated Question 2 — Pathway reasoning
 
 Reaction A converts X to Y with a positive $\Delta G^{\circ\prime}$. Reaction B rapidly consumes Y to form Z and has a strongly negative $\Delta G$. Explain why X can still flow toward Z in a cell.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Because Y is continually removed, its concentration remains low, which can make the actual $\Delta G$ for X → Y favorable. In addition, the overall sequence X → Y → Z can have a negative total free-energy change. Metabolic pathway direction depends on the coupled sequence and actual concentrations, not on one isolated standard free-energy value.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-ix02 collapse="true" title="Explanation"}
+The pathway continually drains Y into Z, so X-to-Y is not operating with an isolated, accumulating product pool. Low Y can favor the actual forward reaction even when its standard value is positive. Assessing the whole sequence and the actual concentrations explains the continued flow toward Z.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Integrated Question 3 — Reading an enzyme curve
@@ -744,12 +1082,24 @@ An enzyme reaches 50 μmol/min at very high substrate concentration. At 2 mM sub
 Vmax is approximately **50 μmol/min**. Half of Vmax is 25 μmol/min, which occurs at 2 mM substrate, so **Km ≈ 2 mM**.
 :::
 
+::: {.callout-note .question-explanation #explanation-w08-ix03 collapse="true" title="Explanation"}
+Identify the plateau before reading Km. The plateau gives Vmax ≈ 50 μmol/min; half of it is 25 μmol/min, and the question places that rate at 2 mM substrate. Keeping each value attached to its own axis gives the correct units as well as the correct numbers.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+
 ### Integrated Question 4 — Redox integration
 
 A fuel molecule loses electrons to NAD+. Identify which molecule is oxidized, which is reduced, and what product is formed from NAD+.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 The fuel molecule is **oxidized** because it loses electrons. NAD+ is **reduced** because it gains electrons, producing **NADH**.
+:::
+
+::: {.callout-note .question-explanation #explanation-w08-ix04 collapse="true" title="Explanation"}
+Follow the electrons from fuel to carrier. Their loss makes the fuel oxidized, and their acceptance makes NAD+ reduced. NADH is the product of that reduction; it is not a separate enzyme that causes the fuel to oxidize.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
 :::
 
 ### Integrated Question 5 — Final synthesis
@@ -759,3 +1109,10 @@ In four or five sentences, distinguish **free-energy change**, **activation ener
 ::: {.callout-tip collapse="true" title="Answer"}
 $\Delta G$ describes the thermodynamic favorability and direction of a reaction under the specified conditions. Activation energy is the barrier that must be crossed to reach the transition state, and enzymes accelerate reactions by lowering this barrier. Vmax is the maximum reaction rate approached when enzyme active sites are saturated with substrate. Km is the substrate concentration at which the rate is half of Vmax and therefore has concentration units.
 :::
+
+::: {.callout-note .question-explanation #explanation-w08-ix05 collapse="true" title="Explanation"}
+Organize the four terms by the question each answers. ΔG concerns favorability, activation energy concerns the barrier, Vmax concerns the limiting rate, and Km identifies a substrate concentration on the rate curve. Separating these roles prevents using a kinetic measurement as an explanation of thermodynamic direction.
+
+**Review:** [Week 8 study guide](../study-guides/week08-bioenergetics-enzymes.qmd).
+:::
+

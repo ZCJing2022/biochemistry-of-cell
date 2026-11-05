@@ -9,6 +9,8 @@ toc-depth: 2
 
 [Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-12). The final integrated questions are additional practice, not substitutes for the objective questions.
 
+**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.
+
 # Part A — Multiple Choice
 
 ### Question 1 — Endocrine signaling {#w12-mc01}
@@ -23,6 +25,12 @@ Endocrine signaling is characterized by:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc01 collapse="true" title="Explanation"}
+The defining route is transport through the bloodstream to potentially distant targets. That distinguishes endocrine signaling from short-range diffusion or direct cell contact. A receptor is still required for a target cell to respond to the circulating signal.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 2 — Endocrine specificity {#w12-mc02}
 Why do not all cells respond to an endocrine hormone circulating in blood?
 
@@ -33,6 +41,12 @@ Why do not all cells respond to an endocrine hormone circulating in blood?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc02 collapse="true" title="Explanation"}
+Delivery and responsiveness are different requirements. Blood can distribute a hormone widely, but a cell needs an appropriate receptor to detect it and initiate signaling. Circulation alone therefore does not make every cell a responsive target.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 3 — Paracrine {#w12-mc03}
@@ -47,6 +61,12 @@ Paracrine signaling usually acts:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc03 collapse="true" title="Explanation"}
+Paracrine signaling acts locally as molecules move through extracellular fluid to nearby cells. The short-range route distinguishes it from endocrine blood transport. Direct physical contact is the separate juxtacrine mode.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 4 — Neuronal {#w12-mc04}
 Neuronal signaling typically includes:
 
@@ -57,6 +77,12 @@ Neuronal signaling typically includes:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc04 collapse="true" title="Explanation"}
+The neuronal example combines electrical transmission along an axon with communication at the target. Recognizing that route distinguishes it from metabolic enzymes or mitochondrial ATP synthesis. The answer names a signaling mechanism rather than an unrelated cellular process.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 5 — Juxtacrine {#w12-mc05}
@@ -71,6 +97,12 @@ Contact-dependent signaling requires:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc05 collapse="true" title="Explanation"}
+A cell-associated ligand must contact a receptor on another cell for the contact-dependent mode described here. That physical requirement is why distant transport through blood does not fit. Juxtacrine is another name for this same mode.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 6 — Hydrophilic ligand {#w12-mc06}
 Most hydrophilic signal molecules bind:
 
@@ -81,6 +113,12 @@ Most hydrophilic signal molecules bind:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc06 collapse="true" title="Explanation"}
+Most hydrophilic ligands cannot pass directly through the lipid bilayer. A cell-surface receptor therefore detects them outside and communicates the information inward. This contrasts with small hydrophobic signals that can reach intracellular receptors.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 7 — Receptor classes {#w12-mc07}
@@ -95,6 +133,12 @@ Which is **not** one of the three main cell-surface receptor classes emphasized?
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc07 collapse="true" title="Explanation"}
+The question asks which option does not belong to the stated three-class list. GPCRs, enzyme-linked receptors and ion-channel-linked receptors are the listed classes. A ribosome-linked receptor is not part of that classification.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 8 — Hydrophobic signal {#w12-mc08}
 A small hydrophobic signaling molecule may:
 
@@ -105,6 +149,12 @@ A small hydrophobic signaling molecule may:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc08 collapse="true" title="Explanation"}
+Small hydrophobic signals can cross the membrane and bind receptors inside the cell. That route differs from the usual surface detection of hydrophilic ligands. It does not require every signal to use a seven-pass receptor.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 9 — Fast response {#w12-mc09}
@@ -119,6 +169,12 @@ Which response can often occur rapidly without new protein synthesis?
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc09 collapse="true" title="Explanation"}
+Changing the activity of proteins already present can alter metabolism rapidly. A response that requires new gene expression and protein synthesis generally takes longer. The distinction is therefore whether existing machinery can respond immediately, not whether signaling occurs at all.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 10 — Kinase {#w12-mc10}
 A protein kinase:
 
@@ -129,6 +185,12 @@ A protein kinase:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc10 collapse="true" title="Explanation"}
+A protein kinase adds phosphate to a target protein, commonly using ATP as the donor. Removing phosphate is the opposing phosphatase action. Distinguishing these chemical operations helps track the direction of a phosphorylation switch.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 11 — Phosphatase {#w12-mc11}
@@ -143,6 +205,12 @@ A protein phosphatase:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc11 collapse="true" title="Explanation"}
+A phosphatase removes phosphate groups from proteins. It does not perform GDP–GTP exchange, which is a different signaling mechanism. Removal can alter activity, but its activating or inhibiting effect depends on the particular target.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 12 — Phosphorylation effect {#w12-mc12}
 Which statement is correct?
 
@@ -153,6 +221,12 @@ Which statement is correct?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc12 collapse="true" title="Explanation"}
+Phosphate addition changes charge and can alter conformation or interactions. The consequence depends on the target protein and the modified site, so it can activate or inhibit. The presence of a phosphate symbol alone is not proof that a protein is ON.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 13 — GTP switch {#w12-mc13}
@@ -167,6 +241,12 @@ For the GTP-binding switches discussed:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc13 collapse="true" title="Explanation"}
+For the switches studied here, GTP binding supports the active conformation and GDP binding the inactive one. Hydrolysis and exchange allow movement between these states. The rule concerns nucleotide-dependent switching, not conversion of ATP into the signal.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 14 — GTP hydrolysis {#w12-mc14}
 A small GTPase turns itself off by:
 
@@ -177,6 +257,12 @@ A small GTPase turns itself off by:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc14 collapse="true" title="Explanation"}
+Hydrolysis removes the terminal phosphate from the GTP bound to the switch, leaving GDP. This returns the GTPase toward its OFF conformation. It is not the same as phosphorylating a protein target or making ATP.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 15 — GEF {#w12-mc15}
@@ -191,6 +277,12 @@ A GEF promotes:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc15 collapse="true" title="Explanation"}
+A GEF promotes release of bound GDP, allowing GTP to take its place. That exchange favors activation of the switch. Accelerating GTP hydrolysis is the different role of a GAP.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 16 — GAP {#w12-mc16}
 A GAP promotes:
 
@@ -201,6 +293,12 @@ A GAP promotes:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc16 collapse="true" title="Explanation"}
+GAP stimulates the GTPase's hydrolysis step, which returns the switch toward GDP-OFF. Although its name includes activating, the activity being accelerated is GTP hydrolysis. It does not activate Ras by exchanging GDP for GTP.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 17 — GPCR structure {#w12-mc17}
@@ -215,6 +313,12 @@ A GPCR characteristically:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc17 collapse="true" title="Explanation"}
+The seven membrane-spanning segments identify the GPCR architecture. A receptor with a single transmembrane helix and intrinsic tyrosine kinase activity belongs to the RTK comparison. Receptor structure helps distinguish these signaling arrangements.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 18 — Heterotrimeric G protein {#w12-mc18}
 The G protein associated with a GPCR initially consists of:
 
@@ -225,6 +329,12 @@ The G protein associated with a GPCR initially consists of:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc18 collapse="true" title="Explanation"}
+Heterotrimeric describes a complex of three subunits. One subunit carries the GDP/GTP switching role, while the complex works with the GPCR. Ras is the monomeric comparison, not the entire three-subunit assembly.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 19 — GPCR activation {#w12-mc19}
@@ -239,6 +349,12 @@ Ligand binding to a GPCR first causes:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc19 collapse="true" title="Explanation"}
+The first receptor-level consequence of ligand binding is a conformational change. That enables the GPCR to interact with its G protein and promote activation. The ligand does not directly jump to phosphorylating ERK in this introductory sequence.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 20 — Monomeric GTPase {#w12-mc20}
 Which protein is the monomeric GTPase emphasized in the RTK pathway?
 
@@ -249,6 +365,12 @@ Which protein is the monomeric GTPase emphasized in the RTK pathway?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc20 collapse="true" title="Explanation"}
+Ras is the small monomeric GDP/GTP switch in this pathway. Grb2 is an adaptor, while MEK and ERK are protein kinases downstream. Classifying the proteins by function prevents confusing a GTPase with a kinase.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 21 — RTK definition {#w12-mc21}
@@ -263,6 +385,12 @@ A receptor tyrosine kinase is:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc21 collapse="true" title="Explanation"}
+The tyrosine kinase activity is a property of the receptor's cytosolic domain. It is not a requirement that the extracellular ligand itself be a tyrosine kinase. Reading the name this way connects the receptor's structure to its intracellular action.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 22 — RTK activation {#w12-mc22}
 RTKs are commonly activated by:
 
@@ -273,6 +401,12 @@ RTKs are commonly activated by:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc22 collapse="true" title="Explanation"}
+Ligand binding commonly brings receptor kinase domains into an activating relationship through dimerization or rearrangement. This prepares the receptors for cross-phosphorylation. ATP depletion or removal of all tyrosines would not reproduce that activating sequence.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 23 — Trans-autophosphorylation {#w12-mc23}
@@ -287,6 +421,12 @@ Trans-autophosphorylation means:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc23 collapse="true" title="Explanation"}
+Trans means the phosphorylation acts across the receptor pair: one kinase domain phosphorylates tyrosines on the other receptor. Autophosphorylation here still concerns the receptor molecules themselves. Ras is not the kinase performing this step.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 24 — Phosphotyrosine role {#w12-mc24}
 Phosphorylated tyrosines on an activated RTK primarily serve as:
 
@@ -297,6 +437,12 @@ Phosphorylated tyrosines on an activated RTK primarily serve as:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc24 collapse="true" title="Explanation"}
+Phosphorylated tyrosines provide binding sites that recruit intracellular signaling proteins. Their function is to assemble a relay complex at the activated receptor. They are not an ATP supply or electron-acceptor system.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 25 — Grb2 {#w12-mc25}
@@ -311,6 +457,12 @@ In the Ras–MAP pathway, Grb2 is:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc25 collapse="true" title="Explanation"}
+Grb2 connects activated receptor docking sites with other signaling components, including Sos in the course pathway. That is an adaptor role rather than GTP hydrolysis or MAP-kinase catalysis. The connection helps transmit receptor activation to Ras.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 26 — Sos {#w12-mc26}
 Sos functions as:
 
@@ -321,6 +473,12 @@ Sos functions as:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc26 collapse="true" title="Explanation"}
+Sos promotes the GDP-release/GTP-binding step on Ras, making it a GEF. A GAP would accelerate the opposite, hydrolytic transition toward OFF. The function—not simply association with Ras—is the reason for the classification.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 27 — Ras action {#w12-mc27}
@@ -335,6 +493,12 @@ Activated Ras directly activates Raf mainly by:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc27 collapse="true" title="Explanation"}
+Active Ras binds Raf and promotes its activation through the interaction described in the lecture. Ras is a GTPase, not a kinase that directly phosphorylates Raf. The subsequent Raf–MEK–ERK steps use kinase-mediated phosphorylation.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 28 — Raf {#w12-mc28}
 Raf is:
 
@@ -345,6 +509,12 @@ Raf is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc28 collapse="true" title="Explanation"}
+Raf sits two kinase steps upstream of ERK/MAP kinase, so it is MAP kinase kinase kinase. It phosphorylates MEK, which then phosphorylates ERK. The repeated kinase words describe this hierarchy rather than different names for Ras.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 29 — MEK {#w12-mc29}
@@ -359,6 +529,12 @@ Activated Raf phosphorylates:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc29 collapse="true" title="Explanation"}
+Trace the cascade one step downstream from Raf. Its kinase action phosphorylates MEK, which relays the signal onward to ERK. Ras and the extracellular ligand occupy different positions and roles in the pathway.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 30 — ERK {#w12-mc30}
 Activated MEK phosphorylates:
 
@@ -369,6 +545,12 @@ Activated MEK phosphorylates:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc30 collapse="true" title="Explanation"}
+MEK acts on ERK, the MAP kinase in this sequence. ERK can then phosphorylate downstream targets that change cell behavior. Grb2 and Sos participate upstream in assembling and activating the Ras connection, not as MEK's named target here.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 31 {#w12-mc31}
@@ -388,6 +570,12 @@ Grb2/Sos connects the receptor to Ras; Ras activates Raf by binding, followed by
 **Related objectives:** W12-14
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc31 collapse="true" title="Explanation"}
+Follow the connection types as well as the order: Grb2 recruits the Sos exchange step, Sos activates Ras and Ras binds Raf. Raf and MEK then carry out the successive phosphorylation steps leading to ERK. Omitting the adaptor/exchange connection leaves the receptor-to-Ras transition unexplained.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 32 {#w12-mc32}
 
 Which statement about a GEF is correct?
@@ -403,6 +591,12 @@ Which statement about a GEF is correct?
 Exchange is different from nucleotide phosphorylation. GAP, not GEF, accelerates the hydrolytic OFF transition.
 
 **Related objectives:** W12-12,W12-13
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc32 collapse="true" title="Explanation"}
+The key word is exchange. Sos helps GDP leave Ras so GTP can bind; it does not phosphorylate bound GDP to manufacture GTP. Distinguishing replacement from hydrolysis also prevents assigning GAP's function to a GEF.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 33 {#w12-mc33}
@@ -422,6 +616,12 @@ GAP stimulates the GTPase's hydrolytic step; GEF regulates the separate GDP-rele
 **Related objectives:** W12-12
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc33 collapse="true" title="Explanation"}
+Accelerated hydrolysis means less time spent in the GTP-bound active state. Ras therefore returns more rapidly toward GDP-OFF. This changes termination of the signal rather than directly creating more active Ras.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Question 34 {#w12-mc34}
 
 A seven-pass receptor and a three-subunit protein complex are shown next to Ras. Which distinction is correct?
@@ -437,6 +637,12 @@ A seven-pass receptor and a three-subunit protein complex are shown next to Ras.
 The shared GDP/GTP switch does not make the receptor, heterotrimeric G protein and monomeric Ras the same object.
 
 **Related objectives:** W12-05,W12-06,W12-07
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-mc34 collapse="true" title="Explanation"}
+Separate three objects: the seven-pass receptor, its associated heterotrimeric G protein and monomeric Ras. Sharing GDP/GTP switch logic does not make the latter two the same assembly or make the receptor itself the switch. The question tests organization as well as terminology.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Question 35 {#w12-mc35}
@@ -456,6 +662,12 @@ Here the phosphate is explicitly activating, so removal reduces activity. The wi
 **Related objectives:** W12-03,W12-04,W12-14
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-mc35 collapse="true" title="Explanation"}
+Here the prompt explicitly states that the phosphate activates MEK. Removing it therefore reduces MEK activity and its ability to phosphorylate ERK. This conditional result is consistent with, rather than a replacement for, the general rule that phosphorylation can activate or inhibit different proteins.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 # Part B — Every Learning Objective
 
 Answer each prompt before opening its model answer. The source sheet supplies the objective; the task underneath makes the required components explicit.
@@ -472,6 +684,12 @@ Endocrine signals travel in blood to distant targets. Paracrine signals travel s
 **Source:** Week 12 objectives, item 1; Lecture 12:3; Tutorial 7.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo01 collapse="true" title="Explanation"}
+Compare how the signal travels and how close sender and receiver must be. Blood transport, local diffusion, neuronal transmission and direct contact distinguish the four modes. The source note preserves the objective sheet's wording while explaining why these are called intercellular modes in the lecture.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-02 — Cell-surface receptor classes {#w12-lo02}
 
 **Original objective:** What are the three main classes of cell surface receptors
@@ -482,6 +700,12 @@ Name the three classes and distinguish them from the location of receptors for s
 The classes are **G-protein-coupled, enzyme-linked and ion-channel-linked receptors**. Most hydrophilic ligands cannot cross the plasma membrane and use surface receptors. Small hydrophobic ligands can cross the membrane and act on intracellular receptors; that is a different receptor location, not a fourth class of cell-surface receptor in the stated list.
 
 **Source:** Week 12 objectives, item 2; Lecture 12:5; Tutorial 7.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo02 collapse="true" title="Explanation"}
+Start with the three classes of receptors located at the cell surface. Then explain why small hydrophobic signals can instead use intracellular receptors. Receptor location and cell-surface receptor class are separate distinctions, so intracellular receptors are not a fourth member of the stated surface list.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-03 — Phosphorylation can activate or inhibit {#w12-lo03}
@@ -496,6 +720,12 @@ Adding phosphate changes charge and can change conformation, interactions or cat
 **Source:** Week 12 objectives, item 3; Lecture 12:9.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo03 collapse="true" title="Explanation"}
+A phosphate changes chemical properties and often protein shape or binding. Whether that change promotes or suppresses activity depends on the particular protein and site. A complete answer explains that conditional relationship instead of treating phosphorylation as a universal ON command.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-04 — Kinases and phosphatases {#w12-lo04}
 
 **Original objective:** Know the roles of a kinase and a phosphatase
@@ -506,6 +736,12 @@ State the opposing roles of the two enzyme classes and connect them to a reversi
 A protein kinase adds phosphate to a target protein, commonly using ATP as phosphate donor. A protein phosphatase removes phosphate. Together they allow reversible regulation. Whether adding or removing the phosphate activates the target depends on that specific protein; phosphatases are not inherently inactivating every target.
 
 **Source:** Week 12 objectives, item 4; Lecture 12:9.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo04 collapse="true" title="Explanation"}
+Kinases and phosphatases perform opposing chemical operations, making regulation reversible. The biological result still depends on what the phosphate does to the target. This prevents the mistaken extension that kinases always activate and phosphatases always inhibit.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-05 — Two GTP-switch classes {#w12-lo05}
@@ -520,6 +756,12 @@ The lecture compares **GPCR-associated heterotrimeric G proteins** and **monomer
 **Source:** Week 12 objectives, item 5; Lecture 12:10–12:12; Tutorial 7.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo05 collapse="true" title="Explanation"}
+The GDP/GTP switch in the GPCR arrangement belongs to an associated G-protein subunit, not the seven-pass receptor. Ras provides the other arrangement as a monomeric GTPase. Distinguishing the objects clarifies the lecture's shorthand without changing the scope of the comparison.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-06 — Shared GTP-switch logic {#w12-lo06}
 
 **Original objective:** Understand what these two classes share in common
@@ -530,6 +772,12 @@ Explain the common ON/OFF logic, nucleotide change and consequence for partner b
 The GTP-binding component is ON when GTP is bound and OFF when GDP is bound. The active conformation can interact with an effector; intrinsic GTP hydrolysis returns it to the GDP state. GDP–GTP exchange permits reactivation. Nucleotide state changes interactions, rather than converting the switch into a protein kinase.
 
 **Source:** Week 12 objectives, item 6; Lecture 12:10–12:11.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo06 collapse="true" title="Explanation"}
+Nucleotide binding changes the conformation that determines effector interaction. GTP supports ON, hydrolysis gives GDP-OFF and exchange enables reactivation. This common logic explains the comparison without incorrectly making either switch a protein kinase.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-07 — Differences between GTP-switch arrangements {#w12-lo07}
@@ -544,6 +792,12 @@ A seven-pass GPCR works with a three-subunit G-protein complex on the cytosolic 
 **Source:** Week 12 objectives, item 7; Lecture 12:11.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo07 collapse="true" title="Explanation"}
+Compare subunit organization and receptor association. The GPCR works with a three-subunit complex, whereas Ras is an individual small GTPase within the cascade. Their shared switching chemistry does not eliminate those structural differences.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-08 — GPCR and G-protein activation {#w12-lo08}
 
 **Original objective:** Understand how a GPCR is activated and how the G protein itself is activated
@@ -554,6 +808,12 @@ Describe the sequence from ligand binding to an active G protein and effector in
 Ligand binding changes GPCR conformation. The activated receptor interacts with the heterotrimeric G protein and promotes nucleotide exchange: GDP leaves and GTP binds the switching subunit. The activated G protein rearranges/dissociates and interacts with an effector. The receptor can activate additional G proteins until deactivated. The course does not require extending this overview into detailed downstream GPCR pathways.
 
 **Source:** Week 12 objectives, item 8; Lecture 12:12–12:13; Alberts Ch. 16.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo08 collapse="true" title="Explanation"}
+Trace the information across the membrane: ligand binding changes the receptor, the receptor promotes G-protein nucleotide exchange, and the active G protein can engage an effector. Each step prepares the next. Detailed downstream GPCR pathways are not needed to explain this introductory sequence.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-09 — RTK definition and structure {#w12-lo09}
@@ -568,6 +828,12 @@ An RTK is a receptor with intrinsic tyrosine kinase activity in its cytosolic do
 **Source:** Week 12 objectives, item 9; Lecture 12:14–12:15.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo09 collapse="true" title="Explanation"}
+Locate each function on the receptor: extracellular ligand detection, a membrane-spanning segment and cytosolic kinase activity. This arrangement connects an external signal to internal phosphorylation. It also shows why tyrosine kinase describes the receptor rather than the ligand.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-10 — RTK activation {#w12-lo10}
 
 **Original objective:** How is an RTK activated
@@ -578,6 +844,12 @@ Explain ligand-dependent dimerization/rearrangement and trans-autophosphorylatio
 Ligand binding generally promotes receptor dimerization or rearrangement, bringing the kinase domains into an activating relationship. One receptor monomer phosphorylates tyrosines on the other, and vice versa: **trans-autophosphorylation**. Distinguish this from claiming that Ras phosphorylates the receptors.
 
 **Source:** Week 12 objectives, item 10; Lecture 12:15–12:16.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo10 collapse="true" title="Explanation"}
+Dimerization or rearrangement brings the kinase domains into an appropriate relationship. Each receptor can then phosphorylate tyrosines on its partner, creating the trans-autophosphorylation pattern. The receptor pair performs this event before the downstream Ras relay.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-11 — Phosphotyrosine docking sites {#w12-lo11}
@@ -592,6 +864,12 @@ They create binding or docking sites for intracellular signaling proteins, assem
 **Source:** Week 12 objectives, item 11; Lecture 12:16, 12:20.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo11 collapse="true" title="Explanation"}
+The newly phosphorylated sites provide a place to assemble proteins that carry the message onward. Grb2 illustrates a recruited adaptor in the Ras pathway. Explaining recruitment gives the phosphotyrosines a functional role beyond simply marking that a receptor is active.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-12 — Complete GTPase ON/OFF cycle {#w12-lo12}
 
 **Original objective:** Understand the whole ON/OFF response of a GTPase
@@ -602,6 +880,12 @@ Trace Ras from GDP-OFF through exchange and effector interaction to GTP hydrolys
 Ras–GDP is OFF. A GEF promotes GDP release so GTP can bind, producing ON Ras–GTP. Active Ras associates with effectors. Ras hydrolyzes its bound GTP to GDP and returns OFF; GAP accelerates that hydrolysis. GEF does not phosphorylate GDP to make GTP, and GAP does not exchange GDP for GTP.
 
 **Source:** Week 12 objectives, item 12; Lecture 12:10, 12:17; Tutorial 7.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-lo12 collapse="true" title="Explanation"}
+Account for both activation and termination. GEF-assisted exchange creates Ras–GTP that can bind effectors; hydrolysis, accelerated by GAP, returns it to Ras–GDP. Exchange replaces a nucleotide, whereas hydrolysis changes the bound nucleotide, so the two regulators cannot be interchanged.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Objective W12-13 — GEF and Sos {#w12-lo13}
@@ -616,6 +900,12 @@ GEF means **guanine nucleotide exchange factor**. It promotes release of GDP so 
 **Source:** Week 12 objectives, item 13; Lecture 12:17, 12:20; Tutorial 7.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo13 collapse="true" title="Explanation"}
+Expanding the abbreviation explains the action: a guanine nucleotide exchange factor helps swap the bound nucleotide. Sos performs that function for Ras in this pathway and favors ON. It should not be confused with GAP's acceleration of the OFF-producing hydrolysis step.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Objective W12-14 — Full Ras–MAP pathway {#w12-lo14}
 
 **Original objective:** Be able to describe the Ras-MAP pathway beginning with an activated RTK to the phosphorylation and role of MAP kinase
@@ -628,6 +918,12 @@ Activated phosphorylated RTK recruits **Grb2**, which associates with **Sos**. S
 **Source:** Week 12 objectives, item 14; Lecture 12:20–12:22; Tutorial 7, PDF p. 15.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-lo14 collapse="true" title="Explanation"}
+Track different kinds of relay rather than treating every arrow as phosphorylation. Grb2 provides an adaptor connection, Sos promotes exchange and Ras activates Raf by binding. Raf then phosphorylates MEK, MEK phosphorylates ERK and ERK acts on downstream targets; the source notes explain the selected Grb2–Sos wording.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 # Part C — Integrated Practice
 
 ### Integrated Question 1 — Constitutively active Ras
@@ -637,11 +933,23 @@ A Ras mutant cannot efficiently hydrolyze GTP. Predict its signaling state.
 Ras would remain disproportionately in the GTP-bound ON state, producing persistent downstream signaling even after the upstream receptor signal should have ended.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-ix01 collapse="true" title="Explanation"}
+Termination normally depends on converting bound GTP to GDP. A mutant that cannot efficiently perform that step spends longer in the ON state, so downstream signaling persists. This prediction follows from the defective shutoff mechanism rather than a need for repeated receptor activation.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Integrated Question 2 — Loss of Sos
 What happens to Ras activation if Sos cannot bind the RTK-associated adaptor complex?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Ras activation falls because GDP release and replacement by GTP are impaired. The downstream Raf–MEK–ERK cascade is therefore reduced.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-ix02 collapse="true" title="Explanation"}
+Sos must be positioned to promote exchange on Ras. Losing its adaptor association impairs that activation step, leaving less Ras–GTP available to stimulate Raf. The reduction therefore propagates into the downstream kinase cascade.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Integrated Question 3 — Loss of GAP
@@ -651,11 +959,23 @@ What happens if Ras GAP activity is lost?
 Ras remains active longer because GTP hydrolysis is slower. Signaling through the MAP kinase pathway becomes prolonged.
 :::
 
+::: {.callout-note .question-explanation #explanation-w12-ix03 collapse="true" title="Explanation"}
+GAP accelerates an OFF-producing reaction. Removing GAP activity slows that termination and lets active Ras persist longer. It does not mean Ras loses its ability to bind GTP; the problem concerns the rate of hydrolysis.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
 ### Integrated Question 4 — Kinase inhibitor
 An inhibitor blocks Raf kinase activity but Ras remains GTP-bound. What happens to MEK and ERK activation?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 MEK is not efficiently phosphorylated by Raf, so ERK activation also falls. Active Ras alone cannot bypass the blocked Raf kinase step.
+:::
+
+::: {.callout-note .question-explanation #explanation-w12-ix04 collapse="true" title="Explanation"}
+An upstream ON signal cannot by itself replace a blocked downstream catalytic step. Even with active Ras, inhibited Raf cannot efficiently phosphorylate MEK, so ERK activation falls. Locate the interruption in the ordered cascade to make the prediction.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
 :::
 
 ### Integrated Question 5 — Phosphatase logic
@@ -664,3 +984,10 @@ Why can increasing a phosphatase terminate a phosphorylation-based signaling pat
 ::: {.callout-tip collapse="true" title="Answer"}
 A phosphatase removes activating phosphates from pathway proteins. If those proteins require phosphorylation for activity, dephosphorylation returns them toward an inactive state and interrupts signal propagation.
 :::
+
+::: {.callout-note .question-explanation #explanation-w12-ix05 collapse="true" title="Explanation"}
+The stated explanation applies to proteins whose phosphates are activating. Removing those phosphates returns such targets toward inactivity and interrupts propagation. Because phosphorylation can also be inhibitory elsewhere, phosphatases should not be described as universal OFF switches for every protein.
+
+**Review:** [Week 12 study guide](../study-guides/week12-cell-signaling-part1.qmd).
+:::
+
