@@ -9,6 +9,8 @@ toc-depth: 2
 
 [Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-9). The final integrated questions are additional practice, not substitutes for the objective questions.
 
+**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.
+
 # Part A — Multiple Choice
 
 ### Question 1 — Polysaccharides {#w09-mc01}
@@ -23,6 +25,12 @@ Which statement correctly distinguishes glycogen from amylopectin?
 **Correct answer: D.** Glycogen and amylopectin both contain α(1→4) chains and α(1→6) branches, but glycogen is more highly branched.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc01 collapse="true" title="Explanation"}
+Both polymers use glucose and have the same chain and branch linkage types. The distinguishing feature is how often branches occur: glycogen is more highly branched than amylopectin. A different monomer or a switch to beta linkages is not the explanation.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 2 — Amylose {#w09-mc02}
 Amylose is best described as:
 
@@ -33,6 +41,12 @@ Amylose is best described as:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc02 collapse="true" title="Explanation"}
+Amylose is the mainly linear member of the three storage polysaccharides compared in this week. Its glucose units form alpha(1→4) chains without the regular branch pattern of amylopectin or glycogen. This structural description separates it from a lipid or a fructose polymer.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 3 — Glycolysis location {#w09-mc03}
@@ -47,6 +61,12 @@ Glycolysis occurs primarily in the:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc03 collapse="true" title="Explanation"}
+Glycolysis happens before pyruvate enters mitochondria for the aerobic route. Its reactions therefore belong in the cytosol, not the matrix or intermembrane space. Those mitochondrial locations become important for PDH, the CAC and oxidative phosphorylation later.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 4 — Net glycolysis {#w09-mc04}
 One glucose molecule yields, net:
 
@@ -57,6 +77,12 @@ One glucose molecule yields, net:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc04 collapse="true" title="Explanation"}
+Count the two three-carbon products and keep gross ATP production separate from net gain. Four ATP are produced after two have been invested, leaving net two; two NADH and two pyruvates are also formed. Acetyl-CoA and the later CO2 output do not belong to glycolysis itself.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 5 — ATP investment {#w09-mc05}
@@ -71,6 +97,12 @@ How many ATP molecules are invested during early glycolysis per glucose?
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc05 collapse="true" title="Explanation"}
+The pathway uses ATP in the first phosphorylation and again when fructose-6-phosphate is phosphorylated. These two investments prepare the sugar for later breakdown. Four ATP are subsequently produced, but that production should not be confused with the initial expenditure.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 6 — Reaction 1 {#w09-mc06}
 The first glycolytic reaction converts glucose to:
 
@@ -81,6 +113,12 @@ The first glycolytic reaction converts glucose to:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc06 collapse="true" title="Explanation"}
+Reaction 1 adds phosphate to glucose rather than immediately rearranging or splitting it. The product is glucose-6-phosphate, which is retained in the cell for further metabolism. Fructose-6-phosphate appears only after the next isomerization step.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 7 — Liver glucokinase {#w09-mc07}
@@ -95,6 +133,12 @@ Why is liver glucose not necessarily phosphorylated immediately when blood gluco
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc07 collapse="true" title="Explanation"}
+In the lecture's liver model, low glucose favors sequestration of glucokinase by a nuclear regulatory protein. Less enzyme is then available in the cytosol to trap glucose by phosphorylation. The explanation is regulated enzyme availability, not a permanent absence of ATP or glucose transport.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 8 — Reaction 2 {#w09-mc08}
 Phosphoglucose isomerase catalyzes:
 
@@ -105,6 +149,12 @@ Phosphoglucose isomerase catalyzes:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc08 collapse="true" title="Explanation"}
+The enzyme name points to an isomerization: the sugar retains its phosphate but changes from glucose-6-phosphate to fructose-6-phosphate. This is reaction 2, between the two ATP-investing phosphorylations. It is not the ATP-producing conversion of PEP to pyruvate.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 9 — Why isomerize? {#w09-mc09}
@@ -119,6 +169,12 @@ The reaction-2 isomerization helps prepare the six-carbon sugar for:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc09 collapse="true" title="Explanation"}
+Moving the carbonyl prepares the six-carbon sugar for another phosphorylation and later cleavage. The strategic result is two phosphorylated three-carbon units that can enter the payoff phase. Reaction 2 is preparatory; it does not directly release CO2 or send glucose into the CAC.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 10 — Reaction 3 {#w09-mc10}
 Reaction 3 produces:
 
@@ -129,6 +185,12 @@ Reaction 3 produces:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc10 collapse="true" title="Explanation"}
+The second ATP-investing phosphorylation acts on fructose-6-phosphate. Adding the second phosphate gives fructose-1,6-bisphosphate, the six-carbon molecule prepared for cleavage. Pyruvate, lactate and acetyl-CoA belong to later steps or alternative fates.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 11 — Reactions 4–5 {#w09-mc11}
@@ -143,6 +205,12 @@ The key net result of reactions 4 and 5 is formation of:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc11 collapse="true" title="Explanation"}
+Cleavage first creates two three-carbon products, and the following rearrangement brings them into the form that proceeds through glycolysis. The combined outcome of reactions 4 and 5 is two glyceraldehyde-3-phosphate molecules. That is why the later reactions are counted twice per glucose.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 12 — Reaction 6 redox {#w09-mc12}
 In reaction 6, NAD+ is:
 
@@ -153,6 +221,12 @@ In reaction 6, NAD+ is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc12 collapse="true" title="Explanation"}
+NAD+ accepts reducing equivalents as glyceraldehyde-3-phosphate is oxidized. Electron gain is reduction, so NAD+ becomes reduced NADH. Saying that NAD+ is oxidized reverses the roles of donor and acceptor.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 13 — Reaction 6 substrate {#w09-mc13}
@@ -167,6 +241,12 @@ During reaction 6, glyceraldehyde-3-phosphate is:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc13 collapse="true" title="Explanation"}
+In reaction 6, glyceraldehyde-3-phosphate supplies the electrons accepted by NAD+. The substrate is therefore oxidized while the carrier is reduced. The carbon skeleton is not being released as CO2 in this glycolytic step.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 14 — High-energy intermediate {#w09-mc14}
 The high-transfer-potential product formed in reaction 6 is:
 
@@ -177,6 +257,12 @@ The high-transfer-potential product formed in reaction 6 is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc14 collapse="true" title="Explanation"}
+Reaction 6 captures energy in both NADH and the high-transfer-potential product 1,3-bisphosphoglycerate. This product can donate phosphate to ADP in the next reaction. Ordinary glucose-6-phosphate or lactate does not play that particular ATP-generating role here.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 15 — Substrate-level phosphorylation {#w09-mc15}
@@ -191,6 +277,12 @@ Substrate-level phosphorylation means:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc15 collapse="true" title="Explanation"}
+The defining feature is a direct phosphate transfer from a metabolic substrate to ADP. ATP synthase and oxygen are not the direct phosphate donors in this process. This distinction separates glycolytic ATP formation from oxidative phosphorylation.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 16 — Reaction 7 net ATP {#w09-mc16}
 After reaction 7 has occurred for both three-carbon intermediates, the net ATP yield so far is:
 
@@ -201,6 +293,12 @@ After reaction 7 has occurred for both three-carbon intermediates, the net ATP y
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.** Two ATP have now been generated, but two were invested earlier.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc16 collapse="true" title="Explanation"}
+By this point, reaction 7 has made one ATP from each of the two three-carbon intermediates. Those two ATP exactly repay the two invested earlier, so the net balance is zero. Zero net ATP does not mean the reaction has produced no ATP.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 17 — PEP {#w09-mc17}
@@ -215,6 +313,12 @@ Phosphoenolpyruvate is important because it:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc17 collapse="true" title="Explanation"}
+PEP has high phosphate-transfer potential and can transfer phosphate to ADP in the final glycolytic reaction. That role explains its importance to ATP production. It is neither the final electron acceptor nor the product of pyruvate dehydrogenase.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 18 — Final glycolysis ATP {#w09-mc18}
 How does glycolysis achieve a net gain of 2 ATP?
 
@@ -225,6 +329,12 @@ How does glycolysis achieve a net gain of 2 ATP?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc18 collapse="true" title="Explanation"}
+Use a balance sheet: two ATP come from reaction 7 and two from reaction 10. Subtract the two ATP spent in the investment phase from these four produced ATP. The result is the net gain of two ATP, not a gross production of only two.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 19 — Aerobic pyruvate {#w09-mc19}
@@ -239,6 +349,12 @@ Under aerobic conditions, pyruvate is transported into the:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc19 collapse="true" title="Explanation"}
+The aerobic route carries pyruvate from the cytosol into the mitochondrial matrix. PDH can then convert it to acetyl-CoA for the CAC. Moving it into the nucleus or Golgi would not place it at that metabolic step.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 20 — PDH products {#w09-mc20}
 Per pyruvate, the pyruvate dehydrogenase complex produces:
 
@@ -249,6 +365,12 @@ Per pyruvate, the pyruvate dehydrogenase complex produces:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc20 collapse="true" title="Explanation"}
+Track one three-carbon pyruvate: one carbon leaves as CO2 and the remaining two form the acetyl group carried by CoA. NAD+ is reduced to NADH during the oxidation. The per-pyruvate yield should not be doubled unless the question specifies one glucose.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 21 — PDH per glucose {#w09-mc21}
@@ -263,6 +385,12 @@ Per glucose, PDH generates:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc21 collapse="true" title="Explanation"}
+One glucose produces two pyruvates, and PDH acts once on each. Doubling the one-pyruvate yield gives two NADH and two CO2. The larger NADH and CO2 values in the other options mix in products of the CAC.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 22 — Acetyl-CoA {#w09-mc22}
 Which statement is correct?
 
@@ -273,6 +401,12 @@ Which statement is correct?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc22 collapse="true" title="Explanation"}
+Acetyl-CoA carries the two-carbon group that enters the CAC. It is formed after glycolysis through PDH in the carbohydrate route, but it can also arise from other fuels. The lecture treats PDH as irreversible, so direct conversion back to pyruvate is not the correct description.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 23 — CAC products {#w09-mc23}
@@ -287,6 +421,12 @@ One turn of the CAC produces:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc23 collapse="true" title="Explanation"}
+The question asks for one turn, meaning one acetyl-CoA entry. The cycle captures energy in three NADH, one FADH2 and one GTP while releasing two CO2. Doubling that set would answer a per-glucose question instead.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 24 — CAC turns per glucose {#w09-mc24}
 The CAC turns how many times per glucose?
 
@@ -297,6 +437,12 @@ The CAC turns how many times per glucose?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc24 collapse="true" title="Explanation"}
+A six-carbon glucose becomes two pyruvates, and PDH produces one acetyl-CoA from each. Those two acetyl groups therefore support two CAC turns. The number of turns follows the number of acetyl-CoA entries, not the six original carbon atoms.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 25 — Total NADH {#w09-mc25}
@@ -311,6 +457,12 @@ By the end of glycolysis, PDH, and two CAC turns, the lecture totals:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc25 collapse="true" title="Explanation"}
+Add NADH stage by stage: two from glycolysis, two from PDH and six from two CAC turns. The sum is ten. FADH2 must remain a separate carrier category rather than being added into the NADH count.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 26 — Total CO2 {#w09-mc26}
 By the end of PDH and the CAC, how many CO2 have been released per glucose?
 
@@ -321,6 +473,12 @@ By the end of PDH and the CAC, how many CO2 have been released per glucose?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc26 collapse="true" title="Explanation"}
+PDH releases two CO2 per glucose, and two CAC turns release four more. The total is six CO2 in the pathway's net accounting. Glycolysis itself does not supply an additional CO2 contribution.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 27 — Anaplerosis {#w09-mc27}
@@ -335,6 +493,12 @@ An anaplerotic reaction:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc27 collapse="true" title="Explanation"}
+A cycle can lose intermediates when cells withdraw them for biosynthesis. Anaplerotic reactions refill that intermediate pool so cycling can continue. They are not proton pumps or a direct conversion of NADH into ATP.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 28 — Lactate formation {#w09-mc28}
 In oxygen-limited muscle, pyruvate is converted to lactate mainly to:
 
@@ -345,6 +509,12 @@ In oxygen-limited muscle, pyruvate is converted to lactate mainly to:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc28 collapse="true" title="Explanation"}
+The limiting issue is continued availability of NAD+ for glycolysis. Reducing pyruvate to lactate oxidizes NADH back to NAD+, allowing the oxidation step to repeat. The lactate reaction does not directly add ATP to glycolysis's yield.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 29 — Anaerobic ATP {#w09-mc29}
@@ -359,6 +529,12 @@ In the absence of sufficient oxygen, glycolysis can still provide:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc29 collapse="true" title="Explanation"}
+Glycolysis can form ATP by substrate-level phosphorylation without directly consuming oxygen. When NAD+ is regenerated through lactate formation, the pathway can continue to supply its net two ATP per glucose. That is not the much larger yield associated with complete respiratory ATP production.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 30 — Cori cycle {#w09-mc30}
 In the Cori cycle, lactate produced by muscle is transported mainly to the:
 
@@ -369,6 +545,12 @@ In the Cori cycle, lactate produced by muscle is transported mainly to the:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc30 collapse="true" title="Explanation"}
+The Cori cycle links two organs through the blood. Muscle exports lactate, and the liver uses gluconeogenesis to return that carbon to glucose. The newly made glucose can then circulate back to muscle.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 31 {#w09-mc31}
@@ -388,6 +570,12 @@ Slides 9:15–9:17 distinguish displacement/replacement of NADH from its later r
 **Related objectives:** W09-10,W08-19
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc31 collapse="true" title="Explanation"}
+Distinguish carrier exchange at the enzyme from carrier recycling elsewhere. In the lecture's reaction-6 sequence, NADH leaves and fresh NAD+ takes its place; the departing NADH is not simply reoxidized in that same binding step. Continued turnover therefore depends on a replenished NAD+ pool.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 32 {#w09-mc32}
 
 Which list includes the three consequences emphasized for reaction 6?
@@ -403,6 +591,12 @@ Which list includes the three consequences emphasized for reaction 6?
 Reaction 6 makes NADH and 1,3-BPG; the next reaction makes ATP. Continuing this oxidation step anaerobically depends on regeneration of NAD+.
 
 **Related objectives:** W09-10
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc32 collapse="true" title="Explanation"}
+Reaction 6 links electron capture to preparation for ATP formation. It makes NADH and 1,3-BPG, while sustaining this redox step requires NAD+ regeneration during anaerobic continuation. Direct ATP formation belongs to reaction 7, as the source-note comparison explains.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 33 {#w09-mc33}
@@ -422,6 +616,12 @@ The lecture connects product removal with actual cellular ΔG; it does not claim
 **Related objectives:** W08-06,W08-08,W09-07
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc33 collapse="true" title="Explanation"}
+Reaction 3 consumes the fructose-6-phosphate made in reaction 2. Keeping this product low can make reaction 2 favorable under actual cellular conditions despite its isolated positive standard value. Product removal changes the operating conditions, not the enzyme's identity or the standard value.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Question 34 {#w09-mc34}
 
 PDH is supplied with the two pyruvates from one glucose. Which complete set of products belongs to PDH alone?
@@ -437,6 +637,12 @@ PDH is supplied with the two pyruvates from one glucose. Which complete set of p
 Each pyruvate gives one acetyl-CoA, one NADH and one CO2; the per-glucose count is twice that. Do not assign CAC or glycolytic products to PDH.
 
 **Related objectives:** W09-14,W09-15
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-mc34 collapse="true" title="Explanation"}
+Keep the boundary around PDH alone. Each of the two supplied pyruvates yields one acetyl-CoA, one NADH and one CO2, so the complete answer is twice that set. Glycolytic ATP or CAC FADH2 would be products from different stages.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Question 35 {#w09-mc35}
@@ -456,6 +662,12 @@ A cycle can still lose material through biosynthetic withdrawal. Replenishment m
 **Related objectives:** W09-18
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-mc35 collapse="true" title="Explanation"}
+Removing a CAC intermediate reduces the pool available for the cycle. An anaplerotic input replaces withdrawn material and helps preserve continued operation. The fact that a pathway is cyclic does not prevent its components from being diverted into biosynthesis.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 # Part B — Every Learning Objective
 
 Answer each prompt before opening its model answer. The source sheet supplies the objective; the task underneath makes the required components explicit.
@@ -472,6 +684,12 @@ All are glucose polymers. Amylose is a mainly linear component of plant starch. 
 **Source:** Week 9 objectives, item 1; Lecture 9:4.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo01 collapse="true" title="Explanation"}
+Compare a shared monomer before comparing organization. All three polymers use glucose, but amylose is mainly linear, amylopectin is branched plant starch and glycogen is more highly branched animal storage material. This avoids attributing their different structures to different sugars.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-02 — Glycosidic bonds {#w09-lo02}
 
 **Original objective:** What type of covalent bonds link glucose monomers
@@ -482,6 +700,12 @@ Name the covalent linkages in the chains and at branch points of the three polys
 The glucose units are linked by **glycosidic bonds**. Chains use α(1→4) linkages. Amylopectin and glycogen additionally have α(1→6) branch linkages. Amylose lacks those regular branch points.
 
 **Source:** Week 9 objectives, item 2; Lecture 9:4.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo02 collapse="true" title="Explanation"}
+Identify chain connections and branch connections separately. Alpha(1→4) linkages extend glucose chains, while alpha(1→6) linkages form the branches in amylopectin and glycogen. The bond names explain the structural distinctions rather than merely repeating that some polymers are branched.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-03 — Net glycolysis {#w09-lo03}
@@ -496,6 +720,12 @@ One glucose yields **2 pyruvate, 2 NADH and net 2 ATP**. Four ATP are made in th
 **Source:** Week 9 objectives, item 3; Lecture 9:6, 9:18–9:20; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo03 collapse="true" title="Explanation"}
+Use one glucose as the counting unit throughout. Cleavage creates two payoff substrates, giving two pyruvates and two NADH, while four produced ATP must be reduced by the two invested ATP. Calling four the net yield would overlook the investment phase.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-04 — Three glycolytic stages {#w09-lo04}
 
 **Original objective:** What three stages can glycolysis be broken into
@@ -506,6 +736,12 @@ Explain the three-stage organization rather than just naming stages.
 First, energy investment phosphorylates and rearranges glucose, trapping and preparing it for cleavage. Second, cleavage and rearrangement produce two glyceraldehyde-3-phosphate molecules. Third, the energy-payoff reactions oxidize those three-carbon molecules and produce NADH, ATP and pyruvate.
 
 **Source:** Week 9 objectives, item 4; Lecture 9:6–9:13.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo04 collapse="true" title="Explanation"}
+The stages form a functional sequence: prepare the sugar, split it and capture energy from the resulting pieces. The second stage explains why the third happens twice per glucose. Giving that connection is more informative than listing three stage names without their purpose.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-05 — Glycolysis reaction 1 {#w09-lo05}
@@ -520,6 +756,12 @@ Name the substrate, enzyme, product and phosphate donor in reaction 1; include t
 **Source:** Week 9 objectives, item 5; Lecture 9:8–9:9.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo05 collapse="true" title="Explanation"}
+Name the participants according to their roles: glucose receives phosphate, ATP donates it, and hexokinase catalyzes the transfer. The liver form is glucokinase. Product retention explains why this first chemical change also helps trap glucose inside the cell.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-06 — Liver glucokinase {#w09-lo06}
 
 **Original objective:** Be able to explain why glucose is not phosphorylated immediately in the liver and when it is phosphorylated
@@ -530,6 +772,12 @@ Explain the low-glucose and high-glucose situations using GLUT2, the nucleus, th
 In the lecture model, a regulatory protein sequesters glucokinase in the nucleus at low glucose, leaving little enzyme in the cytosol to phosphorylate incoming glucose. Free glucose can exchange through GLUT2. As glucose rises and equilibrates between cytosol and nucleus, the regulatory protein releases glucokinase. It enters the cytosol and phosphorylates excess glucose, retaining it as glucose-6-phosphate.
 
 **Source:** Week 9 objectives, item 6; Lecture 9:9.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo06 collapse="true" title="Explanation"}
+Follow enzyme location as glucose changes. In the lecture model, nuclear sequestration limits cytosolic phosphorylation at low glucose, whereas release at high glucose lets glucokinase trap more glucose as glucose-6-phosphate. GLUT2 handles free glucose exchange; it is not the enzyme that performs phosphorylation.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-07 — Reaction 2 isomerization {#w09-lo07}
@@ -544,6 +792,12 @@ Phosphoglucose isomerase converts glucose-6-phosphate to fructose-6-phosphate. M
 **Source:** Week 9 objectives, item 7; Lecture 9:11.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo07 collapse="true" title="Explanation"}
+The carbonyl rearrangement prepares the molecule for the next phosphorylation and the later split into two phosphorylated three-carbon units. This explains why the isomerization is useful even though it makes no ATP. Connect the structural change to its later role rather than treating reaction 2 as an isolated name.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-08 — Reaction 3 {#w09-lo08}
 
 **Original objective:** Know what took place in reaction 3
@@ -554,6 +808,12 @@ Describe substrate, product, ATP use and the strategic result of reaction 3.
 Fructose-6-phosphate receives a second phosphate using ATP, producing fructose-1,6-bisphosphate. The sequence is phosphorylation → isomerization → phosphorylation. Two ATP have now been invested and the six-carbon molecule is prepared for cleavage into phosphorylated three-carbon units.
 
 **Source:** Week 9 objectives, item 8; Lecture 9:12.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo08 collapse="true" title="Explanation"}
+Reaction 3 completes the phosphorylation–isomerization–phosphorylation preparation. ATP is consumed again to produce fructose-1,6-bisphosphate, so two ATP have been invested before cleavage. The later payoff must first recover that expenditure before there is a net gain.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-09 — Reactions 4 and 5 {#w09-lo09}
@@ -568,6 +828,12 @@ The course combines cleavage and rearrangement as conversion of one fructose-1,6
 **Source:** Week 9 objectives, item 9; Lecture 9:13.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo09 collapse="true" title="Explanation"}
+After reactions 4 and 5, both three-carbon units can proceed as glyceraldehyde-3-phosphate. The important accounting consequence is a factor of two for downstream reactions per original glucose. That factor must be applied to products of each payoff step.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-10 — Reaction 6 and NAD+ replacement {#w09-lo10}
 
 **Original objective:** What are the three important metabolic consequences for reaction 6
@@ -578,6 +844,12 @@ Give the three consequences emphasized on slide 9:14. Also explain what happens 
 Reaction 6 generates the first NADH; creates high-transfer-potential **1,3-bisphosphoglycerate**, setting up ATP synthesis in reaction 7; and provides the redox step whose continued operation during anaerobic glycolysis depends on replenishing NAD+. Glyceraldehyde-3-phosphate is oxidized as NAD+ is reduced. NADH is **displaced by another NAD+**, not reoxidized in that same active-site step; inorganic phosphate participates in completing 1,3-BPG. Lactate formation later regenerates the NAD+ pool. Slide 9:14 calls reaction 6 substrate-level phosphorylation, but slide 9:18 shows direct ATP formation in **reaction 7**; keep those two steps distinct.
 
 **Source:** Week 9 objectives, item 10; Lecture 9:14–9:17; Tutorial 6.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo10 collapse="true" title="Explanation"}
+Separate the enzyme-cycle events from the pathway-level consequences. Reaction 6 oxidizes the substrate, reduces NAD+ and prepares 1,3-BPG; fresh NAD+ replaces departing NADH so turnover can continue. Later NAD+ recycling sustains this step, while reaction 7 performs the direct phosphate transfer that makes ATP.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-11 — ATP balance after reaction 7 {#w09-lo11}
@@ -592,6 +864,12 @@ Two ATP were used in reactions 1 and 3. Reaction 7 occurs twice, transferring ph
 **Source:** Week 9 objectives, item 11; Lecture 9:18.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo11 collapse="true" title="Explanation"}
+The balance at reaction 7 is a repayment point rather than a zero-production point. Two ATP were invested and two have now been made, giving 2 − 2 = 0 net. Keeping separate columns for ATP spent and ATP formed prevents this common counting error.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-12 — Final net ATP {#w09-lo12}
 
 **Original objective:** How, in simple terms, does glycolysis end up with a Net synthesis of 2 ATP
@@ -602,6 +880,12 @@ Explain where the four produced ATP come from and why net yield is two.
 Reaction 7 produces two ATP per glucose. The two PEP molecules each donate phosphate to ADP in reaction 10, producing two more ATP. Thus **4 produced − 2 invested = 2 net ATP**. These are substrate-level phosphorylations, not ATP synthase reactions.
 
 **Source:** Week 9 objectives, item 12; Lecture 9:18–9:20.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo12 collapse="true" title="Explanation"}
+Two copies of each ATP-producing step run per glucose. Reaction 7 contributes two ATP and reaction 10 contributes two more, giving four produced in total. Only after subtracting the two-investment cost do you obtain the net two ATP.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-13 — Three pyruvate fates {#w09-lo13}
@@ -616,6 +900,12 @@ Pyruvate can be oxidized to acetyl-CoA for aerobic metabolism, reduced to lactat
 **Source:** Week 9 objectives, item 13; Lecture 9, pyruvate-fates figure; Alberts Ch. 13.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo13 collapse="true" title="Explanation"}
+The three fates are alternatives, not three successive steps that every pyruvate follows. The human comparison is mitochondrial oxidation versus reduction to lactate. Ethanol fermentation is the other-organism example, so it should not be assigned to exercising human muscle.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-14 — Aerobic pyruvate {#w09-lo14}
 
 **Original objective:** Under aerobic conditions what happens to pyruvate
@@ -626,6 +916,12 @@ State the destination, enzyme complex and next carbon-carrying product of aerobi
 Pyruvate is transported into the mitochondrial matrix. The pyruvate dehydrogenase complex converts it to acetyl-CoA while producing CO2 and NADH. Acetyl-CoA then supplies the acetyl group to the citric acid cycle.
 
 **Source:** Week 9 objectives, item 14; Lecture 9:21–9:22.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo14 collapse="true" title="Explanation"}
+Trace the compartment change and the connecting reaction together. Pyruvate leaves the cytosolic glycolytic pathway and enters the matrix, where PDH makes acetyl-CoA. The acetyl group then becomes the carbon input to the CAC.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-15 — PDH products and counting basis {#w09-lo15}
@@ -640,6 +936,12 @@ PDH performs oxidative decarboxylation, linking glycolysis to acetyl-CoA entry i
 **Source:** Week 9 objectives, item 15; Lecture 9:21–9:23.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo15 collapse="true" title="Explanation"}
+Start with the per-pyruvate reaction and then multiply every product by two for one glucose. Carbon loss as CO2, electron capture as NADH and acetyl-CoA production belong to the same PDH step. Do not add CAC products when describing PDH alone.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-16 — Acetyl-CoA in the CAC {#w09-lo16}
 
 **Original objective:** What is the role of acetyl-CoA in the CAC
@@ -650,6 +952,12 @@ Explain what acetyl-CoA brings into the cycle and what happens to the carrier.
 Acetyl-CoA supplies a two-carbon acetyl group through a high-transfer-potential thioester linkage. The acetyl group combines with the cycle's four-carbon acceptor to form citrate; CoA is released. The cycle regenerates its acceptor and captures energy chiefly in NADH and FADH2. Acetyl-CoA is the entry substrate, not a replacement for the entire pool of cycle intermediates.
 
 **Source:** Week 9 objectives, item 16; Lecture 9:23–9:25; Alberts Ch. 13.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo16 collapse="true" title="Explanation"}
+Acetyl-CoA delivers an acetyl group rather than the entire cycle. The group joins the four-carbon acceptor, CoA is released and the cycle proceeds toward regeneration of its acceptor. That distinction also explains why supplying acetyl-CoA does not substitute for replenishing withdrawn intermediates.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-17 — CAC and complete accounting {#w09-lo17}
@@ -664,6 +972,12 @@ Give one-turn CAC yield and then a stage-by-stage accounting of glycolysis, PDH 
 **Source:** Week 9 objectives, item 17; Lecture 9:25–9:26; Tutorial 6, PDF pp. 4–5.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo17 collapse="true" title="Explanation"}
+Build the total from separate stage rows and keep the counting basis explicit. Two CAC turns contribute six NADH, two FADH2, two GTP and four CO2; then add glycolysis and PDH. The four ATP equivalents here are two ATP plus two GTP, not ATP calculated from oxidative phosphorylation.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-18 — Anaplerotic reactions {#w09-lo18}
 
 **Original objective:** What is an anapleurotic reaction with respect to the CAC
@@ -674,6 +988,12 @@ Define anaplerotic reaction and explain why a cycle needs replenishment when int
 An anaplerotic reaction refills a CAC intermediate removed for biosynthesis, maintaining the pool needed for continued cycling. The lecture emphasizes that amino-acid carbon skeletons can feed into several CAC intermediates. “Anapleurotic” is the original sheet's spelling; “anaplerotic” is the term used here.
 
 **Source:** Week 9 objectives, item 18; Lecture 9, anaplerotic-reaction discussion.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-lo18 collapse="true" title="Explanation"}
+A closed-looking cycle diagram can hide withdrawals to biosynthesis. Once material leaves, continued cycling requires replenishment of its intermediate pool. That is the purpose of anaplerosis; the lecture's amino-acid carbon skeletons illustrate possible inputs.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Objective W09-19 — Lactate and NAD+ regeneration {#w09-lo19}
@@ -688,6 +1008,12 @@ In oxygen-limited muscle, respiratory reoxidation of NADH is inadequate. Lactate
 **Source:** Week 9 objectives, item 19; Lecture 9, anaerobic glycolysis; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo19 collapse="true" title="Explanation"}
+The redox bottleneck explains the lactate response. When respiratory NADH reoxidation is inadequate, pyruvate accepts its electrons and NAD+ is restored for glyceraldehyde-3-phosphate oxidation. Lactate formation enables continued glycolytic ATP production but does not itself increase the ATP yield per glucose.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Objective W09-20 — Cori cycle {#w09-lo20}
 
 **Original objective:** What is the Cori Cycle?
@@ -700,6 +1026,12 @@ Muscle produces lactate during anaerobic glycolysis. Lactate enters blood and is
 **Source:** Week 9 objectives, item 20; Lecture 9, Cori cycle; Tutorial 6, PDF p. 8.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-lo20 collapse="true" title="Explanation"}
+Trace carbon between tissues, not merely between two metabolites in one cell. Lactate travels from muscle to liver, the liver performs gluconeogenesis and glucose returns in blood. Including both transport legs explains why this is an inter-organ cycle.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 # Part C — Integrated Practice
 
 ### Integrated Question 1 — Carbon accounting
@@ -709,11 +1041,23 @@ Why does everything after glycolysis reaction 4 need to be counted twice per glu
 Because the six-carbon glucose has been split into two three-carbon molecules. Both molecules pass through the remaining payoff reactions.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-ix01 collapse="true" title="Explanation"}
+The factor of two begins with splitting a six-carbon sugar into two three-carbon units. Following the rearrangement, both continue through the payoff sequence. Counting only one would halve the downstream products per glucose.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Integrated Question 2 — Redox and ATP
 Why is reaction 6 important even though it does not directly make ATP?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 It captures electrons in NADH and creates 1,3-bisphosphoglycerate, whose high transfer potential drives ATP formation in reaction 7.
+:::
+
+::: {.callout-note .question-explanation #explanation-w09-ix02 collapse="true" title="Explanation"}
+A step can prepare an energy-capturing reaction without directly making ATP. Reaction 6 captures electrons in NADH and forms 1,3-BPG, which supplies the phosphate for reaction 7. Keeping preparation and direct ATP formation separate explains the significance of both steps.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
 :::
 
 ### Integrated Question 3 — Anaerobic logic
@@ -723,9 +1067,22 @@ If lactate dehydrogenase were blocked during intense oxygen-limited exercise, wh
 **NAD+** would become limiting. Without lactate formation, NADH could not be efficiently reoxidized to regenerate NAD+, causing glycolysis to stall at the glyceraldehyde-3-phosphate dehydrogenase step.
 :::
 
+::: {.callout-note .question-explanation #explanation-w09-ix03 collapse="true" title="Explanation"}
+Under the stated oxygen limitation, blocking lactate dehydrogenase removes the route used to recycle NADH to NAD+. The glycolytic oxidation step then lacks its electron acceptor. The predicted bottleneck is NAD+ availability, not a direct requirement that glycolysis consume oxygen.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+
 ### Integrated Question 4 — Pathway synthesis
 Trace one glucose molecule from glucose through the end of the CAC in one sentence.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Glucose is split by glycolysis into two pyruvates, each pyruvate is converted by PDH to acetyl-CoA, and the two acetyl-CoA molecules drive two CAC turns that release the remaining carbons as CO2 while producing NADH, FADH2, and GTP.
 :::
+
+::: {.callout-note .question-explanation #explanation-w09-ix04 collapse="true" title="Explanation"}
+Use the carbon-entry sequence as the backbone of the sentence: one glucose, two pyruvates, two acetyl-CoA entries and two CAC turns. Attach carrier and CO2 production to that sequence. The statement describes overall pathway accounting, not a requirement to follow individual labeled carbon atoms through one cycle turn.
+
+**Review:** [Week 9 study guide](../study-guides/week09-glycolysis-cac.qmd).
+:::
+

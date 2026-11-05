@@ -215,8 +215,12 @@ def validate_explanation_html(outdir: str):
         assert len(body_ids)==len(set(body_ids))==len(set(selectors)),(path,'Shared controls')
         assert [x['id'] for x in p.panels if x['type']=='Explanation']==['explanation-'+i for i in record['panel_ids']],path
         if 'exam-' in path:
-            narrative=' '.join(''.join(x['text']) for x in p.panels if x['type']=='Explanation')
-            assert len(re.findall(r'\([a-f]\)',narrative))==25,(path,'Missing subpart explanations')
+            expected_parts={'p1':'abcde','p2':'abcdef','p3':'abcd','p4':'abcdef','p5':'abcd'}
+            for suffix,letters in expected_parts.items():
+                panel=next(x for x in p.panels if x['type']=='Explanation' and x['id'].endswith('-'+suffix))
+                # A subpart label is a standalone text node, not an incidental reference.
+                labels=[t.strip() for t in panel['text'] if re.fullmatch(r'\([a-f]\)',t.strip())]
+                assert labels==['('+c+')' for c in letters],(path,suffix,'Missing or reordered subpart explanations')
         total+=record['explanations']
     assert total==405
     print('EXPLANATION HTML PASS: 405 paired explanations; 810 independently closed panels; 75 integrated subpart narratives; unique targets and IDs.')

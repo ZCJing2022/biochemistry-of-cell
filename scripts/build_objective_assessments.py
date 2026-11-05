@@ -9,6 +9,7 @@ import argparse, csv, io, json, random, re
 from collections import Counter
 from html.parser import HTMLParser
 from pathlib import Path
+from explanation_panels import strip_explanations, add_explanations, validate_explanation_html
 
 ROOT = Path(__file__).resolve().parents[1]
 SLUGS = {8:'bioenergetics-enzymes',9:'glycolysis-cac',10:'etc-oxidative-phosphorylation',11:'lipids-eicosanoids-drugs',12:'cell-signaling-part1'}
@@ -77,7 +78,7 @@ def rebalance_old(block,target,rng,number,w):
     return '\n'.join(lines)+'\n'
 
 def weekly(w,objectives,topups):
-    old=(ROOT/weekly_path(w)).read_text(encoding='utf-8')
+    old=strip_explanations((ROOT/weekly_path(w)).read_text(encoding='utf-8'))
     blocks=re.findall(r'(?ms)^### Question \d+[^\n]*\n.*?(?=^### (?:Question|Integrated)|^# |\Z)',old)
     mc=[b for b in blocks if len(re.findall(r'(?m)^- \*\*[ABCD]\.\*\* ',b))==4]
     assert len(mc) in ({35} if w==8 else {30,35}), (w,len(mc))
@@ -162,11 +163,11 @@ def check_html(outdir):
     data=json.loads((ROOT/'assessment/coverage-audit.json').read_text())
     for w in range(8,13):
         p=out/weekly_path(w).replace('.qmd','.html');a=AssetParser();a.feed(p.read_text())
-        assert a.collapsed==35+COUNTS[w]+EXTRAS[w],(p,a.collapsed)
+        assert a.collapsed==2*(35+COUNTS[w]+EXTRAS[w]),(p,a.collapsed)
         for n in range(1,COUNTS[w]+1):assert f'w{w:02d}-lo{n:02d}' in a.ids
     for form in (1,2,3):
         p=out/f'practice/practice-part2-exam-{form:02d}.html';a=AssetParser();a.feed(p.read_text())
-        assert a.collapsed==43,(p,a.collapsed)
+        assert a.collapsed==86,(p,a.collapsed)
         for row in data['objectives']:
             anchor=row[f'exam{form}'].split('|')[1];assert anchor in a.ids,(p,anchor)
     for w in range(8,13):
@@ -175,6 +176,7 @@ def check_html(outdir):
             if src.startswith(('http:','https:','data:')):continue
             assert not any(name in src for name in RETIRED),(p,src)
             assert (p.parent/src.split('?')[0]).resolve().exists(),(p,src)
+    validate_explanation_html(outdir)
     print('HTML PASS: weekly/objective/exam answers collapsed; all 78 exam links resolve; retained guide assets exist.')
 
 def outputs():
@@ -241,6 +243,7 @@ def outputs():
     path='VISUAL_STUDY_GUIDE_STANDARD_LOCKED.md';t=(ROOT/path).read_text();note='\n\n## Image-quality gate — objective-coverage revision\n\nDo not retain an original source image merely for provenance if its labels are unreadable at a useful display size. Use a verified sharp source extraction, or remove the low-resolution copy while retaining the explanatory diagram. Do not treat upscaling or a larger saved pixel count as recovered detail. Keep inline originals compact and provide enlargement links for retained vector detail.\n'
     if '## Image-quality gate — objective-coverage revision' not in t:t=t.rstrip()+note
     out[path]=t
+    out,explanation_audit=add_explanations(out)
     return out,audit
 
 def main():

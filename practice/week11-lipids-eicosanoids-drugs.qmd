@@ -9,6 +9,8 @@ toc-depth: 2
 
 [Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-11). The final integrated questions are additional practice, not substitutes for the objective questions.
 
+**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.
+
 # Part A — Multiple Choice
 
 ### Question 1 — White adipose tissue {#w11-mc01}
@@ -23,6 +25,12 @@ The principal characteristic emphasized for white adipose tissue is:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc01 collapse="true" title="Explanation"}
+The principal contrast is storage versus thermogenesis. White adipose tissue stores triacylglycerols and also has endocrine functions, whereas brown adipose tissue is specialized for heat production. Assigning all adipose tissue the same role would erase that distinction.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 2 — Brown adipose tissue {#w11-mc02}
 Brown adipose tissue is especially adapted for:
 
@@ -33,6 +41,12 @@ Brown adipose tissue is especially adapted for:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.** Brown adipocytes are rich in mitochondria containing uncoupling protein/thermogenin.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc02 collapse="true" title="Explanation"}
+Brown adipocytes contain many mitochondria equipped with thermogenin. Proton return through that protein releases more gradient energy as heat instead of capturing it in ATP. This explains why thermogenesis, rather than glycogen storage or DNA replication, is the defining function here.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 3 — Beige adipose tissue {#w11-mc03}
@@ -47,6 +61,12 @@ The lecture's defining feature of beige adipose tissue is:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc03 collapse="true" title="Explanation"}
+The distinguishing word is inducible: beige adipocytes can acquire a thermogenic role in response to stimulation. That differs from describing them simply as ordinary white-fat storage cells or as cells without mitochondria. The lecture's comparison concerns regulation of their heat-producing capacity.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 4 — Cis double bond {#w11-mc04}
 A cis double bond in a fatty-acid chain tends to:
 
@@ -57,6 +77,12 @@ A cis double bond in a fatty-acid chain tends to:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc04 collapse="true" title="Explanation"}
+A cis double bond bends the fatty-acid chain, making neighboring tails pack less tightly. The physical effect follows from chain shape rather than a loss of all hydrophobic character. This structural reasoning connects unsaturation with lipid properties.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 5 — Essential fatty acid {#w11-mc05}
@@ -71,6 +97,12 @@ A fatty acid is called essential when:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc05 collapse="true" title="Explanation"}
+Essential refers to a dietary requirement, not merely to a molecule being useful. The organism needs the fatty acid but cannot synthesize it adequately to meet that need. Its location in a cell or absence of double bonds is not what defines essentiality.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 6 — Essential fatty acids {#w11-mc06}
 Which pair is emphasized as essential in the lecture?
 
@@ -81,6 +113,12 @@ Which pair is emphasized as essential in the lecture?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc06 collapse="true" title="Explanation"}
+The course identifies linoleic acid and alpha-linolenic acid as the required dietary pair. The names are similar, so check that both appear rather than substituting a common saturated fatty acid. Their omega-6 and omega-3 classifications provide an additional distinction.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 7 — Omega numbering {#w11-mc07}
@@ -95,6 +133,12 @@ Omega numbering begins at the:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc07 collapse="true" title="Explanation"}
+Omega numbering deliberately starts at the terminal methyl end of the fatty acid. Counting from the carboxyl end uses the wrong reference point for this name. Always establish the counting direction before locating the first double bond.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 8 — Omega-3 {#w11-mc08}
 An omega-3 fatty acid has its first double bond:
 
@@ -105,6 +149,12 @@ An omega-3 fatty acid has its first double bond:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc08 collapse="true" title="Explanation"}
+The number three identifies the position of the first double bond when counted from the methyl end. More precisely, that bond is between carbons 3 and 4 from that end. It does not mean that the molecule has three double bonds in total.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 9 — Eicosanoid {#w11-mc09}
@@ -119,6 +169,12 @@ An eicosanoid is best described as:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc09 collapse="true" title="Explanation"}
+Eicosanoids are lipid-derived signals, not storage carbohydrates or proteins. Their 20-carbon framework and derivation from polyunsaturated fatty acids explain the description. Their biological importance lies in signaling functions such as inflammation and clotting.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 10 — Eicosanoid categories {#w11-mc10}
 Which is a subcategory of eicosanoids?
 
@@ -129,6 +185,12 @@ Which is a subcategory of eicosanoids?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc10 collapse="true" title="Explanation"}
+Prostaglandins, thromboxanes and leukotrienes all belong to the eicosanoid family discussed in the lecture. Therefore the inclusive choice is required rather than selecting only one valid example. Family membership does not mean that every member is made through the same COX branch.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 11 — Precursor {#w11-mc11}
@@ -143,6 +205,12 @@ The immediate fatty-acid precursor emphasized for the prostaglandin/TxA2 pathway
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc11 collapse="true" title="Explanation"}
+In the pathway examined here, arachidonic acid is the fatty acid supplied to PGH synthase. It precedes PGH2 and the final prostaglandin or thromboxane products. Cholesterol or acetyl-CoA may matter elsewhere in lipid biology but is not this immediate pathway substrate.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 12 — Arachidonic acid release {#w11-mc12}
 Arachidonic acid is released from membrane phospholipids by:
 
@@ -153,6 +221,12 @@ Arachidonic acid is released from membrane phospholipids by:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc12 collapse="true" title="Explanation"}
+The first step frees the precursor from a membrane phospholipid. Phospholipase A2 performs that release, making arachidonic acid available for the subsequent COX/PGHS step. Confusing these enzymes would skip the distinction between precursor release and conversion to PGH2.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 13 — PGHS product {#w11-mc13}
@@ -167,6 +241,12 @@ PGH synthase converts arachidonic acid into:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc13 collapse="true" title="Explanation"}
+PGHS is the enzyme and PGH2 is the unstable product formed in the course pathway. Cell-specific enzymes act afterward to make particular prostaglandins or TxA2. Similar names should not obscure this enzyme–product distinction.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 14 — Cell specificity {#w11-mc14}
 Why does one cell not necessarily make every eicosanoid shown in a pathway diagram?
 
@@ -177,6 +257,12 @@ Why does one cell not necessarily make every eicosanoid shown in a pathway diagr
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc14 collapse="true" title="Explanation"}
+Different cells can share an upstream intermediate yet express different downstream enzymes. Those enzymes determine which final eicosanoid is made. A pathway diagram with many branches is therefore not evidence that every branch operates in every cell.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 15 — PGHS isoforms {#w11-mc15}
@@ -191,6 +277,12 @@ The two major PGH synthase isoforms discussed are:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc15 collapse="true" title="Explanation"}
+COX-1 and COX-2 are the two PGH-synthase isoforms compared in this course. PLA2 acts earlier, and PGH2 is a product rather than an isoform. Classifying each name by its role helps eliminate these distractors.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 16 — COX-1 {#w11-mc16}
 COX-1 is generally described in the lecture as:
 
@@ -201,6 +293,12 @@ COX-1 is generally described in the lecture as:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc16 collapse="true" title="Explanation"}
+The course uses COX-1 as the broad constitutive, housekeeping contrast to inducible COX-2. Protective gastric prostaglandins illustrate why inhibiting COX-1 can have unwanted consequences. These are broad teaching distinctions, not a claim that the enzyme exists in only one tissue.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 17 — COX-2 {#w11-mc17}
@@ -215,6 +313,12 @@ COX-2 is generally:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc17 collapse="true" title="Explanation"}
+COX-2 is emphasized as an inducible contributor to inflammatory responses. This explains its connection with inflammatory pain, fever and swelling in the course. It is an enzyme isoform, not a phospholipid or a final signaling product.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 18 — NSAID mechanism {#w11-mc18}
 Common NSAIDs reduce prostaglandin production primarily by:
 
@@ -225,6 +329,12 @@ Common NSAIDs reduce prostaglandin production primarily by:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc18 collapse="true" title="Explanation"}
+Blocking arachidonic-acid access to the COX catalytic region reduces PGH2 formation and consequently downstream products of this branch. The drugs need not destroy the membrane precursor to achieve this. Stimulating precursor release or TxA2 production would run against the stated effect.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 19 — Aspirin {#w11-mc19}
@@ -239,6 +349,12 @@ Aspirin differs from several other common NSAIDs because it:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc19 collapse="true" title="Explanation"}
+Aspirin modifies the enzyme covalently rather than only occupying a site reversibly. Consequently an inhibited enzyme molecule does not recover simply when free aspirin disappears. That persistence is the distinction the question targets.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 20 — Reversible NSAID {#w11-mc20}
 Ibuprofen is contrasted with aspirin because ibuprofen binds COX:
 
@@ -249,6 +365,12 @@ Ibuprofen is contrasted with aspirin because ibuprofen binds COX:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc20 collapse="true" title="Explanation"}
+Ibuprofen is the reversible-binding comparison in the lecture. Once the noncovalent inhibitor dissociates, the enzyme can regain access to substrate. Aspirin's covalent modification does not behave in that same way.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 21 — Thromboxane {#w11-mc21}
@@ -263,6 +385,12 @@ Platelet TxA2 promotes:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc21 collapse="true" title="Explanation"}
+TxA2 is the platelet-derived signal linked to aggregation and vasoconstriction in this pathway. These responses contribute to clot formation. ATP synthesis, glucose uptake and DNA repair do not describe the signaling role being tested.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 22 — Low-dose aspirin {#w11-mc22}
 Why can low-dose aspirin have a prolonged antiplatelet effect?
 
@@ -273,6 +401,12 @@ Why can low-dose aspirin have a prolonged antiplatelet effect?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc22 collapse="true" title="Explanation"}
+The effect persists because the enzyme has been covalently modified and the course model emphasizes platelets' limited ability to replace it. Persistence does not require aspirin to remain permanently in plasma. Link the enzyme-level change to continuing reduction of platelet TxA2.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 23 — COX-2-selective inhibitor {#w11-mc23}
@@ -287,6 +421,12 @@ The intended advantage of a COX-2-selective inhibitor is to:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc23 collapse="true" title="Explanation"}
+The intended selectivity separates suppression of inflammatory COX-2 activity from preservation of more COX-1 housekeeping activity. It does not imply total elimination of all eicosanoids or freedom from risk. The question concerns the design rationale, not a treatment recommendation.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 24 — Acetaminophen {#w11-mc24}
 In this lecture, acetaminophen is distinguished from NSAIDs because it:
 
@@ -297,6 +437,12 @@ In this lecture, acetaminophen is distinguished from NSAIDs because it:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc24 collapse="true" title="Explanation"}
+Keep pain relief, fever reduction and suppression of local swelling separate. The lecture attributes the first two effects to acetaminophen but does not treat it as a typical peripheral COX inhibitor at the injury site. It leaves the detailed analgesic mechanism uncertain rather than requiring a definitive alternative explanation.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 25 — Bioavailability {#w11-mc25}
@@ -311,6 +457,12 @@ Bioavailability is used here to describe:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc25 collapse="true" title="Explanation"}
+This item explicitly uses the lecture's operational wording: drug present in circulation and available to reach its target. That makes circulating availability the correct concept. It should not be confused with receptor number, a toxic-dose endpoint or cellular ATP production.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 26 — Half-life {#w11-mc26}
 Drug half-life is the time required for:
 
@@ -321,6 +473,12 @@ Drug half-life is the time required for:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc26 collapse="true" title="Explanation"}
+A half-life describes a halving of concentration, not complete disappearance. Starting from a specified concentration, identify when it reaches one-half of that value. The definition concerns time, unlike therapeutic index, which is a dose ratio.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 27 — Drug oxidation {#w11-mc27}
@@ -335,6 +493,12 @@ Oxidation of a drug by cytochrome P450 often:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc27 collapse="true" title="Explanation"}
+The lecture presents Phase I oxidation as part of drug transformation that often facilitates further metabolism and excretion. The direction is toward processing the drug, not a guaranteed increase in half-life. The word often matters: the question does not establish one universal outcome for every compound.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 28 — Therapeutic index {#w11-mc28}
 A common therapeutic index is:
 
@@ -345,6 +509,12 @@ A common therapeutic index is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc28 collapse="true" title="Explanation"}
+Place the toxic median dose in the numerator and the effective median dose in the denominator. TI therefore measures their separation as TD50/ED50 under the stated test conditions. Reversing the fraction would reverse the intended interpretation of a larger value.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 29 — Safer margin {#w11-mc29}
@@ -359,6 +529,12 @@ If two drugs are equally effective, a therapeutic index of 1000 generally indica
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc29 collapse="true" title="Explanation"}
+A larger TI places the median toxic dose farther above the median effective dose, using comparable endpoints and units. That is a wider test-dose margin. It does not prove individual safety or reveal receptor affinity, drug half-life or antagonist status.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 30 — Agonist and antagonist {#w11-mc30}
 Which pairing is correct?
 
@@ -369,6 +545,12 @@ Which pairing is correct?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc30 collapse="true" title="Explanation"}
+Both classes can bind receptors; their effect after binding distinguishes them. An agonist activates the response, whereas an antagonist blocks or reduces agonist action without activating that response. Reversing the labels confuses occupancy with signaling.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 31 {#w11-mc31}
@@ -388,6 +570,12 @@ This uses the supplied lecture's operational definition, “the amount of drug i
 **Related objectives:** W11-14
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc31 collapse="true" title="Explanation"}
+Use the term in the sense specified by the course, then connect it to removal processes. Metabolism and excretion reduce the circulating amount available over time. This question does not ask you to substitute a different pharmacokinetic definition.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 32 {#w11-mc32}
 
 A hypothetical drug has TD50 = 900 units and ED50 = 30 units. What is its TI?
@@ -403,6 +591,12 @@ A hypothetical drug has TD50 = 900 units and ED50 = 30 units. What is its TI?
 TI = TD50/ED50 = 900/30 = 30, with matching dose units. It is a test-dose ratio, not a guarantee of individual safety.
 
 **Related objectives:** W11-15
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc32 collapse="true" title="Explanation"}
+Divide toxic dose by effective dose: 900/30 = 30. The matching dose units cancel, leaving a unitless ratio. This expresses separation between the supplied test doses, not a dosage instruction or a guarantee of safety.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 33 {#w11-mc33}
@@ -422,6 +616,12 @@ PGHS/COX is the enzyme; PGH2 is its product and TxA2 is a downstream product. Th
 **Related objectives:** W11-07,W11-10,W11-11
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc33 collapse="true" title="Explanation"}
+Sort the similar names by role before choosing: COX/PGHS is the enzyme, PGH2 is its product and TxA2 is a later signal. Aspirin covalently modifies the enzyme. Selecting a lipid product would misidentify the target of inhibition.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Question 34 {#w11-mc34}
 
 Two cell types both make PGH2 but different final products. What explains this in the four-stage pathway?
@@ -437,6 +637,12 @@ Two cell types both make PGH2 but different final products. What explains this i
 Stage 4 is cell-specific. A generic pathway diagram is not a statement that all branches occur in every cell.
 
 **Related objectives:** W11-05
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-mc34 collapse="true" title="Explanation"}
+Upstream PGH2 production does not by itself determine the final signal. Different downstream enzyme sets direct that shared intermediate toward different products. The fourth stage of the course pathway explains the difference between the two cell types.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Question 35 {#w11-mc35}
@@ -456,6 +662,12 @@ Receptor binding alone does not imply activation; antagonism blocks or reduces a
 **Related objectives:** W11-16
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-mc35 collapse="true" title="Explanation"}
+The observation separates binding from activation. This ligand occupies the receptor but prevents an activating ligand from generating its response, which fits antagonism. Binding alone is not sufficient evidence that a ligand is an agonist.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 # Part B — Every Learning Objective
 
 Answer each prompt before opening its model answer. The source sheet supplies the objective; the task underneath makes the required components explicit.
@@ -472,6 +684,12 @@ White adipose tissue mainly stores triacylglycerol and also has endocrine functi
 **Source:** Week 11 objectives, item 1; Lecture 11:2; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo01 collapse="true" title="Explanation"}
+Compare function and inducibility rather than just tissue color. White fat emphasizes storage and endocrine roles, brown fat uses UCP1-rich mitochondria for thermogenesis, and beige fat has inducible thermogenic capacity. Connecting UCP1 to proton return explains the heat-producing functions.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-02 — Essential fatty acids {#w11-lo02}
 
 **Original objective:** What are the essential fatty acids and why are they considered essential
@@ -482,6 +700,12 @@ Name both essential fatty acids and explain why dietary supply is necessary.
 **Linoleic acid** and **α-linolenic acid** are required for normal growth and life but cannot be synthesized by animals in the way needed to meet that requirement, so they must come from the diet. “Essential” refers to this dietary requirement, not merely to being useful. Linoleic acid is omega-6; α-linolenic acid is omega-3.
 
 **Source:** Week 11 objectives, item 2; Lecture 11:4.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo02 collapse="true" title="Explanation"}
+State the dietary requirement as well as the names. Linoleic acid and alpha-linolenic acid are essential because synthesis does not meet the requirement described in the course. Useful or abundant is not a sufficient definition of essential.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-03 — Omega numbering {#w11-lo03}
@@ -496,6 +720,12 @@ Count from the terminal methyl (omega) end, not from the carboxyl group. In omeg
 **Source:** Week 11 objectives, item 3; Lecture 11:4; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo03 collapse="true" title="Explanation"}
+Start at the methyl end and count to the first double bond. The omega label specifies that position, not the number of double bonds. Explicitly identifying the 3–4 or 6–7 bond makes the naming rule unambiguous.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-04 — Eicosanoids {#w11-lo04}
 
 **Original objective:** What are eicosanoids
@@ -506,6 +736,12 @@ Define eicosanoids, name the course categories and give functions represented in
 They are 20-carbon signaling molecules derived from oxidation of polyunsaturated fatty acids. The lecture names prostaglandins, thromboxanes, leukotrienes and lipoxins. Their functions include inflammation, pain, fever, clotting and gastric-mucosal regulation. The specific pathway examined in detail makes prostaglandins and TxA2; do not assume every eicosanoid follows the COX branch.
 
 **Source:** Week 11 objectives, item 4; Lecture 11:5.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo04 collapse="true" title="Explanation"}
+A complete answer connects chemical origin, family membership and biological roles. The course's detailed COX pathway is one branch within that family. Naming leukotrienes as eicosanoids does not imply that COX makes them through the prostaglandin/TxA2 sequence.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-05 — Four-stage eicosanoid synthesis {#w11-lo05}
@@ -520,6 +756,12 @@ Describe all FOUR stages and explain why one generic pathway diagram does not me
 **Source:** Week 11 objectives, item 5; Lecture 11:6–11:8; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo05 collapse="true" title="Explanation"}
+Follow precursor release, substrate use, intermediate production and cell-specific conversion in order. The final step explains how cells with a common precursor can produce different signals. Avoid treating every branch in the overview diagram as active in a single cell.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-06 — Arachidonic acid precursor {#w11-lo06}
 
 **Original objective:** What is the precursor molecule in the synthesis of the specific eicosanaoids (prostaglandins and TxA2) we looked at
@@ -530,6 +772,12 @@ Name the precursor and explain where it is stored before release.
 The precursor emphasized is **arachidonic acid**, commonly esterified in membrane phospholipids. In the injury response illustrated, phospholipase A2 releases it. It then becomes substrate for PGHS. Do not confuse arachidonic acid with PGH2, the later intermediate.
 
 **Source:** Week 11 objectives, item 6; Lecture 11:5–11:7.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo06 collapse="true" title="Explanation"}
+Arachidonic acid must first be freed from its membrane-phospholipid storage form. Once released, it can serve as substrate for PGHS. This locates the precursor before PGH2 and prevents mixing up a fatty acid with a later intermediate.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-07 — PGHS isoforms {#w11-lo07}
@@ -544,6 +792,12 @@ The PGHS isoforms are **COX-1 and COX-2**. PGHS is the enzyme; PGH2 is its produ
 **Source:** Week 11 objectives, item 7; Lecture 11:8–11:9.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo07 collapse="true" title="Explanation"}
+The final letter or number changes the meaning of these similar names. PGHS refers to the enzyme with COX-1 and COX-2 isoforms, while PGH2 names its product. That distinction becomes essential when identifying aspirin's target.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-08 — COX-1 versus COX-2 {#w11-lo08}
 
 **Original objective:** What are the fundamental characteristics of these two isoforms
@@ -554,6 +808,12 @@ Compare expression, broad function and an example consequence of inhibiting each
 COX-1 is generally constitutive in many tissues and supports housekeeping prostaglandin functions such as gastric protection. COX-2 is inducible in selected cells in inflammatory responses involving pain, fever and swelling. Inhibiting COX-2 can reduce those inflammatory effects; inhibiting COX-1 can also suppress useful housekeeping functions. These are the course's broad contrasts, not absolute statements that COX-2 has no other roles.
 
 **Source:** Week 11 objectives, item 8; Lecture 11:8–11:9.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo08 collapse="true" title="Explanation"}
+Connect expression patterns to consequences. Broad housekeeping COX-1 activity explains why its inhibition can remove protective functions; inducible COX-2 activity explains the intended inflammatory effect. Present the comparison at the lecture's broad level rather than converting it into an absolute rule about all tissues.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-09 — NSAID binding {#w11-lo09}
@@ -568,6 +828,12 @@ Common nonselective NSAIDs bind in or obstruct the COX substrate-access region o
 **Source:** Week 11 objectives, item 9; Lecture 11:12–11:15.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo09 collapse="true" title="Explanation"}
+In the nonselective case, both isoforms can be affected through impaired substrate access. Less PGH2 then means less material for downstream prostaglandin/TxA2 production. Keep COX-2-selective drugs separate from this question's nonselective category.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-10 — Covalent aspirin inhibition {#w11-lo10}
 
 **Original objective:** Know that aspirin binds covalently to the enzyme (PGHS) active site
@@ -578,6 +844,12 @@ State what aspirin does to PGHS and contrast its persistence with the other NSAI
 Aspirin covalently acetylates an active-site serine in COX/PGHS, blocking substrate access. The inhibited enzyme molecule does not recover merely because free drug dissociates. The lecture contrasts this with noncovalent, reversible binding by ibuprofen, indomethacin, flurbiprofen and naproxen. The target is an enzyme, not PGH2 itself.
 
 **Source:** Week 11 objectives, item 10; Lecture 11:13–11:14.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo10 collapse="true" title="Explanation"}
+Covalent modification changes the enzyme molecule itself, so removal of free aspirin does not simply undo inhibition. Reversible NSAIDs can dissociate, permitting enzyme activity to return. The contrast concerns the mechanism and persistence of binding, not merely whether both drugs can reduce pain.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-11 — Low-dose aspirin and platelets {#w11-lo11}
@@ -592,6 +864,12 @@ Platelet thromboxane synthase converts PGH2 to TxA2, which promotes vasoconstric
 **Source:** Week 11 objectives, item 11; Lecture 11:13–11:17; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo11 collapse="true" title="Explanation"}
+Link the events in order: inhibited platelet COX leads to less PGH2, less TxA2 and reduced aggregation signaling. The course's platelet-replacement limitation explains why this outlasts free aspirin. This is a mechanistic explanation, not evidence for recommending aspirin to a particular person.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-12 — Selective COX-2 inhibition {#w11-lo12}
 
 **Original objective:** Understand why a COX2 selective inhibitor is useful
@@ -602,6 +880,12 @@ Explain the structural rationale and intended functional advantage without descr
 The lecture describes a larger substrate-access channel in COX-2. An inhibitor can be designed to fit COX-2 while being too bulky for COX-1, reducing inflammatory prostaglandin production while sparing more COX-1 housekeeping activity. Selectivity does not eliminate all risks; the lecture itself discusses cardiovascular concerns. No clinical recommendation follows from the simplified comparison.
 
 **Source:** Week 11 objectives, item 12; Lecture 11:15–11:16.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo12 collapse="true" title="Explanation"}
+Use fit and selectivity to connect structure with function. A larger COX-2 access channel can accommodate an inhibitor that fits COX-1 less well, helping spare more housekeeping activity. The intended advantage does not remove the risks that the lecture also discusses.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-13 — Acetaminophen distinction {#w11-lo13}
@@ -616,6 +900,12 @@ In this course, acetaminophen is not classed as an NSAID because it does not inh
 **Source:** Week 11 objectives, item 13; Lecture 11:13, 11:18.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo13 collapse="true" title="Explanation"}
+The answer should not equate analgesia with suppression of peripheral inflammation. The lecture distinguishes acetaminophen's pain and fever effects from effective reduction of local swelling through typical NSAID action. Its detailed mechanism is left uncertain, so adding a confident unsupported mechanism would exceed the source.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-14 — Bioavailability and exposure {#w11-lo14}
 
 **Original objective:** What is bioavailablilty of a drug
@@ -626,6 +916,12 @@ Define bioavailability AS USED IN THE LECTURE and explain how metabolism, excret
 The lecture uses “bioavailability” for the amount of drug in circulation available to reach its target. Metabolism and excretion reduce that circulating amount over time. Half-life is the time for the concentration to fall to half its starting value. Phase I oxidation and Phase II conjugation are the course's examples of drug transformation. This preserves the lecture's operational wording rather than substituting a different pharmacokinetic definition.
 
 **Source:** Week 11 objectives, item 14; Lecture 11:19–11:21; Tutorial 7.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-lo14 collapse="true" title="Explanation"}
+Preserve the lecture's stated meaning of bioavailability, then explain the related processes rather than treating all terms as synonyms. Metabolism transforms the drug, excretion removes it, and half-life describes the time for concentration to halve. These together help interpret changing circulating exposure.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Objective W11-15 — Therapeutic index {#w11-lo15}
@@ -640,6 +936,12 @@ Use **TI = TD50/ED50**, or LD50/ED50 when lethality is the endpoint. Here **400/
 **Source:** Week 11 objectives, item 15; Lecture 11, PDF p. 23; Tutorial 7, PDF p. 4.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo15 collapse="true" title="Explanation"}
+Calculate 400/20 = 20 with toxic dose above effective dose and matching units that cancel. The result compares the supplied median dose endpoints. It cannot establish that every individual has the same response or convert the ratio into a safe personal dose.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Objective W11-16 — Agonist and antagonist {#w11-lo16}
 
 **Original objective:** What is an agonist and an antagonist
@@ -652,6 +954,12 @@ An agonist binds a receptor and elicits a response. An antagonist binds without 
 **Source:** Week 11 objectives, item 16; Lecture 11, agonist/antagonist slides; Tutorial 7.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-lo16 collapse="true" title="Explanation"}
+A receptor can be occupied without being activated. That is why the agonist–antagonist distinction depends on the signaling consequence of binding, not just the presence of binding. An antagonist reduces the effect of an activating ligand without eliciting that response itself.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 # Part C — Integrated Practice
 
 ### Integrated Question 1 — Platelet prediction
@@ -661,11 +969,23 @@ A platelet is exposed briefly to aspirin and then washed free of drug. Predict T
 TxA2 production remains strongly reduced because aspirin covalently inhibited the platelet COX enzyme, and the anucleate platelet cannot readily replace it by new transcription and protein synthesis.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-ix01 collapse="true" title="Explanation"}
+Washing removes unbound drug but does not reverse the covalent modification already made to platelet COX. The course model emphasizes that the platelet cannot readily replace the inhibited enzyme. Continued suppression of TxA2 therefore follows even after the brief exposure ends.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Integrated Question 2 — COX-2 inhibitor
 A drug is too bulky to fit the narrower COX-1 substrate channel but fits COX-2. What is the intended pharmacological consequence?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Preferential COX-2 inhibition should reduce inflammatory prostaglandin production while preserving more COX-1 housekeeping activity.
+:::
+
+::: {.callout-note .question-explanation #explanation-w11-ix02 collapse="true" title="Explanation"}
+The stated size difference gives the inhibitor a structural preference for COX-2. Preferential inhibition can suppress more inflammatory activity while leaving more COX-1 housekeeping activity intact. That intended selectivity is not a claim that the drug is risk-free.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
 :::
 
 ### Integrated Question 3 — TI calculation
@@ -675,9 +995,22 @@ Drug A has an ED50 of 5 mg and TD50 of 500 mg. Calculate its therapeutic index.
 $TI=500/5=100$.
 :::
 
+::: {.callout-note .question-explanation #explanation-w11-ix03 collapse="true" title="Explanation"}
+Use the supplied doses in the stated order: TD50/ED50 = 500 mg/5 mg. The result is 100 and the mg units cancel. Inverting the values would describe the reciprocal ratio rather than the therapeutic index requested.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+
 ### Integrated Question 4 — Metabolism and bioavailability
 A second drug strongly inhibits the cytochrome P450 enzyme that normally metabolizes Drug X. What may happen to Drug X bioavailability?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Drug X may remain in circulation longer and at higher concentration because its metabolic clearance is slowed. Its bioavailability and effective exposure may therefore increase.
 :::
+
+::: {.callout-note .question-explanation #explanation-w11-ix04 collapse="true" title="Explanation"}
+The question specifies inhibition of the enzyme that normally clears Drug X through metabolism. Slower metabolism can therefore prolong its presence in circulation and increase exposure in the lecture's operational sense. This prediction follows from the stated clearance pathway, not from assuming all drug interactions act identically.
+
+**Review:** [Week 11 study guide](../study-guides/week11-lipids-eicosanoids-drugs.qmd).
+:::
+

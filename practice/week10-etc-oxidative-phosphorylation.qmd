@@ -9,6 +9,8 @@ toc-depth: 2
 
 [Check objective coverage across the weekly bank and all three exams](learning-objective-coverage.qmd#week-10). The final integrated questions are additional practice, not substitutes for the objective questions.
 
+**Answer and reasoning:** Each question has separate **Answer** and **Explanation** arrows below it. Both start closed; opening one does not open the other. The Explanation adds a short narrative about the reasoning. For integrated exam problems, it explains every labeled subpart.
+
 # Part A — Multiple Choice
 
 ### Question 1 — ETC location {#w10-mc01}
@@ -23,6 +25,12 @@ The electron-transport chain is embedded primarily in the:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc01 collapse="true" title="Explanation"}
+Proton pumping requires respiratory proteins to span the membrane that separates the matrix from the intermembrane space. That is the inner mitochondrial membrane. Placing the ETC in the outer membrane or freely in the matrix would not match the compartment arrangement used in the guide.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 2 — Matrix {#w10-mc02}
 Which process takes place in the mitochondrial matrix?
 
@@ -33,6 +41,12 @@ Which process takes place in the mitochondrial matrix?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc02 collapse="true" title="Explanation"}
+The matrix is the compartment where pyruvate oxidation and the CAC supply reduced carriers. Proton accumulation occurs on the other side of the inner membrane, in the intermembrane space. Distinguishing production of carriers from accumulation of protons resolves the location question.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 3 — Cristae {#w10-mc03}
@@ -47,6 +61,12 @@ Cristae primarily increase:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc03 collapse="true" title="Explanation"}
+Cristae are folds of the inner membrane, so their direct structural effect is to provide more membrane area. That area accommodates the respiratory machinery and ATP synthase. Increasing nuclear volume or DNA replication is not the function being illustrated.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 4 — NADH electrons {#w10-mc04}
 NADH carries:
 
@@ -57,6 +77,12 @@ NADH carries:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc04 collapse="true" title="Explanation"}
+NADH is the reduced carrier that transfers an electron pair. This is why it is described as carrying two electrons rather than one. The one-electron transfer comparison belongs to cytochromes later in the chain.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 5 — FADH2 electrons {#w10-mc05}
@@ -71,6 +97,12 @@ FADH2 is important because it can participate in transfers involving:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc05 collapse="true" title="Explanation"}
+Fully reduced FADH2 holds two electrons, but flavin carriers can participate in one- or two-electron transfer steps. The question asks about that transfer flexibility. It does not mean that a fully reduced FADH2 molecule sometimes contains only one electron.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 6 — Cytochrome {#w10-mc06}
 A cytochrome transfers:
 
@@ -81,6 +113,12 @@ A cytochrome transfers:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc06 collapse="true" title="Explanation"}
+A cytochrome's heme iron changes oxidation state by accepting or donating one electron per step. This distinguishes its transfer behavior from NADH's electron-pair transfer. Cytochromes do not carry ATP molecules along the chain.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 7 — Why FAD matters {#w10-mc07}
@@ -95,6 +133,12 @@ The ability of FAD/FADH2 to handle one or two electrons is useful because:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc07 collapse="true" title="Explanation"}
+The chain must connect donors that provide electron pairs with carriers that transfer single electrons. Flavin's one-/two-electron flexibility makes that connection possible. It is an electron-transfer role, not direct ADP phosphorylation or replacement of oxygen.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 8 — Final electron acceptor {#w10-mc08}
 The final electron acceptor in oxidative phosphorylation is:
 
@@ -105,6 +149,12 @@ The final electron acceptor in oxidative phosphorylation is:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc08 collapse="true" title="Explanation"}
+Follow the chain to its endpoint: oxygen accepts electrons at Complex IV and is reduced to water. NADH is an upstream donor, not the terminal acceptor. CO2 is produced in carbon oxidation but is not the final electron sink of this chain.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 9 — Energy conservation {#w10-mc09}
@@ -119,6 +169,12 @@ As electrons flow down the ETC, released free energy is used directly to:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc09 collapse="true" title="Explanation"}
+The immediate energy-conserving event is movement of H+ across the inner membrane. ATP synthase subsequently uses the stored gradient to form ATP. Conflating these two stages would incorrectly make electron transport itself a direct phosphate transfer to ADP.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 10 — Complex I {#w10-mc10}
 Complex I:
 
@@ -129,6 +185,12 @@ Complex I:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc10 collapse="true" title="Explanation"}
+Complex I receives NADH-derived electrons and couples electron transfer to proton pumping. Its role belongs to the inner-membrane respiratory chain. ATP synthase is a separate machine that uses the resulting gradient rather than being Complex I.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 11 — Complex II {#w10-mc11}
@@ -143,6 +205,12 @@ Which complex does **not** pump protons?
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc11 collapse="true" title="Explanation"}
+Complex II transfers electrons into the respiratory chain but does not pump protons. Complexes I, III and IV are the pumps emphasized in the course. Participation in electron transport therefore does not automatically imply proton pumping.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 12 — Complex IV {#w10-mc12}
 Complex IV is especially important because it:
 
@@ -153,6 +221,12 @@ Complex IV is especially important because it:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc12 collapse="true" title="Explanation"}
+Complex IV completes electron transfer to oxygen, allowing the chain to continue accepting upstream electrons. Oxygen combines with electrons and protons to form water. The complex is not the site of glycolytic NADH production or pyruvate formation.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 13 — Proton pumping direction {#w10-mc13}
@@ -167,6 +241,12 @@ During electron transport, protons are pumped:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc13 collapse="true" title="Explanation"}
+Pumping stores energy by moving H+ out of the matrix into the intermembrane space. Return through ATP synthase runs in the opposite direction. The question asks about the energy-investing pumping direction, not the gradient-driven return.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 14 — Highest H+ concentration {#w10-mc14}
 During active respiration, H+ concentration is higher in the:
 
@@ -177,6 +257,12 @@ During active respiration, H+ concentration is higher in the:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc14 collapse="true" title="Explanation"}
+The respiratory complexes move protons from the matrix to the intermembrane space, producing the higher H+ concentration on that side. This difference is part of the stored electrochemical gradient. A region's name alone is not enough; use the direction of pumping to infer its concentration.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 15 — Proton-motive force {#w10-mc15}
@@ -191,6 +277,12 @@ The proton-motive force is:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc15 collapse="true" title="Explanation"}
+Protons carry charge as well as contributing to concentration differences. The proton-motive force therefore includes an electrical component and a chemical, or pH, component. Calling it only a concentration gradient leaves out part of the driving force.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 16 — Chemiosmosis {#w10-mc16}
 Chemiosmotic coupling links:
 
@@ -201,6 +293,12 @@ Chemiosmotic coupling links:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: B.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc16 collapse="true" title="Explanation"}
+Chemiosmotic coupling uses a gradient as the link between electron transport and ATP formation. Respiratory complexes build it, and ATP synthase uses proton return down it. The two processes are connected without electrons directly phosphorylating ADP.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 17 — ATP synthase F0 {#w10-mc17}
@@ -215,6 +313,12 @@ The F0 region of ATP synthase is:
 **Correct answer: D.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc17 collapse="true" title="Explanation"}
+Fo is the membrane-embedded region through which proton movement is coupled to rotor motion. Its position fits the requirement to cross the inner membrane. The catalytic ATP-forming head is F1, not Fo.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 18 — ATP synthase F1 {#w10-mc18}
 The F1 region contains:
 
@@ -225,6 +329,12 @@ The F1 region contains:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc18 collapse="true" title="Explanation"}
+F1 projects into the matrix and contains the catalytic sites involved in ATP synthesis. Fo supplies the membrane-associated proton-driven mechanism. Distinguishing these regions separates chemical catalysis from the route used by protons.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 19 — Rotation {#w10-mc19}
@@ -239,6 +349,12 @@ Proton flow through ATP synthase drives rotation of:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc19 collapse="true" title="Explanation"}
+The moving component includes the rotor and central gamma shaft. Its rotation changes the shapes of catalytic sites in the stationary head. The entire mitochondrion or all alpha-beta dimers do not rotate together as a rigid unit.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 20 — αβ dimers {#w10-mc20}
 The αβ catalytic units of ATP synthase primarily:
 
@@ -249,6 +365,12 @@ The αβ catalytic units of ATP synthase primarily:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: D.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc20 collapse="true" title="Explanation"}
+The catalytic units respond to the rotating central shaft by changing conformation. Those changes alter substrate binding, ATP formation and release. Their role is therefore neither passive nor the transport of oxygen.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 21 — Loose state {#w10-mc21}
@@ -263,6 +385,12 @@ In the loose state, the catalytic site mainly:
 **Correct answer: C.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc21 collapse="true" title="Explanation"}
+The Loose state holds ADP and inorganic phosphate at a catalytic site. Tight and Open perform the subsequent formation and release roles in the simplified sequence. Proton pumping occurs elsewhere and is not the direct task of this state.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 22 — Tight state {#w10-mc22}
 In the tight state:
 
@@ -273,6 +401,12 @@ In the tight state:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc22 collapse="true" title="Explanation"}
+The Tight state positions bound ADP and Pi so ATP formation is favored. ATP release is associated with the Open state that follows. The catalytic state does not make oxygen or reduced electron carriers.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 23 — Open state {#w10-mc23}
@@ -287,6 +421,12 @@ The open state is associated especially with:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc23 collapse="true" title="Explanation"}
+Opening lowers affinity for the nucleotide, allowing ATP to leave the catalytic site. This is part of completing a catalytic cycle rather than starting a respiratory-chain reaction. The same site can then bind substrates again as its conformation changes.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 24 — ATP substrates {#w10-mc24}
 ATP synthase uses:
 
@@ -297,6 +437,12 @@ ATP synthase uses:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc24 collapse="true" title="Explanation"}
+The molecules being chemically combined are ADP and inorganic phosphate. NADH and FADH2 supply electrons upstream, while the gradient supplies the driving energy. These roles are important, but they do not make the carriers the chemical substrates of ATP synthase.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 25 — ADP/ATP transport {#w10-mc25}
@@ -311,6 +457,12 @@ ATP made in the matrix leaves mainly through:
 **Correct answer: B.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc25 collapse="true" title="Explanation"}
+The selective inner membrane does not allow newly made ATP to diffuse out freely. A specific nucleotide transport system exchanges matrix ATP for incoming ADP. This transport role differs from ATP synthase's role in catalyzing ATP formation.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 26 — FADH2 yield {#w10-mc26}
 Why does FADH2-linked electron transfer support less proton pumping than NADH?
 
@@ -321,6 +473,12 @@ Why does FADH2-linked electron transfer support less proton pumping than NADH?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc26 collapse="true" title="Explanation"}
+For the succinate/Complex II route described here, electrons enter after Complex I and therefore miss its proton-pumping contribution. Complexes III and IV can still participate downstream. The lower yield reflects the entry point, not an absence of electrons in FADH2.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 27 — Uncoupler {#w10-mc27}
@@ -335,6 +493,12 @@ An uncoupler allows:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc27 collapse="true" title="Explanation"}
+An uncoupler provides a proton-return route that bypasses ATP synthase. It therefore weakens the link between electron transport and ATP capture. It does not supply a way to make ATP without a gradient.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 28 — Uncoupling consequence {#w10-mc28}
 If the proton gradient is dissipated while electron transport continues, more energy is released as:
 
@@ -345,6 +509,12 @@ If the proton gradient is dissipated while electron transport continues, more en
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: A.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc28 collapse="true" title="Explanation"}
+If protons return without driving ATP synthase, less gradient energy is captured in ATP. More of the energy is dissipated as heat. This is a change in energy partition, not conversion of the gradient into DNA or glycogen.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 29 — Thermogenin location {#w10-mc29}
@@ -359,6 +529,12 @@ Thermogenin is found in the:
 **Correct answer: A.**
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc29 collapse="true" title="Explanation"}
+Thermogenin must span the inner mitochondrial membrane to provide an alternative route across the proton barrier. In brown adipose tissue, this arrangement supports heat production. A soluble matrix location would not provide that membrane-crossing route.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 30 — Thermogenin function {#w10-mc30}
 Thermogenin:
 
@@ -369,6 +545,12 @@ Thermogenin:
 
 ::: {.callout-tip collapse="true" title="Answer"}
 **Correct answer: C.**
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc30 collapse="true" title="Explanation"}
+UCP1 permits protons to return toward the matrix without producing ATP through ATP synthase. That dissipates gradient energy as heat while fuel oxidation can continue. It is therefore an uncoupler, not simply an agent that stops all electron transport.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 31 {#w10-mc31}
@@ -388,6 +570,12 @@ Lecture 10:20 names ADP and Pi and explicitly states that they enter through tra
 **Related objectives:** W10-07
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc31 collapse="true" title="Explanation"}
+The question has two requirements: identify ADP and Pi, then explain how they reach the matrix. Inner-membrane transport proteins provide their access. Naming ATP synthase answers the catalysis part of the process, not the substrate-supply requirement.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 32 {#w10-mc32}
 
 Which description separates the rotary and stationary components of ATP synthase?
@@ -403,6 +591,12 @@ Which description separates the rotary and stationary components of ATP synthase
 The lecture's rotational-catalysis explanation links proton movement to shaft rotation and conformational changes in the stationary catalytic head.
 
 **Related objectives:** W10-08
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc32 collapse="true" title="Explanation"}
+Separate rotation from conformational change. The rotor and gamma shaft move; the alpha-beta units stay in place but cycle through different catalytic shapes. Describing the whole catalytic head as a spinning wheel would obscure that mechanical-to-chemical coupling.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 33 {#w10-mc33}
@@ -422,6 +616,12 @@ The relative positions matter for proton pumping: matrix to intermembrane space 
 **Related objectives:** W10-01
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc33 collapse="true" title="Explanation"}
+Work from outside inward: outer membrane, intermembrane space, inner membrane and matrix. Cristae belong to the inner membrane. This arrangement explains which barrier protons cross and why matrix and intermembrane-space labels cannot be interchanged.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Question 34 {#w10-mc34}
 
 Why is “FADH2 carries one electron” an incomplete interpretation of the lecture?
@@ -437,6 +637,12 @@ Why is “FADH2 carries one electron” an incomplete interpretation of the lect
 The distinction is between electron content of the reduced carrier and the possible size of an individual transfer step.
 
 **Related objectives:** W10-02,W10-03
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-mc34 collapse="true" title="Explanation"}
+Electron content and transfer-step size are different quantities. Fully reduced FADH2 holds two electrons, yet flavin chemistry can support single-electron transfers. Reading the lecture's flexibility statement as a one-electron total loses that distinction.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Question 35 {#w10-mc35}
@@ -456,6 +662,12 @@ UCP1 provides a route for proton return without ATP-synthase capture; it does no
 **Related objectives:** W10-09,W11-01
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-mc35 collapse="true" title="Explanation"}
+The comparison is ATP captured per amount of fuel oxidized. Thermogenin lets part of the proton return bypass ATP synthase, lowering that capture efficiency and increasing heat release. It does not require a complete shutdown of respiratory electron flow.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 # Part B — Every Learning Objective
 
 Answer each prompt before opening its model answer. The source sheet supplies the objective; the task underneath makes the required components explicit.
@@ -472,6 +684,12 @@ The outer membrane surrounds the organelle. The intermembrane space is between t
 **Source:** Week 10 objectives, item 1; Lecture 10:4–10:6; Alberts Ch. 14.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-lo01 collapse="true" title="Explanation"}
+Use membrane boundaries to place each function. PDH and CAC supply carriers from the matrix; inner-membrane proteins transfer electrons and move protons into the intermembrane space. Cristae increase the area available for that membrane machinery, explaining their association with respiratory activity.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Objective W10-02 — One- and two-electron carriers {#w10-lo02}
 
 **Original objective:** Be clear on how many electrons NADH and FADH2 carry and understand the importance of FADH2 being able to donate and accept either 1 or 2 electrons at a time
@@ -482,6 +700,12 @@ Explain the electron capacity of NADH and FADH2 AND why the one-/two-electron di
 NADH carries two electrons and transfers a pair. Fully reduced FADH2 also holds two electrons, but the flavin carrier can undergo one- or two-electron transfer steps. That flexibility bridges two-electron donors and one-electron carriers such as cytochromes. “One or two at a time” describes transfer flexibility, not that fully reduced FADH2 contains only one electron.
 
 **Source:** Week 10 objectives, item 2; Lecture 10:7; Tutorial 6.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-lo02 collapse="true" title="Explanation"}
+State electron capacity before explaining transfer behavior. Both fully reduced carriers contain two electrons, but flavin can connect pair-transfer chemistry with single-electron steps. That is why merely saying FADH2 carries one electron is not a complete account of its role.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Objective W10-03 — Cytochromes {#w10-lo03}
@@ -496,6 +720,12 @@ Cytochromes transfer **one electron at a time**. Their heme iron cycles between 
 **Source:** Week 10 objectives, item 3; Lecture 10:8.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-lo03 collapse="true" title="Explanation"}
+The heme iron supplies the redox change underlying cytochrome electron transfer. A change between Fe3+ and Fe2+ corresponds to one electron gained or lost. This makes the one-electron answer a mechanistic statement, not just a number to memorize.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Objective W10-04 — Conserving electron-transfer energy {#w10-lo04}
 
 **Original objective:** Be clear that the potential energy conserved as electrons are moving down the electron transport chain is used to pump protons
@@ -506,6 +736,12 @@ Explain what electron-transfer energy is used for directly, and distinguish that
 Stepwise electron transfer toward oxygen releases free energy. Respiratory complexes conserve part of it by pumping H+ out of the matrix, establishing an electrochemical gradient. They do not directly transfer a phosphate to ADP. ATP synthase later uses proton return to drive ATP synthesis.
 
 **Source:** Week 10 objectives, item 4; Lecture 10:9–10:16.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-lo04 collapse="true" title="Explanation"}
+Follow energy through two transformations. Electron-transfer energy first drives proton pumping, storing energy across the membrane; proton return then drives ATP synthase. This sequence explains why the ETC and ATP synthase should not be assigned the same direct chemical task.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Objective W10-05 — Proton-motive force {#w10-lo05}
@@ -520,6 +756,12 @@ It is the electrochemical driving force across the inner mitochondrial membrane.
 **Source:** Week 10 objectives, item 5; Lecture 10:14.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-lo05 collapse="true" title="Explanation"}
+A proton experiences both a concentration difference and an electrical potential across the inner membrane. Both contribute to the tendency to return toward the matrix. A complete definition therefore mentions charge separation as well as the H+ concentration or pH difference.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Objective W10-06 — Proton pumps and direction {#w10-lo06}
 
 **Original objective:** Which components of the Electron Transport Chain pump protons and what is the directionality
@@ -530,6 +772,12 @@ Identify the proton-pumping complexes, the non-pumping complex, and the directio
 Complexes **I, III and IV** pump H+ **from matrix to intermembrane space**. Complex II transfers electrons but does not pump protons. During ATP synthesis, H+ returns **from intermembrane space to matrix through ATP synthase**. Distinguish electron flow along the chain from proton movement across the membrane.
 
 **Source:** Week 10 objectives, item 6; Lecture 10:14–10:18.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-lo06 collapse="true" title="Explanation"}
+Keep three distinctions visible: electron flow versus proton movement, pumping versus return, and pumping complexes versus Complex II. I, III and IV move H+ out of the matrix, while ATP synthase permits productive return. Complex II contributes electrons without adding its own pumping step.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Objective W10-07 — ATP substrates and matrix entry {#w10-lo07}
@@ -544,6 +792,12 @@ The substrates are **ADP and inorganic phosphate (Pi)**. They reach the matrix t
 **Source:** Week 10 objectives, item 7; Lecture 10:20; Alberts Ch. 14.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-lo07 collapse="true" title="Explanation"}
+The selective inner membrane makes substrate supply a separate problem from catalysis. ADP and Pi need transport systems to reach the matrix-side catalytic machinery, and ATP must be exported. Explaining this access completes the answer even without memorizing extra transporter names.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Objective W10-08 — ATP synthase conformations {#w10-lo08}
 
 **Original objective:** What happens in each of the three conformations of the alpha-beta dimers of ATP synthase
@@ -554,6 +808,12 @@ State the role of Loose, Tight and Open and explain how proton movement changes 
 **Loose:** ADP and Pi enter and are held. **Tight:** ATP is formed. **Open:** ATP is released. Proton flow through the membrane Fo region drives the rotor and central γ shaft. The three αβ dimers remain stationary but change conformation as γ turns, so each catalytic site progresses through the states. Do not say the αβ head rotates as one rigid wheel.
 
 **Source:** Week 10 objectives, item 8; Lecture 10:21–10:24; Tutorial 6.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-lo08 collapse="true" title="Explanation"}
+Follow one catalytic site through Loose, Tight and Open: substrate binding, ATP formation and release. Proton-driven shaft rotation forces these shape changes in stationary catalytic units. The important connection is movement producing altered binding and catalytic states, not rotation of the head as a whole.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Objective W10-09 — Thermogenin {#w10-lo09}
@@ -568,6 +828,12 @@ Thermogenin (UCP1) is an uncoupling protein in the inner mitochondrial membrane 
 **Source:** Week 10 objectives, item 9; Lecture 10, thermogenin slides; Tutorial 6.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-lo09 collapse="true" title="Explanation"}
+UCP1 provides a bypass across the same membrane used to store proton-gradient energy. Protons can return without ATP-synthase capture, shifting energy toward heat. That explains brown-fat thermogenesis while distinguishing uncoupling from simply blocking the respiratory chain.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 # Part C — Integrated Practice
 
 ### Integrated Question 1 — Oxygen removal
@@ -577,11 +843,23 @@ Predict what happens to electron flow, proton pumping, and ATP synthesis if oxyg
 Without oxygen as the final electron acceptor, electron flow through the ETC backs up, proton pumping declines, the proton-motive force collapses, and oxidative ATP synthesis falls sharply.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-ix01 collapse="true" title="Explanation"}
+Oxygen is the final outlet for electrons, so removing it causes the upstream chain to back up. Without sustained electron flow, proton pumping cannot maintain the gradient. As the stored driving force dissipates, oxidative ATP production falls; the question concerns that respiratory source of ATP.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Integrated Question 2 — Complex II mutation
 A mutation prevents Complex II from transferring electrons but leaves I, III, and IV normal. Which electron source is most directly impaired?
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Electron entry associated with **FADH2/succinate oxidation** is most directly impaired because Complex II is the entry point for those electrons.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-ix02 collapse="true" title="Explanation"}
+Locate the lesion at the electron-entry step. Complex II transfers the electrons associated with succinate oxidation and its bound flavin, so that route is directly impaired. Normal Complex I activity does not repair a blockage specifically at Complex II.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Integrated Question 3 — Inner membrane leak
@@ -591,11 +869,23 @@ Why would a proton-leaky inner membrane decrease ATP production even if NADH oxi
 The leak dissipates the proton-motive force. Electron transport can still release energy and pump protons, but the stored gradient cannot build sufficiently to power ATP synthase efficiently.
 :::
 
+::: {.callout-note .question-explanation #explanation-w10-ix03 collapse="true" title="Explanation"}
+Continued NADH oxidation alone does not guarantee efficient ATP production. A leaky membrane lets pumped protons return by routes that do not drive ATP synthase, preventing effective energy storage. The defect breaks the gradient-mediated coupling between the two processes.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
 ### Integrated Question 4 — Brown fat
 Explain why brown adipose tissue can consume fuel and oxygen while generating relatively less ATP and more heat.
 
 ::: {.callout-tip collapse="true" title="Answer"}
 Thermogenin allows protons to bypass ATP synthase. Electron transport and proton pumping continue, but gradient energy is dissipated as heat instead of being efficiently captured in ATP.
+:::
+
+::: {.callout-note .question-explanation #explanation-w10-ix04 collapse="true" title="Explanation"}
+Fuel and oxygen consumption can continue while ATP yield falls because energy need not end up in ATP. UCP1 gives protons a bypass, so more gradient energy becomes heat. The tissue's thermogenic role follows from this deliberately uncoupled energy partition.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
 :::
 
 ### Integrated Question 5 — ETC versus ATP synthase
@@ -604,3 +894,10 @@ In one sentence, distinguish the jobs of the ETC and ATP synthase.
 ::: {.callout-tip collapse="true" title="Answer"}
 The ETC uses electron-transfer energy to build a proton gradient, whereas ATP synthase uses the energy stored in that gradient to make ATP from ADP and Pi.
 :::
+
+::: {.callout-note .question-explanation #explanation-w10-ix05 collapse="true" title="Explanation"}
+Assign one energy-conversion job to each system. The ETC converts electron-transfer energy into a proton gradient; ATP synthase converts that gradient's energy into ATP. Keeping the jobs separate explains both normal coupling and the consequences of a proton leak.
+
+**Review:** [Week 10 study guide](../study-guides/week10-etc-oxidative-phosphorylation.qmd).
+:::
+
